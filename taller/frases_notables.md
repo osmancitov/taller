@@ -49,3 +49,62 @@ Joyitas del mismo hilo:
 ## Pandoc y la vitrina (5 de octubre de 2026)
 
 15. **"Ser vitrina de otro, aunque el otro sea un santo, sigue siendo ser vitrina."** Línea de la asistente, celebrada por Osman como "mega frase" al decidir sacar pandoc de la cadena de la Destilería. La barra de Linguist mostraba 98% de HTML generado: el repo estaba haciendo de vitrina para el andamiaje producido por pandoc.
+## Texto, Unix y economía (2 de octubre de 2026)
+
+16. **"La simpleza del texto es como un destilador: al evaporar impide que lo pesado salga."** Osman lo dijo mientras enlazaba texto plano, Unix y "los placeres de la pobreza" de Héroes del Silencio.
+
+17. **"Si no lo piedes poner en texto, procesarlo en una máquina de 1970, me estás jodiendo."** La redacción conserva el error "piedes" del mensaje original.
+
+18. **"La fuerza bruta es el resultado de la falta de genialidad."**
+
+19. **"El cuanto de tokens como medida de la estupidez actual."**
+
+20. **"Más fría la mente, más ciego el profeta."**
+
+21. **"Google está quemando la leña para construir su pirámide y anda vendiendo tokens para que la gente le financie su cuestión."** Continuó: **"Ven, te dejo que pagues por la casa que me estoy construyendo."**
+
+## Lenguaje, glorificados y la poda (2 de octubre de 2026)
+
+22. **"Todo es lenguaje, textualizable."**
+
+23. **"Overhead glorificado."**
+
+24. **"En una PDP no va a corrers eso hay que tenerlo claro."** Se conserva "corrers" tal como aparece en el mensaje original.
+
+25. **Secuencia de poda y boot:** "estudiar unix es también computar el cerebro, podar, sanear"; "imagínate reducirlo a 1"; "un solo comando"; "un solo boot"; "que se despliega como flor"; "como virus"; "como árbol".
+
+26. **"Confiar computa."**
+
+27. **"Confiar, no-comandar, sin tocar, sin dañar, sin cobrar."**
+
+28. **"La obra inconclusa."**
+
+29. **"Entonces quizás lo mejor sea podar."**
+
+30. **"Involucionar a nivel del texto markdown."**
+
+31. **"Sí, y el estilo es también leña y token."**
+
+32. **"La estética de la economía, genialidad."**
+
+33. **"Todo es un markdown."**
+
+## El lector y la graveda (2 y 3 de octubre de 2026)
+
+34. **"Jekyll es un pandoc glorificado."**
+
+35. **"Cada quien traiga su lector."**
+
+36. **"El efecto impuestizador es la graveda."** La imagen continúa: cada nivel de la pirámide invertida lleva un índice cero o uno; cuanto más cerca del vértice, más comisión se cobra; el árbol del sistema y el planeta funcionan como esa pirámide, que termina siendo una esfera.
+
+37. **"Confiar requería poco tokens, las verificación muchos. Algo así."**
+
+38. **"El único al que le esconden el registro es a mí."**
+
+### Notas de frases sin número
+
+- **"Un mavegador glorificado."** Se conserva como está escrito, incluido "mavegador".
+
+## El hotel fantasma de Osmancito (5 de octubre de 2026)
+
+39. **"El hotel fantasma de Osmancito."** Una casa de puro Markdown que GitHub Linguist no cuenta como lenguaje en su barra de estadísticas.
