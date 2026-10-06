@@ -1,6 +1,6 @@
 # Trazar
 
-Protocolo 1 de 2. El siguiente es [Escalar](escalar.md).
+Protocolo 1 de 2. El siguiente es [Escalar](002_escalar.md).
 
 Trazar dibuja la geometría de un corpus literario: sus ejes, su relieve, su densidad, su redundancia y sus vetas. Se corre una sola vez por corpus. El mapa que sale es la entrada de Escalar.
 
@@ -70,4 +70,4 @@ El mapa, en markdown, con las cinco secciones. Empieza con una línea que diga e
 
 ## Después
 
-El mapa y el corpus pasan a [Escalar](escalar.md).
+El mapa y el corpus pasan a [Escalar](002_escalar.md).
