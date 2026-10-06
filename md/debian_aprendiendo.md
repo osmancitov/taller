@@ -75,7 +75,7 @@ La **refcard** es la tarjeta de referencia del Debian Documentation Project (DDP
 ![Diagrama de plegado de la tarjeta de referencia de Debian](img/2-refcard.png)
 
 Se puede ver la versión de Osmancito de la Refcard aquí:
-[Osmancito Refcard v.12](https://github.com/osmancitov/taller/blob/main/taller/debian-refcard-bookworm.md)
+[Osmancito Refcard v.12](https://github.com/osmancitov/taller/blob/main/md/debian-refcard-bookworm.md)
 
 ---
 

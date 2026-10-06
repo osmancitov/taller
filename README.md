@@ -8,10 +8,10 @@ Cuaderno de trabajo del proyecto Destilería Osmancito: aquí se estudia, se gua
 
 Cuadernos y protocolos que viven aquí:
 
-- [Trazar](taller/trazar.md) y [Escalar](taller/escalar.md)
-- [Frases notables](taller/frases_notables.md)
-- [Tarjeta de referencia de Debian](taller/debian-refcard-bookworm.md)
-- [Aprendiendo Debian](taller/debian_aprendiendo.md)
-- [Vetas](taller/vetas.md)
+- [Trazar](md/trazar.md) y [Escalar](md/escalar.md)
+- [Frases notables](md/frases_notables.md)
+- [Tarjeta de referencia de Debian](md/debian-refcard-bookworm.md)
+- [Aprendiendo Debian](md/debian_aprendiendo.md)
+- [Vetas](md/vetas.md)
 
 El Taller también vive en el [sitio de la Destilería](https://osmancitov.github.io/taller.md). La [puerta principal](https://osmancitov.github.io/) reúne sus salas.
