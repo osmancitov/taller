@@ -7,11 +7,11 @@ Cuaderno de trabajo del proyecto Destilería Osmancito: aquí se estudia, se gua
 
 Cuadernos y protocolos que viven aquí:
 
-- [Trazar](md/001_trazar.md) y [Escalar](md/002_escalar.md)
-- [Cuatro criterios para mapear un corpus](md/003_criterios_para_mapear_un_corpus.md)
-- [Medir el significado: peso, sustancia y hueso](md/004_medir_significado_documento_semilla.md)
-- [Frases notables](md/005_frases_notables.md)
-- [Tarjeta de referencia de Debian](md/006_debian-refcard-bookworm.md)
-- [Aprendiendo Debian](md/007_debian_aprendiendo.md)
-- [Confiar en la confianza · Ken Thompson](md/008_thompson_confiar_en_la_confianza.md)
-- [Vetas](md/009_vetas.md)
+- [Trazar](md/005_trazar.md) y [Escalar](md/006_escalar.md)
+- [Cuatro criterios para mapear un corpus](md/008_criterios_para_mapear_un_corpus.md)
+- [Medir el significado: peso, sustancia y hueso](md/009_medir_significado_documento_semilla.md)
+- [Frases notables](md/004_frases_notables.md)
+- [Tarjeta de referencia de Debian](md/003_debian-refcard-bookworm.md)
+- [Aprendiendo Debian](md/001_debian_aprendiendo.md)
+- [Confiar en la confianza · Ken Thompson](md/007_thompson_confiar_en_la_confianza.md)
+- [Vetas](md/002_vetas.md)
