@@ -18,7 +18,7 @@ La cadena CPL → BCPL → B → C ha servido aquí como analogía de reducción
 
 El instrumento emergente, llamado `trajes_lat` por trazar-ejes-espacio-latente, ensayó otro camino: dejar que los ejes aparezcan al medir los pasajes, en vez de imponer una lista de instrumentos. La imagen es una radiografía: encontrar los huesos bajo el traje de carne. El humano bautiza los ejes. Un algoritmo que agrupa pasajes no demuestra por ello qué significan sus grupos.
 
-Los [cuatro criterios para mapear un corpus](criterios_para_mapear_un_corpus.md) reúnen lo que se tiene: rareza interna, eco del autor, similitud vectorial y enlaces estructurales. Allí están su estado y sus límites. Este documento no los sustituye ni los repite enteros; les pide un paso más.
+Los [cuatro criterios para mapear un corpus](003_criterios_para_mapear_un_corpus.md) reúnen lo que se tiene: rareza interna, eco del autor, similitud vectorial y enlaces estructurales. Allí están su estado y sus límites. Este documento no los sustituye ni los repite enteros; les pide un paso más.
 
 ## Regla del mundo cerrado
 
@@ -73,7 +73,7 @@ La coincidencia de mapas diferentes señala un candidato a hueso. No lo certific
 
 ## La cascada: qué hay publicado y qué falta fijar
 
-[Trazar](trazar.md) levanta el mapa del corpus. [Escalar](escalar.md) toma una copa de un quinto del resto vigente, conserva su procedencia y devuelve el resto. La imagen que guía la investigación es acercarse a una semilla mediante escalones separados: un quinto, luego otro nivel de reducción, hasta que no pueda decirse algo sin destruirlo.
+[Trazar](001_trazar.md) levanta el mapa del corpus. [Escalar](002_escalar.md) toma una copa de un quinto del resto vigente, conserva su procedencia y devuelve el resto. La imagen que guía la investigación es acercarse a una semilla mediante escalones separados: un quinto, luego otro nivel de reducción, hasta que no pueda decirse algo sin destruirlo.
 
 Hay una ambigüedad que no debe pasar al experimento. El encabezado de Escalar anuncia `1/5, 1/25, 1/125...`, pero su paso 4 define el siguiente resto como el texto anterior menos lo tomado. Extraer un quinto de ese resto no equivale a comprimir la copa anterior a un quinto. Este cuaderno no corrige el protocolo por su cuenta.
 
@@ -136,8 +136,8 @@ El tesoro no es que una máquina diga dónde está el hueso. Es poder señalar q
 
 ## Fuentes y estado
 
-- [Cuatro criterios para mapear un corpus](criterios_para_mapear_un_corpus.md): registro de criterios y límites, 5 de octubre de 2026. Su "siguiente paso" describe el estado anterior al boot 2.0.
-- [Trazar](trazar.md) y [Escalar](escalar.md): protocolos vigentes del Taller; la ambigüedad de la cascada queda señalada arriba.
+- [Cuatro criterios para mapear un corpus](003_criterios_para_mapear_un_corpus.md): registro de criterios y límites, 5 de octubre de 2026. Su "siguiente paso" describe el estado anterior al boot 2.0.
+- [Trazar](001_trazar.md) y [Escalar](002_escalar.md): protocolos vigentes del Taller; la ambigüedad de la cascada queda señalada arriba.
 - [Destilería Osmancito](https://github.com/osmancitov/destileria): proyecto y protocolos de destilación.
 - Bitácora de trabajo del 4 y 5 de octubre de 2026: duelo de mapas, regla endógena y boot de unigrama. Las entropías y los conteos limpios del boot 2.0 proceden de la salida ejecutada en Debiancito; hapax y relieve, de la lectura del informe de esa corrida. Son resultados informados, no una nueva reproducción realizada para este cuaderno.
 - Hipótesis de la semilla, ecuación perdida e instrumento emergente: antecedentes de trabajo de la Destilería. Se usan como punto de partida, no como conclusiones demostradas.
