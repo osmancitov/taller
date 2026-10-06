@@ -1,4 +1,4 @@
-# Demi-glace
+# La técnica del demi-glace
 
 En cocina, reducir es quitar agua para concentrar un fondo. El demi-glace clásico se prepara con fondo oscuro y salsa española, reducidos a fuego lento. Mucho trabajo previo queda reunido en poco volumen.
 
