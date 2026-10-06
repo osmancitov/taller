@@ -59,6 +59,6 @@ Traducción de una frase del cierre del original. La confianza tiene aquí dos c
 
 - [Reflections on Trusting Trust, ensayo original en inglés](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf). Ken Thompson, *Communications of the ACM*, 27(8), agosto de 1984, pp. 761-763.
 - [Ficha de la publicación en ACM](https://dl.acm.org/doi/10.1145/358198.358210).
-- [Aprendiendo Debian](debian_aprendiendo.md): el cuaderno de estudio al que esta lectura acompaña.
+- [Aprendiendo Debian](007_debian_aprendiendo.md): el cuaderno de estudio al que esta lectura acompaña.
 
 Las notas al margen y las traducciones breves de este cuaderno son comentarios de lectura; no forman parte de la destilación anterior ni sustituyen el ensayo completo.
