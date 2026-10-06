@@ -10,54 +10,18 @@ Este cuaderno aplica la imagen a un texto. Un destilado no es un resumen, es el 
 
 ## Producción: de una olla a una cascada
 
-*6 de octubre de 2026 · Macbeth, 18,057 palabras (sin la lista de personajes), `gemini-3.5-flash-lite` en capa gratuita, llamado con `curl` desde Debian.*
+*6 de octubre de 2026 · la obra de teatro Macbeth, unas 18,000 palabras.*
 
-Se quiso llevar una obra completa a la mitad, sin tocar una palabra de lo que queda. Esto es lo que funcionó, en orden.
+La idea era sencilla: tomar la obra entera y quedarnos con la mitad, sin cambiar ni una palabra de lo que se queda. Solo quitar. Como en la cocina, sacar el agua y dejar el sabor.
 
-### La instrucción lleva presupuesto
+Se le pidió a la máquina la mitad. Pidió poco y cortó menos: devolvió el 80% del texto. Era una máquina tímida, que siempre se quedaba corta.
 
-Una sola llamada con la obra entera a la vista, y una instrucción con cifras contadas por el script antes de llamar: palabras totales, la mitad pedida y una tabla con el presupuesto de cada acto y de cada escena. Además, cuatro bloques fijos:
+Entonces, en vez de pedirle más fuerte, se le dio a procesar lo que ya había devuelto, y se le pidió lo mismo, con la misma calma. Tras la segunda vuelta quedó el 58%. Tras la tercera, el 43%: ya por debajo de la mitad. Las dos siguientes casi no quitaron nada. Una dejó el 38.6% y la otra el 38.5%. La olla ya no tenía agua que soltar, y la máquina, sin que nadie se lo dijera, se detuvo en el 38%.
 
-- **No es un resumen:** es un caldo que se reduce.
-- **Agua:** repeticiones, rodeos, acotaciones de trámite.
-- **Sabor:** líneas citables, imágenes fuertes, datos que la trama necesita después.
-- **Reglas:** texto palabra por palabra y en el mismo orden, cada etiqueta de personaje con su texto, encabezados intactos.
+Antes de llegar ahí se probaron varias formas de pedirlo, una detrás de otra. La séptima fue la que ganó. Esa séptima es la que repite el pedido con calma, vuelta tras vuelta, y deja que el propio texto diga cuándo parar. Una de las variantes cortó de golpe hasta el 27% y dejó el cuarto acto casi vacío. La que fue poco a poco repartió el recorte parejo: cada acto conservó entre el 35% y el 44%.
 
-Es la receta de `pliegue4.sh`.
-
-### El compresor se queda corto
-
-Se pidió la mitad y esa instrucción dejó 80.0% del texto: un compresor imperfecto que siempre se queda corto. En vez de endurecer la orden, se repitió igual. Cada pasada recibe la salida de la anterior, con la misma instrucción y las cifras recalculadas sobre lo que entra (`pliegue7.sh`, cinco pasadas):
-
-| Pasada | Palabras | % del original | Lo que dejó de lo recibido |
-|---|---|---|---|
-| 0 | 18,057 | 100.0% | |
-| 1 | 14,460 | 80.0% | 80.0% |
-| 2 | | 58.3% | 72.9% |
-| 3 | | 42.8% | 73.4% |
-| 4 | | 38.6% | 90.2% |
-| 5 | 6,961 | 38.5% | 99.7% |
-
-La curva se aplana sola. En la pasada 5 el motor ya no encuentra agua y devuelve casi lo que recibió. Ese es el punto de la receta: cuando una pasada deja más de 90% de lo que recibió, se apaga el fuego. Nadie fijó el 38.5%; lo encontró el motor repitiendo la misma instrucción hasta que no hubo más agua.
-
-### El termostato es una línea
-
-La instrucción incluye un rango aceptable para el total. Esa línea es lo que acota el recorte: una variante sin ella (`pliegue8.sh`) llegó a 26.9% y dejó el Acto IV en 14%. La línea se queda.
-
-### Lo que quedó en el caldo
-
-Se alinearon las reducciones contra el original, palabra por palabra.
-
-- **Textual:** 99.8% de las palabras de la cascada aparecen en el original en el mismo orden. En la salida de la corrida, 1,078 de 1,136 líneas son idénticas a una línea del original y 7 no coinciden con ninguna.
-- **Con sabor:** de 57 citas famosas de la obra, la cascada conserva 49 (86%) con un texto que es 38.5% del original. Siguen en pie "Fair is foul, and foul is fair", "Is this a dagger which I see before me", "Out, damned spot!", "Tomorrow, and tomorrow, and tomorrow" y "Lay on, Macduff". Un recorte al azar a ese tamaño dejaría cerca de 38%.
-- **Parejo:** por acto conserva entre 35% y 44%. Un salto único a 27% dejó el Acto IV en 14%.
-
-### Moraleja
-
-Un compresor imperfecto, aplicado en serie y con un termostato, llega donde ninguna instrucción sola llega. Pedir la mitad una vez dio 80%. Pedirla cinco veces, cada una sobre la salida anterior, dio 38.5% y se detuvo sin ayuda en lo que el motor considera sabor.
+Hubo una cata, como se hace con un caldo. Se buscaron 57 frases famosas de la obra y se miró cuántas seguían ahí. En la versión ganadora quedaron 49, el 86%, con apenas un poco más de un tercio del texto. Entre ellas, "Fair is foul, and foul is fair" y "Tomorrow, and tomorrow, and tomorrow". Y todo lo que quedó es palabra por palabra de la obra original, en el mismo orden: nada inventado, nada cambiado.
 
 ### El caldo en su punto
 
-La olla llegó a su punto. La obra quedó en poco más de un tercio de sus palabras, y lo que quedó sigue siendo suyo: las mismas frases, en el mismo orden, con casi todo lo que alguien querría recordar. No hubo que forzar nada. Bastó pedir lo mismo con calma, una vez y otra, y esperar a que el agua terminara de irse.
-
-Queda un fondo oscuro y concentrado, con el sabor entero. Se puede servir.
+De la cocina lenta a la séptima versión, y otra vez el mundo en su sitio. Quien corta de menos y repite con paciencia llega más lejos que quien corta de golpe. La olla llegó a su punto: un fondo oscuro y concentrado, con el sabor entero. Se puede servir.
