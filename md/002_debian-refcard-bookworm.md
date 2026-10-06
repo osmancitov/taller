@@ -1,4 +1,4 @@
-# Debian v12 Refcard
+# La chuleta de Debian
 
 *Las 101 cosas más importantes para el uso de Debian.*
 
