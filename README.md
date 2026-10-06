@@ -1,4 +1,4 @@
-![El Taller](img/taller_social.jpg)
+![El Taller](img/taller.jpg)
 
 [Lobby](https://github.com/osmancitov/osmancitov.github.io/blob/main/README.md) · [Destilería](https://github.com/osmancitov/destileria/blob/main/README.md) · **Taller** · [Journal](https://github.com/osmancitov/journal/blob/main/README.md)
 
