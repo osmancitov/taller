@@ -11,6 +11,6 @@ Aquí se estudia y se prueba. Los cuadernos guardan preguntas, notas, frases y h
 - [La técnica del demi-glace](md/006_demi_glace.md)
 - [La medida del significado](md/005_medir_significado_documento_semilla.md)
 - [Los criterios del corpus](md/004_criterios_para_mapear_un_corpus.md)
-- [La confianza de la confianza · Ken Thompson](md/003_thompson_confiar_en_la_confianza.md)
+- [La confianza de la confianza](md/003_thompson_confiar_en_la_confianza.md)
 - [La chuleta de Debian](md/002_debian-refcard-bookworm.md)
 - [El aprendizaje de Debian](md/001_debian_aprendiendo.md)
