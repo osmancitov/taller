@@ -113,3 +113,9 @@ Nacen de una charla entre restaurante y terminal: en la cocina se comanda, en el
 ## Una máquina de romper espejismos (6 de octubre de 2026)
 
 40. **"Una máquina de romper espejismos."** Dicho al describir la utilidad práctica de medir significado en la Destilería: tras notar que aún falta hallar significado, propuso una aplicación concreta de las medidas.
+
+## Cortesía y tiempo recuperado (6 de octubre de 2026)
+
+41. **"Tenga la bondad de ser liviano."** Letrero de cortesía para la casa, después de señalar que una página pesada roba tiempo y atención.
+
+42. **"Reconquistar el tiempo perdido, el tiempo robado, por un ladrón letrado."** Propuesta para la misión de la Destilería, con un guiño a Proust: el "ladrón letrado" es el autor verboso cuyo texto largo consume tiempo.
