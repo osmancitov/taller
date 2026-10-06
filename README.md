@@ -8,6 +8,7 @@ Aquí se estudia y se prueba. Los cuadernos guardan preguntas, notas, frases y h
 
 ## Cuadernos
 
+- [Demi-glace](md/010_demi_glace.md)
 - [Medir el significado: peso, sustancia y hueso](md/009_medir_significado_documento_semilla.md)
 - [Cuatro criterios para mapear un corpus](md/008_criterios_para_mapear_un_corpus.md)
 - [Confiar en la confianza · Ken Thompson](md/007_thompson_confiar_en_la_confianza.md)
