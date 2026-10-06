@@ -1,4 +1,4 @@
-# Confiar en la confianza
+# La confianza de la confianza
 
 *Ken Thompson · Reflections on Trusting Trust · 1984*  
 *Versión destilada en castellano · Destilería Osmancito*
