@@ -13,5 +13,3 @@ Cuadernos y protocolos que viven aquí:
 - [Tarjeta de referencia de Debian](md/debian-refcard-bookworm.md)
 - [Aprendiendo Debian](md/debian_aprendiendo.md)
 - [Vetas](md/vetas.md)
-
-El Taller también vive en el [sitio de la Destilería](https://osmancitov.github.io/taller.md). La [puerta principal](https://osmancitov.github.io/) reúne sus salas.
