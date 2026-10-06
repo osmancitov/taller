@@ -11,4 +11,5 @@ Cuadernos y protocolos que viven aquí:
 - [Frases notables](md/frases_notables.md)
 - [Tarjeta de referencia de Debian](md/debian-refcard-bookworm.md)
 - [Aprendiendo Debian](md/debian_aprendiendo.md)
+- [Confiar en la confianza · Ken Thompson](md/thompson_confiar_en_la_confianza.md)
 - [Vetas](md/vetas.md)
