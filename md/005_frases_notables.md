@@ -1,6 +1,6 @@
 # Frases notables
 
-Frases que llaman la atención por sí solas y que quizá lleguen a ser ejes, vectores unitarios o algo más que todavía no sabemos. Se guardan con su contexto y su fecha; la lista crece de a poco. No es lo mismo que las [Vetas](https://osmancitov.github.io/destileria/taller/vetas.md): las vetas son los temas donde pescar, estas son los peces.
+Frases que llaman la atención por sí solas y que quizá lleguen a ser ejes, vectores unitarios o algo más que todavía no sabemos. Se guardan con su contexto y su fecha; la lista crece de a poco. No es lo mismo que las [Vetas](009_vetas.md): las vetas son los temas donde pescar, estas son los peces.
 
 ## El hotel fantasma de Osmancito (5 de octubre de 2026)
 
