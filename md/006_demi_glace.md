@@ -56,12 +56,8 @@ Se alinearon las reducciones contra el original, palabra por palabra.
 
 Un compresor imperfecto, aplicado en serie y con un termostato, llega donde ninguna instrucción sola llega. Pedir la mitad una vez dio 80%. Pedirla cinco veces, cada una sobre la salida anterior, dio 38.5% y se detuvo sin ayuda en lo que el motor considera sabor.
 
-### Para repetirlo
+### El caldo en su punto
 
-Hace falta un corpus en markdown con una marca regular de sección, una llave en `./.gemini_key` con permiso `600`, y `curl`, `jq` y `awk`:
+La olla llegó a su punto. La obra quedó en poco más de un tercio de sus palabras, y lo que quedó sigue siendo suyo: las mismas frases, en el mismo orden, con casi todo lo que alguien querría recordar. No hubo que forzar nada. Bastó pedir lo mismo con calma, una vez y otra, y esperar a que el agua terminara de irse.
 
-```
-PASADAS=5 ./pliegue7.sh macbeth.md
-```
-
-El script guarda cada pasada en su carpeta, imprime la curva tras cada una y termina con la prueba de textualidad contra el original. Los scripts, los resultados y los informes viven en la carpeta `laboratorio` del Drive.
+Queda un fondo oscuro y concentrado, con el sabor entero. Se puede servir.
