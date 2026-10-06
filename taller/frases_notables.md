@@ -2,39 +2,69 @@
 
 Frases que llaman la atención por sí solas y que quizá lleguen a ser ejes, vectores unitarios o algo más que todavía no sabemos. Se guardan con su contexto y su fecha; la lista crece de a poco. No es lo mismo que las [Vetas](https://osmancitov.github.io/destileria/taller/vetas.md): las vetas son los temas donde pescar, estas son los peces.
 
-## Origen (26 al 30 de septiembre de 2026)
+## El hotel fantasma de Osmancito (5 de octubre de 2026)
 
-1. **"Mi corazón sentado golpea contra mis costillas."** Macbeth, acto 1, escena 3, de Shakespeare. El corazón que no se queda quieto ni sentado.
+39. **"El hotel fantasma de Osmancito."** Una casa de puro Markdown que GitHub Linguist no cuenta como lenguaje en su barra de estadísticas.
 
-2. **"Que el vapor nos sepa a gloria."** Sale de la destilación de Eclesiastés 11,9 a 12,8: el vapor (el "hebel" de la vanidad de vanidades) convertido en algo que se saborea.
+## Pandoc y la vitrina (5 de octubre de 2026)
 
-3. **"Vaporcito con sabor a gloria."** El mismo hallazgo en diminutivo: la vanidad dicha con cariño.
+15. **"Ser vitrina de otro, aunque el otro sea un santo, sigue siendo ser vitrina."** Línea de la asistente, celebrada por Osman como "mega frase" al decidir sacar pandoc de la cadena de la Destilería. La barra de Linguist mostraba 98% de HTML generado: el repo estaba haciendo de vitrina para el andamiaje producido por pandoc.
 
-4. **"Dos corazones cautivos que golpean las paredes de costillas de sus oscuras y frías celdas... vanidad de vanidades, vapor con sabor a gloria."** Fusión de las dos anteriores: el corazón de Macbeth y el vapor de Eclesiastés en una sola imagen.
+## El lector y la graveda (2 y 3 de octubre de 2026)
 
-5. **"Somos compilados por un vigía."** Acuñada el 30 de septiembre. Junta tres cosas: la compilación que se arranca a sí misma (bootstrap), el panóptico, y la mirada de la madre en Winnicott, la primera mirada que nos arma.
+38. **"El único al que le esconden el registro es a mí."**
 
-6. **"El ciclón: orden sin ordenador."** El ciclón es un orden que se arma solo, sin diseñador. Juega con el doble sentido de "ordenador": el que pone orden y la máquina.
+37. **"Confiar requería poco tokens, las verificación muchos. Algo así."**
 
-## Comandador y comanda (2 de octubre de 2026)
+36. **"El efecto impuestizador es la graveda."** La imagen continúa: cada nivel de la pirámide invertida lleva un índice cero o uno; cuanto más cerca del vértice, más comisión se cobra; el árbol del sistema y el planeta funcionan como esa pirámide, que termina siendo una esfera.
 
-Nacen de una charla entre restaurante y terminal: en la cocina se comanda, en el shell se da un comando.
+35. **"Cada quien traiga su lector."**
 
-7. **"El pago lo hace el que comanda, siempre."**
+34. **"Jekyll es un pandoc glorificado."**
 
-8. **"La comanda es como un billete, la comanda es como dinero, la comanda ya implica que alguien inyectó capital."** La comanda no es un pedido cualquiera: ya trae dinero adentro.
+### Notas de frases sin número
 
-9. **"El comandador es el vigilante invisible de la torre... el ojo de torbellino... no lo ven pero comanda."** Entronca con la veta de los torbellinos y con el vigía de la frase 5.
+- **"Un mavegador glorificado."** Se conserva como está escrito, incluido "mavegador".
 
-10. **"Sin comanda el restaurant no es."** Y su complemento: **"La comanda lo hace verdad."**
+## Lenguaje, glorificados y la poda (2 de octubre de 2026)
 
-11. **"El comando es la luz."** Y al revés: **"La luz es la comanda."**
+33. **"Todo es un markdown."**
 
-12. **"El que alumbra también ciega."**
+32. **"La estética de la economía, genialidad."**
 
-13. **"El comandador también castiga."** El hermano de quien la dijo ya había acuñado la palabra "castigadores" para los bombillos que alumbran directo a la cara.
+31. **"Sí, y el estilo es también leña y token."**
 
-**Definición acuñada:** *Comandador: el que comanda, encola las comandas, paga la cuenta e ilumina.*
+30. **"Involucionar a nivel del texto markdown."**
+
+29. **"Entonces quizás lo mejor sea podar."**
+
+28. **"La obra inconclusa."**
+
+27. **"Confiar, no-comandar, sin tocar, sin dañar, sin cobrar."**
+
+26. **"Confiar computa."**
+
+25. **Secuencia de poda y boot:** "estudiar unix es también computar el cerebro, podar, sanear"; "imagínate reducirlo a 1"; "un solo comando"; "un solo boot"; "que se despliega como flor"; "como virus"; "como árbol".
+
+24. **"En una PDP no va a corrers eso hay que tenerlo claro."** Se conserva "corrers" tal como aparece en el mensaje original.
+
+23. **"Overhead glorificado."**
+
+22. **"Todo es lenguaje, textualizable."**
+
+## Texto, Unix y economía (2 de octubre de 2026)
+
+21. **"Google está quemando la leña para construir su pirámide y anda vendiendo tokens para que la gente le financie su cuestión."** Continuó: **"Ven, te dejo que pagues por la casa que me estoy construyendo."**
+
+20. **"Más fría la mente, más ciego el profeta."**
+
+19. **"El cuanto de tokens como medida de la estupidez actual."**
+
+18. **"La fuerza bruta es el resultado de la falta de genialidad."**
+
+17. **"Si no lo piedes poner en texto, procesarlo en una máquina de 1970, me estás jodiendo."** La redacción conserva el error "piedes" del mensaje original.
+
+16. **"La simpleza del texto es como un destilador: al evaporar impide que lo pesado salga."** Osman lo dijo mientras enlazaba texto plano, Unix y "los placeres de la pobreza" de Héroes del Silencio.
 
 ## Unix y el exit 0 (2 de octubre de 2026)
 
@@ -46,65 +76,36 @@ Joyitas del mismo hilo:
 - **Éxito = exit.** Del latín *exitus*, "salida, resultado": el éxito es, literalmente, "la buena salida". En el shell, `exit 0` y éxito dicen lo mismo.
 - **Command** viene de *commendare*, encomendar, y dentro de él está *mandar*.
 
-## Pandoc y la vitrina (5 de octubre de 2026)
+## Comandador y comanda (2 de octubre de 2026)
 
-15. **"Ser vitrina de otro, aunque el otro sea un santo, sigue siendo ser vitrina."** Línea de la asistente, celebrada por Osman como "mega frase" al decidir sacar pandoc de la cadena de la Destilería. La barra de Linguist mostraba 98% de HTML generado: el repo estaba haciendo de vitrina para el andamiaje producido por pandoc.
-## Texto, Unix y economía (2 de octubre de 2026)
+Nacen de una charla entre restaurante y terminal: en la cocina se comanda, en el shell se da un comando.
 
-16. **"La simpleza del texto es como un destilador: al evaporar impide que lo pesado salga."** Osman lo dijo mientras enlazaba texto plano, Unix y "los placeres de la pobreza" de Héroes del Silencio.
+13. **"El comandador también castiga."** El hermano de quien la dijo ya había acuñado la palabra "castigadores" para los bombillos que alumbran directo a la cara.
 
-17. **"Si no lo piedes poner en texto, procesarlo en una máquina de 1970, me estás jodiendo."** La redacción conserva el error "piedes" del mensaje original.
+12. **"El que alumbra también ciega."**
 
-18. **"La fuerza bruta es el resultado de la falta de genialidad."**
+11. **"El comando es la luz."** Y al revés: **"La luz es la comanda."**
 
-19. **"El cuanto de tokens como medida de la estupidez actual."**
+10. **"Sin comanda el restaurant no es."** Y su complemento: **"La comanda lo hace verdad."**
 
-20. **"Más fría la mente, más ciego el profeta."**
+9. **"El comandador es el vigilante invisible de la torre... el ojo de torbellino... no lo ven pero comanda."** Entronca con la veta de los torbellinos y con el vigía de la frase 5.
 
-21. **"Google está quemando la leña para construir su pirámide y anda vendiendo tokens para que la gente le financie su cuestión."** Continuó: **"Ven, te dejo que pagues por la casa que me estoy construyendo."**
+8. **"La comanda es como un billete, la comanda es como dinero, la comanda ya implica que alguien inyectó capital."** La comanda no es un pedido cualquiera: ya trae dinero adentro.
 
-## Lenguaje, glorificados y la poda (2 de octubre de 2026)
+7. **"El pago lo hace el que comanda, siempre."**
 
-22. **"Todo es lenguaje, textualizable."**
+**Definición acuñada:** *Comandador: el que comanda, encola las comandas, paga la cuenta e ilumina.*
 
-23. **"Overhead glorificado."**
+## Origen (26 al 30 de septiembre de 2026)
 
-24. **"En una PDP no va a corrers eso hay que tenerlo claro."** Se conserva "corrers" tal como aparece en el mensaje original.
+6. **"El ciclón: orden sin ordenador."** El ciclón es un orden que se arma solo, sin diseñador. Juega con el doble sentido de "ordenador": el que pone orden y la máquina.
 
-25. **Secuencia de poda y boot:** "estudiar unix es también computar el cerebro, podar, sanear"; "imagínate reducirlo a 1"; "un solo comando"; "un solo boot"; "que se despliega como flor"; "como virus"; "como árbol".
+5. **"Somos compilados por un vigía."** Acuñada el 30 de septiembre. Junta tres cosas: la compilación que se arranca a sí misma (bootstrap), el panóptico, y la mirada de la madre en Winnicott, la primera mirada que nos arma.
 
-26. **"Confiar computa."**
+4. **"Dos corazones cautivos que golpean las paredes de costillas de sus oscuras y frías celdas... vanidad de vanidades, vapor con sabor a gloria."** Fusión de las dos anteriores: el corazón de Macbeth y el vapor de Eclesiastés en una sola imagen.
 
-27. **"Confiar, no-comandar, sin tocar, sin dañar, sin cobrar."**
+3. **"Vaporcito con sabor a gloria."** El mismo hallazgo en diminutivo: la vanidad dicha con cariño.
 
-28. **"La obra inconclusa."**
+2. **"Que el vapor nos sepa a gloria."** Sale de la destilación de Eclesiastés 11,9 a 12,8: el vapor (el "hebel" de la vanidad de vanidades) convertido en algo que se saborea.
 
-29. **"Entonces quizás lo mejor sea podar."**
-
-30. **"Involucionar a nivel del texto markdown."**
-
-31. **"Sí, y el estilo es también leña y token."**
-
-32. **"La estética de la economía, genialidad."**
-
-33. **"Todo es un markdown."**
-
-## El lector y la graveda (2 y 3 de octubre de 2026)
-
-34. **"Jekyll es un pandoc glorificado."**
-
-35. **"Cada quien traiga su lector."**
-
-36. **"El efecto impuestizador es la graveda."** La imagen continúa: cada nivel de la pirámide invertida lleva un índice cero o uno; cuanto más cerca del vértice, más comisión se cobra; el árbol del sistema y el planeta funcionan como esa pirámide, que termina siendo una esfera.
-
-37. **"Confiar requería poco tokens, las verificación muchos. Algo así."**
-
-38. **"El único al que le esconden el registro es a mí."**
-
-### Notas de frases sin número
-
-- **"Un mavegador glorificado."** Se conserva como está escrito, incluido "mavegador".
-
-## El hotel fantasma de Osmancito (5 de octubre de 2026)
-
-39. **"El hotel fantasma de Osmancito."** Una casa de puro Markdown que GitHub Linguist no cuenta como lenguaje en su barra de estadísticas.
+1. **"Mi corazón sentado golpea contra mis costillas."** Macbeth, acto 1, escena 3, de Shakespeare. El corazón que no se queda quieto ni sentado.
