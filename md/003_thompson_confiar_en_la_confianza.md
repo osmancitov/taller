@@ -1,5 +1,7 @@
 # La confianza de la confianza
 
+*Una lectura de lo que Ken Thompson planteó en 1984 sobre la confianza: revisar el código fuente no basta si no se confía en la herramienta que lo convierte en máquina.*
+
 *Ken Thompson · Reflections on Trusting Trust · 1984*  
 *Versión destilada en castellano · Destilería Osmancito*
 
