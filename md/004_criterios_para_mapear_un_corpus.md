@@ -1,4 +1,4 @@
-# Cuatro criterios para mapear un corpus
+# Los criterios del corpus
 
 *Destilería Osmancito · Taller · cuaderno de registro*
 
