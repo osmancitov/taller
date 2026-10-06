@@ -8,6 +8,7 @@ Cuaderno de trabajo del proyecto Destilería Osmancito: aquí se estudia, se gua
 Cuadernos y protocolos que viven aquí:
 
 - [Trazar](md/trazar.md) y [Escalar](md/escalar.md)
+- [Cuatro criterios para mapear un corpus](md/criterios_para_mapear_un_corpus.md)
 - [Frases notables](md/frases_notables.md)
 - [Tarjeta de referencia de Debian](md/debian-refcard-bookworm.md)
 - [Aprendiendo Debian](md/debian_aprendiendo.md)
