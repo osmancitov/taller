@@ -1,4 +1,4 @@
-# Tarjeta de Referencia Debian 
+# Debian v12 Refcard
 
 *Las 101 cosas más importantes para el uso de Debian.*
 
