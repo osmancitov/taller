@@ -6,7 +6,7 @@ Cuaderno de registro · 5 de octubre de 2026.
 
 ## Para qué sirve
 
-Antes de destilar un texto hay que saber dónde pesa. Un mapa del corpus dice qué partes sostienen a las demás, y de ese mapa depende lo que se conserve al destilar. [Trazar](trazar.md) y [Escalar](escalar.md) son los protocolos que lo usan.
+Antes de destilar un texto hay que saber dónde pesa. Un mapa del corpus dice qué partes sostienen a las demás, y de ese mapa depende lo que se conserve al destilar. [Trazar](001_trazar.md) y [Escalar](002_escalar.md) son los protocolos que lo usan.
 
 Estos cuatro criterios son lo mejor que se ha encontrado hasta ahora para llevar la destilación a un nivel nuevo. Se pensaron entre el 4 y el 5 de octubre de 2026, midiendo *Macbeth* de Shakespeare (el original, no su recuento) y *El libro de arena* de Borges. Este cuaderno los deja anotados con su estado y sus límites, para que no se pierdan.
 
@@ -65,6 +65,6 @@ La imagen que guía todo esto es la demi-glace: un fondo reducido hasta la mitad
 
 ## Para seguir leyendo
 
-- [Trazar](trazar.md): el protocolo que dibuja el mapa del corpus.
-- [Escalar](escalar.md): el protocolo que usa ese mapa para destilar.
+- [Trazar](001_trazar.md): el protocolo que dibuja el mapa del corpus.
+- [Escalar](002_escalar.md): el protocolo que usa ese mapa para destilar.
 - Claude Shannon, «A Mathematical Theory of Communication», *Bell System Technical Journal*, 1948.
