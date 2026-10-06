@@ -1,4 +1,4 @@
-# Aprendiendo Debian
+# Aprendiendo Debian v12
 
 Cuaderno de estudio de la [Debian Reference (version 2.100)](https://packages.debian.org/bookworm/debian-reference)
 Manual de usuario de [Debian 12 (Bookworm)](https://packages.debian.org/bookworm/) 
