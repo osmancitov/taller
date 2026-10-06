@@ -1,4 +1,4 @@
-# Medir el significado: peso, sustancia y hueso
+# La medida del significado
 
 Destilería Osmancito · Taller · documento semilla · 5 de octubre de 2026.
 
