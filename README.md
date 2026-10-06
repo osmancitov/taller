@@ -8,9 +8,9 @@ Aquí se estudia y se prueba. Los cuadernos guardan preguntas, notas, frases y h
 
 ## Cuadernos
 
-- [La técnica del demi-glace](md/010_demi_glace.md)
-- [Medir el significado: peso, sustancia y hueso](md/009_medir_significado_documento_semilla.md)
-- [Cuatro criterios para mapear un corpus](md/008_criterios_para_mapear_un_corpus.md)
-- [Confiar en la confianza · Ken Thompson](md/007_thompson_confiar_en_la_confianza.md)
-- [Debian v12 Refcard](md/003_debian-refcard-bookworm.md)
+- [La técnica del demi-glace](md/006_demi_glace.md)
+- [Medir el significado: peso, sustancia y hueso](md/005_medir_significado_documento_semilla.md)
+- [Cuatro criterios para mapear un corpus](md/004_criterios_para_mapear_un_corpus.md)
+- [Confiar en la confianza · Ken Thompson](md/003_thompson_confiar_en_la_confianza.md)
+- [Debian v12 Refcard](md/002_debian-refcard-bookworm.md)
 - [Aprendiendo Debian v12](md/001_debian_aprendiendo.md)
