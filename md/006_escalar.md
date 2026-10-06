@@ -1,6 +1,6 @@
 # Escalar
 
-Protocolo 2 de 2. Antes: [Trazar](001_trazar.md).
+Protocolo 2 de 2. Antes: [Trazar](005_trazar.md).
 
 Escalar corta la siguiente copa del corpus y la destila. Es recursivo: cada vez toma un quinto del resto vigente. El corpus se reduce 1/5, 1/25, 1/125... y cada copa es más pequeña y más barata que la anterior.
 
@@ -22,7 +22,7 @@ La distancia entre escalones es un quinto y no una mitad. Con mitades, cada copa
 
 ## Entrada
 
-- El mapa que produjo [Trazar](001_trazar.md) para este corpus.
+- El mapa que produjo [Trazar](005_trazar.md) para este corpus.
 - El resto vigente del corpus. En la primera vuelta es el corpus entero. En las siguientes, es lo que devolvió la vuelta anterior.
 - El número de vuelta: 1, 2, 3...
 
@@ -81,4 +81,4 @@ Corran Trazar una vez por motor y comparen los mapas. Corran Escalar con el mism
 
 ## Antes
 
-El mapa viene de [Trazar](001_trazar.md).
+El mapa viene de [Trazar](005_trazar.md).
