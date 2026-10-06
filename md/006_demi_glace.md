@@ -64,4 +64,4 @@ Hace falta un corpus en markdown con una marca regular de sección, una llave en
 PASADAS=5 ./pliegue7.sh macbeth.md
 ```
 
-El script guarda cada pasada en su carpeta, imprime la curva tras cada una y termina con la prueba de textualidad contra el original. Los scripts, los resultados y los informes viven en la carpeta `markdown` del Drive.
+El script guarda cada pasada en su carpeta, imprime la curva tras cada una y termina con la prueba de textualidad contra el original. Los scripts, los resultados y los informes viven en la carpeta `laboratorio` del Drive.
