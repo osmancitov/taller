@@ -109,3 +109,7 @@ Nacen de una charla entre restaurante y terminal: en la cocina se comanda, en el
 2. **"Que el vapor nos sepa a gloria."** Sale de la destilación de Eclesiastés 11,9 a 12,8: el vapor (el "hebel" de la vanidad de vanidades) convertido en algo que se saborea.
 
 1. **"Mi corazón sentado golpea contra mis costillas."** Macbeth, acto 1, escena 3, de Shakespeare. El corazón que no se queda quieto ni sentado.
+
+## Una máquina de romper espejismos (6 de octubre de 2026)
+
+40. **"Una máquina de romper espejismos."** Dicho al describir la utilidad práctica de medir significado en la Destilería: tras notar que aún falta hallar significado, propuso una aplicación concreta de las medidas.
