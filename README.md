@@ -8,6 +8,7 @@ Aquí se estudia y se prueba. Los cuadernos guardan preguntas, notas, frases y h
 
 ## Cuadernos
 
+- [El mapa del corpus](md/007_el_mapa_del_corpus.md)
 - [La técnica del demi-glace](md/006_demi_glace.md)
 - [La medida del significado](md/005_medir_significado_documento_semilla.md)
 - [Los criterios del corpus](md/004_criterios_para_mapear_un_corpus.md)
