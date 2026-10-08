@@ -71,19 +71,6 @@ Estas son preguntas para diseñar medidas, no definiciones finales. Puede que el
 
 La coincidencia de mapas diferentes señala un candidato a hueso. No lo certifica. Dos instrumentos pueden coincidir porque tienen el mismo sesgo.
 
-## La cascada: qué hay publicado y qué falta fijar
-
-La imagen que guía la investigación es acercarse a una semilla mediante escalones separados: un quinto, luego otro nivel de reducción, hasta que no pueda decirse algo sin destruirlo.
-
-Hay una ambigüedad que no debe pasar al experimento. El encabezado de Escalar anuncia `1/5, 1/25, 1/125...`, pero su paso 4 define el siguiente resto como el texto anterior menos lo tomado. Extraer un quinto de ese resto no equivale a comprimir la copa anterior a un quinto. Este cuaderno no corrige el protocolo por su cuenta.
-
-Antes de medir supervivencia hay que fijar una variante:
-
-- **Extracción del resto:** cada copa toma materia aún no seleccionada. Se estudia en qué vuelta entra cada frase y qué función conserva la copa.
-- **Compresión sucesiva:** cada nueva copa reduce la copa anterior. Se estudia qué contenido persiste a través de los niveles. Esta es una variante experimental propuesta, no una ejecución ya realizada.
-
-La prueba central siguiente se refiere a compresión sucesiva. No se pueden mezclar sus resultados con los de extracción. La cascada aún no ha validado una medida de significado.
-
 ## Prueba central: predecir antes de destilar
 
 Hipótesis de trabajo: una buena medida de sustancia debería predecir qué contenido de las frases sobrevive a la cascada de quintos. La semilla puntúa alto y la paja bajo. Si no predice mejor que controles baratos, no ha ganado su nombre.
@@ -137,7 +124,6 @@ El tesoro no es que una máquina diga dónde está el hueso. Es poder señalar q
 ## Fuentes y estado
 
 - [Cuatro criterios para mapear un corpus](004_criterios_para_mapear_un_corpus.md): registro de criterios y límites, 5 de octubre de 2026. Su "siguiente paso" describe el estado anterior al boot 2.0.
-- [Trazar](005_trazar.md) y [Escalar](006_escalar.md): protocolos vigentes del Taller; la ambigüedad de la cascada queda señalada arriba.
 - [Destilería Osmancito](https://github.com/osmancitov/destileria): proyecto y protocolos de destilación.
 - Bitácora de trabajo del 4 y 5 de octubre de 2026: duelo de mapas, regla endógena y boot de unigrama. Las entropías y los conteos limpios del boot 2.0 proceden de la salida ejecutada en Debiancito; hapax y relieve, de la lectura del informe de esa corrida. Son resultados informados, no una nueva reproducción realizada para este cuaderno.
 - Hipótesis de la semilla, ecuación perdida e instrumento emergente: antecedentes de trabajo de la Destilería. Se usan como punto de partida, no como conclusiones demostradas.
