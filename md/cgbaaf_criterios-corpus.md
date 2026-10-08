@@ -2,8 +2,6 @@
 
 # Los criterios del corpus
 
-*Destilería Osmancito · Taller · cuaderno de registro*
-
 Cuaderno de registro · 5 de octubre de 2026.
 
 ## Para qué sirve
