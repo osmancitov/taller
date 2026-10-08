@@ -1,3 +1,5 @@
+1 de octubre de 2026
+
 # La chuleta de Debian
 
 *Las 101 cosas más importantes para el uso de Debian.*
