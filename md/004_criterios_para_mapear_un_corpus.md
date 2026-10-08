@@ -65,6 +65,4 @@ La imagen que guía todo esto es la demi-glace: un fondo reducido hasta la mitad
 
 ## Para seguir leyendo
 
-- [Trazar](005_trazar.md): el protocolo que dibuja el mapa del corpus.
-- [Escalar](006_escalar.md): el protocolo que usa ese mapa para destilar.
 - Claude Shannon, «A Mathematical Theory of Communication», *Bell System Technical Journal*, 1948.
