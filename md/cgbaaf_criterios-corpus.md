@@ -2,8 +2,6 @@
 
 # Los criterios del corpus
 
-Cuaderno de registro · 5 de octubre de 2026.
-
 ## Para qué sirve
 
 Antes de destilar un texto hay que saber dónde pesa. Un mapa del corpus dice qué partes sostienen a las demás, y de ese mapa depende lo que se conserve al destilar.
