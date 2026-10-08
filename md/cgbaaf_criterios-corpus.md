@@ -1,3 +1,5 @@
+5 de octubre de 2026
+
 # Los criterios del corpus
 
 *Destilería Osmancito · Taller · cuaderno de registro*
