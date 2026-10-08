@@ -8,10 +8,10 @@ Aquí se estudia y se prueba. Los cuadernos guardan preguntas, notas, frases y h
 
 ## Cuadernos
 
-- [El mapa del corpus](md/007_el_mapa_del_corpus.md)
-- [La técnica del demi-glace](md/006_demi_glace.md)
-- [La medida del significado](md/005_medir_significado_documento_semilla.md)
-- [Los criterios del corpus](md/004_criterios_para_mapear_un_corpus.md)
-- [La confianza de la confianza](md/003_thompson_confiar_en_la_confianza.md)
-- [La chuleta de Debian](md/002_debian-refcard-bookworm.md)
-- [El aprendizaje de Debian](md/001_debian_aprendiendo.md)
+- [El mapa del corpus](md/cgbaah_mapa-corpus.md) · 7 de octubre de 2026.
+- [La técnica del demi-glace](md/cgbaag_demi-glace.md) · 6 de octubre de 2026.
+- [La medida del significado](md/cgbaaf_medida-significado.md) · 5 de octubre de 2026.
+- [Los criterios del corpus](md/cgbaaf_criterios-corpus.md) · 5 de octubre de 2026.
+- [La confianza de la confianza](md/cgbaaf_confianza-confianza.md) · 5 de octubre de 2026.
+- [La chuleta de Debian](md/cgbaab_chuleta-debian.md) · 1 de octubre de 2026.
+- [El aprendizaje de Debian](md/cgajcj_aprendiendo-debian.md) · 29 de septiembre de 2026.
