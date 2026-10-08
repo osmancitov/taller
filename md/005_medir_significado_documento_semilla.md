@@ -125,7 +125,3 @@ El tesoro no es que una máquina diga dónde está el hueso. Es poder señalar q
 
 - [Cuatro criterios para mapear un corpus](004_criterios_para_mapear_un_corpus.md): registro de criterios y límites, 5 de octubre de 2026. Su "siguiente paso" describe el estado anterior al boot 2.0.
 - [Destilería Osmancito](https://github.com/osmancitov/destileria): proyecto y protocolos de destilación.
-- Bitácora de trabajo del 4 y 5 de octubre de 2026: duelo de mapas, regla endógena y boot de unigrama. Las entropías y los conteos limpios del boot 2.0 proceden de la salida ejecutada en Debiancito; hapax y relieve, de la lectura del informe de esa corrida. Son resultados informados, no una nueva reproducción realizada para este cuaderno.
-- Hipótesis de la semilla, ecuación perdida e instrumento emergente: antecedentes de trabajo de la Destilería. Se usan como punto de partida, no como conclusiones demostradas.
-
-Estado: documento semilla. Ningún capítulo de motor ni experimento nuevo se ha ejecutado como parte de su redacción.
