@@ -6,7 +6,7 @@ Cuaderno de registro · 5 de octubre de 2026.
 
 ## Para qué sirve
 
-Antes de destilar un texto hay que saber dónde pesa. Un mapa del corpus dice qué partes sostienen a las demás, y de ese mapa depende lo que se conserve al destilar. [Trazar](005_trazar.md) y [Escalar](006_escalar.md) son los protocolos que lo usan.
+Antes de destilar un texto hay que saber dónde pesa. Un mapa del corpus dice qué partes sostienen a las demás, y de ese mapa depende lo que se conserve al destilar.
 
 Estos cuatro criterios son lo mejor que se ha encontrado hasta ahora para llevar la destilación a un nivel nuevo. Se pensaron entre el 4 y el 5 de octubre de 2026, midiendo *Macbeth* de Shakespeare (el original, no su recuento) y *El libro de arena* de Borges. Este cuaderno los deja anotados con su estado y sus límites, para que no se pierdan.
 
