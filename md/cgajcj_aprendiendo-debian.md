@@ -1,3 +1,5 @@
+29 de septiembre de 2026
+
 # El aprendizaje de Debian
 
 Cuaderno de estudio de la [Debian Reference (version 2.100)](https://packages.debian.org/bookworm/debian-reference)
@@ -75,7 +77,7 @@ La **refcard** es la tarjeta de referencia del Debian Documentation Project (DDP
 ![Diagrama de plegado de la tarjeta de referencia de Debian](img/2-refcard.png)
 
 Se puede ver la versión de Osmancito de la Refcard aquí:
-[Osmancito Refcard v.12](https://github.com/osmancitov/taller/blob/main/md/002_debian-refcard-bookworm.md)
+[Osmancito Refcard v.12](https://github.com/osmancitov/taller/blob/main/md/cgbaab_chuleta-debian.md)
 
 ---
 
