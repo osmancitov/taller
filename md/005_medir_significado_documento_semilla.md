@@ -73,7 +73,7 @@ La coincidencia de mapas diferentes señala un candidato a hueso. No lo certific
 
 ## La cascada: qué hay publicado y qué falta fijar
 
-[Trazar](005_trazar.md) levanta el mapa del corpus. [Escalar](006_escalar.md) toma una copa de un quinto del resto vigente, conserva su procedencia y devuelve el resto. La imagen que guía la investigación es acercarse a una semilla mediante escalones separados: un quinto, luego otro nivel de reducción, hasta que no pueda decirse algo sin destruirlo.
+La imagen que guía la investigación es acercarse a una semilla mediante escalones separados: un quinto, luego otro nivel de reducción, hasta que no pueda decirse algo sin destruirlo.
 
 Hay una ambigüedad que no debe pasar al experimento. El encabezado de Escalar anuncia `1/5, 1/25, 1/125...`, pero su paso 4 define el siguiente resto como el texto anterior menos lo tomado. Extraer un quinto de ese resto no equivale a comprimir la copa anterior a un quinto. Este cuaderno no corrige el protocolo por su cuenta.
 
