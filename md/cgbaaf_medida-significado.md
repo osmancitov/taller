@@ -1,6 +1,6 @@
-# La medida del significado
+5 de octubre de 2026
 
-Destilería Osmancito · Taller · documento semilla · 5 de octubre de 2026.
+# La medida del significado
 
 ## La pregunta
 
@@ -18,7 +18,7 @@ La cadena CPL → BCPL → B → C ha servido aquí como analogía de reducción
 
 El instrumento emergente, llamado `trajes_lat` por trazar-ejes-espacio-latente, ensayó otro camino: dejar que los ejes aparezcan al medir los pasajes, en vez de imponer una lista de instrumentos. La imagen es una radiografía: encontrar los huesos bajo el traje de carne. El humano bautiza los ejes. Un algoritmo que agrupa pasajes no demuestra por ello qué significan sus grupos.
 
-Los [cuatro criterios para mapear un corpus](004_criterios_para_mapear_un_corpus.md) reúnen lo que se tiene: rareza interna, eco del autor, similitud vectorial y enlaces estructurales. Allí están su estado y sus límites. Este documento no los sustituye ni los repite enteros; les pide un paso más.
+Los [cuatro criterios para mapear un corpus](cgbaaf_criterios-corpus.md) reúnen lo que se tiene: rareza interna, eco del autor, similitud vectorial y enlaces estructurales. Allí están su estado y sus límites. Este documento no los sustituye ni los repite enteros; les pide un paso más.
 
 ## Regla del mundo cerrado
 
@@ -123,5 +123,5 @@ El tesoro no es que una máquina diga dónde está el hueso. Es poder señalar q
 
 ## Fuentes y estado
 
-- [Cuatro criterios para mapear un corpus](004_criterios_para_mapear_un_corpus.md): registro de criterios y límites, 5 de octubre de 2026. Su "siguiente paso" describe el estado anterior al boot 2.0.
+- [Cuatro criterios para mapear un corpus](cgbaaf_criterios-corpus.md): registro de criterios y límites, 5 de octubre de 2026. Su "siguiente paso" describe el estado anterior al boot 2.0.
 - [Destilería Osmancito](https://github.com/osmancitov/destileria): proyecto y protocolos de destilación.
