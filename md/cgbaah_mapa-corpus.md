@@ -1,3 +1,5 @@
+7 de octubre de 2026
+
 # El mapa del corpus
 
 Un mapa dice dónde está cada cosa y cómo es el terreno entre una y otra. Un corpus, es decir, un texto grande o un montón de textos, también necesita uno.
@@ -18,7 +20,7 @@ Es de Snakecita, y Osmancito la tomó como punto de partida:
 
 ## De dónde sale la idea
 
-Al reducir Macbeth con el demi-glace ([La técnica del demi-glace](006_demi_glace.md)) hacía falta saber si la reducción había guardado lo importante. Contar palabras no alcanza: mide el agua, pero no el sabor.
+Al reducir Macbeth con el demi-glace ([La técnica del demi-glace](cgbaag_demi-glace.md)) hacía falta saber si la reducción había guardado lo importante. Contar palabras no alcanza: mide el agua, pero no el sabor.
 
 Lo que dio sabor fue una lista de 57 líneas famosas de la obra. Con ella se vio cuál versión guardaba casi nueve de cada diez, y cuál era solo bulto. Esa lista fue un mapa pequeño, de puntos conocidos. Con ella se eligieron las técnicas que valía la pena coronar.
 
