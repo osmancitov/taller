@@ -4,6 +4,10 @@
 
 ![Una serpiente con gafas señala una isla de tarjetas en un mapa, mientras siete carritos corren alrededor de la mesa](../img/cgbaaj-embeddings.jpg)
 
+# La carrera de los embeddings
+
+![Una serpiente con gafas señala una isla de tarjetas en un mapa, mientras siete carritos corren alrededor de la mesa](../img/cgbaaj-embeddings.jpg)
+
 ## Qué es un embedding
 
 Un embedding es una dirección en un mapa para una frase.
@@ -50,7 +54,7 @@ Cada número es el porcentaje de aciertos, redondeado. El más alto de cada colu
 | Qwen | 15 | 25 | 18 | 8 |
 | Gemini Embedding 001 | **18** | 29 | 22 | 9 |
 
-En el Rand ajustado todos quedaron cerca de cero. Nemotron salió primero y Qwen segundo.
+En el Rand ajustado todos quedaron cerca de cero; Gemini quedó apenas por encima de Nemotron, por un margen mínimo.
 
 Nemotron ganó los cinco criterios en la primera ronda. Perplexity quedó segundo en tres de ellos. Qwen, que costó más y usa listas de números más largas, no le ganó a Perplexity en el duelo directo, y quedó atrás.
 
