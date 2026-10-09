@@ -8,6 +8,7 @@ Aquí se estudia y se prueba. Los cuadernos guardan preguntas, notas, frases y h
 
 ## Cuadernos
 
+- [La carrera de los embeddings](md/cgbaaj_embeddings.md) · 9 de octubre de 2026.
 - [El mapa del corpus](md/cgbaah_mapa-corpus.md) · 7 de octubre de 2026.
 - [La técnica del demi-glace](md/cgbaag_demi-glace.md) · 6 de octubre de 2026.
 - [La medida del significado](md/cgbaaf_medida-significado.md) · 5 de octubre de 2026.
