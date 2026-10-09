@@ -20,7 +20,7 @@ Hay muchos motores que hacen ese mapa. Cada uno dibuja el suyo, con otro tamaño
 
 La prueba fue con Macbeth, la obra de Shakespeare, cortada en 1.108 frases. Se le pidió a cada motor la dirección de cada frase y con ellas se armaron grupos de frases vecinas. Después se comparó con lo que ya sabíamos: de qué escena viene cada frase. La obra tiene 28 escenas. Un buen mapa debería juntar las frases de una misma escena.
 
-Corrieron siete motores: Nemotron, Perplexity, Qwen, OpenAI, Voyage 4, Voyage 4 Lite y Liquid.
+Corrieron siete motores: Nemotron, Perplexity, Qwen, OpenAI, Voyage 4, Voyage 4 Lite y Liquid. De los tres Voyage, la tabla muestra solo Voyage 4 Large, el más grande.
 
 ## Los cinco criterios
 
@@ -42,17 +42,17 @@ Cada número es el porcentaje de aciertos, redondeado. El más alto de cada colu
 
 | Motor | Pureza | Vecino | Vecino equilibrado | Pureza equilibrada |
 |---|---:|---:|---:|---:|
-| **Nemotron** | **18** | **25** | **19** | **10** |
-| Perplexity | 17 | **25** | 18 | 8 |
-| OpenAI | 16 | **25** | **19** | 8 |
+| **Nemotron** | **18** | 25 | 19 | **10** |
+| Perplexity | 17 | 25 | 18 | 8 |
+| OpenAI | 16 | 25 | 19 | 8 |
 | Liquid | 16 | 23 | 17 | 8 |
-| Voyage 4 | 15 | **25** | **19** | 8 |
-| Voyage 4 Lite | 15 | 23 | 18 | 8 |
-| Qwen | 15 | **25** | 18 | 8 |
+| Voyage 4 Large | 14 | **30** | **24** | 6 |
+| Qwen | 15 | 25 | 18 | 8 |
+| Gemini Embedding 001 | **18** | 29 | 22 | 9 |
 
 En el Rand ajustado todos quedaron cerca de cero. Nemotron salió primero y Qwen segundo.
 
-Nemotron ganó los cinco criterios. Perplexity quedó segundo en tres de ellos. Qwen, que costó más y usa listas de números más largas, no le ganó a Perplexity en el duelo directo, y quedó atrás.
+Nemotron ganó los cinco criterios en la primera ronda. Perplexity quedó segundo en tres de ellos. Qwen, que costó más y usa listas de números más largas, no le ganó a Perplexity en el duelo directo, y quedó atrás.
 
 ## Lo que dicen los números
 
@@ -64,9 +64,9 @@ Tercero, el precio no decidió nada. Nemotron es gratis. Perplexity cuesta menos
 
 ## Los que llegaron después
 
-**Voyage 4 Large** corrió con la obra completa al final. Perdió en pureza y en pureza equilibrada frente a los otros Voyage y frente a Nemotron, pero ganó en las dos medidas del vecino frente a ellos.
+**Voyage 4 Large** llegó después, con la obra completa. Le gana los dos vecinos a todos.
 
-**Gemini Embedding 001** completó la obra después, con la cuota del día. En la medida final ganó cuatro de los cinco criterios y Nemotron se quedó con la pureza equilibrada, por márgenes muy chicos.
+**Gemini Embedding 001** llegó último por tiempo: completó la obra después, con la cuota del día. Contra el campeón, gana cuatro de cinco; el campeón conserva pureza equilibrada. Los márgenes fueron pequeños.
 
 Con tanta cercanía no hay un campeón absoluto. Hay uno que anduvo más seguido adelante: Nemotron.
 
