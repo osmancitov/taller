@@ -14,7 +14,7 @@ La pregunta que abre el trabajo es de Osmancito:
 
 ## La definición
 
-Es de Snakecita, y Osmancito la tomó como punto de partida:
+Es de Instinct, y Osmancito la tomó como punto de partida:
 
 > El mapa del corpus define: cuáles son sus puntos de referencia (las líneas que no pueden morir) y cómo se reparte el terreno (temas, densidad, repeticiones).
 
