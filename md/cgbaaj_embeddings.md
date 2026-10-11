@@ -2,8 +2,6 @@
 
 # La carrera de los embeddings
 
-![Una serpiente con gafas señala una isla de tarjetas en un mapa, mientras siete carritos corren alrededor de la mesa](../img/cgbaaj-embeddings.jpg)
-
 ## Qué es un embedding
 
 Un embedding es una dirección en un mapa para una frase.
