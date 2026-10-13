@@ -6,7 +6,7 @@ Una nube de cercanía pone cada frase de una obra como un punto en el espacio. E
 
 Esta es la plantilla. Para otra obra solo cambian la obra, los motores y las secciones. Todo lo demás se copia igual.
 
-La página de referencia es la de *El libro de arena*, de Borges: [Cercanía al centro de El libro de arena](https://osmancitov.github.io/destileria/bodega-110/cgbabj_nube-arena-cercania.html). Es un solo archivo, sin servidor.
+La página de referencia es la de *El libro de arena*, de Borges: [Nube en 3D de El libro de arena](https://osmancitov.github.io/destileria/bodega-110/cgbabe_nube-arena-3d.html). Es un solo archivo, sin servidor.
 
 ## Qué hace falta
 
@@ -63,7 +63,7 @@ Antes de publicar se revisa que `n` tenga un 0 y un 1000 en cada motor, que `xyz
 
 La página no se reescribe: se copia la de Arena y se cambia el bloque de datos y los textos. Lo que trae, y no se toca:
 
-- **Arriba:** la fecha, el título, el autor y el número de frases. Después una fila con un botón por motor, y otra con «Libro entero» y «Un cuento». Con «Un cuento» aparece un selector con las secciones elegibles. El epílogo se ve en el libro, como rombos, pero no se elige solo.
+- **Arriba:** la fecha, el título, el dibujo, el autor y el número de frases. Después una fila con un botón por motor, y otra con «Libro entero» y «Un cuento». Con «Un cuento» aparece un selector con las secciones elegibles. El epílogo se ve en el libro, como rombos, pero no se elige solo.
 - **La nube:** vista en 3D con ejes tenues, perspectiva, giro con el dedo o el ratón, pellizco o rueda para el zoom (de 0,5 a 5,2 veces), botón ✥ para mover la vista, ⟲ para volver al principio y ↻ para que gire sola. Cada punto tiene el mismo tamaño en el libro y en una sección; el seleccionado se ve más grande y con un anillo blanco.
 - **El color:** un degradado continuo de 0 a 1 con estos extremos y paradas. No hay blanco ni negro.
 
@@ -92,7 +92,7 @@ Se cambian cuatro cosas:
 3. La palabra «cuento»: según la obra será acto, capítulo o escena. Aparece en «Un cuento», «En el cuento» y en las etiquetas de los botones.
 4. El epílogo: si la obra no tiene una sección aparte como esa, no se pone.
 
-La imagen que se comparte al enviar el enlace (`og:image`) es un dibujo propio de la página, no va dentro de ella: JPG al 80 %, 1280 por 640.
+La imagen que se comparte al enviar el enlace (`og:image`) es un dibujo propio de la página, también se coloca arriba, después del título: JPG al 80 %, 1280 por 640.
 
 ## Antes de publicar
 
