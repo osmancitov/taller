@@ -8,6 +8,7 @@ Aquí se estudia y se prueba. Los cuadernos guardan preguntas, notas, frases y h
 
 ## Cuadernos
 
+- [La nube de cercanía](md/cgbabj_nube-cercania.md) · 13 de octubre de 2026.
 - [El ramillete y la ventana](md/cgbabc_ramillete-ventana.md) · 12 de octubre de 2026.
 - [La carrera de los embeddings](md/cgbaaj_embeddings.md) · 9 de octubre de 2026.
 - [El mapa del corpus](md/cgbaah_mapa-corpus.md) · 7 de octubre de 2026.
