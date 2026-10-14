@@ -8,14 +8,10 @@ Aquí se estudia y se prueba. Los cuadernos guardan preguntas, notas, frases y h
 
 ## Cuadernos
 
+- [El procedimiento de la Destilería](md/cgbabe_procedimiento-destileria.md) · 14 de octubre de 2026.
 - [Nube en 3D de El Libro de Arena](html/cgbabe_nube-arena-3d.html) · 13 de octubre de 2026.
 - [La nube de cercanía](md/cgbabj_nube-cercania.md) · 13 de octubre de 2026.
 - [El ramillete y la ventana](md/cgbabc_ramillete-ventana.md) · 12 de octubre de 2026.
-- [La carrera de los embeddings](md/cgbaaj_embeddings.md) · 9 de octubre de 2026.
-- [El mapa del corpus](md/cgbaah_mapa-corpus.md) · 7 de octubre de 2026.
-- [La técnica del demi-glace](md/cgbaag_demi-glace.md) · 6 de octubre de 2026.
-- [La medida del significado](md/cgbaaf_medida-significado.md) · 5 de octubre de 2026.
-- [Los criterios del corpus](md/cgbaaf_criterios-corpus.md) · 5 de octubre de 2026.
 - [La confianza de la confianza](md/cgbaaf_confianza-confianza.md) · 5 de octubre de 2026.
 - [La chuleta de Debian](md/cgbaab_chuleta-debian.md) · 1 de octubre de 2026.
 - [El aprendizaje de Debian](md/cgajcj_aprendiendo-debian.md) · 29 de septiembre de 2026.
