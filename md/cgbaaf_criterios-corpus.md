@@ -6,7 +6,7 @@
 
 Antes de destilar un texto hay que saber dónde pesa. Un mapa del corpus dice qué partes sostienen a las demás, y de ese mapa depende lo que se conserve al destilar.
 
-Estos cuatro criterios son lo mejor que se ha encontrado hasta ahora para llevar la destilación a un nivel nuevo. Se pensaron entre el 4 y el 5 de octubre de 2026, midiendo *Macbeth* de Shakespeare (el original, no su recuento) y *El libro de arena* de Borges. Este cuaderno los deja anotados con su estado y sus límites, para que no se pierdan.
+Estos cuatro criterios son lo mejor que se ha encontrado hasta ahora para llevar la destilación a un nivel nuevo. Se pensaron entre el 4 y el 5 de octubre de 2026, midiendo *Macbeth* de Shakespeare (el original, no su recuento) y *El Libro de Arena* de Borges. Este cuaderno los deja anotados con su estado y sus límites, para que no se pierdan.
 
 Regla común: el corpus se mide con sus propias palabras. Lo que queda fuera del texto no cuenta.
 
@@ -21,7 +21,7 @@ Regla común: el corpus se mide con sus propias palabras. Lo que queda fuera del
 
 **Qué mide.** El peso de cada palabra como sorpresa: cuanto menos frecuente es dentro del propio corpus, más información lleva, según la idea de Claude Shannon. Se parte del unigrama (la palabra suelta), sin tablas de frecuencia externas. Al trazar el peso a lo largo del texto aparecen picos y calmas, como en un sismograma. De ahí el nombre.
 
-**Qué se hizo.** Se midieron *Macbeth* y *El libro de arena*. Cada autor se trata como un mundo aparte y los mundos se comparan por su forma.
+**Qué se hizo.** Se midieron *Macbeth* y *El Libro de Arena*. Cada autor se trata como un mundo aparte y los mundos se comparan por su forma.
 
 **Límite.** Mide rareza, no sentido. Es importante, pero no lo es todo. Su punto débil tiene nombre: el tramposo erudito. Quien conjuga y palabrea puede colgarse palabras insólitas como medallas y engañar a una medida enamorada de la extrañeza. Dos formas de la misma palabra cuentan como dos rarezas.
 
