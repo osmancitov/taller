@@ -56,20 +56,13 @@ Entre dos tramos faltan frases, y el lector que llega de cero no debe quedar per
 
 Y una prohibición: nunca se parafrasea lo que el texto ya dice. Si la frase existe, se cita.
 
-La **perilla** fija cuánta prosa propia admite la pieza:
-
-| Muesca | Qué admite | Tope |
-|---|---|---|
-| 0 | texto desnudo | ninguna |
-| 1 | costura | 10 % |
-| 2 | puente y glosa | 25 % |
-| 3 | escuela | 50 % |
+El destilado se arma con un plan de puentes y unión que incluye frase y glosa escuela en proporción 1:1: por cada palabra de prosa propia, una de frase del original.
 
 La **medida honesta** cuenta como propias solo las palabras que no tienen un original detrás. Una paráfrasis de una frase existente no es voz propia, es el original con otra letra, y debe volver a la suya.
 
 ## 7. Verificar
 
-Con la obra abierta, nunca de memoria. Cada frase citada se busca literal en el original. Cada puente se relee como lo leería un invitado: ¿sabe quién habla, a quién y dónde? Lo confuso señala el lugar. Por último se mide la proporción con la medida honesta y se compara con la muesca elegida.
+Con la obra abierta, nunca de memoria. Cada frase citada se busca literal en el original. Cada puente se relee como lo leería un invitado: ¿sabe quién habla, a quién y dónde? Lo confuso señala el lugar. Por último se mide con la medida honesta que la prosa propia y las frases citadas estén en proporción 1:1.
 
 ## Límites
 
