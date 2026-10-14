@@ -2,6 +2,8 @@
 
 # La medida del significado
 
+![Una balanza pesa una página manuscrita contra un hueso, en claroscuro.](../img/cgbaaf_medida-significado.jpg)
+
 ## La pregunta
 
 ¿Se puede medir el significado de cada frase de un corpus y reconocer dónde están su peso, su sustancia y su hueso?

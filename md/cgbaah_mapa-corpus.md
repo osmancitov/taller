@@ -2,6 +2,8 @@
 
 # El mapa del corpus
 
+![Un cartógrafo ante un mapa desplegado, con un paisaje de torres-baliza por la ventana.](../img/cgbaah_mapa-corpus.jpg)
+
 Un mapa dice dónde está cada cosa y cómo es el terreno entre una y otra. Un corpus, es decir, un texto grande o un montón de textos, también necesita uno.
 
 Este cuaderno abre una pregunta: cómo se arma ese mapa. No la cierra.

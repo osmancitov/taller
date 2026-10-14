@@ -2,6 +2,8 @@
 
 # La carrera de los embeddings
 
+![Una carrera de patinadores sobre un canal helado, con cinco carriles y una meta de banderines.](../img/cgbaaj_embeddings.jpg)
+
 ## Qué es un embedding
 
 Un embedding es una dirección en un mapa para una frase.

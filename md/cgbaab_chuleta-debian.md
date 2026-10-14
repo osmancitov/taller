@@ -2,6 +2,8 @@
 
 # La chuleta de Debian
 
+![Grabado de una tarjeta de referencia plegada sobre un banco de trabajo, con lupa, compás y pluma.](../img/cgbaab_chuleta-debian.jpg)
+
 *Las 101 cosas más importantes para el uso de Debian.*
 
 Edición: Refcard v. 12.0 (Bookworm), publicada el 22 de marzo de 2023. Conversión a Markdown: 1 de octubre de 2026.
