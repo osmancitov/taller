@@ -18,7 +18,7 @@ Se compara qué motor agrupa mejor las frases por escena o capítulo, y se elige
 
 Otros criterios acompañan a los vectores, cada uno con su límite:
 
-- **Sismograma:** el peso de cada palabra como sorpresa dentro de la propia obra, según la teoría de la información. Mide rareza, no sentido.
+- **Mapa de densidad:** el peso de cada palabra como sorpresa dentro de la propia obra, según la teoría de la información. Mide rareza, no sentido.
 - **Eco del autor:** las frases que el texto retoma y replantea.
 - **Enlaces estructurales:** personajes que coinciden en escena, ecos entre escenas. Es trabajo en buena parte manual.
 
