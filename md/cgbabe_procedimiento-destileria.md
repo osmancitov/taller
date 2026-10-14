@@ -8,7 +8,7 @@ Destilar una obra es quitarle lo que sobra hasta que cabe en la mano y se puede 
 
 ## 1. Partir en frases
 
-La obra se parte en frases. Cada una guarda un identificador y su origen: la escena, el cuento, el capítulo. De un libro de trece cuentos salen unas dos mil. Todo lo que sigue se refiere a las frases por su identificador, y nada se escribe sin poder volver a la frase de donde viene.
+La obra se parte en frases. Cada una guarda un identificador y su origen: la escena, el cuento, el capítulo. Todo lo que sigue se refiere a las frases por su identificador, y nada se escribe sin poder volver a la frase de donde viene.
 
 ## 2. Medir
 
@@ -18,7 +18,7 @@ Con *Macbeth* (1.108 frases, 28 escenas) se comparó qué motor agrupa mejor por
 
 Otros criterios acompañan a los vectores, cada uno con su límite:
 
-- **Sismograma:** el peso de cada palabra como sorpresa dentro de la propia obra, según la idea de Claude Shannon. Mide rareza, no sentido.
+- **Sismograma:** el peso de cada palabra como sorpresa dentro de la propia obra, según la teoría de la información. Mide rareza, no sentido.
 - **Eco del autor:** las frases que el texto retoma y replantea.
 - **Enlaces estructurales:** personajes que coinciden en escena, ecos entre escenas. Es trabajo en buena parte manual.
 
@@ -26,7 +26,7 @@ Rige una regla: afuera del corpus no existe. Las frecuencias se calculan dentro 
 
 ## 3. Mapear
 
-Un mapa se arma de dos maneras. Se **capta** lo que el mundo ya marcó como famoso, como las 57 líneas de *Macbeth*. O se **construye** lo que el corpus muestra de sí mismo, y de ahí sale el mapa mecánico, en tres pasadas:
+Un mapa se arma de dos maneras. Se **capta** lo que el mundo ya marcó como famoso, como una lista de frases célebres de la obra. O se **construye** lo que el corpus muestra de sí mismo, y de ahí sale el mapa mecánico, en tres pasadas:
 
 - **PCA** deja unos cincuenta ejes y suelta el ruido.
 - **UMAP** baja esos ejes a dos o tres, cuidando que los vecinos sigan siéndolo.
@@ -44,7 +44,7 @@ Sobre el mapa se eligen tramos: frases seguidas, indicadas por identificador, qu
 
 Un destilado no es un resumen: es el mismo texto con menos agua, como el demi-glace, que se reduce a fuego lento, decantando y probando. Con *Macbeth*, unas 18.000 palabras, pedir la mitad de golpe devolvió el 80 %. Repetir el pedido con calma sobre lo ya devuelto dio 58, 43 y 38 %, y allí la máquina se detuvo sola. Cortar poco y repetir llega más lejos que cortar de golpe.
 
-La cata fue una lista de 57 frases famosas: sobrevivieron casi nueve de cada diez con poco más de un tercio del texto. Lo que queda es palabra por palabra del original, en su orden. El pliegue corta y no reescribe.
+La cata es una lista de frases famosas de la obra: se cuenta cuántas sobreviven en el destilado frente a la parte del texto que se conservó. Lo que queda es palabra por palabra del original, en su orden. El pliegue corta y no reescribe.
 
 ## 6. Tender puentes
 
