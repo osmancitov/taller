@@ -2,6 +2,8 @@
 
 # Los criterios del corpus
 
+![Compás, balanza, plomada y regla sobre un libro cerrado.](../img/cgbaaf_criterios-corpus.jpg)
+
 ## Para qué sirve
 
 Antes de destilar un texto hay que saber dónde pesa. Un mapa del corpus dice qué partes sostienen a las demás, y de ese mapa depende lo que se conserve al destilar.

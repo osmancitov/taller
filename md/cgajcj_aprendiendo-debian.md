@@ -2,6 +2,8 @@
 
 # El aprendizaje de Debian
 
+![Un lector joven con un libro grueso abierto y un cuaderno, junto a una ventana, en estilo flamenco.](../img/cgajcj_aprendiendo-debian.jpg)
+
 Cuaderno de estudio de la [Debian Reference (version 2.100)](https://packages.debian.org/bookworm/debian-reference)
 Manual de usuario de [Debian 12 (Bookworm)](https://packages.debian.org/bookworm/) 
 

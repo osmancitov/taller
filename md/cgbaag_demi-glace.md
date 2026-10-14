@@ -2,6 +2,8 @@
 
 # La técnica del demi-glace
 
+![Una cocina con una olla de cobre a fuego lento y un cocinero que prueba la salsa.](../img/cgbaag_demi-glace.jpg)
+
 En cocina, reducir es quitar agua para concentrar un fondo. El demi-glace clásico parte de un fondo oscuro y una salsa española, y los deja a fuego lento durante horas. No se apura. Con la llama alta el fondo se quema o se pasa de punto, y lo perdido no vuelve. Con la llama baja, cada rato evapora un poco, y el cocinero mira, prueba y decide si sigue.
 
 Dos gestos de oficio sostienen la receta. El primero es decantar: dejar que el agua suba y se vaya mientras el sabor se queda en el fondo de la olla. El segundo es probar: el punto no está en una hora fija, está en el momento en que otro rato de fuego ya no cambia nada.

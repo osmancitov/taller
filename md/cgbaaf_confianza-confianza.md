@@ -2,6 +2,8 @@
 
 # La confianza de la confianza
 
+![Una figura examina un plano mientras una gran máquina de engranajes copia el mismo plano, con una sombra entre los engranajes.](../img/cgbaaf_confianza-confianza.jpg)
+
 *Una lectura de lo que Ken Thompson planteó en 1984 sobre la confianza: revisar el código fuente no basta si no se confía en la herramienta que lo convierte en máquina.*
 
 *Versión destilada en castellano · Destilería Osmancito*
