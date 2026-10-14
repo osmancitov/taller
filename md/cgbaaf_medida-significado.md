@@ -22,7 +22,7 @@ Eso no vuelve inocente a cualquier instrumento: un modelo preentrenado trae cono
 
 ## Lo que ya se midió
 
-El banco de pruebas es el original de *Macbeth* y *El libro de arena*: teatro inglés y prosa española. A cada palabra se le asigna un peso según su frecuencia en la obra, y la entropía es el promedio de esos pesos: sorpresa según la distribución del propio corpus, no significado.
+El banco de pruebas es el original de *Macbeth* y *El Libro de Arena*: teatro inglés y prosa española. A cada palabra se le asigna un peso según su frecuencia en la obra, y la entropía es el promedio de esos pesos: sorpresa según la distribución del propio corpus, no significado.
 
 Al recortar las palabras a sus raíces, la entropía de Borges bajó más del doble que la de Macbeth: "el español se dejó recortar más" describe este resultado, no es una ley sobre las lenguas. La lección es concreta: una medida puede cambiar mucho al cambiar la representación. Antes de llamar "sustancia" a un pico hay que averiguar cuánto viene de morfología, longitud, nombres propios o limpieza.
 
@@ -51,7 +51,7 @@ Una segunda prueba: retirar frases que puntúan alto y bajo y ver qué relacione
 
 ## Qué se pide a cada motor
 
-Un capítulo con hipótesis y alcance; medidas ejecutables, con unidad, fórmula y un ejemplo calculable a mano; predicciones falsables sobre *Macbeth* o *El libro de arena*, con el umbral fijado antes de la prueba; pruebas de engaño (palabras raras añadidas, conjugaciones, repetición, paráfrasis); y el experimento más barato que permita descartar la propuesta. Sin los corpus completos no se inventan frases ni resultados: se presenta el diseño y se señalan los datos faltantes.
+Un capítulo con hipótesis y alcance; medidas ejecutables, con unidad, fórmula y un ejemplo calculable a mano; predicciones falsables sobre *Macbeth* o *El Libro de Arena*, con el umbral fijado antes de la prueba; pruebas de engaño (palabras raras añadidas, conjugaciones, repetición, paráfrasis); y el experimento más barato que permita descartar la propuesta. Sin los corpus completos no se inventan frases ni resultados: se presenta el diseño y se señalan los datos faltantes.
 
 ## Cómo se compararán las tesis
 
