@@ -14,7 +14,7 @@ La obra se parte en frases. Cada una guarda un identificador y su origen: la esc
 
 Antes de leer se mide, con una regla que no sabe de literatura. Un motor de embeddings lee una frase y devuelve una lista larga de números: su dirección en un mapa de significados. Las frases que hablan de lo mismo caen cerca, aunque no compartan una palabra; las que no tienen relación caen lejos. Cada motor dibuja su propio mapa, y por eso se miden varios.
 
-Con *Macbeth* (1.108 frases, 28 escenas) se comparó qué motor agrupa mejor por escena. Las diferencias fueron pequeñas y ninguno acertó de sobra, porque la obra misma se deja separar mal. Nemotron, que es gratuito, anduvo más veces adelante; Voyage 4 Large ganó en los dos criterios de vecindad.
+Se compara qué motor agrupa mejor las frases por escena o capítulo, y se elige el que mejor separa la obra. Las diferencias suelen ser pequeñas y ninguno acierta de sobra, porque una obra se deja separar mal.
 
 Otros criterios acompañan a los vectores, cada uno con su límite:
 
@@ -42,7 +42,7 @@ Sobre el mapa se eligen tramos: frases seguidas, indicadas por identificador, qu
 
 ## 5. Destilar
 
-Un destilado no es un resumen: es el mismo texto con menos agua, como el demi-glace, que se reduce a fuego lento, decantando y probando. Con *Macbeth*, unas 18.000 palabras, pedir la mitad de golpe devolvió el 80 %. Repetir el pedido con calma sobre lo ya devuelto dio 58, 43 y 38 %, y allí la máquina se detuvo sola. Cortar poco y repetir llega más lejos que cortar de golpe.
+Un destilado no es un resumen: es el mismo texto con menos agua, como el demi-glace, que se reduce a fuego lento, decantando y probando. Pedir la mitad de golpe devuelve bastante más de la mitad. Repetir el pedido con calma sobre lo ya devuelto reduce más, hasta que la máquina se detiene sola. Cortar poco y repetir llega más lejos que cortar de golpe.
 
 La cata es una lista de frases famosas de la obra: se cuenta cuántas sobreviven en el destilado frente a la parte del texto que se conservó. Lo que queda es palabra por palabra del original, en su orden. El pliegue corta y no reescribe.
 
