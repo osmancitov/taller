@@ -6,7 +6,7 @@ Una nube de cercanía pone cada frase de una obra como un punto en el espacio. E
 
 Esta es la plantilla. Para otra obra solo cambian la obra, los motores y las secciones. Todo lo demás se copia igual.
 
-La página de referencia es la de *El Libro de Arena*, de Borges: [Nube en 3D de El Libro de Arena](https://osmancitov.github.io/destileria/bodega-110/cgbabe_nube-arena-3d.html). Es un solo archivo, sin servidor.
+La página de referencia es la de *El Libro de Arena*, de Borges: [Nube en 3D de El Libro de Arena](https://osmancitov.github.io/taller/html/cgbabe_nube-arena-3d.html). Es un solo archivo, sin servidor.
 
 ## Qué hace falta
 
