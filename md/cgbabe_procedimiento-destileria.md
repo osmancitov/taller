@@ -12,7 +12,7 @@ La obra se parte en frases. Cada una guarda un identificador y su origen: la esc
 
 ## 2. Medir
 
-Antes de leer se mide, con una regla que no sabe de literatura. Un motor de embeddings lee una frase y devuelve una lista larga de números: su dirección en un mapa de significados. Las frases que hablan de lo mismo caen cerca, aunque no compartan una palabra; las que no tienen relación caen lejos. Cada motor dibuja su propio mapa, y por eso se miden varios.
+Antes de leer se mide, con una regla que no sabe de literatura. Un motor de embeddings lee una frase y devuelve una lista larga de números: su dirección en un mapa de significados. Las frases que hablan de lo mismo caen cerca, aunque no compartan una palabra; las que no tienen relación caen lejos.
 
 Se compara qué motor agrupa mejor las frases por escena o capítulo, y se elige el que mejor separa la obra. Las diferencias suelen ser pequeñas y ninguno acierta de sobra, porque una obra se deja separar mal.
 
@@ -20,7 +20,7 @@ Otros criterios acompañan a los vectores, cada uno con su límite:
 
 - **Mapa de densidad:** el peso de cada palabra como sorpresa dentro de la propia obra, según la teoría de la información. Mide rareza, no sentido.
 - **Eco del autor:** las frases que el texto retoma y replantea.
-- **Enlaces estructurales:** personajes que coinciden en escena, ecos entre escenas. Es trabajo en buena parte manual.
+- **Enlaces estructurales:** personajes que coinciden en escena, ecos entre escenas.
 
 Rige una regla: afuera del corpus no existe. Las frecuencias se calculan dentro de la obra, y todo modelo declara qué trae de fuera.
 
@@ -39,6 +39,8 @@ El mapa enseña dónde mirar y no dicta nada. Una isla es una pista, no una prue
 ## 4. Elegir los tramos
 
 Sobre el mapa se eligen tramos: frases seguidas, indicadas por identificador, que son texto literal de la obra. Una medida que pretenda predecir qué merece quedarse debe superar controles baratos, como el azar, la longitud, la posición y la rareza. Quien mide, quien destila y quien evalúa no deben ser el mismo, porque si no la prueba es circular.
+
+Una frase dudosa no se presenta desnuda: llega con su glosa, porque nadie decide lo que no entiende. Entra o sale con la glosa puesta, y la glosa informa dos veces. Por su peso: la frase que necesita tres líneas de rescate para sostenerse ya está confesando. Por lo que revela: explicada, la frase tiene que dejar algo de valor para el lector, y si la glosa solo aclara y no deja nada, la frase no tiene por qué estar.
 
 ## 5. Destilar
 
