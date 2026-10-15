@@ -29,7 +29,7 @@ Todas las imágenes salen en 2:1: las de las salas, las portadas, el og:image de
 
 ## Con etiqueta o sin ella
 
-Las imágenes que viajan solas, como las publicaciones en redes, llevan una etiqueta discreta en la esquina inferior derecha: título, pintor y Osmancito, separados por un punto medio. Las que van arriba de una página no llevan etiqueta.
+Las imágenes que viajan solas, como las publicaciones en redes, llevan una etiqueta discreta en la esquina inferior derecha: título, pintor y Osmancito, separados por un punto medio. Las que van arriba de una página no llevan etiqueta. Los títulos y las etiquetas de las imágenes que viajan a redes van en inglés.
 
 ## El molde del prompt
 
