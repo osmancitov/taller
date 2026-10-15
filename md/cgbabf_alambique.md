@@ -1,6 +1,6 @@
 15 de octubre de 2026
 
-# Protocolo de imagen Alambique
+# El protocolo de imagen Alambique
 
 ![Un maestro y su aprendiz miran un alambique de cobre que destila gotas de luz de colores en un matraz, en un taller flamenco lleno de lienzos, al estilo de David Teniers el Joven](../img/cgbabf_alambique.jpg)
 
