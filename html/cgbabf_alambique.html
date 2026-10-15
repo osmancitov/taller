@@ -1,0 +1,86 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Protocolo de imagen Alambique · osmancito</title><meta name="description" content="De un texto, una pintura: cómo se elige pintor, se escribe el prompt y se revisa la imagen."><link rel="icon" type="image/x-icon" href="https://osmancitov.github.io/favicon.ico"><meta property="og:type" content="article"><meta property="og:title" content="Protocolo de imagen Alambique"><meta property="og:description" content="De un texto, una pintura: cómo se elige pintor, se escribe el prompt y se revisa la imagen."><meta property="og:url" content="https://osmancitov.github.io/taller/html/cgbabf_alambique.html"><meta property="og:image" content="https://osmancitov.github.io/taller/img/cgbabf_alambique.jpg"><meta property="og:image:type" content="image/jpeg"><meta property="og:image:width" content="1280"><meta property="og:image:height" content="640"><style>html{color-scheme:dark}body{background:#0d1117;color:#f0f6fc;font:18px/1.65 system-ui,sans-serif;margin:auto;max-width:680px;padding:24px}a{color:#4493f8}img{display:block;max-width:100%;height:auto;margin:24px auto}h1,h2{line-height:1.2}li{margin:12px 0}blockquote{margin:24px 0 8px;padding-left:16px;border-left:3px solid #30363d;color:#9da7b3}.quien{color:#9da7b3;font-size:15px;margin-top:0}hr{border:0;border-top:1px solid #30363d;margin:36px 0}h2{margin:36px 0 24px}blockquote{color:#f0f6fc}body{overflow-wrap:break-word} code{font-size:.86em}ol{padding-left:26px}li{margin:12px 0}table{border-collapse:collapse;display:block;overflow-x:auto}td,th{border:1px solid #30363d;padding:6px 10px;text-align:left}pre{overflow-x:auto;background:#161b22;padding:12px}</style></head><body><main><p>15 de octubre de 2026</p>
+<h1>Protocolo de imagen Alambique</h1>
+<img src="../img/cgbabf_alambique.jpg" alt="Un maestro y su aprendiz miran un alambique de cobre que destila gotas de luz de colores en un matraz, en un taller flamenco lleno de lienzos, al estilo de David Teniers el Joven" width="1280" height="640">
+<p>Un alambique es el aparato que destila: calienta una mezcla y recoge lo esencial, gota a gota. Este protocolo hace lo mismo con un texto: lo lee y lo destila en una imagen.</p>
+<p>El sistema recibe un texto, de una frase a una página, y entrega una pintura al óleo. Decide solo, de principio a fin.</p>
+<h2>Qué entra y qué sale</h2>
+<p>Entra un texto, en cualquier idioma. Sale una imagen apaisada de 2:1, de 1280 × 640 píxeles, en JPG al 80 %, pintada al estilo de un pintor famoso que el texto mismo elige.</p>
+<h2>Los pasos</h2>
+<ol type="1">
+<li>Leer el texto con atención total: su carga, su tensión, lo que pide ver.</li>
+<li>Imaginar dos imágenes: una literal, que muestra la escena que el texto describe, y una simbólica, que encarna lo que el texto dice. Elegir una. La literal es la regla; la simbólica se elige cuando el texto no describe ninguna escena.</li>
+<li>Elegir el pintor de la lista de más abajo: el de la descripción que más se parece al ambiente del texto, en luz, tensión y escala. Si dos encajan, se toma el menos usado en las últimas imágenes.</li>
+<li>Ponerle a la imagen un título de 2 a 4 palabras, tomadas o inspiradas del texto.</li>
+<li>Escribir el prompt en castellano, aunque el texto esté en otro idioma, con el molde de más abajo.</li>
+<li>Generar la imagen en Gemini, con la cuenta de Osmancito. El cupo es de unas 15 imágenes por ventana de cinco horas.</li>
+<li>Mirar la imagen entera antes de usarla: la escena pedida, manos y rostros bien formados, la etiqueta escrita tal cual y ningún otro texto. Si algo falla, se repite el prompt con la corrección, hasta tres intentos.</li>
+<li>Guardar el resultado. Gemini entrega unos 1024 píxeles de ancho; se recorta a 2:1 desde el centro, se escala a 1280 × 640 y se guarda como JPG al 80 %.</li>
+</ol>
+<h2>La proporción</h2>
+<p>Todas las imágenes salen en 2:1: las de las salas, las portadas, el og:image de las páginas y las publicaciones en redes. Un solo formato, con un margen de 40 puntos por lado donde no queda nada importante, de modo que cada sala y cada red puedan recortar sin perder lo esencial.</p>
+<h2>Con etiqueta o sin ella</h2>
+<p>Las imágenes que viajan solas, como las publicaciones en redes, llevan una etiqueta discreta en la esquina inferior derecha: título, pintor y Osmancito, separados por un punto medio. Las que van arriba de una página no llevan etiqueta.</p>
+<h2>El molde del prompt</h2>
+<pre><code>Óleo, sin fotorrealismo. [Escena en una o dos frases.] [Luz y ambiente.] Al estilo de [Pintor]: [descripción de la lista, completa]. Composición apaisada 2:1 con lo importante lejos de los bordes. [Con etiqueta: Etiqueta discreta en la esquina inferior derecha con exactamente este texto: Título · Pintor · Osmancito. Ningún otro texto.] [Sin etiqueta: Ningún texto, ninguna letra, ninguna etiqueta.]</code></pre>
+<h2>Un ejemplo</h2>
+<p>Texto: «De tanto calibrar la máquina para que ande sola, entendí que el mejor modo es otro: caminar con la máquina.» El texto describe un paseo y pide un paisaje vasto con figuras de espaldas y luz serena, así que la imagen es literal y el pintor es Caspar David Friedrich. Título: Caminar con la máquina. Prompt:</p>
+<pre><code>Óleo, sin fotorrealismo. Una joven y una máquina de latón de un solo ojo de lente caminan lado a lado, de espaldas, por una cresta sobre un mar de niebla al amanecer; ella apoya una mano en el hombro de la máquina; a lo lejos, cumbres y un territorio inmenso apenas dibujado. Luz trascendente, atmósfera vasta y serena. Al estilo de Caspar David Friedrich: Romanticismo, figuras de espaldas (Rückenfigur), paisajes vastos, niebla, luz trascendente. Composición apaisada 2:1 con lo importante lejos de los bordes. Etiqueta discreta en la esquina inferior derecha con exactamente este texto: Caminar con la máquina · Caspar David Friedrich · Osmancito. Ningún otro texto.</code></pre>
+<h2>La lista de pintores</h2>
+<p>Cada línea trae el pintor y su descripción visual, que se copia completa en el prompt.</p>
+<ul>
+<li><strong>Agnolo Bronzino</strong>: Manierismo, colores saturados, superficies pulidas, iluminación suave, elegancia fría.</li>
+<li><strong>Albert Bierstadt</strong>: Romanticismo, paisajes monumentales, luz dramática, atmósfera sublime, escala épica.</li>
+<li><strong>Albert Edelfelt</strong>: Realismo nórdico, luz natural difusa, pincelada íntima, escenas costumbristas sensibles.</li>
+<li><strong>Alberto Durero</strong>: Grabado renacentista, precisión lineal extrema, alto contraste, detalle minucioso, crosshatching.</li>
+<li><strong>Alfred Sisley</strong>: Impresionismo, paisajes suaves, luz cambiante, pinceladas sueltas, paleta natural.</li>
+<li><strong>Amedeo Modigliani</strong>: Modernismo, figuras alargadas, cuellos largos, rostros estilizados, colores terrosos.</li>
+<li><strong>Andrea Mantegna</strong>: Renacimiento, perspectiva rigurosa, escorzos dramáticos, figuras escultóricas, iluminación dura.</li>
+<li><strong>Anthony van Dyck</strong>: Barroco, retratos aristocráticos, pincelada fluida, telas suntuosas, elegancia dinámica.</li>
+<li><strong>Arnold Böcklin</strong>: Simbolismo, atmósferas oníricas, misterio, paleta oscura, luz irreal y mitológica.</li>
+<li><strong>August Macke</strong>: Expresionismo, colores vibrantes y puros, formas simplificadas, alegría visual, sin sombreado complejo.</li>
+<li><strong>Camille Pissarro</strong>: Impresionismo, textura viva, luz difusa, pincelada comunal, escenas vibrantes.</li>
+<li><strong>Caravaggio</strong>: Barroco, claroscuro extremo (tenebrismo), dramatismo teatral, realismo crudo, fondo oscuro.</li>
+<li><strong>Caspar David Friedrich</strong>: Romanticismo, figuras de espaldas (Rückenfigur), paisajes vastos, niebla, luz trascendente.</li>
+<li><strong>Charles-François Daubigny</strong>: Escuela de Barbizon, paisajes fluviales, naturalismo suave, paleta terrosa, atmósfera serena.</li>
+<li><strong>Childe Hassam</strong>: Impresionismo americano, luz urbana luminosa, pincelada vibrante, escenas festivas, paleta clara.</li>
+<li><strong>Claude Monet</strong>: Impresionismo, disolución de la forma, luz y color puro, pincelada rápida, atmósfera efímera.</li>
+<li><strong>Crowley/Harris (Thoth)</strong>: Simbolismo esotérico, color simbólico intenso, geometría mística, líneas Art Déco, arquetipos.</li>
+<li><strong>David Teniers el Joven</strong>: Barroco flamenco, escenas de género, detalle costumbrista, iluminación cálida de taberna.</li>
+<li><strong>Edgar Degas</strong>: Impresionismo, composiciones asimétricas, perspectivas inusuales, captura de movimiento, luz artificial.</li>
+<li><strong>Édouard Manet</strong>: Realismo, pinceladas directas y planas, contrastes fuertes, negros profundos, modernidad.</li>
+<li><strong>Edvard Munch</strong>: Expresionismo, líneas ondulantes y distorsionadas, colores psicológicos, angustia visual.</li>
+<li><strong>Egon Schiele</strong>: Expresionismo, líneas nerviosas y angulares, cuerpos crudos, contornos marcados, paleta terrosa.</li>
+<li><strong>El Greco</strong>: Manierismo, figuras alargadas y flameantes, luz espiritual fría, colores ácidos, dramatismo místico.</li>
+<li><strong>Ernst Ludwig Kirchner</strong>: Expresionismo, colores chillones y antinaturales, formas angulosas, tensión urbana, pincelada agresiva.</li>
+<li><strong>Eugène Boudin</strong>: Precursor impresionismo, cielos amplios y nublados, playas, luz atmosférica suave, pincelada rápida.</li>
+<li><strong>Eugène Delacroix</strong>: Romanticismo, movimiento dramático, pincelada vibrante, color intenso y rico, pasión visual.</li>
+<li><strong>Ferdinand Hodler</strong>: Simbolismo, paralelismo compositivo, figuras rítmicas y repetitivas, solemnidad, líneas ondulantes.</li>
+<li><strong>Fra Angelico</strong>: Renacimiento temprano, colores luminosos y pastel, perspectiva clara, serenidad, luz divina.</li>
+<li><strong>Francisco de Goya</strong>: Romanticismo, pincelada suelta y oscura, contrastes dramáticos, atmósfera psicológica y cruda.</li>
+<li><strong>Frederic Edwin Church</strong>: Romanticismo americano, paisajes épicos, luz dramática y detallada, atmósfera sublime.</li>
+<li><strong>Frederic Leighton</strong>: Academicismo, idealización clásica, composición armónica, telas drapeadas, acabado pulido.</li>
+<li><strong>George Inness</strong>: Tonalismo, atmósferas brumosas, tonos suaves y difuminados, quietud, luz espiritual suave.</li>
+<li><strong>George Stubbs</strong>: Neoclasicismo, precisión anatómica extrema, naturalismo elegante, fondos paisajísticos serenos.</li>
+<li><strong>George Wesley Bellows</strong>: Realismo americano, pinceladas vigorosas y espesas, energía cruda, contraste urbano.</li>
+<li><strong>Georges Seurat</strong>: Puntillismo, composición mediante puntos de color (divisionismo), calma estructurada, geometría.</li>
+<li><strong>Gilbert Stuart</strong>: Retrato colonial, acabado formal y sobrio, iluminación de estudio, precisión facial, paleta conservadora.</li>
+<li><strong>Canaletto</strong>: Vedutismo, vistas urbanas precisas, luz clara y diáfana, perspectiva arquitectónica rigurosa.</li>
+<li><strong>Giovanni Bellini</strong>: Renacimiento veneciano, luz suave y dorada, paisajes serenos, delicadeza en los rostros.</li>
+<li><strong>Gustav Klimt</strong>: Simbolismo, ornamento dorado, patrones decorativos, sensualidad, mosaicos de color.</li>
+<li><strong>Gustave Caillebotte</strong>: Impresionismo, perspectivas urbanas audaces (picado/contrapicado), precisión casi fotográfica.</li>
+<li><strong>Gustave Courbet</strong>: Realismo, crudeza sin idealizar, textura densa (espátula), paleta terrosa, luz natural directa.</li>
+<li><strong>Gustave Doré</strong>: Ilustración romántica, grabado en madera, claroscuro narrativo, épica, alto contraste blanco y negro.</li>
+<li><strong>Hans Holbein el Joven</strong>: Renacimiento del norte, realismo frío, detalle textil minucioso, iluminación frontal y clara.</li>
+<li><strong>Hans Memling</strong>: Renacimiento flamenco, detalle delicado, color suave y esmaltado, quietud contemplativa.</li>
+<li><strong>Hans Thoma</strong>: Realismo romántico, paisajes idílicos, luz cálida y nostálgica, sencillez narrativa.</li>
+<li><strong>Hendrick Avercamp</strong>: Barroco holandés, escenas invernales, paleta de grises y blancos, multitudes detalladas sobre hielo.</li>
+<li><strong>Henri Rousseau</strong>: Naíf, naturaleza exuberante y selvática, perspectivas planas, ingenuidad deliberada, colores saturados.</li>
+<li><strong>Toulouse-Lautrec</strong>: Post-impresionismo, líneas expresivas y rápidas, colores planos, vida nocturna, ángulos inusuales.</li>
+<li><strong>El Bosco</strong>: Renacimiento del norte, fantasía simbólica densa, criaturas híbridas, paisajes oníricos, detalle microscópico.</li>
+<li><strong>Ivan Aivazovsky</strong>: Romanticismo marino, mar dramático, translucidez del agua, luz sobre las olas, atmósfera tormentosa.</li>
+<li><strong>Jacob van Ruisdael</strong>: Barroco holandés, paisajes atmosféricos, cielos protagónicos y nublados, melancolía natural.</li>
+<li><strong>Käthe Kollwitz</strong>: Expresionismo social, grafito y grabado austero, alto contraste, líneas angustiosas, sombras profundas.</li>
+</ul>
+<p>Osmancito, con la asistencia de Instinct</p>
+<p><a href="../taller.html">volver</a></p>
+</main></body></html>
