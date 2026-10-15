@@ -8,7 +8,7 @@ Aquí se estudia y se prueba. Los cuadernos guardan preguntas, notas, frases y h
 
 ## Cuadernos
 
-- [El protocolo de imagen Alambique](md/cgbabf_alambique.md) · 15 de octubre de 2026.
+- [El protocolo de imagen Alambique](md/cgbabf_imagen-alambique.md) · 15 de octubre de 2026.
 - [El procedimiento de la Destilería](md/cgbabe_procedimiento-destileria.md) · 14 de octubre de 2026.
 - [Nube en 3D de El Libro de Arena](html/cgbabe_nube-arena-3d.html) · 13 de octubre de 2026.
 - [La nube de cercanía](md/cgbabj_nube-cercania.md) · 13 de octubre de 2026.

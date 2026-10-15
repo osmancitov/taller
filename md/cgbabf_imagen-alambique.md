@@ -2,7 +2,7 @@
 
 # El protocolo de imagen Alambique
 
-![Un maestro y su aprendiz miran un alambique de cobre que destila gotas de luz de colores en un matraz, en un taller flamenco lleno de lienzos, al estilo de David Teniers el Joven](../img/cgbabf_alambique.jpg)
+![Un maestro y su aprendiz miran un alambique de cobre que destila gotas de luz de colores en un matraz, en un taller flamenco lleno de lienzos, al estilo de David Teniers el Joven](../img/cgbabf_imagen-alambique.jpg)
 
 Un alambique es el aparato que destila: calienta una mezcla y recoge lo esencial, gota a gota. Este protocolo hace lo mismo con un texto: lo lee y lo destila en una imagen.
 
