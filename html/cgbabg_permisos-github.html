@@ -1,0 +1,77 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Los permisos de GitHub · osmancito</title><meta name="description" content="Qué abre cada permiso de un token de GitHub, cuáles usa la casa y cuáles pueden interesar."><link rel="icon" type="image/x-icon" href="https://osmancitov.github.io/favicon.ico"><meta property="og:type" content="article"><meta property="og:title" content="Los permisos de GitHub"><meta property="og:description" content="Qué abre cada permiso de un token de GitHub, cuáles usa la casa y cuáles pueden interesar."><meta property="og:url" content="https://osmancitov.github.io/taller/html/cgbabg_permisos-github.html"><meta property="og:image" content="https://osmancitov.github.io/taller/img/cgbabg_permisos-github.jpg"><meta property="og:image:type" content="image/jpeg"><meta property="og:image:width" content="1280"><meta property="og:image:height" content="640"><link rel="stylesheet" href="/css/base.css">
+<style>html{color-scheme:dark}body{margin:auto;max-width:680px;padding:24px}a{color:#4493f8}img{display:block;max-width:100%;height:auto;margin:24px auto}h1,h2{line-height:1.2}li{margin:12px 0}h2{margin:36px 0 24px}body{overflow-wrap:break-word}</style></head><body><main><p>16 de octubre de 2026</p>
+<h1>Los permisos de GitHub</h1>
+<img src="../img/cgbabg_permisos-github.jpg" alt="Un llavero de hierro con muchas llaves de distintos tamaños sobre una mesa de madera de taller, junto a una puerta entornada, al estilo de Hans Holbein el Joven" width="1280" height="640">
+<p>Un token de acceso personal es una llave: un texto secreto que permite a un programa hablar con GitHub en nombre de una persona. La versión fina (fine-grained) no abre todo: abre solo los repositorios elegidos y solo con los permisos marcados. La llave nueva de la casa cubre todos los repositorios y trae 39 permisos. Casi todos son de lectura y escritura; tres son de solo lectura.</p>
+<p>La lista sirve también como mapa de lo que la API de GitHub puede hacer: cada permiso es una puerta que se puede abrir o dejar cerrada. Los nombres van en inglés, como los muestra GitHub.</p>
+<h2>El contenido</h2>
+<ul>
+<li><strong>Contents</strong>: el contenido de los repositorios: archivos, commits, ramas, descargas, releases y merges. La puerta principal: sin ella no se sube nada.</li>
+<li><strong>Commit statuses</strong>: el estado de cada commit, como si pasó o no las pruebas.</li>
+<li><strong>Custom properties</strong>: las propiedades personalizadas que el dueño define para sus repositorios.</li>
+<li><strong>Metadata</strong>: los datos básicos: buscar repositorios, listar colaboradores. Viene siempre marcada, es obligatoria y de solo lectura.</li>
+<li><strong>Repository license policy</strong>: la política de licencias del repositorio. Solo lectura.</li>
+<li><strong>Repository creation</strong>: crear repositorios nuevos.</li>
+<li><strong>Administration</strong>: crear, borrar y ajustar repositorios, con sus equipos y colaboradores.</li>
+</ul>
+<h2>La colaboración</h2>
+<ul>
+<li><strong>Issues</strong>: los issues y sus comentarios, responsables, etiquetas e hitos. La lista de tareas pegada al proyecto.</li>
+<li><strong>Pull requests</strong>: las pull requests con sus comentarios, etiquetas, hitos y merges.</li>
+<li><strong>Discussions</strong>: las discusiones del repositorio, con sus comentarios y etiquetas. Un foro dentro del proyecto.</li>
+<li><strong>Merge queues</strong>: la cola de integración: el orden en que entran las pull requests.</li>
+</ul>
+<h2>Las acciones automáticas</h2>
+<ul>
+<li><strong>Actions</strong>: los flujos de trabajo de GitHub Actions, sus ejecuciones y sus artefactos.</li>
+<li><strong>Workflows</strong>: actualizar los archivos que definen esos flujos.</li>
+<li><strong>Variables</strong> y <strong>Secrets</strong>: las variables y los secretos que usan las Actions de un repositorio.</li>
+<li><strong>Environments</strong>: los entornos de despliegue, como pruebas o producción, y sus reglas.</li>
+<li><strong>Deployments</strong>: los despliegues y sus estados.</li>
+<li><strong>Artifact metadata</strong>: los metadatos de los artefactos que dejan las ejecuciones.</li>
+<li><strong>Webhooks</strong>: los ganchos que avisan a otro servicio cuando algo pasa en el repositorio.</li>
+</ul>
+<h2>Codespaces</h2>
+<p>Los Codespaces son entornos de desarrollo completos que corren en la nube de GitHub.</p>
+<ul>
+<li><strong>Codespaces</strong>: crearlos, editarlos, borrarlos y listarlos.</li>
+<li><strong>Codespaces lifecycle admin</strong>: arrancarlos y pararlos.</li>
+<li><strong>Codespaces metadata</strong>: sus metadatos, como el devcontainer y el tipo de máquina. Solo lectura.</li>
+<li><strong>Codespaces secrets</strong>: limitar a qué repositorios llegan los secretos de usuario de Codespaces.</li>
+</ul>
+<h2>La seguridad</h2>
+<ul>
+<li><strong>Dependabot alerts</strong>: las alertas de Dependabot sobre dependencias vulnerables.</li>
+<li><strong>Dependabot secrets</strong>: los secretos que usa Dependabot.</li>
+<li><strong>Code scanning alerts</strong>: las alertas del análisis automático del código.</li>
+<li><strong>Code quality</strong>: los datos de calidad del código.</li>
+<li><strong>Secret scanning alerts</strong>: las alertas que saltan cuando un secreto aparece en el código.</li>
+<li><strong>Secret scanning alert dismissal requests</strong>: las peticiones para descartar esas alertas.</li>
+<li><strong>Secret scanning push protection bypass requests</strong>: las peticiones para saltarse el bloqueo que impide subir un secreto.</li>
+<li><strong>Repository security advisories</strong>: los avisos de seguridad del repositorio.</li>
+<li><strong>License compliance alerts</strong>: las alertas de cumplimiento de licencias.</li>
+<li><strong>Attestations</strong>: las atestaciones, pruebas firmadas de que un artefacto salió de donde dice.</li>
+</ul>
+<h2>Copilot y las apps</h2>
+<ul>
+<li><strong>Copilot agent settings</strong>: los ajustes del agente de Copilot en la nube.</li>
+<li><strong>Agent tasks</strong>: ver, crear y manejar las tareas del agente en un repositorio.</li>
+<li><strong>Agent secrets</strong> y <strong>Agent variables</strong>: los secretos y las variables del agente.</li>
+<li><strong>GitHub App installation repository access</strong>: decidir a qué repositorios accede cada GitHub App instalada.</li>
+</ul>
+<h2>Pages</h2>
+<ul>
+<li><strong>Pages</strong>: el estado, la configuración y las compilaciones de GitHub Pages, y lanzar compilaciones nuevas. El permiso que publica este sitio.</li>
+</ul>
+<h2>Las que usa la casa</h2>
+<p>Hasta hoy la llave anterior abría una sola: Contents, con la que se suben los cuadernos, las imágenes y las páginas de todas las salas. La llave nueva suma las que hacían falta y se resolvían a mano en la web: Pages, para activar y vigilar la publicación de cada sala; Administration, para los ajustes; y Repository creation, para abrir salas nuevas.</p>
+<h2>Las que pueden interesar</h2>
+<ul>
+<li><strong>Webhooks</strong>: que GitHub avise solo cuando algo cambia, en vez de ir a mirar.</li>
+<li><strong>Issues</strong>: llevar las tareas del hotel pegadas al código.</li>
+<li><strong>Workflows</strong> y <strong>Actions</strong>: que GitHub ejecute solo las tareas repetidas, como publicar cada mañana.</li>
+<li><strong>Dependabot alerts</strong>: un vigilante de las piezas ajenas que usa un proyecto.</li>
+</ul>
+<p>Osmancito, con la asistencia de Instinct</p>
+<p><a href="../taller.html">volver</a></p>
+</main></body></html>
