@@ -47,6 +47,6 @@ Son reglas escritas para personas. La sospecha de este cuaderno es que valen dob
 
 ## Lo que falta
 
-Leer la Debian Reference entera, con atención de cantera. Formular la pregunta que se le haría a Aoki: cómo se escribe una guía, según el que documentó a Debian. Y seguir escribiendo, que es el paso primero.
+Leer un poco más la Debian Reference, con atención de cantera. Formular la pregunta que se le haría a Aoki: cómo se escribe una guía, según el que documentó a Debian. Y seguir escribiendo, que es el paso primero.
 
 Osmancito, con la asistencia de Instinct
