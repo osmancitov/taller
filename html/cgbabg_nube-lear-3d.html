@@ -16,8 +16,7 @@
 <div class="map"><canvas aria-label="Nube de frases. Arrastra para girar; toca un punto para leerlo."></canvas><div class="zoom"><button id="plus" aria-label="Acercar">+</button><button id="minus" aria-label="Alejar">−</button><button id="pan" aria-pressed="false" aria-label="Arrastrar para mover la vista" title="Arrastrar para mover la vista">✥</button><button id="reset" aria-label="Ver el mapa completo">⟲</button><button id="spin" aria-pressed="false" aria-label="Girar sola">↻</button></div></div>
 <div class="bar" id="bar"></div><div class="scale"><span>0 · cerca del centro</span><span>1 · lejos del centro</span></div><p class="help">Distancia normalizada: rojo (0), azul (1).</p>
 <p class="help">Arrastra para girar; con dos dedos, pellizca para acercar y mueve para desplazar (o ✥). Toca un punto para leerlo.</p>
-<section class="phrase" hidden aria-live="polite"><div class="tale"><small id="number"></small><button id="close" aria-label="Cerrar frase">×</button></div>
-<div class="tale"><span>Corpus</span><button id="first" aria-label="Primera frase del corpus">⇤</button><button id="prev" aria-label="Frase anterior del corpus">‹</button><button id="next" aria-label="Frase siguiente del corpus">›</button><button id="last" aria-label="Última frase del corpus">⇥</button></div>
+<section class="phrase" hidden aria-live="polite"><div class="tale"><span>Corpus</span><button id="first" aria-label="Primera frase del corpus">⇤</button><button id="prev" aria-label="Frase anterior del corpus">‹</button><button id="next" aria-label="Frase siguiente del corpus">›</button><button id="last" aria-label="Última frase del corpus">⇥</button></div><small id="number"></small>
 <div class="tale"><span>Ranking</span><button id="top" aria-label="La más cercana en el ranking" title="La más cercana en el ranking">⇈</button><button id="up" aria-label="Una más cercana en el ranking" title="Una más cercana en el ranking">↑</button><button id="down" aria-label="Una más lejana en el ranking" title="Una más lejana en el ranking">↓</button><button id="bot" aria-label="La más lejana en el ranking" title="La más lejana en el ranking">⇊</button></div><small id="rank"></small>
 <div class="tale"><span>Nube</span><button id="top3" aria-label="La más cercana en la nube" title="La más cercana en la nube">⇈</button><button id="up3" aria-label="Una más cercana en la nube" title="Una más cercana en la nube">↑</button><button id="down3" aria-label="Una más lejana en la nube" title="Una más lejana en la nube">↓</button><button id="bot3" aria-label="La más lejana en la nube" title="La más lejana en la nube">⇊</button></div><small id="rank3"></small>
 <div class="tale"><strong id="tale"></strong></div><blockquote id="text" lang="en"></blockquote><blockquote id="es" lang="es"></blockquote></section>
@@ -47,7 +46,7 @@ function step(d){if(sel===null)return;const s=S[sel];show(first[s]+(pos(sel)-1+d
 function rk(r){if(sel===null)return;show(order[Math.max(0,Math.min(order.length-1,r))])}
 function rk3(r){if(sel===null)return;show(order3[Math.max(0,Math.min(order3.length-1,r))])}
 $('#first').onclick=()=>{if(sel!==null)show(first[S[sel]])};$('#last').onclick=()=>{if(sel!==null)show(first[S[sel]]+count[S[sel]]-1)};
-$('#prev').onclick=()=>step(-1);$('#next').onclick=()=>step(1);$('#close').onclick=()=>show(null);
+$('#prev').onclick=()=>step(-1);$('#next').onclick=()=>step(1);
 $('#top').onclick=()=>rk(0);$('#bot').onclick=()=>rk(order.length-1);
 $('#up').onclick=()=>rk(sel===null?0:rankOf.get(sel)-1);$('#down').onclick=()=>rk(sel===null?0:rankOf.get(sel)+1);
 $('#top3').onclick=()=>rk3(0);$('#bot3').onclick=()=>rk3(order3.length-1);
