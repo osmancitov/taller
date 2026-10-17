@@ -59,6 +59,7 @@ Dentro de la página hay un bloque `<script id="data" type="application/json">` 
 - `ids`: el ID de cada frase.
 - `m`: un bloque por motor, con `name`, `xyz` (tres enteros por frase) y `n` (la cercanía, de 0 a 1000).
 - `es`: la traducción al castellano de cada frase, cuando la obra la tiene. En Lear sale del molde de la bóveda, casada por ID.
+- `aparte`: los nombres de las secciones que van aparte, cuando la obra las tiene (en Arena, `["Epílogo"]`). Se ven en la obra entera como rombos, pero no aparecen en el selector ni se enlazan con `t`.
 
 Antes de publicar se revisa que `n` tenga un 0 y un 1000 en cada motor, que `xyz` llegue a 1000 en valor absoluto y que todas las listas tengan una entrada por frase.
 
@@ -66,7 +67,7 @@ Antes de publicar se revisa que `n` tenga un 0 y un 1000 en cada motor, que `xyz
 
 La página no se reescribe: se copia la de Arena y se cambia el bloque de datos y los textos. Lo que trae, y no se toca:
 
-- **Arriba:** la fecha, el título, el dibujo, el autor y el número de frases. Después una fila con un botón por motor, y otra con «Libro entero» y «Un cuento». Con «Un cuento» aparece un selector con las secciones elegibles. El epílogo se ve en el libro, como rombos, pero no se elige solo. El rótulo de cada motor se forma con la primera letra de cada palabra de su nombre, seguida de las cifras de la versión (una o dos, sin punto decimal; por ejemplo, «GF35» para Gemini Flash 3.5, «GE2» para Gemini Embedding 2 y «GE1» para Gemini Embedding 001); el título y el aria-label del botón conservan el nombre completo. Los rótulos cortos se declaran por motor dentro de la página y un motor sin rótulo muestra su nombre completo.
+- **Arriba:** la fecha, el título, el dibujo, el autor y el número de frases. Después una fila con un botón por motor, y otra con «Libro entero» y «Un cuento». Con «Un cuento» aparece un selector con las secciones elegibles. Las secciones aparte se ven en la obra entera, dibujadas como rombos, pero no se eligen solas. El motor inicial es el primero del bloque de datos. El rótulo de cada motor se forma con la primera letra de cada palabra de su nombre, seguida de las cifras de la versión (una o dos, sin punto decimal; por ejemplo, «GF35» para Gemini Flash 3.5, «GE2» para Gemini Embedding 2 y «GE1» para Gemini Embedding 001); el título y el aria-label del botón conservan el nombre completo. Los rótulos cortos se declaran por motor dentro de la página y un motor sin rótulo muestra su nombre completo.
 - **La nube:** vista en 3D con ejes tenues, perspectiva, giro con el dedo o el ratón, pellizco o rueda para el zoom (de 0,5 a 5,2 veces), botón ✥ para mover la vista, ⟲ para volver al principio y ↻ para que gire sola. Cada punto tiene el mismo tamaño en el libro y en una sección; el seleccionado se ve más grande y con un anillo blanco.
 - **El color:** un degradado continuo de 0 a 1 con estos extremos y paradas. No hay blanco ni negro.
 
@@ -97,7 +98,7 @@ Se cambian cinco cosas:
 2. Los textos: título, autor, fecha, número de frases y la descripción.
 3. La palabra «cuento»: según la obra será acto, capítulo o escena. Aparece en «Un cuento» y en el título de la sección de la frase elegida. Las filas «Corpus», «Ranking» y «Nube» se llaman igual en todas las obras.
 4. La traducción: si la obra la tiene, se suma `es` al bloque de datos y el panel la muestra debajo del original.
-5. El epílogo: si la obra no tiene una sección aparte como esa, no se pone.
+5. Las secciones aparte: se declaran en `aparte`, dentro del bloque de datos; si la obra no tiene ninguna, no se pone. El código no supone la estructura de una obra: ningún nombre, número u orden de secciones va escrito en la página; todo sale del bloque de datos.
 
 La imagen que se comparte al enviar el enlace (`og:image`) es un dibujo propio de la página, también se coloca arriba, después del título: JPG al 80 %, 1280 por 640.
 
