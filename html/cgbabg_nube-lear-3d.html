@@ -54,7 +54,7 @@ $('#up3').onclick=()=>rk3(sel===null?0:rankOf3.get(sel)-1);$('#down3').onclick=(
 const pick=$('#pick');names.forEach((n,i)=>{if(i===epi)return;const o=document.createElement('option');o.value=i;o.textContent=n;pick.append(o)});pick.value=cur;
 function setMode(m){mode=m;$('#book').setAttribute('aria-pressed',m==='book');$('#one').setAttribute('aria-pressed',m==='one');pick.hidden=m!=='one';cur=+pick.value;ranking();if(sel!==null&&!vis(sel))sel=null;$('.phrase').hidden=sel===null;if(sel!==null)show(sel);else{hashSet();draw()}}
 $('#book').onclick=()=>setMode('book');$('#one').onclick=()=>setMode('one');pick.onchange=()=>setMode('one');
-const mbox=$('#models');MK.forEach(k=>{const b=document.createElement('button');b.textContent=data.m[k].name;b.dataset.k=k;b.onclick=()=>setModel(k);mbox.append(b)});
+const mbox=$('#models'),SHORT={gemini2:'GE2',gemini001:'GE1'};MK.forEach(k=>{const b=document.createElement('button');b.textContent=SHORT[k]||data.m[k].name;b.title=data.m[k].name;b.setAttribute('aria-label',data.m[k].name);b.dataset.k=k;b.onclick=()=>setModel(k);mbox.append(b)});
 function setModel(k){model=k;[...mbox.children].forEach(b=>b.setAttribute('aria-pressed',b.dataset.k===k));ranking();P=data.m[k].xyz;if(sel!==null)show(sel);else{hashSet();draw()}}
 let P,yaw=.6,pitch=.35,zk=1,px=0,py=0,auto=false,panMode=false,proj=[];const ZMAX=5.2;
 function rot(x,y,z){const cy=Math.cos(yaw),sy=Math.sin(yaw),cp=Math.cos(pitch),sp=Math.sin(pitch),sc=Math.min(w,h)*.42*zk,D=3;const x1=x*cy+z*sy,z1=-x*sy+z*cy,y1=y*cp-z1*sp,z2=y*sp+z1*cp,f=D/(D+z2);return[w/2+px+x1*sc*f,h/2+py-y1*sc*f,z2,f]}
