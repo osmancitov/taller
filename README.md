@@ -8,6 +8,7 @@ Aquí se estudia y se prueba. Los cuadernos guardan preguntas, notas, frases y h
 
 ## Cuadernos
 
+- [Nube en 3D del Rey Lear](html/cgbabg_nube-lear-3d.html) · 16 de octubre de 2026.
 - [Los permisos de GitHub](md/cgbabg_permisos-github.md) · 16 de octubre de 2026.
 - [El protocolo de imagen Alambique](md/cgbabf_imagen-alambique.md) · 15 de octubre de 2026.
 - [El procedimiento de la Destilería](md/cgbabe_procedimiento-destileria.md) · 14 de octubre de 2026.
