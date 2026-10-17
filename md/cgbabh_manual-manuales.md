@@ -4,7 +4,7 @@
 
 ![Dos manos que se escriben mutuamente con pluma sobre la hoja de un cuaderno, litografía al estilo de M. C. Escher](../img/cgbabh_manual-manuales.jpg)
 
-Este cuaderno es un primer intento. La pregunta que busca responder: ¿cómo se escribe una guía sobre cómo escribir guías? Es la pregunta del arranque. Como en el boot de una máquina, lo primero que se carga es lo que permite cargar todo lo demás. Si existe la guía para escribir guías, cada guía posterior nace con la forma correcta.
+Este cuaderno es un primer intento. La pregunta que busca responder: ¿cómo se escribe una guía sobre cómo escribir guías? Es la pregunta del arranque. Como en el boot de una máquina, lo primero que se carga es lo que permite cargar todo lo demás. Si existe la guía para escribir guías, cada guía posterior nace como consecuencia de esta.
 
 ## El lector
 
