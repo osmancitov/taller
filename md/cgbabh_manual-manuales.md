@@ -8,11 +8,16 @@ Este cuaderno es un primer intento. La pregunta que busca responder: ¿cómo se 
 
 ## El lector
 
-La suposición de este cuaderno: el manual es el estilo literario de más provecho cuando la audiencia son las máquinas.
+La audiencia de este cuaderno son las máquinas. Una máquina es un lector exigente y literal. Lee cada palabra y solo las palabras: lo que no queda escrito, no lo sabe. No adivina el contexto, no supone la intención, no llena huecos. Escribir para ese lector obliga a una claridad que también le sirve a cualquier persona, porque lo que entiende una máquina lo entiende también el que llega de cero.
 
-Una máquina es un lector exigente y literal. Lee cada palabra y solo las palabras: lo que no queda escrito, no lo sabe. No adivina el contexto, no supone la intención, no llena huecos. Escribir para ese lector obliga a una claridad que también le sirve a cualquier persona, porque el manual que entiende una máquina lo entiende también el que llega de cero.
+¿Es el manual el estilo literario propio para esa audiencia? Este cuaderno ya no lo supone: lo pregunta. Los estilos candidatos:
 
-Un manual no adorna: define cada término cuando aparece, da un paso a la vez y dice cada cosa una sola vez.
+- **El manual:** ordena un tema de principio a fin, define cada término cuando aparece, da un paso a la vez y dice cada cosa una sola vez.
+- **La tabla de referencia:** no se lee, se consulta; comandos, opciones y valores.
+- **La especificación:** dice con exactitud qué es válido y qué no, sin narrar nada.
+- **El ejemplo completo:** un caso entero que funciona, que la máquina ejecuta y la persona imita.
+
+El manual es el primer candidato y el que este cuaderno ensaya. Cuál de los cuatro rinde más con lectores máquina solo se sabrá escribiendo.
 
 ## El modelo
 
