@@ -8,6 +8,7 @@ Aquí se estudia y se prueba. Los cuadernos guardan preguntas, notas, frases y h
 
 ## Cuadernos
 
+- [Nuevo Lear. Escena 1](md/cgbabi_nuevo-lear.md) · 18 de octubre de 2026.
 - [Cómo escribir un manual sobre cómo escribir manuales](md/cgbabh_manual-manuales.md) · 17 de octubre de 2026.
 - [Los permisos de GitHub](md/cgbabg_permisos-github.md) · 16 de octubre de 2026.
 - [El protocolo de imagen Alambique](md/cgbabf_imagen-alambique.md) · 15 de octubre de 2026.
