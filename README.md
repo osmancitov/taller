@@ -8,6 +8,7 @@ Aquí se estudia y se prueba. Los cuadernos guardan preguntas, notas, frases y h
 
 ## Cuadernos
 
+- [Las medidas de On Writing](md/cgbabj_medidas-on-writing.md) · 19 de octubre de 2026.
 - [El ranking de menciones](md/cgbabi_ranking-menciones.md) · 18 de octubre de 2026.
 - [Nuevo Lear. Escena 1](md/cgbabi_nuevo-lear.md) · 18 de octubre de 2026.
 - [Cómo escribir un manual sobre cómo escribir manuales](md/cgbabh_manual-manuales.md) · 17 de octubre de 2026.
