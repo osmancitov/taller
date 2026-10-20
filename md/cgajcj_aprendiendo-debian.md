@@ -76,7 +76,7 @@ Convención de los ejemplos: `#` delante del comando significa que se ejecuta en
 
 La **refcard** es la tarjeta de referencia del Debian Documentation Project (DDP): una hoja con seis columnas, tres por cara, hecha para imprimir y plegar. La tarjeta deja a mano los comandos para consultar ayuda, configurar el sistema y manejar paquetes.
 
-![Diagrama de plegado de la tarjeta de referencia de Debian](img/2-refcard.png)
+![Diagrama de plegado de la tarjeta de referencia de Debian](../img/cgajcj_refcard.png)
 
 Se puede ver la versión de Osmancito de la Refcard aquí:
 [Osmancito Refcard v.12](https://github.com/osmancitov/taller/blob/main/md/cgbaab_chuleta-debian.md)
