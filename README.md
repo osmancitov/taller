@@ -8,7 +8,7 @@ Aquí se estudia y se prueba. Los cuadernos guardan preguntas, notas, frases y h
 
 ## Cuadernos
 
-- [Alambique - Imagen General](md/cgbabj_imagen-general.md) · 19 de octubre de 2026.
+- [Alambique - Imagen General](md/cgbabj_alambique-imagen-general.md) · 19 de octubre de 2026.
 - [Las medidas de On Writing](md/cgbabj_medidas-on-writing.md) · 19 de octubre de 2026.
 - [El ranking de menciones](md/cgbabi_ranking-menciones.md) · 18 de octubre de 2026.
 - [Nuevo Lear. Escena 1](md/cgbabi_nuevo-lear.md) · 18 de octubre de 2026.
