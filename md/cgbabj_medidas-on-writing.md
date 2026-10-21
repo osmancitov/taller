@@ -56,11 +56,11 @@ Ninguna frase quedó sin anotar: 1.466 de 1.466. Con sujeto y objeto, 697; solo 
 
 ### Los datos
 
-Tres archivos guardan la medida en la sala de máquinas, listos para las próximas:
+Tres archivos guardaban la medida en la sala de máquinas; se borraron el 21 de octubre de 2026 por desactualizados:
 
-- [codificacion_completa.csv](https://github.com/osmancitov/maquinas/blob/main/lab/king-cv/codificacion_completa.csv): las 1.466 frases con sujeto y objeto originales y unificados, duda y puntaje, y el texto inglés del molde.
-- [nodos.csv](https://github.com/osmancitov/maquinas/blob/main/lab/king-cv/nodos.csv): los 1.066 nodos con su peso.
-- [top20.csv](https://github.com/osmancitov/maquinas/blob/main/lab/king-cv/top20.csv): las veinte frases de cabeza, en inglés y en castellano.
+- `codificacion_completa.csv`: las 1.466 frases con sujeto y objeto originales y unificados, duda y puntaje, y el texto inglés del molde.
+- `nodos.csv`: los 1.066 nodos con su peso.
+- `top20.csv`: las veinte frases de cabeza, en inglés y en castellano.
 
 ### El método
 
