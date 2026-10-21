@@ -4,7 +4,7 @@
 
 ![Óleo de una tejedora ante un telar a la luz de una vela: sobre un tapiz de paisaje con niebla, dos hebras doradas cruzan de lado a lado entre muchas hebras pálidas](../img/cgbacb_volcado-ranking.jpg)
 
-El volcado del ranking es el paso que sigue al [ranking de menciones](cgbabi_ranking-menciones.md). De una sección de la obra se toman las frases que más pesan, alrededor del diez por ciento, y se tejen con puentes y glosas hasta que la sección se lee completa, de principio a fin. Este cuaderno deja escrito el procedimiento entero, de la puntuación al tejido, para repetirlo igual en otra sección o en otra obra. Se fijó el 20 de octubre de 2026 con el preámbulo de *On Writing*, de Stephen King: 19 frases, de la BD0071 a la BD0089.
+El volcado del ranking es el paso que sigue al ranking de menciones. De una sección de la obra se toman las frases que más pesan, alrededor del diez por ciento, y se tejen con puentes y glosas hasta que la sección se lee completa, de principio a fin. Este cuaderno deja escrito el procedimiento entero, de la puntuación al tejido, para repetirlo igual en otra sección o en otra obra. Se fijó el 20 de octubre de 2026 con el preámbulo de *On Writing*, de Stephen King: 19 frases, de la BD0071 a la BD0089.
 
 ## Puntuar
 
@@ -34,6 +34,15 @@ El volcado del ranking es el paso que sigue al [ranking de menciones](cgbabi_ran
 Además de cubrir los huecos y enseñar, el puente y la glosa explican lo que un lector sin contexto no sabe. Lo primero, quién es cada persona. Mary Karr, la madre, el hermano, el padre: ninguno puede quedar como un nombre suelto.
 
 Para cada persona se anota si el original la presenta. Si el original la aclara, se dice con sus palabras. Si no la aclara, la explicación viene de fuera, y se marca como venida de fuera, con su fuente, para que se vea qué dice el libro y qué dice quien lo explica. Lo que no se pudo verificar se dice.
+
+## Decisiones de formato
+
+El 21 de octubre de 2026, al tejer la primera unidad con este procedimiento («El paisaje con niebla», en *Mientras escribo*), quedaron fijadas cuatro decisiones de formato:
+
+1. **La cita va en su idioma original y debajo su traducción al castellano.** Así aprendemos a traducir también.
+2. **La glosa va tejida en cada tramo, no en una sección aparte.** La glosa tejida es una lectura acompañada, y así es como más se disfruta.
+3. **El dibujo va justo debajo del título de la unidad, antes del primer puente.**
+4. **El presupuesto de palabras puede quedarse un poquito por arriba.** Los puentes y las glosas se miden contra las palabras de las citas ganadoras; pasarse un poco está bien, porque presentar a cada persona lo pide.
 
 ## Una advertencia honesta
 

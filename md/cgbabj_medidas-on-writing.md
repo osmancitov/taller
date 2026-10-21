@@ -4,7 +4,7 @@
 
 ![Grabado antiguo: un libro abierto sobre una mesa de taller; de sus páginas se alza un paisaje de montañas y montículos, medido con compás, regla y balanza](../img/cgbabj_medidas-on-writing.jpg)
 
-Este cuaderno guarda las medidas de *On Writing*, de Stephen King, sección por sección, tal como salen de los moldes de la bóveda y de las herramientas del Taller. La primera es la de C.V., la larga memoria autobiográfica que abre el libro, medida con el [ranking de menciones](https://github.com/osmancitov/taller/blob/main/md/cgbabi_ranking-menciones.md). El cuaderno irá creciendo a medida que se midan las demás secciones.
+Este cuaderno guarda las medidas de *On Writing*, de Stephen King, sección por sección, tal como salen de los moldes de la bóveda y de las herramientas del Taller. La primera es la de C.V., la larga memoria autobiográfica que abre el libro, medida con el ranking de menciones. El cuaderno irá creciendo a medida que se midan las demás secciones.
 
 ## C.V.
 
@@ -64,6 +64,6 @@ Tres archivos guardan la medida en la sala de máquinas, listos para las próxim
 
 ### El método
 
-El procedimiento completo está en [El ranking de menciones](https://github.com/osmancitov/taller/blob/main/md/cgbabi_ranking-menciones.md). Aquí bastan tres notas de esta corrida: la anotación se hizo en ocho bloques de unas 183 frases, cada uno verificado contra el molde (ninguna frase saltada, ninguna repetida); los alias quedaron unificados con tabla declarada (Tabby y *my wife* son Tabitha King; *Mom* y Nellie Ruth son la madre de King); y los conjuntos reparten su punto a partes iguales entre sus miembros.
+El procedimiento completo está en [El volcado del ranking](https://github.com/osmancitov/taller/blob/main/md/cgbacb_volcado-ranking.md). Aquí bastan tres notas de esta corrida: la anotación se hizo en ocho bloques de unas 183 frases, cada uno verificado contra el molde (ninguna frase saltada, ninguna repetida); los alias quedaron unificados con tabla declarada (Tabby y *my wife* son Tabitha King; *Mom* y Nellie Ruth son la madre de King); y los conjuntos reparten su punto a partes iguales entre sus miembros.
 
 Osmancito, con la asistencia de Instinct
