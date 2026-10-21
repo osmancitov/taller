@@ -8,11 +8,10 @@ Aquí se estudia y se prueba. Los cuadernos guardan preguntas, notas, frases y h
 
 ## Cuadernos
 
+- [Alambique Imagen Pintor](md/cgbacb_alambique-imagen-pintor.md) · 21 de octubre de 2026.
 - [Alambique - Frases Selectas](md/cgbacb_alambique-frases-selectas.md) · 21 de octubre de 2026.
-- [Alambique - Imagen General](md/cgbabj_alambique-imagen-general.md) · 19 de octubre de 2026.
 - [Las medidas de On Writing](md/cgbabj_medidas-on-writing.md) · 19 de octubre de 2026.
 - [Nuevo Lear. Escena 1](md/cgbabi_nuevo-lear.md) · 18 de octubre de 2026.
-- [El protocolo de imagen Alambique](md/cgbabf_imagen-alambique.md) · 15 de octubre de 2026.
 - [La confianza de la confianza](md/cgbaaf_confianza-confianza.md) · 5 de octubre de 2026.
 - [La chuleta de Debian](md/cgbaab_chuleta-debian.md) · 1 de octubre de 2026.
 - [Aprendiendo Debian](md/cgajcj_aprendiendo-debian.md) · 29 de septiembre de 2026.
