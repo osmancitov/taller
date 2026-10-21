@@ -1,17 +1,17 @@
 21 de octubre de 2026
 
-# El volcado del ranking
+# Alambique - Frases Selectas
 
-![Óleo de una tejedora ante un telar a la luz de una vela: sobre un tapiz de paisaje con niebla, dos hebras doradas cruzan de lado a lado entre muchas hebras pálidas](../img/cgbacb_volcado-ranking.jpg)
+![Óleo de una tejedora ante un telar a la luz de una vela: sobre un tapiz de paisaje con niebla, dos hebras doradas cruzan de lado a lado entre muchas hebras pálidas](../img/cgbacb_alambique-frases-selectas.jpg)
 
-El volcado del ranking es el paso que sigue al ranking de menciones. De una sección de la obra se toman las frases que más pesan, alrededor del diez por ciento, y se tejen con puentes y glosas hasta que la sección se lee completa, de principio a fin. Este cuaderno deja escrito el procedimiento entero, de la puntuación al tejido, para repetirlo igual en otra sección o en otra obra. Se fijó el 20 de octubre de 2026 con el preámbulo de *On Writing*, de Stephen King: 19 frases, de la BD0071 a la BD0089.
+Alambique - Frases Selectas es el procedimiento que puntúa las frases de una sección de la obra y teje las más pesadas en su lectura. Se toman las frases que más pesan, alrededor del diez por ciento, y se tejen con puentes y glosas hasta que la sección se lee completa, de principio a fin. Este cuaderno deja escrito el procedimiento entero, de la puntuación al tejido, para repetirlo igual en otra sección o en otra obra. Se fijó el 20 de octubre de 2026 con el preámbulo de *On Writing*, de Stephen King: 19 frases, de la BD0071 a la BD0089.
 
 ## Puntuar
 
 1. **Tomar la sección en frases.** Se usa el molde de la obra: cada segmento del cuerpo es una frase, con su número. Cada frase vale un punto, ni más ni menos. La sección vale tantos puntos como frases tiene.
 2. **Hallar los puestos de cada frase.** Un puesto es un sujeto o un objeto de cualquier cláusula de la frase, principal o subordinada. Cuentan también las cláusulas sin verbo conjugado que tienen su propio sujeto, como «raised by a single parent» o «in finding him». En una pasiva, el agente cuenta como objeto. Cada miembro de un compuesto es un puesto: «my brother and me» son dos. Lo negado cuenta igual que lo afirmado.
 3. **Dejar fuera lo que no es puesto.** Los expletivos («there»), las referencias vacías («that», «of this») y los complementos con preposición («between the lines»). Los verbos no se puntúan: no hay ranking de verbos.
-4. **Unificar los alias.** Yo, me, mi, la madre, «she» y el nombre propio de la madre son el mismo nodo. Lo que importa es la persona o la cosa, no la palabra.
+4. **Unificar los alias según su referente.** «I», «me», «my» y Stephen King son un nodo; «la madre», «she» cuando se refiere a ella y Nellie Ruth son otro. Lo que importa es la persona o la cosa, no la palabra. Es regla fija del método.
 5. **Repartir el punto.** El punto de la frase se divide en partes iguales entre todos sus puestos. Si un nodo ocupa varios puestos en la misma frase, cobra cada vez. Ejemplo, la BD0076, «If so, she never succeeded in finding him»: tres puestos, «she», el sujeto implícito de «finding» (también ella) y «him». La madre cobra dos tercios del punto y el padre un tercio.
 6. **Sumar por nodo.** El peso de un nodo es lo que suma en todas las frases de la sección. Ordenados, los nodos dan el paisaje de la sección.
 7. **Puntuar las frases.** Una frase pesa lo que suman los pesos de sus nodos. Ordenadas de mayor a menor, forman el ranking de frases.

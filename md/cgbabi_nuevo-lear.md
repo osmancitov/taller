@@ -6,7 +6,7 @@
 
 William Shakespeare
 
-Las siete frases con más peso de la primera escena del *Rey Lear*, elegidas por el Ranking de Menciones, en el orden de la obra.
+Las siete frases con más peso de la primera escena del *Rey Lear*, elegidas por Alambique - Frases Selectas, en el orden de la obra.
 
 *Un rey viejo, cansado de gobernar, reparte su reino entre sus tres hijas y se retira. Antes exige una prueba pública: que cada una declare cuánto lo quiere.*
 
