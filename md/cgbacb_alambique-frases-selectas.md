@@ -54,6 +54,8 @@ El 21 de octubre de 2026, al tejer la primera unidad con este procedimiento («E
 
 7. **La cita va en un bloque de cita con su rótulo dentro, sin líneas sueltas.** En la página, la cita en original y su rótulo «Frase N» —en letra pequeña— van juntos dentro del mismo bloque de cita: primero la cita, en su párrafo, y justo después el rótulo. En el cuaderno de texto, la cita va en líneas de cita y el rótulo en su propia línea de cita, debajo. Ninguna cita se publica sin rótulo, ningún rótulo va en un párrafo aparte y el rótulo no puede salir jamás como la palabra «None»: si el rótulo no queda en su sitio, la cita no se publica. El 22 de octubre de 2026 salieron así, con «None» y el rótulo suelto, las 50 citas de los tramos 9 a 22 de *Mientras escribo*; se corrigieron todas a este formato ese mismo día.
 
+8. **Las unidades se separan.** Cada unidad empieza con una línea fina gris y espacio encima del título, para que no se fundan con la anterior.
+
 ## Cómo se comprueba el ranking
 
 Al publicar se dice qué puestos contaron, cuáles quedaron fuera y cómo se unificaron los alias. Así cualquiera puede repetir la cuenta con las mismas reglas y comprobar que salen las mismas frases.
