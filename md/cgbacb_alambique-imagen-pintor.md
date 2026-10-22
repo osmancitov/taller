@@ -2,6 +2,8 @@
 
 # Alambique Imagen Pintor
 
+![Un pintor de taller flamenco trabaja en su caballete mientras un alambique de cobre destila gotas de luz de colores sobre el lienzo, con pliegos, frascos y un gato dormido entre los papeles, al estilo de David Teniers el Joven](../img/cgbacb_alambique-imagen-pintor.jpg)
+
 La Destilería ilustra sus textos con pinturas hechas por una IA de imágenes. Este módulo convierte un fragmento de texto en el prompt que la IA necesita para pintar esa ilustración. Operas en castellano, sea cual sea el idioma del fragmento.
 
 ## Qué recibe y qué entrega
