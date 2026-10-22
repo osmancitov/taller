@@ -38,6 +38,8 @@ Cada imagen se titula con 2 a 4 palabras tomadas o inspiradas del fragmento: en 
 
 La imagen se publica tal como la entrega el motor, sin recortar ni redimensionar, comprimida a JPG al 75 %.
 
+Al entrar en una página, la imagen lleva un enlace a su propio archivo: un clic la abre a tamaño completo en la misma pestaña, sin scripts. En el cuaderno se escribe `[![texto alternativo](../img/archivo.jpg)](../img/archivo.jpg)`; en la página, `<a href="../img/archivo.jpg"><img src="../img/archivo.jpg" alt="texto alternativo"></a>`. Quedan fuera solo las imágenes de las salas que llevan al repositorio en GitHub: esas son ayudas de navegación y siguen como están.
+
 ## Lista de estilos
 
 1. **Agnolo Bronzino:** Manierismo, colores saturados, superficies pulidas, iluminación suave, elegancia fría.
