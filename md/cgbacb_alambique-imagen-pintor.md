@@ -91,4 +91,4 @@ La imagen se publica tal como la entrega el motor, sin recortar ni redimensionar
 51. **Jacob van Ruisdael:** Barroco holandés, paisajes atmosféricos, cielos protagónicos y nublados, melancolía natural.
 52. **Käthe Kollwitz:** Expresionismo social, grafito y grabado austero, alto contraste, líneas angustiosas, sombras profundas.
 
-Osmancito, con la asistencia de Instinct
+© 2026 Osmancito

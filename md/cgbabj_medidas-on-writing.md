@@ -66,4 +66,4 @@ Tres archivos guardaban la medida en la sala de máquinas; se borraron el 21 de 
 
 El procedimiento completo está en [Alambique - Frases Selectas](https://github.com/osmancitov/taller/blob/main/md/cgbacb_alambique-frases-selectas.md). Aquí bastan tres notas de esta corrida: la anotación se hizo en ocho bloques de unas 183 frases, cada uno verificado contra el molde (ninguna frase saltada, ninguna repetida); los alias quedaron unificados con tabla declarada (Tabby y *my wife* son Tabitha King; *Mom* y Nellie Ruth son la madre de King); y los conjuntos reparten su punto a partes iguales entre sus miembros.
 
-Osmancito, con la asistencia de Instinct
+© 2026 Osmancito

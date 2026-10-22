@@ -12,4 +12,4 @@ El título de cada imagen —2 a 4 palabras tomadas o inspiradas del propio frag
 
 Cada prompt termina con: "Sin fotorrealismo. Etiqueta discreta en esquina inferior: [Título de la imagen] · Destilería Osmancito"
 
-Osmancito, con la asistencia de Instinct
+© 2026 Osmancito

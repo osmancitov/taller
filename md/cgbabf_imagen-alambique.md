@@ -102,4 +102,4 @@ Cada línea trae el pintor y su descripción visual, que se copia completa en el
 - **Jacob van Ruisdael**: Barroco holandés, paisajes atmosféricos, cielos protagónicos y nublados, melancolía natural.
 - **Käthe Kollwitz**: Expresionismo social, grafito y grabado austero, alto contraste, líneas angustiosas, sombras profundas.
 
-Osmancito, con la asistencia de Instinct
+© 2026 Osmancito

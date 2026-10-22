@@ -68,4 +68,4 @@ Cordelia
 
 La escena es un reparto sucesorio: el reino se divide en tres partes y cada declaración de amor vale un territorio. La dote es la porción que un padre entrega con su hija al casarla; sin dote, Borgoña se retira, y Francia la acepta porque la prefiere sin ella. El error de Lear es confundir la medida con la cosa medida: manda pesar el amor en palabras, y quienes más juran son quienes menos sienten. Cordelia dice la verdad y pierde el reino; sus hermanas mienten y lo ganan. Cuando se va, deja a su padre en los «profesados pechos» de ellas: los pechos que profesaron amarlo. La escena entera cabe en ese encargo.
 
-Osmancito, con la asistencia de Instinct
+© 2026 Osmancito

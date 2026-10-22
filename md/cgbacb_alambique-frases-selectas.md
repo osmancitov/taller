@@ -48,4 +48,4 @@ El 21 de octubre de 2026, al tejer la primera unidad con este procedimiento («E
 
 Los criterios de puntuación se declaran al publicar: qué puestos contaron, qué quedó fuera y cómo se unificaron los alias. Otro lector, con los mismos criterios, debe poder repetir el ranking y llegar a las mismas frases.
 
-Osmancito, con la asistencia de Instinct
+© 2026 Osmancito
