@@ -66,8 +66,8 @@ Criterios declarados de esta etapa, además de los del procedimiento: los infini
 | 19 | BD0526–BD0613 | 1.991 | Hecho: «El pozo y el péndulo», publicado el 22 de octubre de 2026. Ganaron la BD0562, la BD0567, la BD0568, la BD0569, la BD0573, la BD0574, la BD0579, la BD0580 y la BD0591, 9 de 88 frases. |
 | 20 | BD0614–BD0680 | 1.384 | Hecho: «The Village Vomit», publicado el 22 de octubre de 2026. Ganaron la BD0657, la BD0658, la BD0665, la BD0670, la BD0672, la BD0673 y la BD0675, 7 de 67 frases. |
 | 21 | BD0681–BD0736 | 822 | Hecho: «Con la puerta cerrada», publicado el 22 de octubre de 2026. Ganaron la BD0700, la BD0705, la BD0709, la BD0723, la BD0732 y la BD0736, 6 de 56 frases. |
-| 22 | BD0737–BD0772 | 750 | Siguiente. |
-| 23 | BD0773–BD0793 | 350 | Pendiente. |
+| 22 | BD0737–BD0772 | 750 | Hecho: «Ratas grandes como perros», publicado el 22 de octubre de 2026. Ganaron la BD0738, la BD0739, la BD0744 y la BD0767, 4 de 36 frases. |
+| 23 | BD0773–BD0793 | 350 | Siguiente. |
 | 24 | BD0794–BD0884 | 1.338 | Pendiente. |
 | 25 | BD0885–BD0906 | 308 | Pendiente. |
 | 26 | BD0907–BD0938 | 652 | Pendiente. |
