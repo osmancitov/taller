@@ -54,7 +54,7 @@ Estas son las decisiones de formato de este procedimiento:
 
 7. **La cita va en un bloque de cita con su rótulo dentro, sin líneas sueltas.** En la página, la cita en original y su rótulo «Frase N» —en letra pequeña— van juntos dentro del mismo bloque de cita: primero la cita, en su párrafo, y justo después el rótulo. En el cuaderno de texto, la cita va en líneas de cita y el rótulo en su propia línea de cita, debajo. Ninguna cita se publica sin rótulo, ningún rótulo va en un párrafo aparte y el rótulo no puede salir jamás como la palabra «None»: si el rótulo no queda en su sitio, la cita no se publica.
 
-8. **Las unidades se separan.** Cada unidad empieza con una línea fina gris y espacio encima del título, para que no se fundan con la anterior.
+8. **Las partes se separan con un filete.** Un filete va solo en su línea (---) antes de cada sección y antes de cada unidad, menos antes de lo que abre la página y antes de la primera unidad de una sección. En la página, el filete sale como una línea fina con espacio encima del título, y con más espacio cuando el título es de sección, para que el corte mayor se note.
 
 ## Cómo se comprueba el ranking
 
