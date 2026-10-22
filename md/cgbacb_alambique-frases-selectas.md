@@ -6,6 +6,10 @@
 
 Alambique - Frases Selectas es el procedimiento que puntúa las frases de una sección de la obra y teje las más pesadas en su lectura. Se toman las frases que más pesan, alrededor del diez por ciento, y se tejen con puentes y glosas hasta que la sección se lee completa, de principio a fin. Este cuaderno deja escrito el procedimiento entero, de la puntuación al tejido, para repetirlo igual en otra sección o en otra obra. Se fijó el 20 de octubre de 2026 con el preámbulo de *On Writing*, de Stephen King: 19 frases, de la BD0071 a la BD0089. La entrada que reúne los tramos abre con una presentación de la obra (ver la decisión 6 de formato).
 
+## Para quién se escribe
+
+Todo lo que se publica con este procedimiento se escribe para el lector cero: el que llega en frío y no sabe nada de la obra, de su autor ni de nuestra nomenclatura. Ese lector necesita que se defina y se explique cada cosa antes de hablar de ella: quién es cada persona, qué es cada lugar, objeto o palabra extranjera, y de qué momento de la obra se trata. Ningún nombre queda suelto ni ningún término sin explicar; si hay que saber algo para entender una línea, la línea lo dice antes. Rige para la presentación, los puentes, las glosas y los rótulos.
+
 ## Puntuar
 
 1. **Tomar la sección en frases.** Se usa el molde de la obra: cada segmento del cuerpo es una frase, con su número. Cada frase vale un punto, ni más ni menos. La sección vale tantos puntos como frases tiene.
