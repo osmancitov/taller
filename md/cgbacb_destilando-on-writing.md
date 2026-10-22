@@ -63,8 +63,8 @@ Criterios declarados de esta etapa, además de los del procedimiento: los infini
 | 16 | BD0431–BD0469 | 754 | Hecho: «Happy Stamps», publicado el 22 de octubre de 2026. Ganaron la BD0443, la BD0448, la BD0455 y la BD0460, 4 de 39 frases. |
 | 17 | BD0470–BD0493 | 537 | Hecho: «La noche del tigre», publicado el 22 de octubre de 2026. Ganaron la BD0485 y la BD0491, 2 de 24 frases. |
 | 18 | BD0494–BD0525 | 829 | Hecho: «Dave's Rag», publicado el 22 de octubre de 2026. Ganaron la BD0502, la BD0518 y la BD0524, 3 de 32 frases. |
-| 19 | BD0526–BD0613 | 1.991 | Siguiente. |
-| 20 | BD0614–BD0680 | 1.384 | Pendiente. |
+| 19 | BD0526–BD0613 | 1.991 | Hecho: «El pozo y el péndulo», publicado el 22 de octubre de 2026. Ganaron la BD0562, la BD0567, la BD0568, la BD0569, la BD0573, la BD0574, la BD0579, la BD0580 y la BD0591, 9 de 88 frases. |
+| 20 | BD0614–BD0680 | 1.384 | Siguiente. |
 | 21 | BD0681–BD0736 | 822 | Pendiente. |
 | 22 | BD0737–BD0772 | 750 | Pendiente. |
 | 23 | BD0773–BD0793 | 350 | Pendiente. |
