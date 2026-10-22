@@ -2,7 +2,7 @@
 
 # El cierre del día
 
-![Un escriba deposita el pliego del día sobre un gran libro mayor abierto en una sala de madera a medianoche, con un reloj que marca las doce y luz de vela contra la noche azul, al estilo de David Teniers el Joven](../img/cgbacb_cierre-del-dia.jpg)
+[![Un escriba deposita el pliego del día sobre un gran libro mayor abierto en una sala de madera a medianoche, con un reloj que marca las doce y luz de vela contra la noche azul, al estilo de David Teniers el Joven](../img/cgbacb_cierre-del-dia.jpg)](../img/cgbacb_cierre-del-dia.jpg)
 
 Cómo la casa pasa lo de hoy a la historia, cada noche a medianoche. No hace falta conocer el sistema para seguirlo.
 
@@ -18,7 +18,7 @@ Repo maquinas, cada md con su gemelo html; el md es la fuente y los dos se actua
 
 Cada trabajo terminado se anota como viñeta en «Hecho hoy» y como línea del borrador oculto BORRADOR-DEL-DIA al final del Historial (fecha | título | detalle | enlace opcional). Lo social va como viñetas cortas en «Sociales». Nunca se menciona búsqueda de trabajo o clientes.
 
-## A medianoche (00:00 Caracas)
+## A medianoche (00:00 UTC-4)
 
 1. git pull.
 2. Revisar que el borrador tenga todo lo terminado.
