@@ -47,8 +47,8 @@ El C.V. es la memoria con que empieza el cuerpo del libro, después de los pról
 | 2 | BD0090–BD0106 | 280 | Hecho: «El niño forzudo», publicado el 21 de octubre de 2026. Ganaron la BD0103 y la BD0104, 2 de 17 frases. |
 | 3 | BD0107–BD0160 | 822 | Hecho: «Siete huevos», publicado el 22 de octubre de 2026. Ganaron la BD0134, la BD0137, la BD0139, la BD0140 y la BD0160, 5 de 54 frases (empate a 30,12 entre la 137, la 139 y la 140). |
 | 4 | BD0161–BD0167 | 104 | Hecho: «El tejado», publicado el 22 de octubre de 2026. Ganó la BD0165, 1 de 7 frases. |
-| 5 | BD0168–BD0180 | 237 | Siguiente. |
-| 6 | BD0181–BD0234 | 900 | Pendiente. |
+| 5 | BD0168–BD0180 | 237 | Hecho: «Ver morir», publicado el 22 de octubre de 2026. Ganó la BD0175, 1 de 13 frases. |
+| 6 | BD0181–BD0234 | 900 | Siguiente. |
 | 7 | BD0235–BD0263 | 408 | Pendiente. |
 | 8 | BD0264–BD0282 | 349 | Pendiente. |
 | 9 | BD0283–BD0303 | 360 | Pendiente. |
