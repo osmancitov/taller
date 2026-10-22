@@ -39,8 +39,6 @@ Además de cubrir los huecos y enseñar, el puente y la glosa explican lo que un
 
 Para cada persona se anota si el original la presenta. Si el original la aclara, se dice con sus palabras. Si no la aclara, la explicación viene de fuera, y se marca como venida de fuera, con su fuente, para que se vea qué dice el libro y qué dice quien lo explica. Lo que no se pudo verificar se dice.
 
-**Las glosas solo explican.** Una glosa dice qué es la cosa nombrada, con las palabras que necesita el lector cero. No lleva etiquetas sobre su origen ni sobre el método («dato de fuera del libro» y similares): la frase debe leerse de corrido, como parte del texto.
-
 ## Decisiones de formato
 
 El 21 de octubre de 2026, al tejer la primera unidad con este procedimiento («El paisaje con niebla», en *Mientras escribo*), quedaron fijadas cuatro decisiones de formato, y el 22 de octubre se añadieron tres más:
