@@ -55,8 +55,8 @@ Criterios declarados de esta etapa, además de los del procedimiento: los infini
 | 8 | BD0264–BD0282 | 349 | Hecho: «Escribe uno tuyo», publicado el 22 de octubre de 2026. Ganaron la BD0274, la BD0276 y la BD0279, 3 de 19 frases (empate a 10,69 entre la 274 y la 276 en el corte). |
 | 9 | BD0283–BD0303 | 360 | Hecho: «A cuarto el cuento», publicado el 22 de octubre de 2026. Ganaron la BD0290 y la BD0296, 2 de 21 frases. |
 | 10 | BD0304–BD0341 | 562 | Hecho: «La jungla», publicado el 22 de octubre de 2026. Ganaron la BD0313, la BD0324, la BD0329 y la BD0334, 4 de 38 frases. |
-| 11 | BD0342–BD0384 | 811 | Siguiente. |
-| 12 | BD0385–BD0397 | 270 | Pendiente. |
+| 11 | BD0342–BD0384 | 811 | Hecho: «El Súper Duper Electromán», publicado el 22 de octubre de 2026. Ganaron la BD0346, la BD0364, la BD0370 y la BD0379, 4 de 43 frases. |
+| 12 | BD0385–BD0397 | 270 | Siguiente. |
 | 13 | BD0398–BD0409 | 255 | Pendiente. |
 | 14 | BD0410–BD0414 | 58 | Pendiente. |
 | 15 | BD0415–BD0430 | 387 | Pendiente. |
