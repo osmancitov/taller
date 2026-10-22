@@ -12,7 +12,7 @@ Este cuaderno lleva el registro de una obra larga: destilar entero *On Writing*,
 
 | Sección | Frases | Palabras | Estado |
 |---|---|---|---|
-| Los tres prólogos (BD0023–BD0068) | 44 | 948 | Hecho: «Un libro sin paja», publicado el 22 de octubre de 2026; su registro va abajo. |
+| Los tres prólogos (BD0023–BD0068) | 44 | 948 | Hecho: «La pregunta de Amy», publicado el 22 de octubre de 2026; su registro va abajo. |
 | C.V. (BD0071–BD1536) | 1.466 | 26.017 | En marcha: es la etapa actual; su registro va abajo. |
 | What Writing Is (BD1538–BD1610) | 73 | 1.370 | Pendiente. |
 | Toolbox (BD1613–BD2053) | 441 | 7.711 | Pendiente. |
@@ -27,13 +27,13 @@ El procedimiento está fijo y escrito paso a paso en [Alambique - Frases Selecta
 
 ## Primera etapa: los prólogos
 
-Antes del C.V. el libro trae tres prólogos, cada uno con su título (Primer, Segundo y Tercer Prólogo), que el molde guarda entre los preliminares. Se nos habían quedado fuera: la tabla de arriba solo contaba las siete secciones. Los destilamos como una sola unidad, de 44 frases y 948 palabras, porque suman poco y se leen seguidos; la puntuación va sobre las 44 juntas, con los mismos criterios de abajo. Criterios declarados: cuentan sujetos y objetos de toda cláusula, también las sin verbo conjugado que tienen sujeto propio; el destinatario de un imperativo es su sujeto; «de» cuenta cuando es el contenido («compuesta de escritores», «hecho por Kathi»), no cuando es lugar o comparación; las partes de la persona y sus facultades («mis motivos») se unifican con ella; «este libro», «lo», «un libro corto como este» son el mismo nodo; las referencias vacías, los complementos preposicionales de lugar y tiempo y las comparaciones quedan fuera. Ganaron 4 de 44 frases (9,1 %), las de mayor peso por nodo.
+Antes del C.V. el libro trae tres prólogos, cada uno con su título (Primer, Segundo y Tercer Prólogo), que el molde guarda entre los preliminares. Se nos habían quedado fuera: la tabla de arriba solo contaba las siete secciones. Los destilamos como una sola unidad, de 44 frases y 948 palabras, porque suman poco y se leen seguidos; la puntuación va sobre las 44 juntas, con los mismos criterios de abajo. Criterios declarados: cuentan sujetos y objetos de toda cláusula, también las sin verbo conjugado que tienen sujeto propio; el destinatario de un imperativo es su sujeto; «de» cuenta cuando es el contenido («compuesta de escritores», «hecho por Kathi»), no cuando es lugar o comparación; las partes de la persona y sus facultades («mis motivos») se unifican con ella; «este libro», «lo», «un libro corto como este» son el mismo nodo; las referencias vacías, los complementos preposicionales de lugar y tiempo y las comparaciones quedan fuera. Una frase pesa la suma de los pesos de sus nodos distintos. Pesos de los nodos más altos: King 6,0, la banda 4,7, el libro 3,3, Amy Tan 2,2. Ganaron 4 de 44 frases (9,1 %): la 37 (15,4), la 23 (14,8), la 25 (11,6) y la 52 (11,5); siguieron la 60 (11,5) y la 56 (10,9).
 
 ### El registro de los prólogos
 
 | Unidad | Frases | Palabras | Estado |
 |---|---|---|---|
-| Los tres prólogos | BD0023–BD0068 | 948 | Hecho: «Un libro sin paja», publicado el 22 de octubre de 2026. Ganaron la BD0040, la BD0041, la BD0045 y la BD0062, 4 de 44 frases. |
+| Los tres prólogos | BD0023–BD0068 | 948 | Hecho: «La pregunta de Amy», publicado el 22 de octubre de 2026. Ganaron la BD0023, la BD0025, la BD0037 y la BD0052, 4 de 44 frases. |
 
 ## Segunda etapa: el C.V.
 
