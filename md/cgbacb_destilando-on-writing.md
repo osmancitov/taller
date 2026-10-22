@@ -49,8 +49,8 @@ El C.V. es la memoria con que empieza el cuerpo del libro, después de los pról
 | 4 | BD0161–BD0167 | 104 | Hecho: «El tejado», publicado el 22 de octubre de 2026. Ganó la BD0165, 1 de 7 frases. |
 | 5 | BD0168–BD0180 | 237 | Hecho: «Ver morir», publicado el 22 de octubre de 2026. Ganó la BD0175, 1 de 13 frases. |
 | 6 | BD0181–BD0234 | 900 | Hecho: «No va a doler», publicado el 22 de octubre de 2026. Ganaron la BD0184, la BD0196, la BD0198, la BD0213 y la BD0232, 5 de 54 frases. |
-| 7 | BD0235–BD0263 | 408 | Siguiente. |
-| 8 | BD0264–BD0282 | 349 | Pendiente. |
+| 7 | BD0235–BD0263 | 408 | Hecho: «Las amígdalas», publicado el 22 de octubre de 2026. Ganaron la BD0249, la BD0251 y la BD0253, 3 de 29 frases (empate a 11,60 entre las tres). |
+| 8 | BD0264–BD0282 | 349 | Siguiente. |
 | 9 | BD0283–BD0303 | 360 | Pendiente. |
 | 10 | BD0304–BD0341 | 562 | Pendiente. |
 | 11 | BD0342–BD0384 | 811 | Pendiente. |
