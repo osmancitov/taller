@@ -12,7 +12,6 @@ Aquí se estudia y se prueba. Los cuadernos guardan preguntas, notas, frases y h
 - [Alambique - Cierre del día](md/cgbacb_cierre-del-dia.md) · 21 de octubre de 2026.
 - [Alambique - Imagen Pintor](md/cgbacb_alambique-imagen-pintor.md) · 21 de octubre de 2026.
 - [Alambique - Frases Selectas](md/cgbacb_alambique-frases-selectas.md) · 21 de octubre de 2026.
-- [Nuevo Lear. Escena 1](md/cgbabi_nuevo-lear.md) · 18 de octubre de 2026.
 - [La confianza de la confianza](md/cgbaaf_confianza-confianza.md) · 5 de octubre de 2026.
 - [La chuleta de Debian](md/cgbaab_chuleta-debian.md) · 1 de octubre de 2026.
 - [Aprendiendo Debian](md/cgajcj_aprendiendo-debian.md) · 29 de septiembre de 2026.
