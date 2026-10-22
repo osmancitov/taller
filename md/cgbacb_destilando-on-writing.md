@@ -52,8 +52,8 @@ Criterios declarados de esta etapa, además de los del procedimiento: los infini
 | 5 | BD0168–BD0180 | 237 | Hecho: «Ver morir», publicado el 22 de octubre de 2026. Ganó la BD0175, 1 de 13 frases. |
 | 6 | BD0181–BD0234 | 900 | Hecho: «No va a doler», publicado el 22 de octubre de 2026. Ganaron la BD0184, la BD0196, la BD0198, la BD0213 y la BD0232, 5 de 54 frases. |
 | 7 | BD0235–BD0263 | 408 | Hecho: «Las amígdalas», publicado el 22 de octubre de 2026. Ganaron la BD0249, la BD0251 y la BD0253, 3 de 29 frases (empate a 11,60 entre las tres). |
-| 8 | BD0264–BD0282 | 349 | Siguiente. |
-| 9 | BD0283–BD0303 | 360 | Pendiente. |
+| 8 | BD0264–BD0282 | 349 | Hecho: «Escribe uno tuyo», publicado el 22 de octubre de 2026. Ganaron la BD0274, la BD0276 y la BD0279, 3 de 19 frases (empate a 10,69 entre la 274 y la 276 en el corte). |
+| 9 | BD0283–BD0303 | 360 | Siguiente. |
 | 10 | BD0304–BD0341 | 562 | Pendiente. |
 | 11 | BD0342–BD0384 | 811 | Pendiente. |
 | 12 | BD0385–BD0397 | 270 | Pendiente. |
