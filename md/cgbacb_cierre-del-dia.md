@@ -1,6 +1,6 @@
 21 de octubre de 2026
 
-# El cierre del día
+# Alambique - Cierre del día
 
 [![Un escriba deposita el pliego del día sobre un gran libro mayor abierto en una sala de madera a medianoche, con un reloj que marca las doce y luz de vela contra la noche azul, al estilo de David Teniers el Joven](../img/cgbacb_cierre-del-dia.jpg)](../img/cgbacb_cierre-del-dia.jpg)
 
