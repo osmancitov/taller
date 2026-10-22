@@ -57,8 +57,8 @@ Criterios declarados de esta etapa, además de los del procedimiento: los infini
 | 10 | BD0304–BD0341 | 562 | Hecho: «La jungla», publicado el 22 de octubre de 2026. Ganaron la BD0313, la BD0324, la BD0329 y la BD0334, 4 de 38 frases. |
 | 11 | BD0342–BD0384 | 811 | Hecho: «El Súper Duper Electromán», publicado el 22 de octubre de 2026. Ganaron la BD0346, la BD0364, la BD0370 y la BD0379, 4 de 43 frases. |
 | 12 | BD0385–BD0397 | 270 | Hecho: «Video bullshit», publicado el 22 de octubre de 2026. Ganó la BD0393, 1 de 13 frases. |
-| 13 | BD0398–BD0409 | 255 | Siguiente. |
-| 14 | BD0410–BD0414 | 58 | Pendiente. |
+| 13 | BD0398–BD0409 | 255 | Hecho: «El Ackermonster», publicado el 22 de octubre de 2026. Ganó la BD0406, 1 de 12 frases. |
+| 14 | BD0410–BD0414 | 58 | Siguiente. |
 | 15 | BD0415–BD0430 | 387 | Pendiente. |
 | 16 | BD0431–BD0469 | 754 | Pendiente. |
 | 17 | BD0470–BD0493 | 537 | Pendiente. |
