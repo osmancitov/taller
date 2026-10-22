@@ -34,6 +34,15 @@ Si el encargo dio una proporción, añade al final: «Relación de aspecto [prop
 
 Cada imagen se titula con 2 a 4 palabras tomadas o inspiradas del fragmento: en la literal nombra lo que se ve, en la encarnada lo que se encarna.
 
+## Cómo se pide cada imagen
+
+Dos reglas fijas, apuntadas el 22 de octubre de 2026:
+
+1. **Cada imagen se pide en una sesión nueva de la IA de imágenes.** Se abre un chat nuevo para cada dibujo; nunca se encadena un dibujo detrás de otro en el mismo hilo. El hilo compartido arrastra la imagen anterior y perjudica la nueva. Un dibujo, una sesión.
+2. **Las imágenes interiores de una entrada van en proporción vertical 5:8** —cinco de ancho por ocho de alto— y el prompt la pide así. La única excepción es la imagen de arriba, la que abre la entrada y sale como tarjeta al compartir el enlace: esa se mantiene en formato ancho, 1280 por 640 píxeles, como manda la regla de escritura pública para el dibujo superior.
+
+Las imágenes ya publicadas se quedan como están; la regla rige de aquí en adelante.
+
 ## La imagen
 
 La imagen se publica tal como la entrega el motor, sin recortar ni redimensionar, comprimida a JPG al 75 %.
