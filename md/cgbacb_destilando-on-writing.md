@@ -60,9 +60,9 @@ Criterios declarados de esta etapa, además de los del procedimiento: los infini
 | 13 | BD0398–BD0409 | 255 | Hecho: «El Ackermonster», publicado el 22 de octubre de 2026. Ganó la BD0406, 1 de 12 frases. |
 | 14 | BD0410–BD0414 | 58 | Hecho: «Yo fui un ladrón de tumbas adolescente», publicado el 22 de octubre de 2026. Ganó la BD0411, 1 de 5 frases. |
 | 15 | BD0415–BD0430 | 387 | Hecho: «El Problema de Ruth», publicado el 22 de octubre de 2026. Ganaron la BD0421 y la BD0423, 2 de 16 frases. |
-| 16 | BD0431–BD0469 | 754 | Siguiente. |
-| 17 | BD0470–BD0493 | 537 | Pendiente. |
-| 18 | BD0494–BD0525 | 829 | Pendiente. |
+| 16 | BD0431–BD0469 | 754 | Hecho: «Happy Stamps», publicado el 22 de octubre de 2026. Ganaron la BD0443, la BD0448, la BD0455 y la BD0460, 4 de 39 frases. |
+| 17 | BD0470–BD0493 | 537 | Hecho: «La noche del tigre», publicado el 22 de octubre de 2026. Ganaron la BD0485 y la BD0491, 2 de 24 frases. |
+| 18 | BD0494–BD0525 | 829 | Siguiente. |
 | 19 | BD0526–BD0613 | 1.991 | Pendiente. |
 | 20 | BD0614–BD0680 | 1.384 | Pendiente. |
 | 21 | BD0681–BD0736 | 822 | Pendiente. |
