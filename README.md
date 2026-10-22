@@ -8,6 +8,7 @@ Aquí se estudia y se prueba. Los cuadernos guardan preguntas, notas, frases y h
 
 ## Cuadernos
 
+- [Alambique - Escritura Cero](md/cgbacc_alambique-escritura-cero.md) · 22 de octubre de 2026.
 - [Destilando On Writing de King](md/cgbacb_destilando-on-writing.md) · 21 de octubre de 2026.
 - [Alambique - Cierre del día](md/cgbacb_cierre-del-dia.md) · 21 de octubre de 2026.
 - [Alambique - Imagen Pintor](md/cgbacb_alambique-imagen-pintor.md) · 21 de octubre de 2026.
