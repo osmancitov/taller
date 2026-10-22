@@ -59,8 +59,8 @@ Criterios declarados de esta etapa, además de los del procedimiento: los infini
 | 12 | BD0385–BD0397 | 270 | Hecho: «Video bullshit», publicado el 22 de octubre de 2026. Ganó la BD0393, 1 de 13 frases. |
 | 13 | BD0398–BD0409 | 255 | Hecho: «El Ackermonster», publicado el 22 de octubre de 2026. Ganó la BD0406, 1 de 12 frases. |
 | 14 | BD0410–BD0414 | 58 | Hecho: «Yo fui un ladrón de tumbas adolescente», publicado el 22 de octubre de 2026. Ganó la BD0411, 1 de 5 frases. |
-| 15 | BD0415–BD0430 | 387 | Siguiente. |
-| 16 | BD0431–BD0469 | 754 | Pendiente. |
+| 15 | BD0415–BD0430 | 387 | Hecho: «El Problema de Ruth», publicado el 22 de octubre de 2026. Ganaron la BD0421 y la BD0423, 2 de 16 frases. |
+| 16 | BD0431–BD0469 | 754 | Siguiente. |
 | 17 | BD0470–BD0493 | 537 | Pendiente. |
 | 18 | BD0494–BD0525 | 829 | Pendiente. |
 | 19 | BD0526–BD0613 | 1.991 | Pendiente. |
