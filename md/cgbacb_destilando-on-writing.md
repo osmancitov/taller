@@ -33,8 +33,8 @@ El C.V. es la memoria que abre el libro: King cuenta su vida de escritor en reta
 | Tramo | Frases | Palabras | Estado |
 |---|---|---|---|
 | 1 | BD0071–BD0089 | 363 | Hecho: «El paisaje con niebla», publicado el 21 de octubre de 2026. Ganaron la BD0075 y la BD0087, 2 de 19 frases. |
-| 2 | BD0090–BD0106 | 280 | Siguiente: pendiente del visto bueno al formato de la primera unidad. |
-| 3 | BD0107–BD0160 | 822 | Pendiente. |
+| 2 | BD0090–BD0106 | 280 | Hecho: «El niño forzudo», publicado el 21 de octubre de 2026. Ganaron la BD0103 y la BD0104, 2 de 17 frases. |
+| 3 | BD0107–BD0160 | 822 | Siguiente. |
 | 4 | BD0161–BD0167 | 104 | Pendiente. |
 | 5 | BD0168–BD0180 | 237 | Pendiente. |
 | 6 | BD0181–BD0234 | 900 | Pendiente. |
