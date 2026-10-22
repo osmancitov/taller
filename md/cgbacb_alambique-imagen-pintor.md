@@ -1,6 +1,6 @@
 21 de octubre de 2026
 
-# Alambique Imagen Pintor
+# Alambique - Imagen Pintor
 
 [![Un pintor de taller flamenco trabaja en su caballete mientras un alambique de cobre destila gotas de luz de colores sobre el lienzo, con pliegos, frascos y un gato dormido entre los papeles, al estilo de David Teniers el Joven](../img/cgbacb_alambique-imagen-pintor.jpg)](../img/cgbacb_alambique-imagen-pintor.jpg)
 
