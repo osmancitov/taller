@@ -8,10 +8,11 @@ Este cuaderno lleva el registro de una obra larga: destilar entero *On Writing*,
 
 ## El libro
 
-*On Writing* es parte memoria y parte manual: King cuenta su vida de escritor y enseña su oficio. En el molde de la bóveda —la segmentación fiel del libro, con cada frase numerada— el cuerpo son 4.253 frases en siete secciones, más los preliminares (portada, dedicatoria y epígrafes). Cada sección se destilará a su turno:
+*On Writing* es parte memoria y parte manual: King cuenta su vida de escritor y enseña su oficio. En el molde de la bóveda —la segmentación fiel del libro, con cada frase numerada— el cuerpo son 4.194 frases en siete secciones. Las 59 frases que faltan para las 4.253 del libro están en los preliminares, que además de portada, créditos, dos epígrafes y la firma contienen los tres prólogos (44 frases), la nota del autor (1) y los permisos de derechos (14). Los prólogos van primero, como unidad propia; cada sección se destilará a su turno:
 
 | Sección | Frases | Palabras | Estado |
 |---|---|---|---|
+| Los tres prólogos (BD0023–BD0068) | 44 | 948 | Hecho: «Un libro sin paja», publicado el 22 de octubre de 2026; su registro va abajo. |
 | C.V. (BD0071–BD1536) | 1.466 | 26.017 | En marcha: es la etapa actual; su registro va abajo. |
 | What Writing Is (BD1538–BD1610) | 73 | 1.370 | Pendiente. |
 | Toolbox (BD1613–BD2053) | 441 | 7.711 | Pendiente. |
@@ -24,9 +25,19 @@ Este cuaderno lleva el registro de una obra larga: destilar entero *On Writing*,
 
 El procedimiento está fijo y escrito paso a paso en [Alambique - Frases Selectas](https://github.com/osmancitov/taller/blob/main/md/cgbacb_alambique-frases-selectas.md); aquí va solo el resumen de sus reglas para esta obra. Cada frase vale un punto, que se reparte en partes iguales entre sus puestos: el sujeto y el objeto de cada cláusula, principales y subordinadas, y un mismo nodo cobra cada vez que aparece. Los verbos no puntúan. Cada frase pesa lo que suman los pesos de sus nodos, y ganan las más pesadas, alrededor del diez por ciento. Las ganadoras se tejen en el orden del libro con puentes y glosas; la cita va en inglés y debajo su traducción al castellano, verificada palabra por palabra con el libro abierto. Cada unidad lleva su dibujo bajo el título.
 
-## Primera etapa: el C.V.
+## Primera etapa: los prólogos
 
-El C.V. es la memoria que abre el libro: King cuenta su vida de escritor en retazos y avisa que esto no es autobiografía, es curriculum vitae. Destilarlo de una vez resultó un bocado demasiado grande; una primera pasada a la sección entera, publicada el 18 de octubre de 2026, se dejó atrás. El propio libro corta la sección con 38 líneas de asteriscos («* * *»): son 39 tramos sin título ni número, de 49 a 1.991 palabras. Seguimos esos cortes, sin inventar divisiones. Cada tramo se destila por separado y se publica como una unidad de «Mientras escribo», con su título sacado de la materia del tramo: el primero se llama «El paisaje con niebla».
+Antes del C.V. el libro trae tres prólogos, cada uno con su título (Primer, Segundo y Tercer Prólogo), que el molde guarda entre los preliminares. Se nos habían quedado fuera: la tabla de arriba solo contaba las siete secciones. Los destilamos como una sola unidad, de 44 frases y 948 palabras, porque suman poco y se leen seguidos; la puntuación va sobre las 44 juntas, con los mismos criterios de abajo. Criterios declarados: cuentan sujetos y objetos de toda cláusula, también las sin verbo conjugado que tienen sujeto propio; el destinatario de un imperativo es su sujeto; «de» cuenta cuando es el contenido («compuesta de escritores», «hecho por Kathi»), no cuando es lugar o comparación; las partes de la persona y sus facultades («mis motivos») se unifican con ella; «este libro», «lo», «un libro corto como este» son el mismo nodo; las referencias vacías, los complementos preposicionales de lugar y tiempo y las comparaciones quedan fuera. Ganaron 4 de 44 frases (9,1 %), las de mayor peso por nodo.
+
+### El registro de los prólogos
+
+| Unidad | Frases | Palabras | Estado |
+|---|---|---|---|
+| Los tres prólogos | BD0023–BD0068 | 948 | Hecho: «Un libro sin paja», publicado el 22 de octubre de 2026. Ganaron la BD0040, la BD0041, la BD0045 y la BD0062, 4 de 44 frases. |
+
+## Segunda etapa: el C.V.
+
+El C.V. es la memoria con que empieza el cuerpo del libro, después de los prólogos: King cuenta su vida de escritor en retazos y avisa que esto no es autobiografía, es curriculum vitae. Destilarlo de una vez resultó un bocado demasiado grande; una primera pasada a la sección entera, publicada el 18 de octubre de 2026, se dejó atrás. El propio libro corta la sección con 38 líneas de asteriscos («* * *»): son 39 tramos sin título ni número, de 49 a 1.991 palabras. Seguimos esos cortes, sin inventar divisiones. Cada tramo se destila por separado y se publica como una unidad de «Mientras escribo», con su título sacado de la materia del tramo: el primero se llama «El paisaje con niebla».
 
 ### El registro del C.V.
 
