@@ -48,8 +48,8 @@ El C.V. es la memoria con que empieza el cuerpo del libro, después de los pról
 | 3 | BD0107–BD0160 | 822 | Hecho: «Siete huevos», publicado el 22 de octubre de 2026. Ganaron la BD0134, la BD0137, la BD0139, la BD0140 y la BD0160, 5 de 54 frases (empate a 30,12 entre la 137, la 139 y la 140). |
 | 4 | BD0161–BD0167 | 104 | Hecho: «El tejado», publicado el 22 de octubre de 2026. Ganó la BD0165, 1 de 7 frases. |
 | 5 | BD0168–BD0180 | 237 | Hecho: «Ver morir», publicado el 22 de octubre de 2026. Ganó la BD0175, 1 de 13 frases. |
-| 6 | BD0181–BD0234 | 900 | Siguiente. |
-| 7 | BD0235–BD0263 | 408 | Pendiente. |
+| 6 | BD0181–BD0234 | 900 | Hecho: «No va a doler», publicado el 22 de octubre de 2026. Ganaron la BD0184, la BD0196, la BD0198, la BD0213 y la BD0232, 5 de 54 frases. |
+| 7 | BD0235–BD0263 | 408 | Siguiente. |
 | 8 | BD0264–BD0282 | 349 | Pendiente. |
 | 9 | BD0283–BD0303 | 360 | Pendiente. |
 | 10 | BD0304–BD0341 | 562 | Pendiente. |
