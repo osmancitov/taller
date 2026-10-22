@@ -2,7 +2,7 @@
 
 # Las medidas de On Writing
 
-![Grabado antiguo: un libro abierto sobre una mesa de taller; de sus páginas se alza un paisaje de montañas y montículos, medido con compás, regla y balanza](../img/cgbabj_medidas-on-writing.jpg)
+[![Grabado antiguo: un libro abierto sobre una mesa de taller; de sus páginas se alza un paisaje de montañas y montículos, medido con compás, regla y balanza](../img/cgbabj_medidas-on-writing.jpg)](../img/cgbabj_medidas-on-writing.jpg)
 
 Este cuaderno guarda las medidas de *On Writing*, de Stephen King, sección por sección, tal como salen de los moldes de la bóveda y de las herramientas del Taller. La primera es la de C.V., la larga memoria autobiográfica que abre el libro, medida con Alambique - Frases Selectas. El cuaderno irá creciendo a medida que se midan las demás secciones.
 

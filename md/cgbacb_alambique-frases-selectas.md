@@ -2,7 +2,7 @@
 
 # Alambique - Frases Selectas
 
-![Óleo de una tejedora ante un telar a la luz de una vela: sobre un tapiz de paisaje con niebla, dos hebras doradas cruzan de lado a lado entre muchas hebras pálidas](../img/cgbacb_alambique-frases-selectas.jpg)
+[![Óleo de una tejedora ante un telar a la luz de una vela: sobre un tapiz de paisaje con niebla, dos hebras doradas cruzan de lado a lado entre muchas hebras pálidas](../img/cgbacb_alambique-frases-selectas.jpg)](../img/cgbacb_alambique-frases-selectas.jpg)
 
 Alambique - Frases Selectas es el procedimiento que puntúa las frases de una sección de la obra y teje las más pesadas en su lectura. Se toman las frases que más pesan, alrededor del diez por ciento, y se tejen con puentes y glosas hasta que la sección se lee completa, de principio a fin. Este cuaderno deja escrito el procedimiento entero, de la puntuación al tejido, para repetirlo igual en otra sección o en otra obra. Se fijó el 20 de octubre de 2026 con el preámbulo de *On Writing*, de Stephen King: 19 frases, de la BD0071 a la BD0089.
 

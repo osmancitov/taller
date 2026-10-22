@@ -2,7 +2,7 @@
 
 # Nuevo Lear. Escena 1
 
-![Óleo: un rey anciano coronado extiende la mano sobre el mapa de su reino ante sus tres hijas, en un salón oscuro a la luz de las velas, al estilo de Joseph Wright of Derby](../img/cgbabi_nuevo-lear.jpg)
+[![Óleo: un rey anciano coronado extiende la mano sobre el mapa de su reino ante sus tres hijas, en un salón oscuro a la luz de las velas, al estilo de Joseph Wright of Derby](../img/cgbabi_nuevo-lear.jpg)](../img/cgbabi_nuevo-lear.jpg)
 
 William Shakespeare
 
