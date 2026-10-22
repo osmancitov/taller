@@ -41,7 +41,7 @@ Para cada persona se anota si el original la presenta. Si el original la aclara,
 
 ## Decisiones de formato
 
-El 21 de octubre de 2026, al tejer la primera unidad con este procedimiento («El paisaje con niebla», en *Mientras escribo*), quedaron fijadas cuatro decisiones de formato, y el 22 de octubre se añadieron dos más:
+El 21 de octubre de 2026, al tejer la primera unidad con este procedimiento («El paisaje con niebla», en *Mientras escribo*), quedaron fijadas cuatro decisiones de formato, y el 22 de octubre se añadieron tres más:
 
 1. **La cita va en su idioma original y debajo su traducción al castellano.** Así aprendemos a traducir también.
 2. **La glosa va tejida en cada tramo, no en una sección aparte.** La glosa tejida es una lectura acompañada, y así es como más se disfruta.
@@ -49,6 +49,8 @@ El 21 de octubre de 2026, al tejer la primera unidad con este procedimiento («E
 4. **El presupuesto de palabras puede quedarse un poquito por arriba.** Los puentes y las glosas se miden contra las palabras de las citas ganadoras; pasarse un poco está bien, porque presentar a cada persona lo pide.
 5. **La cita lleva su número en castellano llano: «Frase 17», no el código del molde (BD0017).** El lector que llega en frío no conoce nuestra nomenclatura. Se escribe sin ceros a la izquierda, bajo la cita en original. El código se queda en los registros internos y en este cuaderno.
 6. **La entrada abre con una presentación de la obra y un puente al primer tramo.** Entre el comienzo de la entrada (título y dibujo) y el primer tramo va una glosa corta que presenta la obra: quién la escribió, cuándo, para qué y cómo está armada. Se escribe con el libro abierto, como todo lo demás, y se dice qué viene de fuera del libro. Cierra con un puente que lleva al lector, que llega sin saber nada, hasta el primer tramo. Se escribe una sola vez, al abrir la entrada; los tramos siguientes no la repiten.
+
+7. **La cita va en un bloque de cita con su rótulo dentro, sin líneas sueltas.** En la página, la cita en original y su rótulo «Frase N» —en letra pequeña— van juntos dentro del mismo bloque de cita: primero la cita, en su párrafo, y justo después el rótulo. En el cuaderno de texto, la cita va en líneas de cita y el rótulo en su propia línea de cita, debajo. Ninguna cita se publica sin rótulo, ningún rótulo va en un párrafo aparte y el rótulo no puede salir jamás como la palabra «None»: si el rótulo no queda en su sitio, la cita no se publica. El 22 de octubre de 2026 salieron así, con «None» y el rótulo suelto, las 50 citas de los tramos 9 a 22 de *Mientras escribo*; se corrigieron todas a este formato ese mismo día.
 
 ## Una advertencia honesta
 
