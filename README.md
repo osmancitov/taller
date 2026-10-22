@@ -8,6 +8,7 @@ Aquí se estudia y se prueba. Los cuadernos guardan preguntas, notas, frases y h
 
 ## Cuadernos
 
+- [El cierre del día](md/cgbacb_cierre-del-dia.md) · 21 de octubre de 2026.
 - [Alambique Imagen Pintor](md/cgbacb_alambique-imagen-pintor.md) · 21 de octubre de 2026.
 - [Alambique - Frases Selectas](md/cgbacb_alambique-frases-selectas.md) · 21 de octubre de 2026.
 - [Las medidas de On Writing](md/cgbabj_medidas-on-writing.md) · 19 de octubre de 2026.

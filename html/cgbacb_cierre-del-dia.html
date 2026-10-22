@@ -1,0 +1,28 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>El cierre del día · osmancito</title><meta name="description" content="Cómo la casa pasa lo de hoy a la historia, cada noche a medianoche."><link rel="icon" type="image/x-icon" href="https://osmancitov.github.io/favicon.ico"><meta property="og:type" content="article"><meta property="og:title" content="El cierre del día"><meta property="og:description" content="Cómo la casa pasa lo de hoy a la historia, cada noche a medianoche."><meta property="og:url" content="https://osmancitov.github.io/taller/html/cgbacb_cierre-del-dia.html"><meta property="og:image" content="https://osmancitov.github.io/taller/img/cgbacb_cierre-del-dia.jpg"><meta property="og:image:type" content="image/jpeg"><meta property="og:image:width" content="1672"><meta property="og:image:height" content="941"><link rel="stylesheet" href="/css/base.css">
+<style>html{color-scheme:dark}body{margin:auto;max-width:680px;padding:24px}img{display:block;max-width:100%;height:auto;margin:24px auto}h1,h2{line-height:1.2}li{margin:12px 0}h2{margin:36px 0 24px}body{overflow-wrap:break-word}</style></head><body><main><p>21 de octubre de 2026</p>
+<h1>El cierre del día</h1>
+<img src="../img/cgbacb_cierre-del-dia.jpg" alt="Un escriba deposita el pliego del día sobre un gran libro mayor abierto en una sala de madera a medianoche, con un reloj que marca las doce y luz de vela contra la noche azul, al estilo de David Teniers el Joven" width="1672" height="941">
+<p>Cómo la casa pasa lo de hoy a la historia, cada noche a medianoche. No hace falta conocer el sistema para seguirlo.</p>
+<h2>Las tres páginas</h2>
+<p>Repo maquinas, cada md con su gemelo html; el md es la fuente y los dos se actualizan juntos:</p>
+<ul>
+<li>Estado actual (cgbabd_status): lo que corre, los automáticos, hecho hoy, sociales del día, pendiente de Osmancito. Cambia durante el día.</li>
+<li>Historial de tareas (cgbabd_historial): trabajos terminados hasta ayer, el más reciente arriba. Cada uno con título, fecha en palabras, detalle y enlace «Leer» si hay. Página borrada: texto sin enlace.</li>
+<li>Historial social (cgbabf_historial-social): un bloque por día, el más reciente arriba.</li>
+</ul>
+<h2>Durante el día</h2>
+<p>Cada trabajo terminado se anota como viñeta en «Hecho hoy» y como línea del borrador oculto BORRADOR-DEL-DIA al final del Historial (fecha | título | detalle | enlace opcional). Lo social va como viñetas cortas en «Sociales». Nunca se menciona búsqueda de trabajo o clientes.</p>
+<h2>A medianoche (00:00 Caracas)</h2>
+<ol>
+<li>git pull.</li>
+<li>Revisar que el borrador tenga todo lo terminado.</li>
+<li>Cerrar: las líneas del borrador pasan al principio del Historial como bloques con fecha en palabras y el borrador queda vacío; las viñetas de «Sociales» pasan al Historial social como bloque nuevo con la fecha del día que termina; «Hecho hoy» y «Sociales» quedan en «- Nada todavía.»; se ajustan «Corriendo ahora» y «Pendiente de Osmancito»; se actualizan los contadores (💬 mensajes · 🎙️ palabras de voz · ✉️ correos de Instinct · 🎖️ medallas suyas en WhatsApp, sin contar reacciones); la línea de fecha y hora se reescribe en UTC-4.</li>
+<li>Firma «© {año} Osmancito» en cada página.</li>
+<li>Espejar los md en sus html.</li>
+<li>Commit y push con tu correo como autor y committer (regla 55).</li>
+<li>Verificar las tres páginas en vivo.</li>
+<li>Escribirte solo si algo falla.</li>
+</ol>
+<p>© 2026 Osmancito</p>
+<p><a href="../taller.html">volver</a></p>
+</main></body></html>
