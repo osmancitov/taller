@@ -4,7 +4,7 @@
 
 [![Óleo de un taller de alquimista a la luz de las velas: un alambique de cobre destila un libro abierto y las gotas de luz caen sobre una larga fila de vasos y cuadernos abiertos, mientras un escriba lleva la cuenta en un libro mayor, al estilo de David Teniers el Joven](../img/cgbacb_destilando-on-writing.jpg)](../img/cgbacb_destilando-on-writing.jpg)
 
-Este cuaderno lleva el registro de una obra larga: destilar entero *On Writing*, de Stephen King (en castellano, *Mientras Escribo*), sección por sección. El destilado se publica por unidades en [«Mientras Escribo»](https://osmancitov.github.io/destileria/html/cgbabh_mientras-escribo.html), en la Destilería, y este cuaderno anota qué va hecho y qué sigue, hasta que el libro entero esté destilado.
+Este cuaderno lleva el registro de una obra larga: destilar entero *On Writing*, de Stephen King (en castellano, *Mientras Escribo*), sección por sección. El destilado se publica por unidades en [«Mientras Escribo I»](https://osmancitov.github.io/destileria/html/cgbabh_mientras-escribo.html) y [«Mientras Escribo II»](https://osmancitov.github.io/destileria/html/cgbacd_mientras-escribo-ii.html), en la Destilería, y este cuaderno anota qué va hecho y qué sigue, hasta que el libro entero esté destilado.
 
 ## El libro
 
@@ -27,7 +27,7 @@ Este cuaderno lleva el registro de una obra larga: destilar entero *On Writing*,
 
 El procedimiento está fijo y escrito paso a paso en [Alambique - Frases Selectas](https://github.com/osmancitov/taller/blob/main/md/cgbacb_alambique-frases-selectas.md); aquí va solo el resumen de sus reglas para esta obra. Cada frase vale un punto, que se reparte en partes iguales entre sus puestos: el sujeto y el objeto de cada cláusula, principales y subordinadas, y un mismo nodo cobra cada vez que aparece. Los verbos no puntúan. Cada frase pesa lo que suman los pesos de sus nodos, y ganan las más pesadas, alrededor del diez por ciento. Las ganadoras se tejen en el orden del libro con puentes y glosas; la cita va en inglés y debajo su traducción al castellano, verificada palabra por palabra con el libro abierto. Cada unidad lleva su dibujo bajo el título.
 
-Las unidades y las secciones de la entrada se separan con un filete, como manda la decisión 8 del procedimiento: en la página el filete es una línea fina dorada (#a8783a), con 64 píxeles de aire encima y 32 debajo ante cada unidad, y 96 y 40 cuando el título que sigue es de sección; la regla vive en la hoja de estilo común de la casa. Las citas de «Mientras Escribo» son la excepción: llevan su filete gris (#9da7b3), propio de esa página. Del C.V. ya están destilados y publicados los tramos 1 a 39, cada uno con su dibujo bajo el título y su línea en la lista de abajo.
+Las unidades y las secciones de la entrada se separan con un filete, como manda la decisión 8 del procedimiento: en la página el filete es una línea fina dorada (#a8783a), con 64 píxeles de aire encima y 32 debajo ante cada unidad, y 96 y 40 cuando el título que sigue es de sección; la regla vive en la hoja de estilo común de la casa. Las citas de «Mientras Escribo I» y «Mientras Escribo II» son la excepción: llevan su filete gris (#9da7b3), propio de esas páginas. Del C.V. ya están destilados y publicados los tramos 1 a 39, cada uno con su dibujo bajo el título y su línea en la lista de abajo.
 
 ## Primera etapa: los prólogos
 
@@ -37,7 +37,7 @@ Registro de los prólogos: «La pregunta de Amy», publicado el 22 de octubre de
 
 ## Segunda etapa: el C.V.
 
-El C.V. es la memoria con que empieza el cuerpo del libro, después de los prólogos: King cuenta su vida de escritor en retazos y avisa que esto no es autobiografía, es curriculum vitae. Destilarlo de una vez resultó un bocado demasiado grande; una primera pasada a la sección entera, publicada el 18 de octubre de 2026, se dejó atrás. El propio libro corta la sección con 38 líneas de asteriscos («* * *»): son 39 tramos sin título ni número, de 49 a 1.991 palabras. Seguimos esos cortes, sin inventar divisiones. Cada tramo se destila por separado y se publica como una unidad de «Mientras Escribo», con su título sacado de la materia del tramo: el primero se llama «El paisaje con niebla».
+El C.V. es la memoria con que empieza el cuerpo del libro, después de los prólogos: King cuenta su vida de escritor en retazos y avisa que esto no es autobiografía, es curriculum vitae. Destilarlo de una vez resultó un bocado demasiado grande; una primera pasada a la sección entera, publicada el 18 de octubre de 2026, se dejó atrás. El propio libro corta la sección con 38 líneas de asteriscos («* * *»): son 39 tramos sin título ni número, de 49 a 1.991 palabras. Seguimos esos cortes, sin inventar divisiones. Cada tramo se destila por separado y se publica como una unidad de «Mientras Escribo I», con su título sacado de la materia del tramo: el primero se llama «El paisaje con niebla».
 
 Criterios declarados de esta etapa, además de los del procedimiento: los infinitivos con «to» no añaden sujeto propio —el sujeto es el de la cláusula madre, que ya cobró—, pero sus objetos sí cobran; los absolutos con «with» («with a nurse hovering nearby») cuentan su sujeto; el destinatario de un imperativo es su sujeto, y si es genérico, como el «you» de «you can't hear a person die», forma el nodo «uno»; quedan fuera las referencias vacías («there», «this» e «it» que remiten a toda una escena), los predicados después de «ser» («a throat doctor», «fourteen») y los complementos de lugar, tiempo, manera y comparación; las partes del cuerpo y las facultades se unifican con su persona («my jaws», «my heartbeat» son King); «we» es la familia. Una frase sin puestos pesa cero. Los empates en el corte se resuelven por orden de aparición: entra primero la frase de menor número.
 
@@ -94,6 +94,6 @@ Todos los tramos se ajustaron el 23 de octubre de 2026 al criterio de palabras. 
 
 ## Tercera etapa: What Writing Is
 
-Una sola unidad, «El conejo del ocho», publicada el 23 de octubre de 2026: BD1538–BD1610, 73 frases, 1.370 palabras. Ganaron la BD1559, la BD1562, la BD1579, la BD1595, la BD1599 y la BD1608 (6 de 73, 146 palabras, 10,7 %). Criterio añadido: «we» y «us», que aquí son King y el lector juntos, forman un solo nodo. Pesos de los nodos más altos: el lector 13,2, King 9,3, «nosotros» 7,8, el 8 del conejo 3,5. Prosa: puentes 164 palabras (12,0 %), glosa 60 (4,4 %).
+Una sola unidad, «El conejo del ocho», publicada el 23 de octubre de 2026 en «Mientras Escribo II»: BD1538–BD1610, 73 frases, 1.370 palabras. Ganaron la BD1559, la BD1562, la BD1579, la BD1595, la BD1599 y la BD1608 (6 de 73, 146 palabras, 10,7 %). Criterio añadido: «we» y «us», que aquí son King y el lector juntos, forman un solo nodo. Pesos de los nodos más altos: el lector 13,2, King 9,3, «nosotros» 7,8, el 8 del conejo 3,5. Prosa: puentes 164 palabras (12,0 %), glosa 60 (4,4 %).
 
 © 2026 Osmancito
