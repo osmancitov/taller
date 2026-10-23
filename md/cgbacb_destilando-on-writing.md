@@ -83,7 +83,7 @@ Criterios declarados de esta etapa, además de los del procedimiento: los infini
 | 34 | BD1374–BD1414 | 666 | Hecho: «Mis niños», publicado el 23 de octubre de 2026. Ganaron la BD1380, la BD1387, la BD1393, la BD1408 y la BD1413, 5 de 41 frases (empate a 26,38 entre la 1393 y la 1408 en el corte). |
 | 35 | BD1415–BD1417 | 49 | Hecho: «El elogio», publicado el 23 de octubre de 2026. Ganó la BD1415, 1 de 3 frases. |
 | 36 | BD1418–BD1449 | 522 | Hecho: «Soy alcohólico», publicado el 23 de octubre de 2026. Ganaron la BD1429, la BD1430, la BD1446 y la BD1447, 4 de 32 frases (empate a 13,66 entre la 1430 y la 1447 en el corte). |
-| 37 | BD1450–BD1503 | 1.064 | Hecho: «Dos semanas para pensarlo», publicado el 23 de octubre de 2026. Ganaron la BD1450, la BD1470, la BD1476, la BD1477 y la BD1478, 5 de 54 frases. |
+| 37 | BD1450–BD1503 | 1.019 | Hecho: «Dos semanas para pensarlo», publicado el 23 de octubre de 2026. Ganaron la BD1450, la BD1470, la BD1476, la BD1477 y la BD1478, 5 de 54 frases. |
 | 38 | BD1504–BD1518 | 251 | Siguiente. |
 | 39 | BD1519–BD1536 | 383 | Pendiente. |
 
