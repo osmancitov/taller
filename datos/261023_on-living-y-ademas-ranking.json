@@ -1,0 +1,6274 @@
+{
+ "obra": "Stephen King, On Writing",
+ "seccion": "On Living; And Furthermore I; And Furthermore II",
+ "fecha": "2026-10-23",
+ "fuente": "segmentacion-canonica.json; cotejo con king_on-writing.md",
+ "regla": "Un punto por oración, dividido entre sus puestos; el peso de la oración suma los pesos de sus nodos distintos. Corte al primer cruce del 10 % de palabras, con la última oración entera. El desempate por orden de aparición sigue retirado: los empates en el corte de L1 y de L5 se consultaron al usuario el 23 de octubre de 2026 y se resolvieron por su decisión expresa, caso por caso, sin crear criterio general. F2b es una bibliografía: no puntúa; se publica íntegra por decisión del usuario, sin fingir selección.",
+ "criterios": "Sujetos y objetos de toda cláusula, también subordinadas y absolutos; agentes de pasiva como puestos; miembros compuestos por separado; objetos de infinitivos y gerundios sin duplicar el sujeto controlado; el destinatario del imperativo es el interpelado real. Fuera: existenciales (there is/are), expletivos, atributos y complementos de lugar, tiempo, manera, comparación, origen con from e instrumento con with. El punto se reparte entre todos los puestos y el peso final suma los nodos distintos.",
+ "alias": "I/me/my y facultades de King = king; you/your e imperativos al destinatario = lector; we/us de King y el lector = king-lector; you genérico = uno; los personajes conservan sus nodos. Slugs en minúsculas; los plurales se unifican con el singular.",
+ "unidades": [
+  {
+   "unit": "l1",
+   "source_words": 838,
+   "node_weights": {
+    "familia": 1.6190476190476188,
+    "mike-noonan": 0.3333333333333333,
+    "king": 11.169047619047618,
+    "paseo": 3.25952380952381,
+    "semana": 0.5,
+    "hijos": 0.5,
+    "nieto": 0.5,
+    "globo": 0.5,
+    "hijo": 0.5,
+    "vuelo": 0.25,
+    "siesta": 0.3333333333333333,
+    "pelicula": 0.14285714285714285,
+    "tiempo": 0.6428571428571428,
+    "coche": 0.8333333333333333,
+    "mujer": 1.0666666666666667,
+    "van": 1.9999999999999998,
+    "pasajero": 0.4,
+    "smith": 5.904761904761908,
+    "visibilidad": 0.2,
+    "peaton": 0.2,
+    "trafico": 0.2,
+    "bus": 0.5,
+    "recuerdo": 2.0,
+    "placa": 0.5,
+    "ventanas": 0.5,
+    "detalles": 0.25,
+    "accidente": 0.25,
+    "cabeza": 0.5,
+    "sangre": 0.5,
+    "ojos": 0.3333333333333333,
+    "baston": 0.5,
+    "historial": 0.25,
+    "infracciones": 0.25,
+    "bullet": 1.8333333333333335,
+    "carne": 0.25,
+    "pistol": 0.5,
+    "cooler": 0.5,
+    "amigos": 0.14285714285714285,
+    "ciervo": 0.14285714285714285,
+    "gafas": 2.0428571428571427,
+    "libro": 0.2
+   },
+   "ranking": [
+    "BD3751",
+    "BD3726",
+    "BD3743",
+    "BD3728",
+    "BD3745",
+    "BD3717",
+    "BD3727",
+    "BD3716",
+    "BD3718",
+    "BD3719",
+    "BD3721",
+    "BD3755",
+    "BD3753",
+    "BD3735",
+    "BD3710",
+    "BD3725",
+    "BD3722",
+    "BD3715",
+    "BD3731",
+    "BD3732",
+    "BD3739",
+    "BD3741",
+    "BD3742",
+    "BD3747",
+    "BD3720",
+    "BD3733",
+    "BD3748",
+    "BD3752",
+    "BD3750",
+    "BD3744",
+    "BD3746",
+    "BD3729",
+    "BD3723",
+    "BD3711",
+    "BD3749",
+    "BD3754",
+    "BD3724",
+    "BD3736",
+    "BD3740",
+    "BD3713",
+    "BD3712",
+    "BD3714",
+    "BD3738",
+    "BD3730",
+    "BD3734",
+    "BD3737"
+   ],
+   "selected": [
+    "BD3726",
+    "BD3728",
+    "BD3743",
+    "BD3745",
+    "BD3751"
+   ],
+   "selected_words": 100,
+   "sentences": [
+    {
+     "id": "BD3710",
+     "slots": [
+      "familia",
+      "mike-noonan",
+      "king"
+     ],
+     "words": 34,
+     "score": 13.121429
+    },
+    {
+     "id": "BD3711",
+     "slots": [
+      "paseo",
+      "paseo",
+      "paseo",
+      "paseo"
+     ],
+     "words": 32,
+     "score": 3.259524
+    },
+    {
+     "id": "BD3712",
+     "slots": [
+      "semana",
+      "hijos"
+     ],
+     "words": 29,
+     "score": 1.0
+    },
+    {
+     "id": "BD3713",
+     "slots": [
+      "familia"
+     ],
+     "words": 17,
+     "score": 1.619048
+    },
+    {
+     "id": "BD3714",
+     "slots": [
+      "nieto",
+      "globo"
+     ],
+     "words": 25,
+     "score": 1.0
+    },
+    {
+     "id": "BD3715",
+     "slots": [
+      "king",
+      "hijo",
+      "hijo",
+      "vuelo"
+     ],
+     "words": 24,
+     "score": 11.919048
+    },
+    {
+     "id": "BD3716",
+     "slots": [
+      "king",
+      "siesta",
+      "paseo"
+     ],
+     "words": 15,
+     "score": 14.761905
+    },
+    {
+     "id": "BD3717",
+     "slots": [
+      "familia",
+      "pelicula",
+      "king",
+      "king",
+      "tiempo",
+      "paseo",
+      "familia"
+     ],
+     "words": 39,
+     "score": 16.833333
+    },
+    {
+     "id": "BD3718",
+     "slots": [
+      "king",
+      "paseo",
+      "king"
+     ],
+     "words": 18,
+     "score": 14.428571
+    },
+    {
+     "id": "BD3719",
+     "slots": [
+      "paseo",
+      "king",
+      "paseo"
+     ],
+     "words": 32,
+     "score": 14.428571
+    },
+    {
+     "id": "BD3720",
+     "slots": [
+      "king"
+     ],
+     "words": 14,
+     "score": 11.169048
+    },
+    {
+     "id": "BD3721",
+     "slots": [
+      "king",
+      "paseo",
+      "king"
+     ],
+     "words": 15,
+     "score": 14.428571
+    },
+    {
+     "id": "BD3722",
+     "slots": [
+      "coche",
+      "king"
+     ],
+     "words": 7,
+     "score": 12.002381
+    },
+    {
+     "id": "BD3723",
+     "slots": [
+      "mujer",
+      "coche",
+      "van"
+     ],
+     "words": 20,
+     "score": 3.9
+    },
+    {
+     "id": "BD3724",
+     "slots": [
+      "van"
+     ],
+     "words": 18,
+     "score": 2.0
+    },
+    {
+     "id": "BD3725",
+     "slots": [
+      "mujer",
+      "pasajero",
+      "mujer",
+      "pasajero",
+      "king"
+     ],
+     "words": 26,
+     "score": 12.635714
+    },
+    {
+     "id": "BD3726",
+     "slots": [
+      "mujer",
+      "smith",
+      "king"
+     ],
+     "words": 11,
+     "score": 18.140476
+    },
+    {
+     "id": "BD3727",
+     "slots": [
+      "visibilidad",
+      "king",
+      "paseo",
+      "peaton",
+      "trafico"
+     ],
+     "words": 40,
+     "score": 15.028571
+    },
+    {
+     "id": "BD3728",
+     "slots": [
+      "king",
+      "smith"
+     ],
+     "words": 24,
+     "score": 17.07381
+    },
+    {
+     "id": "BD3729",
+     "slots": [
+      "smith",
+      "smith"
+     ],
+     "words": 10,
+     "score": 5.904762
+    },
+    {
+     "id": "BD3730",
+     "slots": [],
+     "words": 2,
+     "score": 0
+    },
+    {
+     "id": "BD3731",
+     "slots": [
+      "king",
+      "tiempo"
+     ],
+     "words": 10,
+     "score": 11.811905
+    },
+    {
+     "id": "BD3732",
+     "slots": [
+      "king",
+      "bus"
+     ],
+     "words": 17,
+     "score": 11.669048
+    },
+    {
+     "id": "BD3733",
+     "slots": [
+      "king"
+     ],
+     "words": 7,
+     "score": 11.169048
+    },
+    {
+     "id": "BD3734",
+     "slots": [],
+     "words": 8,
+     "score": 0
+    },
+    {
+     "id": "BD3735",
+     "slots": [
+      "king",
+      "van",
+      "van"
+     ],
+     "words": 29,
+     "score": 13.169048
+    },
+    {
+     "id": "BD3736",
+     "slots": [
+      "recuerdo"
+     ],
+     "words": 14,
+     "score": 2.0
+    },
+    {
+     "id": "BD3737",
+     "slots": [],
+     "words": 7,
+     "score": 0
+    },
+    {
+     "id": "BD3738",
+     "slots": [
+      "placa",
+      "ventanas"
+     ],
+     "words": 9,
+     "score": 1.0
+    },
+    {
+     "id": "BD3739",
+     "slots": [
+      "king",
+      "detalles",
+      "king",
+      "accidente"
+     ],
+     "words": 18,
+     "score": 11.669048
+    },
+    {
+     "id": "BD3740",
+     "slots": [
+      "recuerdo"
+     ],
+     "words": 5,
+     "score": 2.0
+    },
+    {
+     "id": "BD3741",
+     "slots": [
+      "king",
+      "cabeza"
+     ],
+     "words": 9,
+     "score": 11.669048
+    },
+    {
+     "id": "BD3742",
+     "slots": [
+      "king",
+      "sangre"
+     ],
+     "words": 26,
+     "score": 11.669048
+    },
+    {
+     "id": "BD3743",
+     "slots": [
+      "ojos",
+      "king",
+      "smith"
+     ],
+     "words": 18,
+     "score": 17.407143
+    },
+    {
+     "id": "BD3744",
+     "slots": [
+      "smith",
+      "baston"
+     ],
+     "words": 8,
+     "score": 6.404762
+    },
+    {
+     "id": "BD3745",
+     "slots": [
+      "smith",
+      "smith",
+      "king"
+     ],
+     "words": 16,
+     "score": 17.07381
+    },
+    {
+     "id": "BD3746",
+     "slots": [
+      "smith",
+      "historial",
+      "smith",
+      "infracciones"
+     ],
+     "words": 16,
+     "score": 6.404762
+    },
+    {
+     "id": "BD3747",
+     "slots": [
+      "smith",
+      "paseo",
+      "bullet",
+      "carne"
+     ],
+     "words": 40,
+     "score": 11.247619
+    },
+    {
+     "id": "BD3748",
+     "slots": [
+      "bullet",
+      "smith",
+      "pistol",
+      "pistol"
+     ],
+     "words": 16,
+     "score": 8.238095
+    },
+    {
+     "id": "BD3749",
+     "slots": [
+      "bullet",
+      "cooler"
+     ],
+     "words": 10,
+     "score": 2.333333
+    },
+    {
+     "id": "BD3750",
+     "slots": [
+      "smith",
+      "bullet"
+     ],
+     "words": 9,
+     "score": 7.738095
+    },
+    {
+     "id": "BD3751",
+     "slots": [
+      "smith",
+      "bullet",
+      "bullet",
+      "smith",
+      "smith",
+      "king"
+     ],
+     "words": 31,
+     "score": 18.907143
+    },
+    {
+     "id": "BD3752",
+     "slots": [
+      "smith",
+      "amigos",
+      "smith",
+      "smith",
+      "ciervo",
+      "smith",
+      "gafas"
+     ],
+     "words": 26,
+     "score": 8.233333
+    },
+    {
+     "id": "BD3753",
+     "slots": [
+      "gafas",
+      "king"
+     ],
+     "words": 15,
+     "score": 13.211905
+    },
+    {
+     "id": "BD3754",
+     "slots": [
+      "gafas",
+      "gafas"
+     ],
+     "words": 11,
+     "score": 2.042857
+    },
+    {
+     "id": "BD3755",
+     "slots": [
+      "gafas",
+      "king",
+      "gafas",
+      "king",
+      "libro"
+     ],
+     "words": 11,
+     "score": 13.411905
+    }
+   ]
+  },
+  {
+   "unit": "l2",
+   "source_words": 1954,
+   "node_weights": {
+    "smith": 4.763636363636364,
+    "king": 40.786904761904765,
+    "ayuda": 0.5,
+    "mirada": 0.3333333333333333,
+    "baston": 0.16666666666666666,
+    "bullet": 0.18181818181818182,
+    "campamento": 0.09090909090909091,
+    "investigador": 0.09090909090909091,
+    "dulces": 0.5151515151515151,
+    "tienda": 0.09090909090909091,
+    "detalle": 0.25,
+    "personaje": 0.25,
+    "accidente": 0.25,
+    "pierna": 1.2,
+    "algo": 0.2,
+    "regazo": 0.4,
+    "cuerpo": 1.2,
+    "voz": 1.0,
+    "dios": 0.25,
+    "memoria": 1.0,
+    "ambulancia": 0.3333333333333333,
+    "luces": 0.8333333333333333,
+    "fillebrown": 11.03849206349206,
+    "vaqueros": 0.5,
+    "cigarrillo": 0.25,
+    "hospital": 0.6428571428571428,
+    "hijo": 0.2857142857142857,
+    "dedos": 1.8928571428571428,
+    "rima": 0.2857142857142857,
+    "madre": 0.14285714285714285,
+    "cerdito": 0.2857142857142857,
+    "paseo": 0.5833333333333333,
+    "gente": 1.75,
+    "tabby": 3.083333333333333,
+    "familia": 0.5,
+    "numeros": 0.9166666666666666,
+    "hija": 0.5,
+    "radio": 0.5,
+    "llamadas": 1.0,
+    "puertas": 0.3333333333333333,
+    "alguien": 6.80952380952381,
+    "grupo": 2.833333333333333,
+    "tijeras": 0.1,
+    "anillo": 1.8952380952380954,
+    "pareja": 0.1,
+    "version": 0.3333333333333333,
+    "vida": 0.125,
+    "asistencia": 0.125,
+    "trabajo": 0.1111111111111111,
+    "lesiones": 0.25396825396825395,
+    "medicos": 0.8214285714285714,
+    "helicoptero": 1.226190476190476,
+    "hijo-mayor": 0.3333333333333333,
+    "hijos": 0.5833333333333333,
+    "visita": 0.3333333333333333,
+    "sangre": 0.2,
+    "cristal": 0.2,
+    "impacto": 1.0,
+    "poste": 0.3333333333333333,
+    "rocas": 0.6666666666666666,
+    "doctor-brown": 0.5833333333333333,
+    "conversacion": 0.25,
+    "cielo": 2.3666666666666663,
+    "ruido": 1.5,
+    "equipo": 1.0,
+    "voces": 1.0,
+    "cara": 0.3333333333333333,
+    "pulmon": 0.3333333333333333,
+    "tubo": 0.75,
+    "dolor": 0.5,
+    "uno": 0.7619047619047619,
+    "pellizco": 0.14285714285714285,
+    "objeto": 0.5,
+    "fuga": 0.5,
+    "respiracion": 0.8333333333333333,
+    "sonido": 0.25,
+    "aire": 0.6666666666666666,
+    "paseos": 0.25,
+    "libro": 0.5,
+    "helipuerto": 1.0,
+    "camilla": 0.3333333333333333,
+    "todos": 0.3333333333333333,
+    "mensaje": 0.25,
+    "altavoces": 0.5,
+    "avisos": 0.5,
+    "berries": 0.25,
+    "campo": 0.25,
+    "travolta": 1.0,
+    "pelicula": 0.5,
+    "villano": 0.5,
+    "morfina": 0.2,
+    "dilaudid": 0.2,
+    "manos": 0.2,
+    "labios": 0.2,
+    "hisopos": 0.2
+   },
+   "ranking": [
+    "BD3812",
+    "BD3807",
+    "BD3793",
+    "BD3795",
+    "BD3808",
+    "BD3783",
+    "BD3781",
+    "BD3796",
+    "BD3813",
+    "BD3776",
+    "BD3811",
+    "BD3778",
+    "BD3779",
+    "BD3782",
+    "BD3788",
+    "BD3791",
+    "BD3868",
+    "BD3866",
+    "BD3815",
+    "BD3831",
+    "BD3865",
+    "BD3840",
+    "BD3864",
+    "BD3858",
+    "BD3880",
+    "BD3765",
+    "BD3756",
+    "BD3758",
+    "BD3835",
+    "BD3770",
+    "BD3855",
+    "BD3818",
+    "BD3859",
+    "BD3879",
+    "BD3784",
+    "BD3857",
+    "BD3764",
+    "BD3786",
+    "BD3847",
+    "BD3828",
+    "BD3833",
+    "BD3763",
+    "BD3772",
+    "BD3852",
+    "BD3871",
+    "BD3803",
+    "BD3834",
+    "BD3797",
+    "BD3827",
+    "BD3762",
+    "BD3848",
+    "BD3824",
+    "BD3825",
+    "BD3853",
+    "BD3780",
+    "BD3785",
+    "BD3826",
+    "BD3760",
+    "BD3775",
+    "BD3845",
+    "BD3850",
+    "BD3856",
+    "BD3872",
+    "BD3823",
+    "BD3792",
+    "BD3794",
+    "BD3801",
+    "BD3802",
+    "BD3814",
+    "BD3841",
+    "BD3846",
+    "BD3851",
+    "BD3854",
+    "BD3863",
+    "BD3867",
+    "BD3878",
+    "BD3810",
+    "BD3789",
+    "BD3773",
+    "BD3774",
+    "BD3777",
+    "BD3790",
+    "BD3806",
+    "BD3849",
+    "BD3804",
+    "BD3842",
+    "BD3832",
+    "BD3843",
+    "BD3769",
+    "BD3759",
+    "BD3768",
+    "BD3757",
+    "BD3766",
+    "BD3817",
+    "BD3816",
+    "BD3820",
+    "BD3862",
+    "BD3869",
+    "BD3805",
+    "BD3860",
+    "BD3829",
+    "BD3809",
+    "BD3787",
+    "BD3799",
+    "BD3844",
+    "BD3800",
+    "BD3830",
+    "BD3874",
+    "BD3875",
+    "BD3819",
+    "BD3767",
+    "BD3771",
+    "BD3822",
+    "BD3838",
+    "BD3861",
+    "BD3870",
+    "BD3881",
+    "BD3761",
+    "BD3798",
+    "BD3821",
+    "BD3836",
+    "BD3837",
+    "BD3839",
+    "BD3873",
+    "BD3876",
+    "BD3877",
+    "BD3882"
+   ],
+   "selected": [
+    "BD3781",
+    "BD3783",
+    "BD3793",
+    "BD3795",
+    "BD3807",
+    "BD3808",
+    "BD3812"
+   ],
+   "selected_words": 200,
+   "sentences": [
+    {
+     "id": "BD3756",
+     "slots": [
+      "smith",
+      "king",
+      "king",
+      "ayuda"
+     ],
+     "words": 12,
+     "score": 46.050541
+    },
+    {
+     "id": "BD3757",
+     "slots": [
+      "smith"
+     ],
+     "words": 5,
+     "score": 4.763636
+    },
+    {
+     "id": "BD3758",
+     "slots": [
+      "mirada",
+      "smith",
+      "baston",
+      "smith",
+      "king",
+      "mirada"
+     ],
+     "words": 32,
+     "score": 46.050541
+    },
+    {
+     "id": "BD3759",
+     "slots": [
+      "smith",
+      "bullet",
+      "campamento",
+      "smith",
+      "bullet",
+      "smith",
+      "investigador",
+      "smith",
+      "dulces",
+      "tienda",
+      "dulces"
+     ],
+     "words": 28,
+     "score": 5.733333
+    },
+    {
+     "id": "BD3760",
+     "slots": [
+      "king",
+      "detalle",
+      "king",
+      "personaje"
+     ],
+     "words": 30,
+     "score": 41.286905
+    },
+    {
+     "id": "BD3761",
+     "slots": [],
+     "words": 3,
+     "score": 0
+    },
+    {
+     "id": "BD3762",
+     "slots": [
+      "ayuda",
+      "king",
+      "king",
+      "accidente"
+     ],
+     "words": 20,
+     "score": 41.536905
+    },
+    {
+     "id": "BD3763",
+     "slots": [
+      "king",
+      "pierna"
+     ],
+     "words": 17,
+     "score": 41.986905
+    },
+    {
+     "id": "BD3764",
+     "slots": [
+      "king",
+      "algo",
+      "king",
+      "regazo",
+      "cuerpo"
+     ],
+     "words": 32,
+     "score": 42.586905
+    },
+    {
+     "id": "BD3765",
+     "slots": [
+      "king",
+      "smith",
+      "smith",
+      "king",
+      "pierna"
+     ],
+     "words": 18,
+     "score": 46.750541
+    },
+    {
+     "id": "BD3766",
+     "slots": [
+      "smith"
+     ],
+     "words": 3,
+     "score": 4.763636
+    },
+    {
+     "id": "BD3767",
+     "slots": [
+      "voz"
+     ],
+     "words": 10,
+     "score": 1.0
+    },
+    {
+     "id": "BD3768",
+     "slots": [
+      "smith",
+      "smith",
+      "dulces"
+     ],
+     "words": 16,
+     "score": 5.278788
+    },
+    {
+     "id": "BD3769",
+     "slots": [
+      "pierna",
+      "smith"
+     ],
+     "words": 9,
+     "score": 5.963636
+    },
+    {
+     "id": "BD3770",
+     "slots": [
+      "king",
+      "smith",
+      "dios",
+      "king"
+     ],
+     "words": 15,
+     "score": 45.800541
+    },
+    {
+     "id": "BD3771",
+     "slots": [
+      "memoria"
+     ],
+     "words": 19,
+     "score": 1.0
+    },
+    {
+     "id": "BD3772",
+     "slots": [
+      "king",
+      "ambulancia",
+      "luces"
+     ],
+     "words": 21,
+     "score": 41.953571
+    },
+    {
+     "id": "BD3773",
+     "slots": [
+      "fillebrown",
+      "fillebrown"
+     ],
+     "words": 11,
+     "score": 11.038492
+    },
+    {
+     "id": "BD3774",
+     "slots": [
+      "fillebrown"
+     ],
+     "words": 3,
+     "score": 11.038492
+    },
+    {
+     "id": "BD3775",
+     "slots": [
+      "vaqueros",
+      "king"
+     ],
+     "words": 12,
+     "score": 41.286905
+    },
+    {
+     "id": "BD3776",
+     "slots": [
+      "king",
+      "fillebrown",
+      "king",
+      "cigarrillo"
+     ],
+     "words": 9,
+     "score": 52.075397
+    },
+    {
+     "id": "BD3777",
+     "slots": [
+      "fillebrown"
+     ],
+     "words": 6,
+     "score": 11.038492
+    },
+    {
+     "id": "BD3778",
+     "slots": [
+      "king",
+      "fillebrown",
+      "king"
+     ],
+     "words": 8,
+     "score": 51.825397
+    },
+    {
+     "id": "BD3779",
+     "slots": [
+      "fillebrown",
+      "king",
+      "king",
+      "king"
+     ],
+     "words": 19,
+     "score": 51.825397
+    },
+    {
+     "id": "BD3780",
+     "slots": [
+      "hospital",
+      "king"
+     ],
+     "words": 15,
+     "score": 41.429762
+    },
+    {
+     "id": "BD3781",
+     "slots": [
+      "king",
+      "fillebrown",
+      "king",
+      "hospital",
+      "hijo",
+      "king",
+      "hijo"
+     ],
+     "words": 29,
+     "score": 52.753968
+    },
+    {
+     "id": "BD3782",
+     "slots": [
+      "king",
+      "fillebrown",
+      "king",
+      "fillebrown",
+      "king"
+     ],
+     "words": 17,
+     "score": 51.825397
+    },
+    {
+     "id": "BD3783",
+     "slots": [
+      "fillebrown",
+      "king",
+      "king",
+      "dedos"
+     ],
+     "words": 14,
+     "score": 53.718254
+    },
+    {
+     "id": "BD3784",
+     "slots": [
+      "king",
+      "dedos",
+      "rima",
+      "madre",
+      "rima",
+      "cerdito",
+      "cerdito"
+     ],
+     "words": 25,
+     "score": 43.394048
+    },
+    {
+     "id": "BD3785",
+     "slots": [
+      "king",
+      "king",
+      "paseo"
+     ],
+     "words": 17,
+     "score": 41.370238
+    },
+    {
+     "id": "BD3786",
+     "slots": [
+      "king",
+      "gente",
+      "gente",
+      "gente"
+     ],
+     "words": 16,
+     "score": 42.536905
+    },
+    {
+     "id": "BD3787",
+     "slots": [
+      "dedos",
+      "dedos"
+     ],
+     "words": 5,
+     "score": 1.892857
+    },
+    {
+     "id": "BD3788",
+     "slots": [
+      "king",
+      "fillebrown"
+     ],
+     "words": 4,
+     "score": 51.825397
+    },
+    {
+     "id": "BD3789",
+     "slots": [
+      "fillebrown",
+      "dedos"
+     ],
+     "words": 8,
+     "score": 12.931349
+    },
+    {
+     "id": "BD3790",
+     "slots": [
+      "fillebrown"
+     ],
+     "words": 5,
+     "score": 11.038492
+    },
+    {
+     "id": "BD3791",
+     "slots": [
+      "king",
+      "fillebrown",
+      "king",
+      "fillebrown"
+     ],
+     "words": 8,
+     "score": 51.825397
+    },
+    {
+     "id": "BD3792",
+     "slots": [
+      "king"
+     ],
+     "words": 6,
+     "score": 40.786905
+    },
+    {
+     "id": "BD3793",
+     "slots": [
+      "fillebrown",
+      "king",
+      "tabby"
+     ],
+     "words": 23,
+     "score": 54.90873
+    },
+    {
+     "id": "BD3794",
+     "slots": [
+      "king"
+     ],
+     "words": 3,
+     "score": 40.786905
+    },
+    {
+     "id": "BD3795",
+     "slots": [
+      "king",
+      "familia",
+      "king",
+      "fillebrown",
+      "numeros",
+      "hija"
+     ],
+     "words": 38,
+     "score": 53.742063
+    },
+    {
+     "id": "BD3796",
+     "slots": [
+      "king",
+      "fillebrown",
+      "numeros",
+      "fillebrown"
+     ],
+     "words": 12,
+     "score": 52.742063
+    },
+    {
+     "id": "BD3797",
+     "slots": [
+      "king",
+      "numeros"
+     ],
+     "words": 5,
+     "score": 41.703571
+    },
+    {
+     "id": "BD3798",
+     "slots": [],
+     "words": 6,
+     "score": 0
+    },
+    {
+     "id": "BD3799",
+     "slots": [
+      "gente"
+     ],
+     "words": 5,
+     "score": 1.75
+    },
+    {
+     "id": "BD3800",
+     "slots": [
+      "radio",
+      "llamadas"
+     ],
+     "words": 8,
+     "score": 1.5
+    },
+    {
+     "id": "BD3801",
+     "slots": [
+      "king"
+     ],
+     "words": 5,
+     "score": 40.786905
+    },
+    {
+     "id": "BD3802",
+     "slots": [
+      "king"
+     ],
+     "words": 5,
+     "score": 40.786905
+    },
+    {
+     "id": "BD3803",
+     "slots": [
+      "king",
+      "llamadas"
+     ],
+     "words": 15,
+     "score": 41.786905
+    },
+    {
+     "id": "BD3804",
+     "slots": [
+      "puertas",
+      "alguien",
+      "alguien"
+     ],
+     "words": 14,
+     "score": 7.142857
+    },
+    {
+     "id": "BD3805",
+     "slots": [
+      "grupo"
+     ],
+     "words": 3,
+     "score": 2.833333
+    },
+    {
+     "id": "BD3806",
+     "slots": [
+      "fillebrown"
+     ],
+     "words": 6,
+     "score": 11.038492
+    },
+    {
+     "id": "BD3807",
+     "slots": [
+      "fillebrown",
+      "tijeras",
+      "king",
+      "fillebrown",
+      "anillo",
+      "anillo",
+      "tabby",
+      "king",
+      "anillo",
+      "pareja"
+     ],
+     "words": 40,
+     "score": 57.003968
+    },
+    {
+     "id": "BD3808",
+     "slots": [
+      "king",
+      "fillebrown",
+      "king",
+      "anillo",
+      "anillo",
+      "anillo",
+      "king"
+     ],
+     "words": 38,
+     "score": 53.720635
+    },
+    {
+     "id": "BD3809",
+     "slots": [
+      "anillo",
+      "anillo"
+     ],
+     "words": 16,
+     "score": 1.895238
+    },
+    {
+     "id": "BD3810",
+     "slots": [
+      "version",
+      "fillebrown",
+      "version",
+      "fillebrown",
+      "fillebrown",
+      "anillo"
+     ],
+     "words": 34,
+     "score": 13.267063
+    },
+    {
+     "id": "BD3811",
+     "slots": [
+      "king",
+      "fillebrown",
+      "fillebrown",
+      "king",
+      "fillebrown",
+      "vida",
+      "asistencia",
+      "king"
+     ],
+     "words": 53,
+     "score": 52.075397
+    },
+    {
+     "id": "BD3812",
+     "slots": [
+      "fillebrown",
+      "king",
+      "alguien",
+      "king"
+     ],
+     "words": 18,
+     "score": 58.634921
+    },
+    {
+     "id": "BD3813",
+     "slots": [
+      "fillebrown",
+      "trabajo",
+      "fillebrown",
+      "king",
+      "fillebrown",
+      "king",
+      "lesiones",
+      "fillebrown",
+      "king"
+     ],
+     "words": 41,
+     "score": 52.190476
+    },
+    {
+     "id": "BD3814",
+     "slots": [
+      "king"
+     ],
+     "words": 10,
+     "score": 40.786905
+    },
+    {
+     "id": "BD3815",
+     "slots": [
+      "lesiones",
+      "medicos",
+      "medicos",
+      "king",
+      "alguien",
+      "helicoptero",
+      "king"
+     ],
+     "words": 36,
+     "score": 49.898016
+    },
+    {
+     "id": "BD3816",
+     "slots": [
+      "tabby",
+      "hijo-mayor",
+      "hija"
+     ],
+     "words": 10,
+     "score": 3.916667
+    },
+    {
+     "id": "BD3817",
+     "slots": [
+      "hijos",
+      "visita",
+      "tabby"
+     ],
+     "words": 14,
+     "score": 4.0
+    },
+    {
+     "id": "BD3818",
+     "slots": [
+      "medicos",
+      "tabby",
+      "king",
+      "king"
+     ],
+     "words": 13,
+     "score": 44.691667
+    },
+    {
+     "id": "BD3819",
+     "slots": [
+      "cuerpo"
+     ],
+     "words": 9,
+     "score": 1.2
+    },
+    {
+     "id": "BD3820",
+     "slots": [
+      "tabby",
+      "regazo",
+      "tabby",
+      "sangre",
+      "cristal"
+     ],
+     "words": 38,
+     "score": 3.883333
+    },
+    {
+     "id": "BD3821",
+     "slots": [],
+     "words": 16,
+     "score": 0
+    },
+    {
+     "id": "BD3822",
+     "slots": [
+      "impacto"
+     ],
+     "words": 16,
+     "score": 1.0
+    },
+    {
+     "id": "BD3823",
+     "slots": [
+      "king",
+      "poste",
+      "king"
+     ],
+     "words": 18,
+     "score": 41.120238
+    },
+    {
+     "id": "BD3824",
+     "slots": [
+      "king",
+      "rocas",
+      "king"
+     ],
+     "words": 26,
+     "score": 41.453571
+    },
+    {
+     "id": "BD3825",
+     "slots": [
+      "king",
+      "rocas",
+      "king"
+     ],
+     "words": 23,
+     "score": 41.453571
+    },
+    {
+     "id": "BD3826",
+     "slots": [
+      "king",
+      "doctor-brown",
+      "king"
+     ],
+     "words": 20,
+     "score": 41.370238
+    },
+    {
+     "id": "BD3827",
+     "slots": [
+      "king",
+      "king",
+      "doctor-brown",
+      "conversacion"
+     ],
+     "words": 9,
+     "score": 41.620238
+    },
+    {
+     "id": "BD3828",
+     "slots": [
+      "helicoptero",
+      "king"
+     ],
+     "words": 19,
+     "score": 42.013095
+    },
+    {
+     "id": "BD3829",
+     "slots": [
+      "cielo"
+     ],
+     "words": 7,
+     "score": 2.366667
+    },
+    {
+     "id": "BD3830",
+     "slots": [
+      "ruido"
+     ],
+     "words": 9,
+     "score": 1.5
+    },
+    {
+     "id": "BD3831",
+     "slots": [
+      "alguien",
+      "king",
+      "helicoptero"
+     ],
+     "words": 12,
+     "score": 48.822619
+    },
+    {
+     "id": "BD3832",
+     "slots": [
+      "alguien"
+     ],
+     "words": 8,
+     "score": 6.809524
+    },
+    {
+     "id": "BD3833",
+     "slots": [
+      "king",
+      "king",
+      "helicoptero",
+      "king"
+     ],
+     "words": 23,
+     "score": 42.013095
+    },
+    {
+     "id": "BD3834",
+     "slots": [
+      "equipo",
+      "king"
+     ],
+     "words": 6,
+     "score": 41.786905
+    },
+    {
+     "id": "BD3835",
+     "slots": [
+      "king",
+      "cielo",
+      "grupo"
+     ],
+     "words": 18,
+     "score": 45.986905
+    },
+    {
+     "id": "BD3836",
+     "slots": [],
+     "words": 1,
+     "score": 0
+    },
+    {
+     "id": "BD3837",
+     "slots": [],
+     "words": 5,
+     "score": 0
+    },
+    {
+     "id": "BD3838",
+     "slots": [
+      "voces"
+     ],
+     "words": 9,
+     "score": 1.0
+    },
+    {
+     "id": "BD3839",
+     "slots": [],
+     "words": 7,
+     "score": 0
+    },
+    {
+     "id": "BD3840",
+     "slots": [
+      "king",
+      "alguien",
+      "cara"
+     ],
+     "words": 18,
+     "score": 47.929762
+    },
+    {
+     "id": "BD3841",
+     "slots": [
+      "king",
+      "king",
+      "king"
+     ],
+     "words": 6,
+     "score": 40.786905
+    },
+    {
+     "id": "BD3842",
+     "slots": [
+      "alguien",
+      "alguien",
+      "pulmon"
+     ],
+     "words": 11,
+     "score": 7.142857
+    },
+    {
+     "id": "BD3843",
+     "slots": [
+      "alguien"
+     ],
+     "words": 27,
+     "score": 6.809524
+    },
+    {
+     "id": "BD3844",
+     "slots": [
+      "equipo",
+      "tubo"
+     ],
+     "words": 10,
+     "score": 1.75
+    },
+    {
+     "id": "BD3845",
+     "slots": [
+      "king",
+      "dolor"
+     ],
+     "words": 7,
+     "score": 41.286905
+    },
+    {
+     "id": "BD3846",
+     "slots": [
+      "king"
+     ],
+     "words": 2,
+     "score": 40.786905
+    },
+    {
+     "id": "BD3847",
+     "slots": [
+      "king",
+      "medicos",
+      "uno",
+      "uno",
+      "pellizco",
+      "medicos",
+      "uno"
+     ],
+     "words": 36,
+     "score": 42.513095
+    },
+    {
+     "id": "BD3848",
+     "slots": [
+      "tubo",
+      "king",
+      "king",
+      "king"
+     ],
+     "words": 25,
+     "score": 41.536905
+    },
+    {
+     "id": "BD3849",
+     "slots": [
+      "alguien",
+      "objeto"
+     ],
+     "words": 21,
+     "score": 7.309524
+    },
+    {
+     "id": "BD3850",
+     "slots": [
+      "king",
+      "fuga"
+     ],
+     "words": 14,
+     "score": 41.286905
+    },
+    {
+     "id": "BD3851",
+     "slots": [
+      "king",
+      "king"
+     ],
+     "words": 6,
+     "score": 40.786905
+    },
+    {
+     "id": "BD3852",
+     "slots": [
+      "respiracion",
+      "sonido",
+      "king",
+      "respiracion"
+     ],
+     "words": 32,
+     "score": 41.870238
+    },
+    {
+     "id": "BD3853",
+     "slots": [
+      "aire",
+      "king",
+      "aire",
+      "aire",
+      "king",
+      "aire"
+     ],
+     "words": 19,
+     "score": 41.453571
+    },
+    {
+     "id": "BD3854",
+     "slots": [
+      "king"
+     ],
+     "words": 5,
+     "score": 40.786905
+    },
+    {
+     "id": "BD3855",
+     "slots": [
+      "king",
+      "tabby",
+      "hijos",
+      "paseos"
+     ],
+     "words": 12,
+     "score": 44.703571
+    },
+    {
+     "id": "BD3856",
+     "slots": [
+      "king",
+      "king",
+      "libro",
+      "libro"
+     ],
+     "words": 19,
+     "score": 41.286905
+    },
+    {
+     "id": "BD3857",
+     "slots": [
+      "king",
+      "king",
+      "cielo",
+      "king",
+      "king"
+     ],
+     "words": 30,
+     "score": 43.153571
+    },
+    {
+     "id": "BD3858",
+     "slots": [
+      "alguien",
+      "king"
+     ],
+     "words": 19,
+     "score": 47.596429
+    },
+    {
+     "id": "BD3859",
+     "slots": [
+      "king",
+      "cielo",
+      "respiracion"
+     ],
+     "words": 19,
+     "score": 43.986905
+    },
+    {
+     "id": "BD3860",
+     "slots": [
+      "grupo"
+     ],
+     "words": 13,
+     "score": 2.833333
+    },
+    {
+     "id": "BD3861",
+     "slots": [
+      "helipuerto"
+     ],
+     "words": 13,
+     "score": 1.0
+    },
+    {
+     "id": "BD3862",
+     "slots": [
+      "cielo",
+      "ruido"
+     ],
+     "words": 23,
+     "score": 3.866667
+    },
+    {
+     "id": "BD3863",
+     "slots": [
+      "king"
+     ],
+     "words": 13,
+     "score": 40.786905
+    },
+    {
+     "id": "BD3864",
+     "slots": [
+      "alguien",
+      "camilla",
+      "king"
+     ],
+     "words": 7,
+     "score": 47.929762
+    },
+    {
+     "id": "BD3865",
+     "slots": [
+      "alguien",
+      "king",
+      "uno",
+      "todos",
+      "uno",
+      "todos"
+     ],
+     "words": 21,
+     "score": 48.691667
+    },
+    {
+     "id": "BD3866",
+     "slots": [
+      "alguien",
+      "tabby",
+      "king",
+      "tabby",
+      "king",
+      "king"
+     ],
+     "words": 26,
+     "score": 50.679762
+    },
+    {
+     "id": "BD3867",
+     "slots": [
+      "king"
+     ],
+     "words": 7,
+     "score": 40.786905
+    },
+    {
+     "id": "BD3868",
+     "slots": [
+      "king",
+      "tabby",
+      "mensaje",
+      "alguien"
+     ],
+     "words": 9,
+     "score": 50.929762
+    },
+    {
+     "id": "BD3869",
+     "slots": [
+      "grupo",
+      "luces"
+     ],
+     "words": 13,
+     "score": 3.666667
+    },
+    {
+     "id": "BD3870",
+     "slots": [
+      "altavoces",
+      "avisos"
+     ],
+     "words": 3,
+     "score": 1.0
+    },
+    {
+     "id": "BD3871",
+     "slots": [
+      "king",
+      "paseo",
+      "berries",
+      "campo"
+     ],
+     "words": 32,
+     "score": 41.870238
+    },
+    {
+     "id": "BD3872",
+     "slots": [
+      "king",
+      "king",
+      "familia"
+     ],
+     "words": 21,
+     "score": 41.286905
+    },
+    {
+     "id": "BD3873",
+     "slots": [],
+     "words": 6,
+     "score": 0
+    },
+    {
+     "id": "BD3874",
+     "slots": [
+      "travolta",
+      "pelicula"
+     ],
+     "words": 12,
+     "score": 1.5
+    },
+    {
+     "id": "BD3875",
+     "slots": [
+      "travolta",
+      "villano"
+     ],
+     "words": 5,
+     "score": 1.5
+    },
+    {
+     "id": "BD3876",
+     "slots": [],
+     "words": 6,
+     "score": 0
+    },
+    {
+     "id": "BD3877",
+     "slots": [],
+     "words": 1,
+     "score": 0
+    },
+    {
+     "id": "BD3878",
+     "slots": [
+      "king"
+     ],
+     "words": 2,
+     "score": 40.786905
+    },
+    {
+     "id": "BD3879",
+     "slots": [
+      "king",
+      "tabby"
+     ],
+     "words": 5,
+     "score": 43.870238
+    },
+    {
+     "id": "BD3880",
+     "slots": [
+      "alguien",
+      "king"
+     ],
+     "words": 10,
+     "score": 47.596429
+    },
+    {
+     "id": "BD3881",
+     "slots": [
+      "morfina",
+      "dilaudid",
+      "manos",
+      "labios",
+      "hisopos"
+     ],
+     "words": 66,
+     "score": 1.0
+    },
+    {
+     "id": "BD3882",
+     "slots": [],
+     "words": 5,
+     "score": 0
+    }
+   ]
+  },
+  {
+   "unit": "l3",
+   "source_words": 197,
+   "node_weights": {
+    "estimacion": 1.0,
+    "pierna": 0.8333333333333333,
+    "doctor-brown": 0.3333333333333333,
+    "canicas": 0.16666666666666666,
+    "king": 1.0,
+    "lesiones": 0.16666666666666666,
+    "incisiones": 0.8333333333333333,
+    "presion": 0.16666666666666666,
+    "tibia": 0.16666666666666666,
+    "sangre": 0.16666666666666666,
+    "rodilla": 0.5,
+    "termino": 0.5,
+    "fractura-cadera": 0.3333333333333333,
+    "fractura-femur": 0.3333333333333333,
+    "columna": 1.0,
+    "costillas": 1.0,
+    "clavicula": 0.5,
+    "carne": 0.5,
+    "laceracion": 0.5,
+    "puntos": 0.5,
+    "smith": 0.5
+   },
+   "ranking": [
+    "BD3884",
+    "BD3886",
+    "BD3888",
+    "BD3885",
+    "BD3893",
+    "BD3883",
+    "BD3887",
+    "BD3889",
+    "BD3890",
+    "BD3891",
+    "BD3892"
+   ],
+   "selected": [
+    "BD3884"
+   ],
+   "selected_words": 40,
+   "sentences": [
+    {
+     "id": "BD3883",
+     "slots": [
+      "estimacion"
+     ],
+     "words": 11,
+     "score": 1.0
+    },
+    {
+     "id": "BD3884",
+     "slots": [
+      "pierna",
+      "doctor-brown",
+      "pierna",
+      "canicas",
+      "doctor-brown",
+      "king"
+     ],
+     "words": 40,
+     "score": 2.333333
+    },
+    {
+     "id": "BD3885",
+     "slots": [
+      "lesiones",
+      "incisiones",
+      "incisiones",
+      "presion",
+      "tibia",
+      "sangre"
+     ],
+     "words": 35,
+     "score": 1.5
+    },
+    {
+     "id": "BD3886",
+     "slots": [
+      "incisiones",
+      "pierna"
+     ],
+     "words": 20,
+     "score": 1.666667
+    },
+    {
+     "id": "BD3887",
+     "slots": [
+      "rodilla",
+      "termino"
+     ],
+     "words": 22,
+     "score": 1.0
+    },
+    {
+     "id": "BD3888",
+     "slots": [
+      "king",
+      "fractura-cadera",
+      "fractura-femur"
+     ],
+     "words": 24,
+     "score": 1.666667
+    },
+    {
+     "id": "BD3889",
+     "slots": [
+      "columna"
+     ],
+     "words": 7,
+     "score": 1.0
+    },
+    {
+     "id": "BD3890",
+     "slots": [
+      "costillas"
+     ],
+     "words": 4,
+     "score": 1.0
+    },
+    {
+     "id": "BD3891",
+     "slots": [
+      "clavicula",
+      "carne"
+     ],
+     "words": 12,
+     "score": 1.0
+    },
+    {
+     "id": "BD3892",
+     "slots": [
+      "laceracion",
+      "puntos"
+     ],
+     "words": 10,
+     "score": 1.0
+    },
+    {
+     "id": "BD3893",
+     "slots": [
+      "king",
+      "smith"
+     ],
+     "words": 12,
+     "score": 1.5
+    }
+   ]
+  },
+  {
+   "unit": "l4",
+   "source_words": 128,
+   "node_weights": {
+    "conducta": 0.14285714285714285,
+    "jurado": 0.2857142857142857,
+    "smith": 2.2261904761904763,
+    "cargos": 0.5357142857142857,
+    "carcel": 0.47619047619047616,
+    "fiscal": 0.25,
+    "casos": 0.25,
+    "suspension": 0.3333333333333333,
+    "probation": 0.5
+   },
+   "ranking": [
+    "BD3894",
+    "BD3895",
+    "BD3896",
+    "BD3897",
+    "BD3898"
+   ],
+   "selected": [
+    "BD3894"
+   ],
+   "selected_words": 38,
+   "sentences": [
+    {
+     "id": "BD3894",
+     "slots": [
+      "conducta",
+      "jurado",
+      "jurado",
+      "smith",
+      "cargos",
+      "cargos",
+      "carcel"
+     ],
+     "words": 38,
+     "score": 3.666667
+    },
+    {
+     "id": "BD3895",
+     "slots": [
+      "fiscal",
+      "casos",
+      "smith",
+      "cargos"
+     ],
+     "words": 31,
+     "score": 3.261905
+    },
+    {
+     "id": "BD3896",
+     "slots": [
+      "smith",
+      "carcel",
+      "suspension"
+     ],
+     "words": 19,
+     "score": 3.035714
+    },
+    {
+     "id": "BD3897",
+     "slots": [
+      "smith",
+      "probation"
+     ],
+     "words": 20,
+     "score": 2.72619
+    },
+    {
+     "id": "BD3898",
+     "slots": [
+      "smith"
+     ],
+     "words": 20,
+     "score": 2.22619
+    }
+   ]
+  },
+  {
+   "unit": "l5",
+   "source_words": 640,
+   "node_weights": {
+    "doctor-brown": 0.41666666666666663,
+    "pierna": 0.5833333333333333,
+    "operaciones": 0.5833333333333333,
+    "king": 12.654761904761903,
+    "posibilidad": 0.3333333333333333,
+    "fijador": 1.0,
+    "clavos": 2.0,
+    "varillas": 2.0,
+    "rodilla": 1.5,
+    "enfermeras": 0.25,
+    "agujeros": 0.25,
+    "hospital": 0.5,
+    "pasos": 0.8333333333333333,
+    "uno": 1.6,
+    "consuelo": 1.4,
+    "terapia": 0.6666666666666666,
+    "alice": 2.2333333333333334,
+    "aliento": 0.2,
+    "combinacion": 0.3333333333333333,
+    "trasero": 0.5,
+    "fuegos": 0.5,
+    "calles": 0.16666666666666666,
+    "gente": 0.16666666666666666,
+    "aperitivos": 0.16666666666666666,
+    "cerveza": 0.16666666666666666,
+    "soda": 0.16666666666666666,
+    "cielo": 0.5,
+    "tabby": 0.7333333333333334,
+    "mano": 0.3333333333333333,
+    "huevos": 0.2,
+    "te": 0.2,
+    "alimento": 0.5,
+    "rehabilitacion": 0.3333333333333333,
+    "ej-estiramientos": 0.16666666666666666,
+    "ej-flexiones": 0.16666666666666666,
+    "ej-muletas": 0.16666666666666666,
+    "animo": 0.6666666666666666,
+    "via": 0.2,
+    "anestesiologo": 0.34285714285714286,
+    "cocteles": 0.34285714285714286,
+    "boca": 0.14285714285714285,
+    "recuperacion": 0.16666666666666666,
+    "pacientes": 0.16666666666666666,
+    "letras": 0.16666666666666666,
+    "smith": 0.3333333333333333
+   },
+   "ranking": [
+    "BD3917",
+    "BD3916",
+    "BD3932",
+    "BD3899",
+    "BD3934",
+    "BD3933",
+    "BD3922",
+    "BD3900",
+    "BD3930",
+    "BD3909",
+    "BD3914",
+    "BD3927",
+    "BD3931",
+    "BD3913",
+    "BD3928",
+    "BD3907",
+    "BD3908",
+    "BD3919",
+    "BD3923",
+    "BD3936",
+    "BD3924",
+    "BD3925",
+    "BD3926",
+    "BD3929",
+    "BD3910",
+    "BD3918",
+    "BD3906",
+    "BD3915",
+    "BD3902",
+    "BD3903",
+    "BD3904",
+    "BD3912",
+    "BD3921",
+    "BD3905",
+    "BD3911",
+    "BD3920",
+    "BD3901",
+    "BD3935"
+   ],
+   "selected": [
+    "BD3899",
+    "BD3916",
+    "BD3917",
+    "BD3932",
+    "BD3934"
+   ],
+   "selected_words": 101,
+   "sentences": [
+    {
+     "id": "BD3899",
+     "slots": [
+      "doctor-brown",
+      "pierna",
+      "operaciones",
+      "king"
+     ],
+     "words": 25,
+     "score": 14.238095
+    },
+    {
+     "id": "BD3900",
+     "slots": [
+      "operaciones",
+      "king",
+      "posibilidad"
+     ],
+     "words": 13,
+     "score": 13.571429
+    },
+    {
+     "id": "BD3901",
+     "slots": [
+      "fijador"
+     ],
+     "words": 15,
+     "score": 1.0
+    },
+    {
+     "id": "BD3902",
+     "slots": [
+      "clavos"
+     ],
+     "words": 20,
+     "score": 2.0
+    },
+    {
+     "id": "BD3903",
+     "slots": [
+      "varillas"
+     ],
+     "words": 9,
+     "score": 2.0
+    },
+    {
+     "id": "BD3904",
+     "slots": [
+      "varillas"
+     ],
+     "words": 10,
+     "score": 2.0
+    },
+    {
+     "id": "BD3905",
+     "slots": [
+      "rodilla"
+     ],
+     "words": 7,
+     "score": 1.5
+    },
+    {
+     "id": "BD3906",
+     "slots": [
+      "enfermeras",
+      "clavos",
+      "clavos",
+      "agujeros"
+     ],
+     "words": 24,
+     "score": 2.5
+    },
+    {
+     "id": "BD3907",
+     "slots": [
+      "king",
+      "pierna",
+      "king"
+     ],
+     "words": 29,
+     "score": 13.238095
+    },
+    {
+     "id": "BD3908",
+     "slots": [
+      "king",
+      "hospital"
+     ],
+     "words": 7,
+     "score": 13.154762
+    },
+    {
+     "id": "BD3909",
+     "slots": [
+      "king",
+      "pasos",
+      "king"
+     ],
+     "words": 36,
+     "score": 13.488095
+    },
+    {
+     "id": "BD3910",
+     "slots": [
+      "uno",
+      "uno",
+      "uno",
+      "consuelo",
+      "consuelo"
+     ],
+     "words": 19,
+     "score": 3.0
+    },
+    {
+     "id": "BD3911",
+     "slots": [
+      "consuelo"
+     ],
+     "words": 6,
+     "score": 1.4
+    },
+    {
+     "id": "BD3912",
+     "slots": [
+      "uno"
+     ],
+     "words": 3,
+     "score": 1.6
+    },
+    {
+     "id": "BD3913",
+     "slots": [
+      "king",
+      "terapia"
+     ],
+     "words": 12,
+     "score": 13.321429
+    },
+    {
+     "id": "BD3914",
+     "slots": [
+      "king",
+      "pasos"
+     ],
+     "words": 20,
+     "score": 13.488095
+    },
+    {
+     "id": "BD3915",
+     "slots": [
+      "alice",
+      "alice"
+     ],
+     "words": 24,
+     "score": 2.233333
+    },
+    {
+     "id": "BD3916",
+     "slots": [
+      "king",
+      "alice",
+      "king",
+      "alice",
+      "aliento"
+     ],
+     "words": 13,
+     "score": 15.088095
+    },
+    {
+     "id": "BD3917",
+     "slots": [
+      "king",
+      "alice",
+      "combinacion"
+     ],
+     "words": 16,
+     "score": 15.221429
+    },
+    {
+     "id": "BD3918",
+     "slots": [
+      "trasero",
+      "alice"
+     ],
+     "words": 10,
+     "score": 2.733333
+    },
+    {
+     "id": "BD3919",
+     "slots": [
+      "king",
+      "fuegos"
+     ],
+     "words": 32,
+     "score": 13.154762
+    },
+    {
+     "id": "BD3920",
+     "slots": [
+      "calles",
+      "gente",
+      "aperitivos",
+      "cerveza",
+      "soda",
+      "cielo"
+     ],
+     "words": 20,
+     "score": 1.333333
+    },
+    {
+     "id": "BD3921",
+     "slots": [
+      "tabby",
+      "mano",
+      "cielo"
+     ],
+     "words": 19,
+     "score": 1.566667
+    },
+    {
+     "id": "BD3922",
+     "slots": [
+      "tabby",
+      "tabby",
+      "king",
+      "huevos",
+      "te"
+     ],
+     "words": 23,
+     "score": 13.788095
+    },
+    {
+     "id": "BD3923",
+     "slots": [
+      "king",
+      "alimento"
+     ],
+     "words": 7,
+     "score": 13.154762
+    },
+    {
+     "id": "BD3924",
+     "slots": [
+      "king"
+     ],
+     "words": 19,
+     "score": 12.654762
+    },
+    {
+     "id": "BD3925",
+     "slots": [
+      "king",
+      "king"
+     ],
+     "words": 17,
+     "score": 12.654762
+    },
+    {
+     "id": "BD3926",
+     "slots": [
+      "king"
+     ],
+     "words": 15,
+     "score": 12.654762
+    },
+    {
+     "id": "BD3927",
+     "slots": [
+      "king",
+      "rehabilitacion",
+      "rehabilitacion",
+      "ej-estiramientos",
+      "ej-flexiones",
+      "ej-muletas"
+     ],
+     "words": 12,
+     "score": 13.488095
+    },
+    {
+     "id": "BD3928",
+     "slots": [
+      "king",
+      "animo",
+      "animo"
+     ],
+     "words": 10,
+     "score": 13.321429
+    },
+    {
+     "id": "BD3929",
+     "slots": [
+      "king"
+     ],
+     "words": 11,
+     "score": 12.654762
+    },
+    {
+     "id": "BD3930",
+     "slots": [
+      "via",
+      "anestesiologo",
+      "king",
+      "king",
+      "cocteles"
+     ],
+     "words": 24,
+     "score": 13.540476
+    },
+    {
+     "id": "BD3931",
+     "slots": [
+      "king",
+      "boca",
+      "anestesiologo",
+      "king",
+      "cocteles",
+      "king",
+      "king"
+     ],
+     "words": 31,
+     "score": 13.483333
+    },
+    {
+     "id": "BD3932",
+     "slots": [
+      "king",
+      "clavos"
+     ],
+     "words": 15,
+     "score": 14.654762
+    },
+    {
+     "id": "BD3933",
+     "slots": [
+      "king",
+      "rodilla"
+     ],
+     "words": 6,
+     "score": 14.154762
+    },
+    {
+     "id": "BD3934",
+     "slots": [
+      "doctor-brown",
+      "recuperacion",
+      "king",
+      "pacientes",
+      "letras",
+      "terapia"
+     ],
+     "words": 32,
+     "score": 14.238095
+    },
+    {
+     "id": "BD3935",
+     "slots": [],
+     "words": 10,
+     "score": 0
+    },
+    {
+     "id": "BD3936",
+     "slots": [
+      "smith",
+      "king",
+      "king"
+     ],
+     "words": 19,
+     "score": 12.988095
+    }
+   ]
+  },
+  {
+   "unit": "l6",
+   "source_words": 1273,
+   "node_weights": {
+    "king": 22.489682539682537,
+    "borrador": 0.25,
+    "libro": 2.952380952380952,
+    "ficcion": 0.6666666666666666,
+    "palabras": 1.3333333333333333,
+    "moldow": 0.16666666666666666,
+    "graham": 0.16666666666666666,
+    "camino": 0.5,
+    "cv": 0.16666666666666666,
+    "episodios": 0.16666666666666666,
+    "situaciones": 0.3333333333333333,
+    "mecanica": 0.16666666666666666,
+    "seccion": 0.1111111111111111,
+    "preguntas": 0.6944444444444444,
+    "puntos": 0.25,
+    "paginas": 0.5,
+    "trabajo": 2.0928571428571425,
+    "rodilla": 0.5,
+    "sentarse": 1.0,
+    "dialogo": 0.14285714285714285,
+    "personajes": 0.14285714285714285,
+    "agente": 0.14285714285714285,
+    "percocet": 0.14285714285714285,
+    "momento": 0.75,
+    "uno": 1.0357142857142856,
+    "escritura": 0.6666666666666666,
+    "voz": 0.6666666666666666,
+    "tabby": 6.421428571428572,
+    "voto": 0.47619047619047616,
+    "matrimonio": 0.14285714285714285,
+    "powerbook": 0.2857142857142857,
+    "sermon": 0.14285714285714285,
+    "mesa": 0.25,
+    "ordenador": 0.41666666666666663,
+    "impresora": 0.41666666666666663,
+    "ventilador": 0.5,
+    "temperatura": 0.25,
+    "nido": 2.0,
+    "notas": 0.16666666666666666,
+    "foto": 0.6666666666666666,
+    "sesion": 0.8333333333333333,
+    "van": 0.3333333333333333,
+    "dolor": 1.0,
+    "trucos": 0.5,
+    "pepsi": 0.3333333333333333,
+    "carrie": 0.3333333333333333,
+    "salems-lot": 0.3333333333333333,
+    "cuarto": 0.25,
+    "lavanderia": 0.25,
+    "milagro": 1.0,
+    "cadera": 0.25,
+    "espalda": 0.25,
+    "pierna": 0.25,
+    "dolores": 0.75,
+    "sensacion": 1.0
+   },
+   "ranking": [
+    "BD3970",
+    "BD3962",
+    "BD3976",
+    "BD3973",
+    "BD3960",
+    "BD3986",
+    "BD3961",
+    "BD3965",
+    "BD3963",
+    "BD3964",
+    "BD3969",
+    "BD3977",
+    "BD3978",
+    "BD3953",
+    "BD3941",
+    "BD3937",
+    "BD3938",
+    "BD3940",
+    "BD3942",
+    "BD3967",
+    "BD3948",
+    "BD3949",
+    "BD3985",
+    "BD3954",
+    "BD3966",
+    "BD3982",
+    "BD3990",
+    "BD3979",
+    "BD3955",
+    "BD3946",
+    "BD3944",
+    "BD3980",
+    "BD3945",
+    "BD3992",
+    "BD3956",
+    "BD3958",
+    "BD3987",
+    "BD3947",
+    "BD3950",
+    "BD3983",
+    "BD3988",
+    "BD3951",
+    "BD3957",
+    "BD3984",
+    "BD3994",
+    "BD3972",
+    "BD3971",
+    "BD3959",
+    "BD3975",
+    "BD3943",
+    "BD3939",
+    "BD3974",
+    "BD3995",
+    "BD3991",
+    "BD3952",
+    "BD3981",
+    "BD3989",
+    "BD3993",
+    "BD3968",
+    "BD3996"
+   ],
+   "selected": [
+    "BD3960",
+    "BD3962",
+    "BD3970",
+    "BD3973",
+    "BD3976"
+   ],
+   "selected_words": 129,
+   "sentences": [
+    {
+     "id": "BD3937",
+     "slots": [
+      "king",
+      "king",
+      "borrador",
+      "libro"
+     ],
+     "words": 37,
+     "score": 25.692063
+    },
+    {
+     "id": "BD3938",
+     "slots": [
+      "king",
+      "libro",
+      "king"
+     ],
+     "words": 25,
+     "score": 25.442063
+    },
+    {
+     "id": "BD3939",
+     "slots": [
+      "ficcion",
+      "ficcion",
+      "palabras"
+     ],
+     "words": 24,
+     "score": 2.0
+    },
+    {
+     "id": "BD3940",
+     "slots": [
+      "libro",
+      "king",
+      "libro",
+      "libro"
+     ],
+     "words": 24,
+     "score": 25.442063
+    },
+    {
+     "id": "BD3941",
+     "slots": [
+      "king",
+      "libro",
+      "moldow",
+      "graham",
+      "libro",
+      "king"
+     ],
+     "words": 31,
+     "score": 25.775397
+    },
+    {
+     "id": "BD3942",
+     "slots": [
+      "king",
+      "libro",
+      "king",
+      "libro",
+      "king",
+      "libro"
+     ],
+     "words": 19,
+     "score": 25.442063
+    },
+    {
+     "id": "BD3943",
+     "slots": [
+      "camino",
+      "libro"
+     ],
+     "words": 8,
+     "score": 3.452381
+    },
+    {
+     "id": "BD3944",
+     "slots": [
+      "king",
+      "cv",
+      "cv",
+      "episodios",
+      "situaciones",
+      "episodios",
+      "situaciones",
+      "king",
+      "king",
+      "king",
+      "mecanica",
+      "mecanica"
+     ],
+     "words": 43,
+     "score": 23.323016
+    },
+    {
+     "id": "BD3945",
+     "slots": [
+      "seccion",
+      "king",
+      "preguntas",
+      "king",
+      "preguntas",
+      "preguntas",
+      "king",
+      "king",
+      "preguntas"
+     ],
+     "words": 43,
+     "score": 23.295238
+    },
+    {
+     "id": "BD3946",
+     "slots": [
+      "king",
+      "king",
+      "preguntas",
+      "king",
+      "preguntas",
+      "puntos",
+      "king",
+      "puntos"
+     ],
+     "words": 53,
+     "score": 23.434127
+    },
+    {
+     "id": "BD3947",
+     "slots": [
+      "king",
+      "paginas"
+     ],
+     "words": 14,
+     "score": 22.989683
+    },
+    {
+     "id": "BD3948",
+     "slots": [
+      "trabajo",
+      "king",
+      "king",
+      "trabajo"
+     ],
+     "words": 24,
+     "score": 24.58254
+    },
+    {
+     "id": "BD3949",
+     "slots": [
+      "king",
+      "trabajo"
+     ],
+     "words": 8,
+     "score": 24.58254
+    },
+    {
+     "id": "BD3950",
+     "slots": [
+      "king",
+      "rodilla"
+     ],
+     "words": 18,
+     "score": 22.989683
+    },
+    {
+     "id": "BD3951",
+     "slots": [
+      "king"
+     ],
+     "words": 13,
+     "score": 22.489683
+    },
+    {
+     "id": "BD3952",
+     "slots": [
+      "sentarse"
+     ],
+     "words": 21,
+     "score": 1.0
+    },
+    {
+     "id": "BD3953",
+     "slots": [
+      "libro",
+      "libro",
+      "king",
+      "dialogo",
+      "personajes",
+      "agente",
+      "percocet"
+     ],
+     "words": 42,
+     "score": 26.013492
+    },
+    {
+     "id": "BD3954",
+     "slots": [
+      "king",
+      "king",
+      "momento",
+      "uno"
+     ],
+     "words": 20,
+     "score": 24.275397
+    },
+    {
+     "id": "BD3955",
+     "slots": [
+      "king",
+      "situaciones",
+      "escritura",
+      "king",
+      "king",
+      "king"
+     ],
+     "words": 26,
+     "score": 23.489683
+    },
+    {
+     "id": "BD3956",
+     "slots": [
+      "escritura",
+      "king"
+     ],
+     "words": 6,
+     "score": 23.156349
+    },
+    {
+     "id": "BD3957",
+     "slots": [
+      "king"
+     ],
+     "words": 47,
+     "score": 22.489683
+    },
+    {
+     "id": "BD3958",
+     "slots": [
+      "king",
+      "voz",
+      "voz"
+     ],
+     "words": 14,
+     "score": 23.156349
+    },
+    {
+     "id": "BD3959",
+     "slots": [
+      "tabby",
+      "voto",
+      "tabby"
+     ],
+     "words": 22,
+     "score": 6.897619
+    },
+    {
+     "id": "BD3960",
+     "slots": [
+      "king",
+      "king",
+      "voto",
+      "tabby",
+      "matrimonio",
+      "uno",
+      "uno"
+     ],
+     "words": 42,
+     "score": 30.565873
+    },
+    {
+     "id": "BD3961",
+     "slots": [
+      "tabby",
+      "tabby",
+      "king",
+      "king",
+      "powerbook",
+      "king",
+      "powerbook"
+     ],
+     "words": 37,
+     "score": 29.196825
+    },
+    {
+     "id": "BD3962",
+     "slots": [
+      "king",
+      "tabby",
+      "king",
+      "king",
+      "trabajo",
+      "king",
+      "sermon"
+     ],
+     "words": 21,
+     "score": 31.146825
+    },
+    {
+     "id": "BD3963",
+     "slots": [
+      "tabby",
+      "king",
+      "king"
+     ],
+     "words": 10,
+     "score": 28.911111
+    },
+    {
+     "id": "BD3964",
+     "slots": [
+      "king",
+      "tabby",
+      "king"
+     ],
+     "words": 11,
+     "score": 28.911111
+    },
+    {
+     "id": "BD3965",
+     "slots": [
+      "tabby",
+      "tabby",
+      "mesa",
+      "king"
+     ],
+     "words": 20,
+     "score": 29.161111
+    },
+    {
+     "id": "BD3966",
+     "slots": [
+      "king",
+      "ordenador",
+      "impresora",
+      "ventilador"
+     ],
+     "words": 15,
+     "score": 23.823016
+    },
+    {
+     "id": "BD3967",
+     "slots": [
+      "ventilador",
+      "king",
+      "trabajo",
+      "temperatura"
+     ],
+     "words": 26,
+     "score": 25.33254
+    },
+    {
+     "id": "BD3968",
+     "slots": [],
+     "words": 8,
+     "score": 0
+    },
+    {
+     "id": "BD3969",
+     "slots": [
+      "tabby",
+      "tabby",
+      "king"
+     ],
+     "words": 33,
+     "score": 28.911111
+    },
+    {
+     "id": "BD3970",
+     "slots": [
+      "tabby",
+      "king",
+      "nido",
+      "ordenador",
+      "impresora",
+      "notas"
+     ],
+     "words": 33,
+     "score": 31.911111
+    },
+    {
+     "id": "BD3971",
+     "slots": [
+      "foto",
+      "tabby",
+      "foto"
+     ],
+     "words": 22,
+     "score": 7.088095
+    },
+    {
+     "id": "BD3972",
+     "slots": [
+      "nido",
+      "tabby"
+     ],
+     "words": 6,
+     "score": 8.421429
+    },
+    {
+     "id": "BD3973",
+     "slots": [
+      "nido",
+      "king",
+      "tabby"
+     ],
+     "words": 7,
+     "score": 30.911111
+    },
+    {
+     "id": "BD3974",
+     "slots": [
+      "nido"
+     ],
+     "words": 3,
+     "score": 2.0
+    },
+    {
+     "id": "BD3975",
+     "slots": [
+      "tabby"
+     ],
+     "words": 3,
+     "score": 6.421429
+    },
+    {
+     "id": "BD3976",
+     "slots": [
+      "tabby",
+      "king",
+      "tabby",
+      "trabajo",
+      "king"
+     ],
+     "words": 26,
+     "score": 31.003968
+    },
+    {
+     "id": "BD3977",
+     "slots": [
+      "tabby",
+      "king",
+      "king",
+      "king",
+      "king"
+     ],
+     "words": 27,
+     "score": 28.911111
+    },
+    {
+     "id": "BD3978",
+     "slots": [
+      "king",
+      "king",
+      "king",
+      "tabby"
+     ],
+     "words": 31,
+     "score": 28.911111
+    },
+    {
+     "id": "BD3979",
+     "slots": [
+      "sesion",
+      "king",
+      "van"
+     ],
+     "words": 25,
+     "score": 23.656349
+    },
+    {
+     "id": "BD3980",
+     "slots": [
+      "sesion",
+      "king"
+     ],
+     "words": 20,
+     "score": 23.323016
+    },
+    {
+     "id": "BD3981",
+     "slots": [
+      "dolor"
+     ],
+     "words": 10,
+     "score": 1.0
+    },
+    {
+     "id": "BD3982",
+     "slots": [
+      "palabras",
+      "king"
+     ],
+     "words": 21,
+     "score": 23.823016
+    },
+    {
+     "id": "BD3983",
+     "slots": [
+      "trucos",
+      "king"
+     ],
+     "words": 9,
+     "score": 22.989683
+    },
+    {
+     "id": "BD3984",
+     "slots": [
+      "king"
+     ],
+     "words": 26,
+     "score": 22.489683
+    },
+    {
+     "id": "BD3985",
+     "slots": [
+      "king",
+      "trabajo"
+     ],
+     "words": 26,
+     "score": 24.58254
+    },
+    {
+     "id": "BD3986",
+     "slots": [
+      "tabby",
+      "king",
+      "pepsi",
+      "king",
+      "pepsi",
+      "king"
+     ],
+     "words": 24,
+     "score": 29.244444
+    },
+    {
+     "id": "BD3987",
+     "slots": [
+      "king",
+      "carrie",
+      "salems-lot"
+     ],
+     "words": 14,
+     "score": 23.156349
+    },
+    {
+     "id": "BD3988",
+     "slots": [
+      "cuarto",
+      "lavanderia",
+      "king",
+      "king"
+     ],
+     "words": 22,
+     "score": 22.989683
+    },
+    {
+     "id": "BD3989",
+     "slots": [
+      "milagro"
+     ],
+     "words": 21,
+     "score": 1.0
+    },
+    {
+     "id": "BD3990",
+     "slots": [
+      "king",
+      "palabras"
+     ],
+     "words": 19,
+     "score": 23.823016
+    },
+    {
+     "id": "BD3991",
+     "slots": [
+      "cadera",
+      "espalda",
+      "pierna",
+      "dolores"
+     ],
+     "words": 21,
+     "score": 1.5
+    },
+    {
+     "id": "BD3992",
+     "slots": [
+      "king",
+      "dolores"
+     ],
+     "words": 8,
+     "score": 23.239683
+    },
+    {
+     "id": "BD3993",
+     "slots": [
+      "sensacion"
+     ],
+     "words": 21,
+     "score": 1.0
+    },
+    {
+     "id": "BD3994",
+     "slots": [
+      "king"
+     ],
+     "words": 7,
+     "score": 22.489683
+    },
+    {
+     "id": "BD3995",
+     "slots": [
+      "momento",
+      "uno"
+     ],
+     "words": 9,
+     "score": 1.785714
+    },
+    {
+     "id": "BD3996",
+     "slots": [],
+     "words": 7,
+     "score": 0
+    }
+   ]
+  },
+  {
+   "unit": "l7",
+   "source_words": 358,
+   "node_weights": {
+    "king": 2.177777777777778,
+    "operaciones": 0.125,
+    "infeccion": 0.125,
+    "pastillas": 0.125,
+    "fijador": 0.125,
+    "escritura": 5.016666666666667,
+    "pierna": 0.1111111111111111,
+    "mente": 0.2222222222222222,
+    "rutina": 0.1111111111111111,
+    "zumbido": 0.1111111111111111,
+    "sensacion": 0.3111111111111111,
+    "palabras": 0.2222222222222222,
+    "uno": 1.0,
+    "fuerzas": 0.16666666666666666,
+    "vida": 0.25,
+    "pericia": 0.125,
+    "cuidados": 0.125,
+    "dinero": 0.25,
+    "citas-amorosas": 0.25,
+    "amigos": 0.25,
+    "vidas": 0.2,
+    "lectores": 0.2,
+    "obra": 0.2,
+    "vida-lector": 0.2,
+    "libro": 0.8666666666666667,
+    "lector": 3.1333333333333333,
+    "agua": 1.0
+   },
+   "ranking": [
+    "BD4011",
+    "BD4010",
+    "BD4002",
+    "BD4006",
+    "BD4005",
+    "BD4004",
+    "BD3999",
+    "BD4007",
+    "BD4013",
+    "BD4012",
+    "BD4000",
+    "BD4015",
+    "BD4016",
+    "BD3998",
+    "BD4003",
+    "BD4001",
+    "BD4014",
+    "BD3997",
+    "BD4008",
+    "BD4009"
+   ],
+   "selected": [
+    "BD4002",
+    "BD4010",
+    "BD4011"
+   ],
+   "selected_words": 38,
+   "sentences": [
+    {
+     "id": "BD3997",
+     "slots": [],
+     "words": 8,
+     "score": 0
+    },
+    {
+     "id": "BD3998",
+     "slots": [
+      "king",
+      "operaciones",
+      "king",
+      "infeccion",
+      "king",
+      "pastillas",
+      "fijador",
+      "king"
+     ],
+     "words": 48,
+     "score": 2.677778
+    },
+    {
+     "id": "BD3999",
+     "slots": [
+      "escritura"
+     ],
+     "words": 10,
+     "score": 5.016667
+    },
+    {
+     "id": "BD4000",
+     "slots": [
+      "pierna",
+      "mente",
+      "mente",
+      "rutina",
+      "king",
+      "zumbido",
+      "sensacion",
+      "palabras",
+      "palabras"
+     ],
+     "words": 41,
+     "score": 3.266667
+    },
+    {
+     "id": "BD4001",
+     "slots": [
+      "uno",
+      "uno",
+      "uno"
+     ],
+     "words": 35,
+     "score": 1.0
+    },
+    {
+     "id": "BD4002",
+     "slots": [
+      "sensacion",
+      "king",
+      "escritura",
+      "king",
+      "escritura"
+     ],
+     "words": 12,
+     "score": 7.505556
+    },
+    {
+     "id": "BD4003",
+     "slots": [
+      "king",
+      "fuerzas",
+      "king",
+      "king",
+      "king",
+      "king"
+     ],
+     "words": 42,
+     "score": 2.344444
+    },
+    {
+     "id": "BD4004",
+     "slots": [
+      "escritura",
+      "vida",
+      "pericia",
+      "cuidados",
+      "escritura",
+      "escritura",
+      "escritura",
+      "vida"
+     ],
+     "words": 36,
+     "score": 5.516667
+    },
+    {
+     "id": "BD4005",
+     "slots": [
+      "escritura",
+      "dinero",
+      "citas-amorosas",
+      "amigos"
+     ],
+     "words": 14,
+     "score": 5.766667
+    },
+    {
+     "id": "BD4006",
+     "slots": [
+      "escritura",
+      "vidas",
+      "lectores",
+      "obra",
+      "vida-lector"
+     ],
+     "words": 22,
+     "score": 5.816667
+    },
+    {
+     "id": "BD4007",
+     "slots": [
+      "escritura"
+     ],
+     "words": 9,
+     "score": 5.016667
+    },
+    {
+     "id": "BD4008",
+     "slots": [],
+     "words": 3,
+     "score": 0
+    },
+    {
+     "id": "BD4009",
+     "slots": [],
+     "words": 2,
+     "score": 0
+    },
+    {
+     "id": "BD4010",
+     "slots": [
+      "libro",
+      "king",
+      "escritura"
+     ],
+     "words": 14,
+     "score": 8.061111
+    },
+    {
+     "id": "BD4011",
+     "slots": [
+      "libro",
+      "lector",
+      "escritura"
+     ],
+     "words": 12,
+     "score": 9.016667
+    },
+    {
+     "id": "BD4012",
+     "slots": [
+      "libro",
+      "lector",
+      "lector",
+      "lector",
+      "lector"
+     ],
+     "words": 25,
+     "score": 4.0
+    },
+    {
+     "id": "BD4013",
+     "slots": [
+      "escritura"
+     ],
+     "words": 14,
+     "score": 5.016667
+    },
+    {
+     "id": "BD4014",
+     "slots": [
+      "agua"
+     ],
+     "words": 4,
+     "score": 1.0
+    },
+    {
+     "id": "BD4015",
+     "slots": [
+      "lector"
+     ],
+     "words": 2,
+     "score": 3.133333
+    },
+    {
+     "id": "BD4016",
+     "slots": [
+      "lector"
+     ],
+     "words": 5,
+     "score": 3.133333
+    }
+   ]
+  },
+  {
+   "unit": "f1a",
+   "source_words": 100,
+   "node_weights": {
+    "carrera": 0.2,
+    "king": 0.9,
+    "ejemplo": 0.7,
+    "edicion": 0.2,
+    "no-ficcion": 0.5,
+    "pasaje": 1.75,
+    "puerta": 0.25,
+    "lector": 0.25,
+    "version": 0.25
+   },
+   "ranking": [
+    "BD4022",
+    "BD4021",
+    "BD4018",
+    "BD4020",
+    "BD4019"
+   ],
+   "selected": [
+    "BD4022"
+   ],
+   "selected_words": 15,
+   "sentences": [
+    {
+     "id": "BD4018",
+     "slots": [
+      "carrera",
+      "king",
+      "king",
+      "ejemplo",
+      "edicion"
+     ],
+     "words": 41,
+     "score": 2.0
+    },
+    {
+     "id": "BD4019",
+     "slots": [
+      "ejemplo",
+      "no-ficcion"
+     ],
+     "words": 9,
+     "score": 1.2
+    },
+    {
+     "id": "BD4020",
+     "slots": [
+      "pasaje",
+      "pasaje"
+     ],
+     "words": 6,
+     "score": 1.75
+    },
+    {
+     "id": "BD4021",
+     "slots": [
+      "pasaje",
+      "king",
+      "puerta",
+      "pasaje"
+     ],
+     "words": 29,
+     "score": 2.9
+    },
+    {
+     "id": "BD4022",
+     "slots": [
+      "king",
+      "lector",
+      "pasaje",
+      "version"
+     ],
+     "words": 15,
+     "score": 3.15
+    }
+   ]
+  },
+  {
+   "unit": "f1b",
+   "source_words": 1921,
+   "node_weights": {
+    "mike": 30.833333333333325,
+    "ostermeyer": 16.549999999999997,
+    "corazon": 1.0,
+    "abogado": 0.7,
+    "obstaculo": 0.3333333333333333,
+    "historia": 3.3666666666666667,
+    "mano": 0.41666666666666663,
+    "hotel": 1.1666666666666667,
+    "hombre": 0.16666666666666666,
+    "mujer": 0.5,
+    "maletin": 1.9999999999999998,
+    "perfume": 0.3333333333333333,
+    "nueva-york": 0.3333333333333333,
+    "alguien": 0.5,
+    "cancion": 0.5,
+    "cliente": 0.3333333333333333,
+    "entradas": 0.16666666666666666,
+    "esposa": 0.3333333333333333,
+    "conserje": 0.16666666666666666,
+    "viajero": 0.2,
+    "uno": 1.2833333333333332,
+    "reserva": 0.2,
+    "empleada": 0.2,
+    "traje": 0.2,
+    "advertencia": 0.3333333333333333,
+    "seccion": 0.16666666666666666,
+    "tono": 0.3333333333333333,
+    "lectores": 0.6666666666666666,
+    "habitacion": 2.333333333333333,
+    "esperanza": 0.3333333333333333,
+    "ojos": 0.7,
+    "hombros": 0.3333333333333333,
+    "investigacion": 0.5,
+    "confianza": 0.16666666666666666,
+    "lamparas": 1.5,
+    "luz": 0.5,
+    "libros": 1.0,
+    "autoridad": 0.16666666666666666,
+    "piernas": 0.25,
+    "humidor": 0.25,
+    "puros": 4.25,
+    "cigarrillo": 1.9833333333333332,
+    "periodista": 0.2,
+    "etiqueta": 0.2,
+    "hermano": 1.1666666666666665,
+    "artefactos": 0.3333333333333333,
+    "cartel": 0.3333333333333333,
+    "gente": 0.5,
+    "guerra": 1.0,
+    "suspiro": 0.5,
+    "oficina": 2.8333333333333335,
+    "miradas": 0.2,
+    "gerentes": 0.3333333333333333,
+    "negocios": 0.3333333333333333,
+    "idea": 1.0,
+    "version": 0.2,
+    "ropa": 0.2,
+    "pelo": 0.2,
+    "colonia": 0.2,
+    "cambios": 1.35,
+    "king": 7.441666666666666,
+    "puerta": 0.25,
+    "mundo": 0.25,
+    "razones": 0.1,
+    "lector": 3.933333333333334,
+    "trabajo": 0.2,
+    "palabras-inutiles": 0.25,
+    "formula": 0.25,
+    "titulo-hotel": 0.5833333333333333,
+    "killdozer": 0.3333333333333333,
+    "norma-jean": 0.3333333333333333,
+    "titulo-mejor": 0.5,
+    "editor": 0.25,
+    "resultados": 0.25,
+    "titulo-1408": 0.25,
+    "numeros": 0.25,
+    "nombre-ostermeyer": 2.1666666666666665,
+    "historias": 0.3333333333333333,
+    "pensamiento": 0.3333333333333333,
+    "pasaje": 0.5833333333333333,
+    "camisa": 3.5,
+    "regla": 0.625,
+    "pistola": 0.5,
+    "texto-borrador": 1.0,
+    "malos": 0.25,
+    "ideas": 0.5,
+    "informacion": 0.5,
+    "adverbio": 1.1583333333333332,
+    "decision": 0.125,
+    "caso": 0.125,
+    "excepcion": 0.125,
+    "olin": 0.45,
+    "obvio": 0.6666666666666666,
+    "concepto": 0.5,
+    "muestra": 0.5
+   },
+   "ranking": [
+    "BD4028",
+    "BD4056",
+    "BD4059",
+    "BD4062",
+    "BD4090",
+    "BD4091",
+    "BD4117",
+    "BD4074",
+    "BD4115",
+    "BD4107",
+    "BD4081",
+    "BD4029",
+    "BD4061",
+    "BD4108",
+    "BD4083",
+    "BD4024",
+    "BD4048",
+    "BD4069",
+    "BD4072",
+    "BD4158",
+    "BD4031",
+    "BD4105",
+    "BD4058",
+    "BD4092",
+    "BD4093",
+    "BD4094",
+    "BD4026",
+    "BD4067",
+    "BD4099",
+    "BD4045",
+    "BD4049",
+    "BD4051",
+    "BD4052",
+    "BD4054",
+    "BD4063",
+    "BD4064",
+    "BD4066",
+    "BD4068",
+    "BD4080",
+    "BD4082",
+    "BD4088",
+    "BD4096",
+    "BD4097",
+    "BD4103",
+    "BD4109",
+    "BD4114",
+    "BD4144",
+    "BD4159",
+    "BD4060",
+    "BD4084",
+    "BD4104",
+    "BD4070",
+    "BD4038",
+    "BD4039",
+    "BD4043",
+    "BD4046",
+    "BD4050",
+    "BD4055",
+    "BD4073",
+    "BD4116",
+    "BD4120",
+    "BD4129",
+    "BD4163",
+    "BD4133",
+    "BD4127",
+    "BD4139",
+    "BD4130",
+    "BD4131",
+    "BD4132",
+    "BD4157",
+    "BD4119",
+    "BD4122",
+    "BD4123",
+    "BD4134",
+    "BD4155",
+    "BD4125",
+    "BD4162",
+    "BD4146",
+    "BD4164",
+    "BD4166",
+    "BD4149",
+    "BD4154",
+    "BD4121",
+    "BD4148",
+    "BD4165",
+    "BD4086",
+    "BD4147",
+    "BD4150",
+    "BD4118",
+    "BD4153",
+    "BD4113",
+    "BD4138",
+    "BD4141",
+    "BD4142",
+    "BD4089",
+    "BD4110",
+    "BD4112",
+    "BD4100",
+    "BD4102",
+    "BD4128",
+    "BD4041",
+    "BD4076",
+    "BD4126",
+    "BD4098",
+    "BD4053",
+    "BD4077",
+    "BD4124",
+    "BD4160",
+    "BD4030",
+    "BD4032",
+    "BD4140",
+    "BD4025",
+    "BD4033",
+    "BD4040",
+    "BD4078",
+    "BD4101",
+    "BD4143",
+    "BD4152",
+    "BD4027",
+    "BD4034",
+    "BD4035",
+    "BD4036",
+    "BD4037",
+    "BD4042",
+    "BD4044",
+    "BD4047",
+    "BD4057",
+    "BD4065",
+    "BD4071",
+    "BD4075",
+    "BD4079",
+    "BD4085",
+    "BD4087",
+    "BD4095",
+    "BD4106",
+    "BD4111",
+    "BD4135",
+    "BD4136",
+    "BD4137",
+    "BD4145",
+    "BD4151",
+    "BD4156",
+    "BD4161",
+    "BD4167"
+   ],
+   "selected": [
+    "BD4028",
+    "BD4056",
+    "BD4059",
+    "BD4062",
+    "BD4074",
+    "BD4090",
+    "BD4091",
+    "BD4107",
+    "BD4115",
+    "BD4117"
+   ],
+   "selected_words": 205,
+   "sentences": [
+    {
+     "id": "BD4024",
+     "slots": [
+      "mike",
+      "mike",
+      "ostermeyer"
+     ],
+     "words": 24,
+     "score": 47.383333
+    },
+    {
+     "id": "BD4025",
+     "slots": [
+      "corazon"
+     ],
+     "words": 4,
+     "score": 1.0
+    },
+    {
+     "id": "BD4026",
+     "slots": [
+      "abogado",
+      "mike"
+     ],
+     "words": 12,
+     "score": 31.533333
+    },
+    {
+     "id": "BD4027",
+     "slots": [],
+     "words": 4,
+     "score": 0
+    },
+    {
+     "id": "BD4028",
+     "slots": [
+      "ostermeyer",
+      "obstaculo",
+      "obstaculo",
+      "historia",
+      "mike",
+      "historia"
+     ],
+     "words": 33,
+     "score": 51.083333
+    },
+    {
+     "id": "BD4029",
+     "slots": [
+      "ostermeyer",
+      "mike",
+      "mano",
+      "mike"
+     ],
+     "words": 22,
+     "score": 47.8
+    },
+    {
+     "id": "BD4030",
+     "slots": [
+      "hotel"
+     ],
+     "words": 15,
+     "score": 1.166667
+    },
+    {
+     "id": "BD4031",
+     "slots": [
+      "hombre",
+      "mujer",
+      "mike",
+      "mike",
+      "mano",
+      "maletin"
+     ],
+     "words": 32,
+     "score": 33.916667
+    },
+    {
+     "id": "BD4032",
+     "slots": [
+      "mujer",
+      "perfume",
+      "nueva-york"
+     ],
+     "words": 22,
+     "score": 1.166667
+    },
+    {
+     "id": "BD4033",
+     "slots": [
+      "alguien",
+      "cancion"
+     ],
+     "words": 19,
+     "score": 1.0
+    },
+    {
+     "id": "BD4034",
+     "slots": [],
+     "words": 2,
+     "score": 0
+    },
+    {
+     "id": "BD4035",
+     "slots": [],
+     "words": 2,
+     "score": 0
+    },
+    {
+     "id": "BD4036",
+     "slots": [],
+     "words": 2,
+     "score": 0
+    },
+    {
+     "id": "BD4037",
+     "slots": [],
+     "words": 4,
+     "score": 0
+    },
+    {
+     "id": "BD4038",
+     "slots": [
+      "ostermeyer"
+     ],
+     "words": 3,
+     "score": 16.55
+    },
+    {
+     "id": "BD4039",
+     "slots": [
+      "ostermeyer"
+     ],
+     "words": 14,
+     "score": 16.55
+    },
+    {
+     "id": "BD4040",
+     "slots": [
+      "cliente",
+      "entradas",
+      "esposa",
+      "conserje",
+      "cliente",
+      "esposa"
+     ],
+     "words": 24,
+     "score": 1.0
+    },
+    {
+     "id": "BD4041",
+     "slots": [
+      "viajero",
+      "uno",
+      "reserva",
+      "empleada",
+      "traje"
+     ],
+     "words": 39,
+     "score": 2.083333
+    },
+    {
+     "id": "BD4042",
+     "slots": [],
+     "words": 9,
+     "score": 0
+    },
+    {
+     "id": "BD4043",
+     "slots": [
+      "ostermeyer"
+     ],
+     "words": 16,
+     "score": 16.55
+    },
+    {
+     "id": "BD4044",
+     "slots": [],
+     "words": 2,
+     "score": 0
+    },
+    {
+     "id": "BD4045",
+     "slots": [
+      "mike"
+     ],
+     "words": 9,
+     "score": 30.833333
+    },
+    {
+     "id": "BD4046",
+     "slots": [
+      "ostermeyer"
+     ],
+     "words": 5,
+     "score": 16.55
+    },
+    {
+     "id": "BD4047",
+     "slots": [],
+     "words": 2,
+     "score": 0
+    },
+    {
+     "id": "BD4048",
+     "slots": [
+      "ostermeyer",
+      "mike"
+     ],
+     "words": 15,
+     "score": 47.383333
+    },
+    {
+     "id": "BD4049",
+     "slots": [
+      "mike"
+     ],
+     "words": 3,
+     "score": 30.833333
+    },
+    {
+     "id": "BD4050",
+     "slots": [
+      "ostermeyer"
+     ],
+     "words": 7,
+     "score": 16.55
+    },
+    {
+     "id": "BD4051",
+     "slots": [
+      "mike"
+     ],
+     "words": 8,
+     "score": 30.833333
+    },
+    {
+     "id": "BD4052",
+     "slots": [
+      "mike"
+     ],
+     "words": 4,
+     "score": 30.833333
+    },
+    {
+     "id": "BD4053",
+     "slots": [
+      "advertencia",
+      "seccion",
+      "tono",
+      "lectores",
+      "tono",
+      "advertencia"
+     ],
+     "words": 30,
+     "score": 1.5
+    },
+    {
+     "id": "BD4054",
+     "slots": [
+      "mike",
+      "mike"
+     ],
+     "words": 18,
+     "score": 30.833333
+    },
+    {
+     "id": "BD4055",
+     "slots": [
+      "ostermeyer"
+     ],
+     "words": 5,
+     "score": 16.55
+    },
+    {
+     "id": "BD4056",
+     "slots": [
+      "ostermeyer",
+      "habitacion",
+      "mike"
+     ],
+     "words": 15,
+     "score": 49.716667
+    },
+    {
+     "id": "BD4057",
+     "slots": [],
+     "words": 4,
+     "score": 0
+    },
+    {
+     "id": "BD4058",
+     "slots": [
+      "mike",
+      "maletin",
+      "maletin"
+     ],
+     "words": 11,
+     "score": 32.833333
+    },
+    {
+     "id": "BD4059",
+     "slots": [
+      "ostermeyer",
+      "mike",
+      "maletin"
+     ],
+     "words": 7,
+     "score": 49.383333
+    },
+    {
+     "id": "BD4060",
+     "slots": [
+      "ostermeyer",
+      "maletin"
+     ],
+     "words": 7,
+     "score": 18.55
+    },
+    {
+     "id": "BD4061",
+     "slots": [
+      "ostermeyer",
+      "esperanza",
+      "mike"
+     ],
+     "words": 16,
+     "score": 47.716667
+    },
+    {
+     "id": "BD4062",
+     "slots": [
+      "ostermeyer",
+      "mike",
+      "maletin"
+     ],
+     "words": 15,
+     "score": 49.383333
+    },
+    {
+     "id": "BD4063",
+     "slots": [
+      "mike"
+     ],
+     "words": 2,
+     "score": 30.833333
+    },
+    {
+     "id": "BD4064",
+     "slots": [
+      "mike",
+      "mike"
+     ],
+     "words": 6,
+     "score": 30.833333
+    },
+    {
+     "id": "BD4065",
+     "slots": [],
+     "words": 9,
+     "score": 0
+    },
+    {
+     "id": "BD4066",
+     "slots": [
+      "mike"
+     ],
+     "words": 3,
+     "score": 30.833333
+    },
+    {
+     "id": "BD4067",
+     "slots": [
+      "mike",
+      "ojos"
+     ],
+     "words": 6,
+     "score": 31.533333
+    },
+    {
+     "id": "BD4068",
+     "slots": [
+      "mike"
+     ],
+     "words": 4,
+     "score": 30.833333
+    },
+    {
+     "id": "BD4069",
+     "slots": [
+      "mike",
+      "ostermeyer"
+     ],
+     "words": 11,
+     "score": 47.383333
+    },
+    {
+     "id": "BD4070",
+     "slots": [
+      "ostermeyer",
+      "ostermeyer",
+      "hombros"
+     ],
+     "words": 23,
+     "score": 16.883333
+    },
+    {
+     "id": "BD4071",
+     "slots": [],
+     "words": 4,
+     "score": 0
+    },
+    {
+     "id": "BD4072",
+     "slots": [
+      "mike",
+      "ostermeyer"
+     ],
+     "words": 2,
+     "score": 47.383333
+    },
+    {
+     "id": "BD4073",
+     "slots": [
+      "ostermeyer"
+     ],
+     "words": 12,
+     "score": 16.55
+    },
+    {
+     "id": "BD4074",
+     "slots": [
+      "hotel",
+      "mike",
+      "mike",
+      "investigacion",
+      "ostermeyer",
+      "confianza"
+     ],
+     "words": 46,
+     "score": 49.216667
+    },
+    {
+     "id": "BD4075",
+     "slots": [],
+     "words": 8,
+     "score": 0
+    },
+    {
+     "id": "BD4076",
+     "slots": [
+      "lamparas",
+      "luz"
+     ],
+     "words": 8,
+     "score": 2.0
+    },
+    {
+     "id": "BD4077",
+     "slots": [
+      "lamparas"
+     ],
+     "words": 15,
+     "score": 1.5
+    },
+    {
+     "id": "BD4078",
+     "slots": [
+      "libros"
+     ],
+     "words": 11,
+     "score": 1.0
+    },
+    {
+     "id": "BD4079",
+     "slots": [],
+     "words": 9,
+     "score": 0
+    },
+    {
+     "id": "BD4080",
+     "slots": [
+      "mike"
+     ],
+     "words": 5,
+     "score": 30.833333
+    },
+    {
+     "id": "BD4081",
+     "slots": [
+      "ostermeyer",
+      "investigacion",
+      "mike"
+     ],
+     "words": 13,
+     "score": 47.883333
+    },
+    {
+     "id": "BD4082",
+     "slots": [
+      "mike"
+     ],
+     "words": 13,
+     "score": 30.833333
+    },
+    {
+     "id": "BD4083",
+     "slots": [
+      "mike",
+      "ostermeyer",
+      "ostermeyer",
+      "autoridad",
+      "ostermeyer",
+      "mike"
+     ],
+     "words": 19,
+     "score": 47.55
+    },
+    {
+     "id": "BD4084",
+     "slots": [
+      "ostermeyer",
+      "ostermeyer",
+      "piernas",
+      "humidor"
+     ],
+     "words": 34,
+     "score": 17.05
+    },
+    {
+     "id": "BD4085",
+     "slots": [],
+     "words": 3,
+     "score": 0
+    },
+    {
+     "id": "BD4086",
+     "slots": [
+      "puros",
+      "puros"
+     ],
+     "words": 7,
+     "score": 4.25
+    },
+    {
+     "id": "BD4087",
+     "slots": [],
+     "words": 3,
+     "score": 0
+    },
+    {
+     "id": "BD4088",
+     "slots": [
+      "mike"
+     ],
+     "words": 3,
+     "score": 30.833333
+    },
+    {
+     "id": "BD4089",
+     "slots": [
+      "ojos",
+      "cigarrillo",
+      "periodista",
+      "cigarrillo",
+      "etiqueta"
+     ],
+     "words": 41,
+     "score": 3.083333
+    },
+    {
+     "id": "BD4090",
+     "slots": [
+      "cigarrillo",
+      "mike",
+      "ostermeyer",
+      "cigarrillo"
+     ],
+     "words": 23,
+     "score": 49.366667
+    },
+    {
+     "id": "BD4091",
+     "slots": [
+      "mike",
+      "cigarrillo",
+      "cigarrillo",
+      "ostermeyer"
+     ],
+     "words": 16,
+     "score": 49.366667
+    },
+    {
+     "id": "BD4092",
+     "slots": [
+      "mike",
+      "cigarrillo",
+      "mike"
+     ],
+     "words": 9,
+     "score": 32.816667
+    },
+    {
+     "id": "BD4093",
+     "slots": [
+      "mike",
+      "hermano",
+      "hermano"
+     ],
+     "words": 10,
+     "score": 32.0
+    },
+    {
+     "id": "BD4094",
+     "slots": [
+      "mike",
+      "hermano"
+     ],
+     "words": 6,
+     "score": 32.0
+    },
+    {
+     "id": "BD4095",
+     "slots": [],
+     "words": 6,
+     "score": 0
+    },
+    {
+     "id": "BD4096",
+     "slots": [
+      "mike"
+     ],
+     "words": 2,
+     "score": 30.833333
+    },
+    {
+     "id": "BD4097",
+     "slots": [
+      "mike"
+     ],
+     "words": 6,
+     "score": 30.833333
+    },
+    {
+     "id": "BD4098",
+     "slots": [
+      "uno",
+      "artefactos",
+      "cartel"
+     ],
+     "words": 28,
+     "score": 1.95
+    },
+    {
+     "id": "BD4099",
+     "slots": [
+      "mike",
+      "gente"
+     ],
+     "words": 12,
+     "score": 31.333333
+    },
+    {
+     "id": "BD4100",
+     "slots": [
+      "habitacion"
+     ],
+     "words": 7,
+     "score": 2.333333
+    },
+    {
+     "id": "BD4101",
+     "slots": [
+      "guerra"
+     ],
+     "words": 7,
+     "score": 1.0
+    },
+    {
+     "id": "BD4102",
+     "slots": [
+      "habitacion"
+     ],
+     "words": 7,
+     "score": 2.333333
+    },
+    {
+     "id": "BD4103",
+     "slots": [
+      "mike"
+     ],
+     "words": 14,
+     "score": 30.833333
+    },
+    {
+     "id": "BD4104",
+     "slots": [
+      "ostermeyer",
+      "suspiro"
+     ],
+     "words": 16,
+     "score": 17.05
+    },
+    {
+     "id": "BD4105",
+     "slots": [
+      "oficina",
+      "mike"
+     ],
+     "words": 7,
+     "score": 33.666667
+    },
+    {
+     "id": "BD4106",
+     "slots": [],
+     "words": 2,
+     "score": 0
+    },
+    {
+     "id": "BD4107",
+     "slots": [
+      "mike",
+      "abogado",
+      "ostermeyer",
+      "mike",
+      "ostermeyer"
+     ],
+     "words": 22,
+     "score": 48.083333
+    },
+    {
+     "id": "BD4108",
+     "slots": [
+      "mike",
+      "mike",
+      "ostermeyer",
+      "miradas",
+      "ostermeyer"
+     ],
+     "words": 26,
+     "score": 47.583333
+    },
+    {
+     "id": "BD4109",
+     "slots": [
+      "mike"
+     ],
+     "words": 4,
+     "score": 30.833333
+    },
+    {
+     "id": "BD4110",
+     "slots": [
+      "oficina"
+     ],
+     "words": 4,
+     "score": 2.833333
+    },
+    {
+     "id": "BD4111",
+     "slots": [],
+     "words": 3,
+     "score": 0
+    },
+    {
+     "id": "BD4112",
+     "slots": [
+      "oficina"
+     ],
+     "words": 23,
+     "score": 2.833333
+    },
+    {
+     "id": "BD4113",
+     "slots": [
+      "gerentes",
+      "negocios",
+      "oficina"
+     ],
+     "words": 56,
+     "score": 3.5
+    },
+    {
+     "id": "BD4114",
+     "slots": [
+      "mike",
+      "mike"
+     ],
+     "words": 16,
+     "score": 30.833333
+    },
+    {
+     "id": "BD4115",
+     "slots": [
+      "mike",
+      "ostermeyer",
+      "mike",
+      "idea"
+     ],
+     "words": 16,
+     "score": 48.383333
+    },
+    {
+     "id": "BD4116",
+     "slots": [
+      "ostermeyer"
+     ],
+     "words": 2,
+     "score": 16.55
+    },
+    {
+     "id": "BD4117",
+     "slots": [
+      "mike",
+      "ostermeyer",
+      "mike",
+      "cigarrillo"
+     ],
+     "words": 12,
+     "score": 49.366667
+    },
+    {
+     "id": "BD4118",
+     "slots": [
+      "version",
+      "historia",
+      "ropa",
+      "pelo",
+      "colonia"
+     ],
+     "words": 27,
+     "score": 4.166667
+    },
+    {
+     "id": "BD4119",
+     "slots": [
+      "cambios",
+      "king",
+      "puerta",
+      "mundo"
+     ],
+     "words": 18,
+     "score": 9.291667
+    },
+    {
+     "id": "BD4120",
+     "slots": [
+      "razones",
+      "lector",
+      "king",
+      "lector",
+      "cambios",
+      "king",
+      "lector",
+      "trabajo",
+      "lector",
+      "trabajo"
+     ],
+     "words": 52,
+     "score": 13.025
+    },
+    {
+     "id": "BD4121",
+     "slots": [
+      "cambios",
+      "historia"
+     ],
+     "words": 11,
+     "score": 4.716667
+    },
+    {
+     "id": "BD4122",
+     "slots": [
+      "king",
+      "uno",
+      "palabras-inutiles",
+      "formula"
+     ],
+     "words": 24,
+     "score": 9.225
+    },
+    {
+     "id": "BD4123",
+     "slots": [
+      "king",
+      "cambios"
+     ],
+     "words": 9,
+     "score": 8.791667
+    },
+    {
+     "id": "BD4124",
+     "slots": [
+      "titulo-hotel",
+      "killdozer",
+      "norma-jean"
+     ],
+     "words": 20,
+     "score": 1.25
+    },
+    {
+     "id": "BD4125",
+     "slots": [
+      "king",
+      "titulo-hotel",
+      "titulo-mejor",
+      "king"
+     ],
+     "words": 18,
+     "score": 8.525
+    },
+    {
+     "id": "BD4126",
+     "slots": [
+      "titulo-mejor",
+      "editor",
+      "idea",
+      "resultados"
+     ],
+     "words": 25,
+     "score": 2.0
+    },
+    {
+     "id": "BD4127",
+     "slots": [
+      "king",
+      "titulo-1408",
+      "historia",
+      "numeros"
+     ],
+     "words": 17,
+     "score": 11.308333
+    },
+    {
+     "id": "BD4128",
+     "slots": [
+      "nombre-ostermeyer"
+     ],
+     "words": 8,
+     "score": 2.166667
+    },
+    {
+     "id": "BD4129",
+     "slots": [
+      "nombre-ostermeyer",
+      "king",
+      "historia"
+     ],
+     "words": 23,
+     "score": 12.975
+    },
+    {
+     "id": "BD4130",
+     "slots": [
+      "king",
+      "historia",
+      "king",
+      "historia"
+     ],
+     "words": 21,
+     "score": 10.808333
+    },
+    {
+     "id": "BD4131",
+     "slots": [
+      "king",
+      "historias",
+      "nombre-ostermeyer"
+     ],
+     "words": 24,
+     "score": 9.941667
+    },
+    {
+     "id": "BD4132",
+     "slots": [
+      "king",
+      "nombre-ostermeyer"
+     ],
+     "words": 4,
+     "score": 9.608333
+    },
+    {
+     "id": "BD4133",
+     "slots": [
+      "king",
+      "pensamiento",
+      "lector"
+     ],
+     "words": 12,
+     "score": 11.708333
+    },
+    {
+     "id": "BD4134",
+     "slots": [
+      "lectores",
+      "lectores",
+      "king",
+      "pasaje"
+     ],
+     "words": 19,
+     "score": 8.691667
+    },
+    {
+     "id": "BD4135",
+     "slots": [],
+     "words": 17,
+     "score": 0
+    },
+    {
+     "id": "BD4136",
+     "slots": [],
+     "words": 3,
+     "score": 0
+    },
+    {
+     "id": "BD4137",
+     "slots": [],
+     "words": 8,
+     "score": 0
+    },
+    {
+     "id": "BD4138",
+     "slots": [
+      "camisa"
+     ],
+     "words": 13,
+     "score": 3.5
+    },
+    {
+     "id": "BD4139",
+     "slots": [
+      "king",
+      "camisa"
+     ],
+     "words": 13,
+     "score": 10.941667
+    },
+    {
+     "id": "BD4140",
+     "slots": [
+      "regla",
+      "pistola"
+     ],
+     "words": 25,
+     "score": 1.125
+    },
+    {
+     "id": "BD4141",
+     "slots": [
+      "camisa",
+      "camisa"
+     ],
+     "words": 26,
+     "score": 3.5
+    },
+    {
+     "id": "BD4142",
+     "slots": [
+      "camisa"
+     ],
+     "words": 13,
+     "score": 3.5
+    },
+    {
+     "id": "BD4143",
+     "slots": [
+      "texto-borrador"
+     ],
+     "words": 18,
+     "score": 1.0
+    },
+    {
+     "id": "BD4144",
+     "slots": [
+      "mike"
+     ],
+     "words": 8,
+     "score": 30.833333
+    },
+    {
+     "id": "BD4145",
+     "slots": [],
+     "words": 3,
+     "score": 0
+    },
+    {
+     "id": "BD4146",
+     "slots": [
+      "king"
+     ],
+     "words": 8,
+     "score": 7.441667
+    },
+    {
+     "id": "BD4147",
+     "slots": [
+      "puros"
+     ],
+     "words": 9,
+     "score": 4.25
+    },
+    {
+     "id": "BD4148",
+     "slots": [
+      "puros",
+      "puros",
+      "malos",
+      "puros"
+     ],
+     "words": 18,
+     "score": 4.5
+    },
+    {
+     "id": "BD4149",
+     "slots": [
+      "uno",
+      "puros"
+     ],
+     "words": 3,
+     "score": 5.533333
+    },
+    {
+     "id": "BD4150",
+     "slots": [
+      "puros"
+     ],
+     "words": 2,
+     "score": 4.25
+    },
+    {
+     "id": "BD4151",
+     "slots": [],
+     "words": 1,
+     "score": 0
+    },
+    {
+     "id": "BD4152",
+     "slots": [
+      "ideas",
+      "informacion"
+     ],
+     "words": 24,
+     "score": 1.0
+    },
+    {
+     "id": "BD4153",
+     "slots": [
+      "lector"
+     ],
+     "words": 2,
+     "score": 3.933333
+    },
+    {
+     "id": "BD4154",
+     "slots": [
+      "lector",
+      "adverbio"
+     ],
+     "words": 6,
+     "score": 5.091667
+    },
+    {
+     "id": "BD4155",
+     "slots": [
+      "king",
+      "adverbio",
+      "king"
+     ],
+     "words": 4,
+     "score": 8.6
+    },
+    {
+     "id": "BD4156",
+     "slots": [],
+     "words": 2,
+     "score": 0
+    },
+    {
+     "id": "BD4157",
+     "slots": [
+      "king",
+      "adverbio",
+      "king",
+      "decision",
+      "king",
+      "caso",
+      "excepcion",
+      "regla"
+     ],
+     "words": 42,
+     "score": 9.6
+    },
+    {
+     "id": "BD4158",
+     "slots": [
+      "adverbio",
+      "king",
+      "lector",
+      "mike",
+      "olin"
+     ],
+     "words": 22,
+     "score": 43.816667
+    },
+    {
+     "id": "BD4159",
+     "slots": [
+      "mike"
+     ],
+     "words": 8,
+     "score": 30.833333
+    },
+    {
+     "id": "BD4160",
+     "slots": [
+      "pasaje",
+      "obvio",
+      "obvio"
+     ],
+     "words": 11,
+     "score": 1.25
+    },
+    {
+     "id": "BD4161",
+     "slots": [],
+     "words": 3,
+     "score": 0
+    },
+    {
+     "id": "BD4162",
+     "slots": [
+      "concepto",
+      "olin",
+      "king",
+      "concepto"
+     ],
+     "words": 23,
+     "score": 8.391667
+    },
+    {
+     "id": "BD4163",
+     "slots": [
+      "king",
+      "idea",
+      "historia",
+      "idea"
+     ],
+     "words": 32,
+     "score": 11.808333
+    },
+    {
+     "id": "BD4164",
+     "slots": [
+      "lector",
+      "historia",
+      "historia"
+     ],
+     "words": 22,
+     "score": 7.3
+    },
+    {
+     "id": "BD4165",
+     "slots": [
+      "lector",
+      "muestra"
+     ],
+     "words": 13,
+     "score": 4.433333
+    },
+    {
+     "id": "BD4166",
+     "slots": [
+      "lector",
+      "lector",
+      "historia"
+     ],
+     "words": 13,
+     "score": 7.3
+    },
+    {
+     "id": "BD4167",
+     "slots": [],
+     "words": 7,
+     "score": 0
+    }
+   ]
+  },
+  {
+   "unit": "f2a",
+   "source_words": 219,
+   "node_weights": {
+    "escritura": 0.16666666666666666,
+    "king": 2.783333333333333,
+    "audiencias": 0.16666666666666666,
+    "version": 0.41666666666666663,
+    "seccion": 0.16666666666666666,
+    "libro": 0.29166666666666663,
+    "regla": 0.25,
+    "lector": 1.633333333333333,
+    "periodo": 0.25,
+    "alguien": 0.25,
+    "lecturas": 0.25,
+    "respuesta": 1.0833333333333333,
+    "pregunta": 0.25,
+    "sobrecarga": 0.25,
+    "lista": 1.0666666666666667,
+    "libros": 2.4499999999999997,
+    "tom-gordon": 0.125,
+    "hearts-in-atlantis": 0.125,
+    "buick-eight": 0.125,
+    "influencia": 0.16666666666666666,
+    "propios": 0.3333333333333333,
+    "formas": 0.2,
+    "trabajo": 0.2
+   },
+   "ranking": [
+    "BD4175",
+    "BD4176",
+    "BD4177",
+    "BD4178",
+    "BD4181",
+    "BD4179",
+    "BD4172",
+    "BD4180",
+    "BD4169",
+    "BD4173",
+    "BD4171",
+    "BD4170",
+    "BD4174"
+   ],
+   "selected": [
+    "BD4175"
+   ],
+   "selected_words": 38,
+   "sentences": [
+    {
+     "id": "BD4169",
+     "slots": [
+      "escritura",
+      "king",
+      "audiencias",
+      "version",
+      "seccion",
+      "libro"
+     ],
+     "words": 26,
+     "score": 3.991667
+    },
+    {
+     "id": "BD4170",
+     "slots": [
+      "version",
+      "regla",
+      "lector",
+      "lector"
+     ],
+     "words": 14,
+     "score": 2.3
+    },
+    {
+     "id": "BD4171",
+     "slots": [
+      "periodo",
+      "alguien",
+      "lecturas",
+      "king"
+     ],
+     "words": 13,
+     "score": 3.533333
+    },
+    {
+     "id": "BD4172",
+     "slots": [
+      "king",
+      "respuesta",
+      "pregunta",
+      "sobrecarga"
+     ],
+     "words": 21,
+     "score": 4.366667
+    },
+    {
+     "id": "BD4173",
+     "slots": [
+      "respuesta",
+      "king"
+     ],
+     "words": 14,
+     "score": 3.866667
+    },
+    {
+     "id": "BD4174",
+     "slots": [
+      "lista",
+      "lista",
+      "respuesta"
+     ],
+     "words": 12,
+     "score": 2.15
+    },
+    {
+     "id": "BD4175",
+     "slots": [
+      "libros",
+      "king",
+      "libros",
+      "king",
+      "tom-gordon",
+      "hearts-in-atlantis",
+      "libro",
+      "buick-eight"
+     ],
+     "words": 38,
+     "score": 5.9
+    },
+    {
+     "id": "BD4176",
+     "slots": [
+      "king",
+      "libros",
+      "influencia",
+      "propios",
+      "king",
+      "propios"
+     ],
+     "words": 20,
+     "score": 5.733333
+    },
+    {
+     "id": "BD4177",
+     "slots": [
+      "lector",
+      "lista",
+      "lector",
+      "king",
+      "lista"
+     ],
+     "words": 17,
+     "score": 5.483333
+    },
+    {
+     "id": "BD4178",
+     "slots": [
+      "libros",
+      "libros",
+      "king"
+     ],
+     "words": 10,
+     "score": 5.233333
+    },
+    {
+     "id": "BD4179",
+     "slots": [
+      "lector",
+      "libros",
+      "lector",
+      "formas",
+      "trabajo"
+     ],
+     "words": 21,
+     "score": 4.483333
+    },
+    {
+     "id": "BD4180",
+     "slots": [
+      "libros",
+      "libros",
+      "lector"
+     ],
+     "words": 9,
+     "score": 4.083333
+    },
+    {
+     "id": "BD4181",
+     "slots": [
+      "libros",
+      "king"
+     ],
+     "words": 4,
+     "score": 5.233333
+    }
+   ]
+  },
+  {
+   "unit": "f2b",
+   "source_words": 508,
+   "bibliografia": true,
+   "node_weights": {},
+   "ranking": [],
+   "selected": [
+    "BD4182",
+    "BD4183",
+    "BD4184",
+    "BD4185",
+    "BD4186",
+    "BD4187",
+    "BD4188",
+    "BD4189",
+    "BD4190",
+    "BD4191",
+    "BD4192",
+    "BD4193",
+    "BD4194",
+    "BD4195",
+    "BD4196",
+    "BD4197",
+    "BD4198",
+    "BD4199",
+    "BD4200",
+    "BD4201",
+    "BD4202",
+    "BD4203",
+    "BD4204",
+    "BD4205",
+    "BD4206",
+    "BD4207",
+    "BD4208",
+    "BD4209",
+    "BD4210",
+    "BD4211",
+    "BD4212",
+    "BD4213",
+    "BD4214",
+    "BD4215",
+    "BD4216",
+    "BD4217",
+    "BD4218",
+    "BD4219",
+    "BD4220",
+    "BD4221",
+    "BD4222",
+    "BD4223",
+    "BD4224",
+    "BD4225",
+    "BD4226",
+    "BD4227",
+    "BD4228",
+    "BD4229",
+    "BD4230",
+    "BD4231",
+    "BD4232",
+    "BD4233",
+    "BD4234",
+    "BD4235",
+    "BD4236",
+    "BD4237",
+    "BD4238",
+    "BD4239",
+    "BD4240",
+    "BD4241",
+    "BD4242",
+    "BD4243",
+    "BD4244",
+    "BD4245",
+    "BD4246",
+    "BD4247",
+    "BD4248",
+    "BD4249",
+    "BD4250",
+    "BD4251",
+    "BD4252",
+    "BD4253",
+    "BD4254",
+    "BD4255",
+    "BD4256",
+    "BD4257",
+    "BD4258",
+    "BD4259",
+    "BD4260",
+    "BD4261",
+    "BD4262",
+    "BD4263",
+    "BD4264",
+    "BD4265",
+    "BD4266",
+    "BD4267",
+    "BD4268",
+    "BD4269",
+    "BD4270",
+    "BD4271",
+    "BD4272",
+    "BD4273",
+    "BD4274",
+    "BD4275",
+    "BD4276",
+    "BD4277"
+   ],
+   "selected_words": 508,
+   "sentences": [
+    {
+     "id": "BD4182",
+     "slots": [],
+     "words": 5,
+     "score": 0
+    },
+    {
+     "id": "BD4183",
+     "slots": [],
+     "words": 4,
+     "score": 0
+    },
+    {
+     "id": "BD4184",
+     "slots": [],
+     "words": 4,
+     "score": 0
+    },
+    {
+     "id": "BD4185",
+     "slots": [],
+     "words": 4,
+     "score": 0
+    },
+    {
+     "id": "BD4186",
+     "slots": [],
+     "words": 7,
+     "score": 0
+    },
+    {
+     "id": "BD4187",
+     "slots": [],
+     "words": 7,
+     "score": 0
+    },
+    {
+     "id": "BD4188",
+     "slots": [],
+     "words": 3,
+     "score": 0
+    },
+    {
+     "id": "BD4189",
+     "slots": [],
+     "words": 7,
+     "score": 0
+    },
+    {
+     "id": "BD4190",
+     "slots": [],
+     "words": 5,
+     "score": 0
+    },
+    {
+     "id": "BD4191",
+     "slots": [],
+     "words": 6,
+     "score": 0
+    },
+    {
+     "id": "BD4192",
+     "slots": [],
+     "words": 4,
+     "score": 0
+    },
+    {
+     "id": "BD4193",
+     "slots": [],
+     "words": 5,
+     "score": 0
+    },
+    {
+     "id": "BD4194",
+     "slots": [],
+     "words": 6,
+     "score": 0
+    },
+    {
+     "id": "BD4195",
+     "slots": [],
+     "words": 7,
+     "score": 0
+    },
+    {
+     "id": "BD4196",
+     "slots": [],
+     "words": 6,
+     "score": 0
+    },
+    {
+     "id": "BD4197",
+     "slots": [],
+     "words": 6,
+     "score": 0
+    },
+    {
+     "id": "BD4198",
+     "slots": [],
+     "words": 6,
+     "score": 0
+    },
+    {
+     "id": "BD4199",
+     "slots": [],
+     "words": 4,
+     "score": 0
+    },
+    {
+     "id": "BD4200",
+     "slots": [],
+     "words": 4,
+     "score": 0
+    },
+    {
+     "id": "BD4201",
+     "slots": [],
+     "words": 5,
+     "score": 0
+    },
+    {
+     "id": "BD4202",
+     "slots": [],
+     "words": 5,
+     "score": 0
+    },
+    {
+     "id": "BD4203",
+     "slots": [],
+     "words": 3,
+     "score": 0
+    },
+    {
+     "id": "BD4204",
+     "slots": [],
+     "words": 3,
+     "score": 0
+    },
+    {
+     "id": "BD4205",
+     "slots": [],
+     "words": 5,
+     "score": 0
+    },
+    {
+     "id": "BD4206",
+     "slots": [],
+     "words": 4,
+     "score": 0
+    },
+    {
+     "id": "BD4207",
+     "slots": [],
+     "words": 4,
+     "score": 0
+    },
+    {
+     "id": "BD4208",
+     "slots": [],
+     "words": 7,
+     "score": 0
+    },
+    {
+     "id": "BD4209",
+     "slots": [],
+     "words": 8,
+     "score": 0
+    },
+    {
+     "id": "BD4210",
+     "slots": [],
+     "words": 6,
+     "score": 0
+    },
+    {
+     "id": "BD4211",
+     "slots": [],
+     "words": 6,
+     "score": 0
+    },
+    {
+     "id": "BD4212",
+     "slots": [],
+     "words": 4,
+     "score": 0
+    },
+    {
+     "id": "BD4213",
+     "slots": [],
+     "words": 6,
+     "score": 0
+    },
+    {
+     "id": "BD4214",
+     "slots": [],
+     "words": 3,
+     "score": 0
+    },
+    {
+     "id": "BD4215",
+     "slots": [],
+     "words": 6,
+     "score": 0
+    },
+    {
+     "id": "BD4216",
+     "slots": [],
+     "words": 3,
+     "score": 0
+    },
+    {
+     "id": "BD4217",
+     "slots": [],
+     "words": 11,
+     "score": 0
+    },
+    {
+     "id": "BD4218",
+     "slots": [],
+     "words": 6,
+     "score": 0
+    },
+    {
+     "id": "BD4219",
+     "slots": [],
+     "words": 4,
+     "score": 0
+    },
+    {
+     "id": "BD4220",
+     "slots": [],
+     "words": 5,
+     "score": 0
+    },
+    {
+     "id": "BD4221",
+     "slots": [],
+     "words": 3,
+     "score": 0
+    },
+    {
+     "id": "BD4222",
+     "slots": [],
+     "words": 3,
+     "score": 0
+    },
+    {
+     "id": "BD4223",
+     "slots": [],
+     "words": 6,
+     "score": 0
+    },
+    {
+     "id": "BD4224",
+     "slots": [],
+     "words": 5,
+     "score": 0
+    },
+    {
+     "id": "BD4225",
+     "slots": [],
+     "words": 5,
+     "score": 0
+    },
+    {
+     "id": "BD4226",
+     "slots": [],
+     "words": 7,
+     "score": 0
+    },
+    {
+     "id": "BD4227",
+     "slots": [],
+     "words": 5,
+     "score": 0
+    },
+    {
+     "id": "BD4228",
+     "slots": [],
+     "words": 6,
+     "score": 0
+    },
+    {
+     "id": "BD4229",
+     "slots": [],
+     "words": 6,
+     "score": 0
+    },
+    {
+     "id": "BD4230",
+     "slots": [],
+     "words": 5,
+     "score": 0
+    },
+    {
+     "id": "BD4231",
+     "slots": [],
+     "words": 5,
+     "score": 0
+    },
+    {
+     "id": "BD4232",
+     "slots": [],
+     "words": 3,
+     "score": 0
+    },
+    {
+     "id": "BD4233",
+     "slots": [],
+     "words": 8,
+     "score": 0
+    },
+    {
+     "id": "BD4234",
+     "slots": [],
+     "words": 5,
+     "score": 0
+    },
+    {
+     "id": "BD4235",
+     "slots": [],
+     "words": 5,
+     "score": 0
+    },
+    {
+     "id": "BD4236",
+     "slots": [],
+     "words": 6,
+     "score": 0
+    },
+    {
+     "id": "BD4237",
+     "slots": [],
+     "words": 4,
+     "score": 0
+    },
+    {
+     "id": "BD4238",
+     "slots": [],
+     "words": 4,
+     "score": 0
+    },
+    {
+     "id": "BD4239",
+     "slots": [],
+     "words": 10,
+     "score": 0
+    },
+    {
+     "id": "BD4240",
+     "slots": [],
+     "words": 7,
+     "score": 0
+    },
+    {
+     "id": "BD4241",
+     "slots": [],
+     "words": 6,
+     "score": 0
+    },
+    {
+     "id": "BD4242",
+     "slots": [],
+     "words": 4,
+     "score": 0
+    },
+    {
+     "id": "BD4243",
+     "slots": [],
+     "words": 4,
+     "score": 0
+    },
+    {
+     "id": "BD4244",
+     "slots": [],
+     "words": 4,
+     "score": 0
+    },
+    {
+     "id": "BD4245",
+     "slots": [],
+     "words": 4,
+     "score": 0
+    },
+    {
+     "id": "BD4246",
+     "slots": [],
+     "words": 4,
+     "score": 0
+    },
+    {
+     "id": "BD4247",
+     "slots": [],
+     "words": 5,
+     "score": 0
+    },
+    {
+     "id": "BD4248",
+     "slots": [],
+     "words": 5,
+     "score": 0
+    },
+    {
+     "id": "BD4249",
+     "slots": [],
+     "words": 8,
+     "score": 0
+    },
+    {
+     "id": "BD4250",
+     "slots": [],
+     "words": 7,
+     "score": 0
+    },
+    {
+     "id": "BD4251",
+     "slots": [],
+     "words": 4,
+     "score": 0
+    },
+    {
+     "id": "BD4252",
+     "slots": [],
+     "words": 8,
+     "score": 0
+    },
+    {
+     "id": "BD4253",
+     "slots": [],
+     "words": 5,
+     "score": 0
+    },
+    {
+     "id": "BD4254",
+     "slots": [],
+     "words": 5,
+     "score": 0
+    },
+    {
+     "id": "BD4255",
+     "slots": [],
+     "words": 6,
+     "score": 0
+    },
+    {
+     "id": "BD4256",
+     "slots": [],
+     "words": 3,
+     "score": 0
+    },
+    {
+     "id": "BD4257",
+     "slots": [],
+     "words": 6,
+     "score": 0
+    },
+    {
+     "id": "BD4258",
+     "slots": [],
+     "words": 5,
+     "score": 0
+    },
+    {
+     "id": "BD4259",
+     "slots": [],
+     "words": 5,
+     "score": 0
+    },
+    {
+     "id": "BD4260",
+     "slots": [],
+     "words": 7,
+     "score": 0
+    },
+    {
+     "id": "BD4261",
+     "slots": [],
+     "words": 4,
+     "score": 0
+    },
+    {
+     "id": "BD4262",
+     "slots": [],
+     "words": 10,
+     "score": 0
+    },
+    {
+     "id": "BD4263",
+     "slots": [],
+     "words": 10,
+     "score": 0
+    },
+    {
+     "id": "BD4264",
+     "slots": [],
+     "words": 9,
+     "score": 0
+    },
+    {
+     "id": "BD4265",
+     "slots": [],
+     "words": 3,
+     "score": 0
+    },
+    {
+     "id": "BD4266",
+     "slots": [],
+     "words": 5,
+     "score": 0
+    },
+    {
+     "id": "BD4267",
+     "slots": [],
+     "words": 5,
+     "score": 0
+    },
+    {
+     "id": "BD4268",
+     "slots": [],
+     "words": 5,
+     "score": 0
+    },
+    {
+     "id": "BD4269",
+     "slots": [],
+     "words": 4,
+     "score": 0
+    },
+    {
+     "id": "BD4270",
+     "slots": [],
+     "words": 4,
+     "score": 0
+    },
+    {
+     "id": "BD4271",
+     "slots": [],
+     "words": 5,
+     "score": 0
+    },
+    {
+     "id": "BD4272",
+     "slots": [],
+     "words": 4,
+     "score": 0
+    },
+    {
+     "id": "BD4273",
+     "slots": [],
+     "words": 5,
+     "score": 0
+    },
+    {
+     "id": "BD4274",
+     "slots": [],
+     "words": 5,
+     "score": 0
+    },
+    {
+     "id": "BD4275",
+     "slots": [],
+     "words": 4,
+     "score": 0
+    },
+    {
+     "id": "BD4276",
+     "slots": [],
+     "words": 4,
+     "score": 0
+    },
+    {
+     "id": "BD4277",
+     "slots": [],
+     "words": 5,
+     "score": 0
+    }
+   ]
+  }
+ ]
+}
