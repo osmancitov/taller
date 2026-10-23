@@ -43,47 +43,45 @@ Criterios declarados de esta etapa, además de los del procedimiento: los infini
 
 ### El registro del C.V.
 
-| Tramo | Frases | Palabras | Título | Publicado | Ganadoras |
-|---|---|---|---|---|---|
-| 1 | BD0071–BD0089 | 363 | El paisaje con niebla | 21 oct | BD0074 (1 de 19) |
-| 2 | BD0090–BD0106 | 280 | El niño forzudo | 21 oct | BD0104 (1 de 17) |
-| 3 | BD0107–BD0160 | 822 | Siete huevos | 22 oct | BD0134, BD0137, BD0139, BD0140, BD0160 (5 de 54) |
-| 4 | BD0161–BD0167 | 104 | El tejado | 22 oct | BD0165 (1 de 7) |
-| 5 | BD0168–BD0180 | 237 | Ver morir | 22 oct | BD0170, BD0175 (2 de 13) |
-| 6 | BD0181–BD0234 | 900 | No va a doler | 22 oct | BD0184, BD0198, BD0213, BD0232 (4 de 54) |
-| 7 | BD0235–BD0263 | 408 | Las amígdalas | 22 oct | BD0249, BD0251, BD0253 (3 de 29) |
-| 8 | BD0264–BD0282 | 349 | Escribe uno tuyo | 22 oct | BD0274, BD0279 (2 de 19) |
-| 9 | BD0283–BD0303 | 360 | A cuarto el cuento | 22 oct | BD0290, BD0296 (2 de 21) |
-| 10 | BD0304–BD0341 | 562 | La jungla | 22 oct | BD0313, BD0324, BD0329, BD0334 (4 de 38) |
-| 11 | BD0342–BD0384 | 811 | El Súper Duper Electromán | 22 oct | BD0346, BD0364, BD0370, BD0379 (4 de 43) |
-| 12 | BD0385–BD0397 | 270 | Video bullshit | 22 oct | BD0393 (1 de 13) |
-| 13 | BD0398–BD0409 | 255 | El Ackermonster | 22 oct | BD0406 (1 de 12) |
-| 14 | BD0410–BD0414 | 58 | Yo fui un ladrón de tumbas adolescente | 22 oct | BD0411 (1 de 5) |
-| 15 | BD0415–BD0430 | 387 | El Problema de Ruth | 22 oct | BD0421, BD0423 (2 de 16) |
-| 16 | BD0431–BD0469 | 754 | Happy Stamps | 22 oct | BD0443, BD0455, BD0460 (3 de 39) |
-| 17 | BD0470–BD0493 | 537 | La noche del tigre | 22 oct | BD0485, BD0491 (2 de 24) |
-| 18 | BD0494–BD0525 | 829 | Dave's Rag | 22 oct | BD0502, BD0524 (2 de 32) |
-| 19 | BD0526–BD0613 | 1.991 | El pozo y el péndulo | 22 oct | BD0562, BD0567, BD0569, BD0574, BD0579, BD0591 (6 de 88) |
-| 20 | BD0614–BD0680 | 1.384 | The Village Vomit | 22 oct | BD0657, BD0658, BD0665, BD0672, BD0673 (5 de 67) |
-| 21 | BD0681–BD0736 | 822 | Con la puerta cerrada | 22 oct | BD0709, BD0723, BD0732, BD0736 (4 de 56) |
-| 22 | BD0737–BD0772 | 750 | Ratas grandes como perros | 22 oct | BD0739, BD0767 (2 de 36) |
-| 23 | BD0773–BD0793 | 350 | La risa sin miedo | 22 oct | BD0787, BD0792 (2 de 21) |
-| 24 | BD0794–BD0884 | 1.338 | Me gustan los osos | 22 oct | BD0801, BD0802, BD0803, BD0804, BD0824, BD0861 (6 de 91) |
-| 25 | BD0885–BD0906 | 308 | Su mujer está de parto | 22 oct | BD0889, BD0906 (2 de 22) |
-| 26 | BD0907–BD0938 | 652 | Un pato muerto en las fauces | 22 oct | BD0907, BD0910, BD0915 (3 de 32) |
-| 27 | BD0939–BD0976 | 846 | El margen deslizante | 22 oct | BD0942, BD0955 (2 de 38) |
-| 28 | BD0977–BD1009 | 651 | Nunca una sola duda | 22 oct | BD0984, BD1002 (2 de 33) |
-| 29 | BD1010–BD1070 | 982 | Aquí tienes algo | 22 oct | BD1016, BD1018, BD1062, BD1064, BD1069 (5 de 61) |
-| 30 | BD1071–BD1157 | 1.669 | La resaca del instituto | 23 oct | BD1095, BD1102, BD1123, BD1132, BD1136, BD1137, BD1146, BD1156 (8 de 87) |
-| 31 | BD1158–BD1205 | 729 | Una noche para soñar | 23 oct | BD1159, BD1168, BD1186 (3 de 48) |
-| 32 | BD1206–BD1271 | 955 | Un cuatro y cinco ceros | 23 oct | BD1215, BD1245, BD1251, BD1254 (4 de 66) |
-| 33 | BD1272–BD1373 | 1.414 | Chicos de universidad | 23 oct | BD1280, BD1330, BD1332, BD1338, BD1342, BD1354, BD1366, BD1368 (8 de 102) |
-| 34 | BD1374–BD1414 | 666 | Mis niños | 23 oct | BD1380, BD1387, BD1393, BD1413 (4 de 41) |
-| 35 | BD1415–BD1417 | 49 | El elogio | 23 oct | BD1415 (1 de 3) |
-| 36 | BD1418–BD1449 | 522 | Soy alcohólico | 23 oct | BD1429, BD1446 (2 de 32) |
-| 37 | BD1450–BD1503 | 1.019 | Dos semanas para pensarlo | 23 oct | BD1450, BD1470, BD1476, BD1477 (4 de 54) |
-| 38 | BD1504–BD1518 | 251 | La casa de verano | 23 oct | BD1515 (1 de 15) |
-| 39 | BD1519–BD1536 | 383 | El escritorio en el rincón | 23 oct | BD1520, BD1525, BD1528 (3 de 18) |
+- Tramo 1: El paisaje con niebla: BD0071–BD0089, 363 palabras, 21 oct. Ganadoras: BD0074 (1 de 19).
+- Tramo 2: El niño forzudo: BD0090–BD0106, 280 palabras, 21 oct. Ganadoras: BD0104 (1 de 17).
+- Tramo 3: Siete huevos: BD0107–BD0160, 822 palabras, 22 oct. Ganadoras: BD0134, BD0137, BD0139, BD0140, BD0160 (5 de 54).
+- Tramo 4: El tejado: BD0161–BD0167, 104 palabras, 22 oct. Ganadoras: BD0165 (1 de 7).
+- Tramo 5: Ver morir: BD0168–BD0180, 237 palabras, 22 oct. Ganadoras: BD0170, BD0175 (2 de 13).
+- Tramo 6: No va a doler: BD0181–BD0234, 900 palabras, 22 oct. Ganadoras: BD0184, BD0198, BD0213, BD0232 (4 de 54).
+- Tramo 7: Las amígdalas: BD0235–BD0263, 408 palabras, 22 oct. Ganadoras: BD0249, BD0251, BD0253 (3 de 29).
+- Tramo 8: Escribe uno tuyo: BD0264–BD0282, 349 palabras, 22 oct. Ganadoras: BD0274, BD0279 (2 de 19).
+- Tramo 9: A cuarto el cuento: BD0283–BD0303, 360 palabras, 22 oct. Ganadoras: BD0290, BD0296 (2 de 21).
+- Tramo 10: La jungla: BD0304–BD0341, 562 palabras, 22 oct. Ganadoras: BD0313, BD0324, BD0329, BD0334 (4 de 38).
+- Tramo 11: El Súper Duper Electromán: BD0342–BD0384, 811 palabras, 22 oct. Ganadoras: BD0346, BD0364, BD0370, BD0379 (4 de 43).
+- Tramo 12: Video bullshit: BD0385–BD0397, 270 palabras, 22 oct. Ganadoras: BD0393 (1 de 13).
+- Tramo 13: El Ackermonster: BD0398–BD0409, 255 palabras, 22 oct. Ganadoras: BD0406 (1 de 12).
+- Tramo 14: Yo fui un ladrón de tumbas adolescente: BD0410–BD0414, 58 palabras, 22 oct. Ganadoras: BD0411 (1 de 5).
+- Tramo 15: El Problema de Ruth: BD0415–BD0430, 387 palabras, 22 oct. Ganadoras: BD0421, BD0423 (2 de 16).
+- Tramo 16: Happy Stamps: BD0431–BD0469, 754 palabras, 22 oct. Ganadoras: BD0443, BD0455, BD0460 (3 de 39).
+- Tramo 17: La noche del tigre: BD0470–BD0493, 537 palabras, 22 oct. Ganadoras: BD0485, BD0491 (2 de 24).
+- Tramo 18: Dave's Rag: BD0494–BD0525, 829 palabras, 22 oct. Ganadoras: BD0502, BD0524 (2 de 32).
+- Tramo 19: El pozo y el péndulo: BD0526–BD0613, 1.991 palabras, 22 oct. Ganadoras: BD0562, BD0567, BD0569, BD0574, BD0579, BD0591 (6 de 88).
+- Tramo 20: The Village Vomit: BD0614–BD0680, 1.384 palabras, 22 oct. Ganadoras: BD0657, BD0658, BD0665, BD0672, BD0673 (5 de 67).
+- Tramo 21: Con la puerta cerrada: BD0681–BD0736, 822 palabras, 22 oct. Ganadoras: BD0709, BD0723, BD0732, BD0736 (4 de 56).
+- Tramo 22: Ratas grandes como perros: BD0737–BD0772, 750 palabras, 22 oct. Ganadoras: BD0739, BD0767 (2 de 36).
+- Tramo 23: La risa sin miedo: BD0773–BD0793, 350 palabras, 22 oct. Ganadoras: BD0787, BD0792 (2 de 21).
+- Tramo 24: Me gustan los osos: BD0794–BD0884, 1.338 palabras, 22 oct. Ganadoras: BD0801, BD0802, BD0803, BD0804, BD0824, BD0861 (6 de 91).
+- Tramo 25: Su mujer está de parto: BD0885–BD0906, 308 palabras, 22 oct. Ganadoras: BD0889, BD0906 (2 de 22).
+- Tramo 26: Un pato muerto en las fauces: BD0907–BD0938, 652 palabras, 22 oct. Ganadoras: BD0907, BD0910, BD0915 (3 de 32).
+- Tramo 27: El margen deslizante: BD0939–BD0976, 846 palabras, 22 oct. Ganadoras: BD0942, BD0955 (2 de 38).
+- Tramo 28: Nunca una sola duda: BD0977–BD1009, 651 palabras, 22 oct. Ganadoras: BD0984, BD1002 (2 de 33).
+- Tramo 29: Aquí tienes algo: BD1010–BD1070, 982 palabras, 22 oct. Ganadoras: BD1016, BD1018, BD1062, BD1064, BD1069 (5 de 61).
+- Tramo 30: La resaca del instituto: BD1071–BD1157, 1.669 palabras, 23 oct. Ganadoras: BD1095, BD1102, BD1123, BD1132, BD1136, BD1137, BD1146, BD1156 (8 de 87).
+- Tramo 31: Una noche para soñar: BD1158–BD1205, 729 palabras, 23 oct. Ganadoras: BD1159, BD1168, BD1186 (3 de 48).
+- Tramo 32: Un cuatro y cinco ceros: BD1206–BD1271, 955 palabras, 23 oct. Ganadoras: BD1215, BD1245, BD1251, BD1254 (4 de 66).
+- Tramo 33: Chicos de universidad: BD1272–BD1373, 1.414 palabras, 23 oct. Ganadoras: BD1280, BD1330, BD1332, BD1338, BD1342, BD1354, BD1366, BD1368 (8 de 102).
+- Tramo 34: Mis niños: BD1374–BD1414, 666 palabras, 23 oct. Ganadoras: BD1380, BD1387, BD1393, BD1413 (4 de 41).
+- Tramo 35: El elogio: BD1415–BD1417, 49 palabras, 23 oct. Ganadoras: BD1415 (1 de 3).
+- Tramo 36: Soy alcohólico: BD1418–BD1449, 522 palabras, 23 oct. Ganadoras: BD1429, BD1446 (2 de 32).
+- Tramo 37: Dos semanas para pensarlo: BD1450–BD1503, 1.019 palabras, 23 oct. Ganadoras: BD1450, BD1470, BD1476, BD1477 (4 de 54).
+- Tramo 38: La casa de verano: BD1504–BD1518, 251 palabras, 23 oct. Ganadoras: BD1515 (1 de 15).
+- Tramo 39: El escritorio en el rincón: BD1519–BD1536, 383 palabras, 23 oct. Ganadoras: BD1520, BD1525, BD1528 (3 de 18).
 
 Todos los tramos se ajustaron el 23 de octubre de 2026 al criterio de palabras. Notas:
 
