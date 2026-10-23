@@ -1,0 +1,5727 @@
+{
+  "obra": "Stephen King, On Writing",
+  "seccion": "Toolbox",
+  "fecha": "2026-10-23",
+  "fuente": "segmentacion-canonica.json; cotejo con king_on-writing.md y EPUB",
+  "regla": "Un punto por oración, dividido entre sus puestos; el peso de la oración suma los pesos de sus nodos distintos. Corte al primer cruce del 10% de palabras. Empate por ID menor.",
+  "reparacion": "Solo en T4 se puntúan BD1983+BD1984 juntas, una oración en el EPUB, sin modificar el molde. Los 100 registros de T4 corresponden a 99 oraciones de puntuación.",
+  "criterios": "Sujetos y objetos, también cláusulas subordinadas y absolutos. Objetos compuestos por separado. Infinitivos controlados no añaden un segundo sujeto. Destinatario del imperativo = lector. Agente de pasiva como objeto. Fuera: expletivos, referentes vacíos, atributos y complementos de lugar, tiempo, manera y comparación. Repeticiones del mismo referente cobran cada puesto al repartir el punto, pero no duplican el nodo en el peso final de la oración.",
+  "alias": "I/me/my y facultades de King = king; you/your e imperativos al destinatario = lector; he/him/his resueltos por contexto, no unificados automáticamente. Fazza/Guy Pillsbury/grandpa = abuelo; Uncle Oren/he = oren cuando el referente es el tío; we/us de King y lector = king-lector; el plural de párrafo se unifica con párrafo. Los ejemplos ficticios mantienen sus personajes separados de King.",
+  "unidades": [
+    {
+      "unit": 1,
+      "source_words": 2057,
+      "node_weights": {
+        "abuelo": 2.6666666666666665,
+        "king": 9.999603174603175,
+        "oceano": 0.16666666666666666,
+        "inviernos": 0.16666666666666666,
+        "finca": 0.16666666666666666,
+        "cigarros": 0.5,
+        "oren": 10.782875457875457,
+        "cigarrillos": 1.0,
+        "caja": 6.644444444444445,
+        "bloque": 0.1111111111111111,
+        "primo": 0.1111111111111111,
+        "palos": 0.1111111111111111,
+        "patines": 0.1111111111111111,
+        "guante": 0.1111111111111111,
+        "king-familia": 0.8333333333333334,
+        "niveles": 1.1666666666666667,
+        "cajones": 0.75,
+        "listones": 0.3333333333333333,
+        "clavos": 0.3333333333333333,
+        "laton": 0.3333333333333333,
+        "tapa": 0.3333333333333333,
+        "pestillos": 1.0,
+        "forro": 0.3333333333333333,
+        "estampado": 0.6666666666666666,
+        "asas": 1.3111111111111111,
+        "lector": 12.946978021978023,
+        "grabado": 0.6523809523809524,
+        "experto": 0.14285714285714285,
+        "dinero": 0.14285714285714285,
+        "mosquitera": 1.5531135531135531,
+        "pantalones": 0.3333333333333333,
+        "camiseta": 0.3333333333333333,
+        "cigarrillo": 1.0,
+        "king-oren": 0.25,
+        "ventana": 0.25,
+        "dave": 0.3333333333333333,
+        "herramientas": 3.3035714285714284,
+        "martillo": 0.1,
+        "sierra": 0.1,
+        "alicates": 0.1,
+        "llaves": 0.1,
+        "llave-ajustable": 0.1,
+        "nivel": 0.1,
+        "taladro": 0.1,
+        "brocas": 0.2,
+        "destornilladores": 0.1,
+        "tornillos": 0.7376373626373627,
+        "destornillador": 1.5576923076923077,
+        "llave": 0.07692307692307693,
+        "tuercas": 0.07692307692307693,
+        "agujeros-mosquitera": 0.5,
+        "agujeros-ventana": 0.5,
+        "tarea": 0.5333333333333333,
+        "fuerza": 0.16666666666666666,
+        "herramienta": 0.3333333333333333,
+        "funcion": 0.14285714285714285,
+        "vocabulario": 4.983333333333333,
+        "prostituta": 0.16666666666666666,
+        "escritores": 1.4,
+        "lectores-expertos": 0.4,
+        "cualidad": 0.5,
+        "organismo": 0.25,
+        "ciclo": 0.25,
+        "evidencia": 0.25,
+        "siembra": 0.25,
+        "tallos": 0.25,
+        "depredacion": 0.25,
+        "cita": 0.5,
+        "alguien": 0.3769230769230769,
+        "venda": 0.07692307692307693,
+        "anciana": 0.07692307692307693,
+        "malabarista": 0.07692307692307693,
+        "grupo": 0.15384615384615385,
+        "fuego": 0.07692307692307693,
+        "cuatro": 0.15384615384615385,
+        "llamas": 0.15384615384615385,
+        "transito": 0.07692307692307693,
+        "calculos": 0.07692307692307693,
+        "ejemplos": 0.6666666666666666,
+        "personaje-hemingway": 1.0,
+        "rio": 1.0,
+        "captores": 0.3333333333333333,
+        "chico": 0.6666666666666666,
+        "acontecimiento": 1.0,
+        "propietarios": 0.8888888888888888,
+        "deber": 0.1111111111111111,
+        "frase-steinbeck": 2.0,
+        "palabras": 3.783333333333333,
+        "silabas": 0.5,
+        "numero": 0.16666666666666666,
+        "steinbeck": 0.16666666666666666,
+        "because": 0.16666666666666666,
+        "owner": 0.16666666666666666,
+        "hated": 0.16666666666666666,
+        "estructura": 0.5,
+        "uvas-ira": 1.0,
+        "meridiano-sangre": 0.25,
+        "fragmentos": 0.25,
+        "canciones": 0.25,
+        "muestra": 0.5,
+        "interlocutor-wolfe": 3.5,
+        "hymie": 1.0,
+        "pene": 0.6428571428571429,
+        "habilidad-wolfe": 0.5,
+        "leonard": 1.0,
+        "habla-callejera": 1.0,
+        "yeggghhh": 0.3333333333333333,
+        "esfuerzo": 0.25,
+        "mascota": 0.25,
+        "persona": 0.5,
+        "acto": 0.25,
+        "promesa": 0.07142857142857142,
+        "emolument": 0.07142857142857142,
+        "tip": 0.07142857142857142,
+        "john": 0.6607142857142857,
+        "acto-excrecion": 0.07142857142857142,
+        "deposicion": 0.19642857142857142,
+        "take-shit": 0.125,
+        "audiencia": 0.125,
+        "significado": 1.5583333333333333,
+        "ocasiones": 0.3,
+        "idea": 0.2,
+        "ideas": 0.2,
+        "escritura": 0.3333333333333333,
+        "eleccion": 0.16666666666666666,
+        "adecuacion": 0.14285714285714285,
+        "carlin": 0.14285714285714285,
+        "dedo": 0.14285714285714285
+      },
+      "ranking": [
+        "BD1665",
+        "BD1654",
+        "BD1661",
+        "BD1626",
+        "BD1656",
+        "BD1627",
+        "BD1648",
+        "BD1667",
+        "BD1719",
+        "BD1649",
+        "BD1727",
+        "BD1630",
+        "BD1632",
+        "BD1722",
+        "BD1637",
+        "BD1641",
+        "BD1628",
+        "BD1644",
+        "BD1617",
+        "BD1729",
+        "BD1639",
+        "BD1720",
+        "BD1672",
+        "BD1671",
+        "BD1677",
+        "BD1705",
+        "BD1721",
+        "BD1638",
+        "BD1640",
+        "BD1633",
+        "BD1618",
+        "BD1734",
+        "BD1728",
+        "BD1664",
+        "BD1668",
+        "BD1659",
+        "BD1731",
+        "BD1725",
+        "BD1726",
+        "BD1704",
+        "BD1735",
+        "BD1666",
+        "BD1660",
+        "BD1681",
+        "BD1706",
+        "BD1732",
+        "BD1662",
+        "BD1614",
+        "BD1653",
+        "BD1657",
+        "BD1650",
+        "BD1658",
+        "BD1616",
+        "BD1634",
+        "BD1635",
+        "BD1647",
+        "BD1652",
+        "BD1685",
+        "BD1702",
+        "BD1631",
+        "BD1646",
+        "BD1655",
+        "BD1629",
+        "BD1620",
+        "BD1663",
+        "BD1619",
+        "BD1673",
+        "BD1621",
+        "BD1684",
+        "BD1733",
+        "BD1700",
+        "BD1670",
+        "BD1698",
+        "BD1697",
+        "BD1714",
+        "BD1699",
+        "BD1708",
+        "BD1709",
+        "BD1715",
+        "BD1642",
+        "BD1669",
+        "BD1615",
+        "BD1613",
+        "BD1695",
+        "BD1696",
+        "BD1716",
+        "BD1730",
+        "BD1623",
+        "BD1625",
+        "BD1682",
+        "BD1622",
+        "BD1624",
+        "BD1636",
+        "BD1643",
+        "BD1651",
+        "BD1675",
+        "BD1679",
+        "BD1686",
+        "BD1687",
+        "BD1689",
+        "BD1691",
+        "BD1693",
+        "BD1701",
+        "BD1710",
+        "BD1717",
+        "BD1718",
+        "BD1724",
+        "BD1645",
+        "BD1674",
+        "BD1676",
+        "BD1678",
+        "BD1680",
+        "BD1683",
+        "BD1688",
+        "BD1690",
+        "BD1692",
+        "BD1694",
+        "BD1703",
+        "BD1707",
+        "BD1711",
+        "BD1712",
+        "BD1713",
+        "BD1723"
+      ],
+      "selected": [
+        "BD1626",
+        "BD1627",
+        "BD1648",
+        "BD1654",
+        "BD1656",
+        "BD1661",
+        "BD1665"
+      ],
+      "selected_words": 207,
+      "sentences": [
+        {
+          "id": "BD1613",
+          "slots": [
+            "abuelo"
+          ],
+          "words": 16,
+          "score": 2.6666666666666665
+        },
+        {
+          "id": "BD1614",
+          "slots": [
+            "king",
+            "abuelo",
+            "abuelo",
+            "oceano",
+            "inviernos",
+            "finca"
+          ],
+          "words": 41,
+          "score": 13.166269841269841
+        },
+        {
+          "id": "BD1615",
+          "slots": [
+            "abuelo",
+            "cigarros"
+          ],
+          "words": 6,
+          "score": 3.1666666666666665
+        },
+        {
+          "id": "BD1616",
+          "slots": [
+            "oren",
+            "cigarrillos"
+          ],
+          "words": 12,
+          "score": 11.782875457875457
+        },
+        {
+          "id": "BD1617",
+          "slots": [
+            "abuelo",
+            "oren",
+            "caja"
+          ],
+          "words": 14,
+          "score": 20.09398656898657
+        },
+        {
+          "id": "BD1618",
+          "slots": [
+            "king",
+            "caja",
+            "king",
+            "bloque",
+            "caja",
+            "primo",
+            "palos",
+            "patines",
+            "guante"
+          ],
+          "words": 45,
+          "score": 17.199603174603176
+        },
+        {
+          "id": "BD1619",
+          "slots": [
+            "caja",
+            "king-familia"
+          ],
+          "words": 9,
+          "score": 7.477777777777778
+        },
+        {
+          "id": "BD1620",
+          "slots": [
+            "caja",
+            "niveles",
+            "niveles",
+            "cajones"
+          ],
+          "words": 18,
+          "score": 8.561111111111112
+        },
+        {
+          "id": "BD1621",
+          "slots": [
+            "caja"
+          ],
+          "words": 5,
+          "score": 6.644444444444445
+        },
+        {
+          "id": "BD1622",
+          "slots": [
+            "listones",
+            "clavos",
+            "laton"
+          ],
+          "words": 13,
+          "score": 1.0
+        },
+        {
+          "id": "BD1623",
+          "slots": [
+            "tapa",
+            "pestillos",
+            "pestillos"
+          ],
+          "words": 21,
+          "score": 1.3333333333333333
+        },
+        {
+          "id": "BD1624",
+          "slots": [
+            "forro",
+            "estampado",
+            "estampado"
+          ],
+          "words": 34,
+          "score": 1.0
+        },
+        {
+          "id": "BD1625",
+          "slots": [
+            "asas"
+          ],
+          "words": 7,
+          "score": 1.3111111111111111
+        },
+        {
+          "id": "BD1626",
+          "slots": [
+            "lector",
+            "caja",
+            "king"
+          ],
+          "words": 17,
+          "score": 29.59102564102564
+        },
+        {
+          "id": "BD1627",
+          "slots": [
+            "oren",
+            "caja",
+            "oren",
+            "grabado",
+            "king"
+          ],
+          "words": 24,
+          "score": 28.07930402930403
+        },
+        {
+          "id": "BD1628",
+          "slots": [
+            "oren",
+            "grabado",
+            "experto",
+            "king",
+            "oren",
+            "grabado",
+            "dinero"
+          ],
+          "words": 32,
+          "score": 21.72057387057387
+        },
+        {
+          "id": "BD1629",
+          "slots": [
+            "abuelo",
+            "grabado",
+            "abuelo",
+            "caja",
+            "abuelo",
+            "caja"
+          ],
+          "words": 30,
+          "score": 9.963492063492064
+        },
+        {
+          "id": "BD1630",
+          "slots": [
+            "king",
+            "oren",
+            "mosquitera"
+          ],
+          "words": 18,
+          "score": 22.335592185592187
+        },
+        {
+          "id": "BD1631",
+          "slots": [
+            "king"
+          ],
+          "words": 10,
+          "score": 9.999603174603175
+        },
+        {
+          "id": "BD1632",
+          "slots": [
+            "king",
+            "oren",
+            "mosquitera"
+          ],
+          "words": 20,
+          "score": 22.335592185592187
+        },
+        {
+          "id": "BD1633",
+          "slots": [
+            "oren",
+            "caja"
+          ],
+          "words": 13,
+          "score": 17.4273199023199
+        },
+        {
+          "id": "BD1634",
+          "slots": [
+            "oren",
+            "pantalones",
+            "camiseta"
+          ],
+          "words": 13,
+          "score": 11.449542124542125
+        },
+        {
+          "id": "BD1635",
+          "slots": [
+            "oren"
+          ],
+          "words": 7,
+          "score": 10.782875457875457
+        },
+        {
+          "id": "BD1636",
+          "slots": [
+            "cigarrillo"
+          ],
+          "words": 7,
+          "score": 1.0
+        },
+        {
+          "id": "BD1637",
+          "slots": [
+            "king",
+            "cigarrillos",
+            "oren",
+            "cigarrillos",
+            "oren",
+            "cigarrillos"
+          ],
+          "words": 25,
+          "score": 21.782478632478632
+        },
+        {
+          "id": "BD1638",
+          "slots": [
+            "king-oren",
+            "ventana",
+            "oren",
+            "caja"
+          ],
+          "words": 21,
+          "score": 17.9273199023199
+        },
+        {
+          "id": "BD1639",
+          "slots": [
+            "king",
+            "dave",
+            "caja",
+            "king",
+            "dave",
+            "asas",
+            "king",
+            "dave",
+            "caja"
+          ],
+          "words": 28,
+          "score": 18.288492063492065
+        },
+        {
+          "id": "BD1640",
+          "slots": [
+            "king-familia",
+            "king",
+            "caja"
+          ],
+          "words": 28,
+          "score": 17.47738095238095
+        },
+        {
+          "id": "BD1641",
+          "slots": [
+            "oren",
+            "king",
+            "pestillos"
+          ],
+          "words": 8,
+          "score": 21.782478632478632
+        },
+        {
+          "id": "BD1642",
+          "slots": [
+            "herramientas"
+          ],
+          "words": 12,
+          "score": 3.3035714285714284
+        },
+        {
+          "id": "BD1643",
+          "slots": [
+            "martillo",
+            "sierra",
+            "alicates",
+            "llaves",
+            "llave-ajustable",
+            "nivel",
+            "taladro",
+            "brocas",
+            "brocas",
+            "destornilladores"
+          ],
+          "words": 44,
+          "score": 1.0
+        },
+        {
+          "id": "BD1644",
+          "slots": [
+            "oren",
+            "king"
+          ],
+          "words": 7,
+          "score": 20.782478632478632
+        },
+        {
+          "id": "BD1645",
+          "slots": [],
+          "words": 2,
+          "score": 0.0
+        },
+        {
+          "id": "BD1646",
+          "slots": [
+            "king"
+          ],
+          "words": 2,
+          "score": 9.999603174603175
+        },
+        {
+          "id": "BD1647",
+          "slots": [
+            "oren"
+          ],
+          "words": 3,
+          "score": 10.782875457875457
+        },
+        {
+          "id": "BD1648",
+          "slots": [
+            "mosquitera",
+            "tornillos",
+            "oren",
+            "destornillador",
+            "destornillador",
+            "lector",
+            "destornillador",
+            "lector",
+            "destornillador",
+            "lector",
+            "llave",
+            "lector",
+            "tuercas"
+          ],
+          "words": 59,
+          "score": 27.732142857142858
+        },
+        {
+          "id": "BD1649",
+          "slots": [
+            "oren",
+            "tornillos",
+            "oren",
+            "king",
+            "tornillos",
+            "oren",
+            "mosquitera"
+          ],
+          "words": 20,
+          "score": 23.07322954822955
+        },
+        {
+          "id": "BD1650",
+          "slots": [
+            "oren",
+            "mosquitera",
+            "oren",
+            "mosquitera"
+          ],
+          "words": 12,
+          "score": 12.33598901098901
+        },
+        {
+          "id": "BD1651",
+          "slots": [
+            "agujeros-mosquitera",
+            "agujeros-ventana"
+          ],
+          "words": 15,
+          "score": 1.0
+        },
+        {
+          "id": "BD1652",
+          "slots": [
+            "oren",
+            "oren"
+          ],
+          "words": 9,
+          "score": 10.782875457875457
+        },
+        {
+          "id": "BD1653",
+          "slots": [
+            "oren",
+            "tornillos",
+            "oren",
+            "tornillos",
+            "oren",
+            "tornillos",
+            "destornillador",
+            "destornillador"
+          ],
+          "words": 38,
+          "score": 13.078205128205129
+        },
+        {
+          "id": "BD1654",
+          "slots": [
+            "mosquitera",
+            "oren",
+            "king",
+            "destornillador",
+            "destornillador",
+            "caja"
+          ],
+          "words": 25,
+          "score": 30.53772893772894
+        },
+        {
+          "id": "BD1655",
+          "slots": [
+            "king",
+            "king"
+          ],
+          "words": 6,
+          "score": 9.999603174603175
+        },
+        {
+          "id": "BD1656",
+          "slots": [
+            "king",
+            "oren",
+            "oren",
+            "caja",
+            "oren",
+            "destornillador"
+          ],
+          "words": 22,
+          "score": 28.984615384615385
+        },
+        {
+          "id": "BD1657",
+          "slots": [
+            "oren",
+            "destornillador"
+          ],
+          "words": 13,
+          "score": 12.340567765567766
+        },
+        {
+          "id": "BD1658",
+          "slots": [
+            "oren",
+            "oren",
+            "asas",
+            "oren",
+            "oren"
+          ],
+          "words": 27,
+          "score": 12.093986568986569
+        },
+        {
+          "id": "BD1659",
+          "slots": [
+            "lector",
+            "herramientas"
+          ],
+          "words": 8,
+          "score": 16.25054945054945
+        },
+        {
+          "id": "BD1660",
+          "slots": [
+            "lector",
+            "lector",
+            "tarea",
+            "lector",
+            "tarea",
+            "lector"
+          ],
+          "words": 14,
+          "score": 13.480311355311356
+        },
+        {
+          "id": "BD1661",
+          "slots": [
+            "king",
+            "lector",
+            "caja",
+            "fuerza",
+            "lector",
+            "caja"
+          ],
+          "words": 32,
+          "score": 29.75769230769231
+        },
+        {
+          "id": "BD1662",
+          "slots": [
+            "lector",
+            "herramienta",
+            "lector"
+          ],
+          "words": 23,
+          "score": 13.280311355311355
+        },
+        {
+          "id": "BD1663",
+          "slots": [
+            "caja",
+            "niveles"
+          ],
+          "words": 5,
+          "score": 7.811111111111111
+        },
+        {
+          "id": "BD1664",
+          "slots": [
+            "king",
+            "caja"
+          ],
+          "words": 9,
+          "score": 16.64404761904762
+        },
+        {
+          "id": "BD1665",
+          "slots": [
+            "lector",
+            "niveles",
+            "king",
+            "caja",
+            "caja",
+            "caja"
+          ],
+          "words": 28,
+          "score": 30.75769230769231
+        },
+        {
+          "id": "BD1666",
+          "slots": [
+            "lector",
+            "cajones",
+            "lector",
+            "cajones",
+            "lector",
+            "cajones"
+          ],
+          "words": 35,
+          "score": 13.696978021978023
+        },
+        {
+          "id": "BD1667",
+          "slots": [
+            "lector",
+            "lector",
+            "herramientas",
+            "king",
+            "lector",
+            "herramientas",
+            "lector",
+            "herramientas"
+          ],
+          "words": 28,
+          "score": 26.250152625152626
+        },
+        {
+          "id": "BD1668",
+          "slots": [
+            "lector",
+            "herramientas",
+            "lector",
+            "funcion",
+            "herramientas",
+            "lector",
+            "herramientas"
+          ],
+          "words": 31,
+          "score": 16.393406593406592
+        },
+        {
+          "id": "BD1669",
+          "slots": [
+            "herramientas"
+          ],
+          "words": 5,
+          "score": 3.3035714285714284
+        },
+        {
+          "id": "BD1670",
+          "slots": [
+            "vocabulario"
+          ],
+          "words": 10,
+          "score": 4.983333333333333
+        },
+        {
+          "id": "BD1671",
+          "slots": [
+            "lector",
+            "vocabulario"
+          ],
+          "words": 18,
+          "score": 17.930311355311357
+        },
+        {
+          "id": "BD1672",
+          "slots": [
+            "prostituta",
+            "lector",
+            "lector",
+            "vocabulario",
+            "lector",
+            "vocabulario"
+          ],
+          "words": 20,
+          "score": 18.09697802197802
+        },
+        {
+          "id": "BD1673",
+          "slots": [
+            "escritores",
+            "vocabulario",
+            "escritores",
+            "lectores-expertos",
+            "lectores-expertos"
+          ],
+          "words": 48,
+          "score": 6.783333333333333
+        },
+        {
+          "id": "BD1674",
+          "slots": [],
+          "words": 2,
+          "score": 0.0
+        },
+        {
+          "id": "BD1675",
+          "slots": [
+            "cualidad",
+            "organismo",
+            "cualidad",
+            "ciclo"
+          ],
+          "words": 32,
+          "score": 1.0
+        },
+        {
+          "id": "BD1676",
+          "slots": [],
+          "words": 8,
+          "score": 0.0
+        },
+        {
+          "id": "BD1677",
+          "slots": [
+            "lector",
+            "vocabulario"
+          ],
+          "words": 2,
+          "score": 17.930311355311357
+        },
+        {
+          "id": "BD1678",
+          "slots": [],
+          "words": 2,
+          "score": 0.0
+        },
+        {
+          "id": "BD1679",
+          "slots": [
+            "evidencia",
+            "siembra",
+            "tallos",
+            "depredacion"
+          ],
+          "words": 26,
+          "score": 1.0
+        },
+        {
+          "id": "BD1680",
+          "slots": [],
+          "words": 5,
+          "score": 0.0
+        },
+        {
+          "id": "BD1681",
+          "slots": [
+            "lector",
+            "cita"
+          ],
+          "words": 11,
+          "score": 13.446978021978023
+        },
+        {
+          "id": "BD1682",
+          "slots": [
+            "alguien",
+            "venda",
+            "anciana",
+            "malabarista",
+            "grupo",
+            "grupo",
+            "fuego",
+            "cuatro",
+            "cuatro",
+            "llamas",
+            "llamas",
+            "transito",
+            "calculos"
+          ],
+          "words": 88,
+          "score": 1.3
+        },
+        {
+          "id": "BD1683",
+          "slots": [],
+          "words": 4,
+          "score": 0.0
+        },
+        {
+          "id": "BD1684",
+          "slots": [
+            "escritores",
+            "vocabulario"
+          ],
+          "words": 6,
+          "score": 6.383333333333334
+        },
+        {
+          "id": "BD1685",
+          "slots": [
+            "ejemplos",
+            "king",
+            "ejemplos"
+          ],
+          "words": 17,
+          "score": 10.666269841269841
+        },
+        {
+          "id": "BD1686",
+          "slots": [
+            "personaje-hemingway"
+          ],
+          "words": 5,
+          "score": 1.0
+        },
+        {
+          "id": "BD1687",
+          "slots": [
+            "rio"
+          ],
+          "words": 4,
+          "score": 1.0
+        },
+        {
+          "id": "BD1688",
+          "slots": [],
+          "words": 5,
+          "score": 0.0
+        },
+        {
+          "id": "BD1689",
+          "slots": [
+            "captores",
+            "chico",
+            "chico"
+          ],
+          "words": 10,
+          "score": 1.0
+        },
+        {
+          "id": "BD1690",
+          "slots": [],
+          "words": 6,
+          "score": 0.0
+        },
+        {
+          "id": "BD1691",
+          "slots": [
+            "acontecimiento"
+          ],
+          "words": 4,
+          "score": 1.0
+        },
+        {
+          "id": "BD1692",
+          "slots": [],
+          "words": 3,
+          "score": 0.0
+        },
+        {
+          "id": "BD1693",
+          "slots": [
+            "propietarios",
+            "propietarios",
+            "deber",
+            "propietarios",
+            "propietarios",
+            "propietarios",
+            "propietarios",
+            "propietarios",
+            "propietarios"
+          ],
+          "words": 50,
+          "score": 1.0
+        },
+        {
+          "id": "BD1694",
+          "slots": [],
+          "words": 6,
+          "score": 0.0
+        },
+        {
+          "id": "BD1695",
+          "slots": [
+            "frase-steinbeck"
+          ],
+          "words": 6,
+          "score": 2.0
+        },
+        {
+          "id": "BD1696",
+          "slots": [
+            "frase-steinbeck"
+          ],
+          "words": 4,
+          "score": 2.0
+        },
+        {
+          "id": "BD1697",
+          "slots": [
+            "palabras",
+            "silabas"
+          ],
+          "words": 9,
+          "score": 4.283333333333333
+        },
+        {
+          "id": "BD1698",
+          "slots": [
+            "palabras",
+            "numero",
+            "steinbeck",
+            "because",
+            "owner",
+            "hated"
+          ],
+          "words": 19,
+          "score": 4.616666666666666
+        },
+        {
+          "id": "BD1699",
+          "slots": [
+            "palabras"
+          ],
+          "words": 12,
+          "score": 3.783333333333333
+        },
+        {
+          "id": "BD1700",
+          "slots": [
+            "estructura",
+            "vocabulario"
+          ],
+          "words": 17,
+          "score": 5.483333333333333
+        },
+        {
+          "id": "BD1701",
+          "slots": [
+            "uvas-ira"
+          ],
+          "words": 10,
+          "score": 1.0
+        },
+        {
+          "id": "BD1702",
+          "slots": [
+            "king",
+            "meridiano-sangre",
+            "king",
+            "fragmentos"
+          ],
+          "words": 19,
+          "score": 10.499603174603175
+        },
+        {
+          "id": "BD1703",
+          "slots": [],
+          "words": 3,
+          "score": 0.0
+        },
+        {
+          "id": "BD1704",
+          "slots": [
+            "king",
+            "palabras",
+            "king",
+            "canciones"
+          ],
+          "words": 14,
+          "score": 14.032936507936508
+        },
+        {
+          "id": "BD1705",
+          "slots": [
+            "vocabulario",
+            "lector",
+            "vocabulario"
+          ],
+          "words": 13,
+          "score": 17.930311355311357
+        },
+        {
+          "id": "BD1706",
+          "slots": [
+            "lector",
+            "muestra"
+          ],
+          "words": 4,
+          "score": 13.446978021978023
+        },
+        {
+          "id": "BD1707",
+          "slots": [],
+          "words": 6,
+          "score": 0.0
+        },
+        {
+          "id": "BD1708",
+          "slots": [
+            "interlocutor-wolfe"
+          ],
+          "words": 2,
+          "score": 3.5
+        },
+        {
+          "id": "BD1709",
+          "slots": [
+            "interlocutor-wolfe"
+          ],
+          "words": 4,
+          "score": 3.5
+        },
+        {
+          "id": "BD1710",
+          "slots": [
+            "hymie"
+          ],
+          "words": 3,
+          "score": 1.0
+        },
+        {
+          "id": "BD1711",
+          "slots": [],
+          "words": 1,
+          "score": 0.0
+        },
+        {
+          "id": "BD1712",
+          "slots": [],
+          "words": 1,
+          "score": 0.0
+        },
+        {
+          "id": "BD1713",
+          "slots": [],
+          "words": 1,
+          "score": 0.0
+        },
+        {
+          "id": "BD1714",
+          "slots": [
+            "interlocutor-wolfe",
+            "pene"
+          ],
+          "words": 5,
+          "score": 4.142857142857143
+        },
+        {
+          "id": "BD1715",
+          "slots": [
+            "interlocutor-wolfe"
+          ],
+          "words": 11,
+          "score": 3.5
+        },
+        {
+          "id": "BD1716",
+          "slots": [
+            "escritores",
+            "habilidad-wolfe"
+          ],
+          "words": 12,
+          "score": 1.9
+        },
+        {
+          "id": "BD1717",
+          "slots": [
+            "leonard"
+          ],
+          "words": 9,
+          "score": 1.0
+        },
+        {
+          "id": "BD1718",
+          "slots": [
+            "habla-callejera",
+            "habla-callejera"
+          ],
+          "words": 13,
+          "score": 1.0
+        },
+        {
+          "id": "BD1719",
+          "slots": [
+            "king",
+            "lector",
+            "yeggghhh"
+          ],
+          "words": 11,
+          "score": 23.27991452991453
+        },
+        {
+          "id": "BD1720",
+          "slots": [
+            "lector",
+            "vocabulario",
+            "lector",
+            "esfuerzo"
+          ],
+          "words": 19,
+          "score": 18.180311355311357
+        },
+        {
+          "id": "BD1721",
+          "slots": [
+            "lector",
+            "vocabulario",
+            "lector"
+          ],
+          "words": 14,
+          "score": 17.930311355311357
+        },
+        {
+          "id": "BD1722",
+          "slots": [
+            "lector",
+            "tarea",
+            "vocabulario",
+            "palabras",
+            "lector"
+          ],
+          "words": 33,
+          "score": 22.246978021978023
+        },
+        {
+          "id": "BD1723",
+          "slots": [],
+          "words": 11,
+          "score": 0.0
+        },
+        {
+          "id": "BD1724",
+          "slots": [
+            "mascota",
+            "persona",
+            "persona",
+            "acto"
+          ],
+          "words": 19,
+          "score": 1.0
+        },
+        {
+          "id": "BD1725",
+          "slots": [
+            "lector",
+            "promesa",
+            "lector",
+            "emolument",
+            "lector",
+            "tip",
+            "lector",
+            "john",
+            "john",
+            "acto-excrecion",
+            "lector",
+            "john",
+            "john",
+            "deposicion"
+          ],
+          "words": 41,
+          "score": 14.089835164835165
+        },
+        {
+          "id": "BD1726",
+          "slots": [
+            "lector",
+            "take-shit",
+            "audiencia",
+            "lector",
+            "john",
+            "john",
+            "deposicion",
+            "john"
+          ],
+          "words": 35,
+          "score": 14.054120879120878
+        },
+        {
+          "id": "BD1727",
+          "slots": [
+            "king",
+            "lector"
+          ],
+          "words": 13,
+          "score": 22.946581196581196
+        },
+        {
+          "id": "BD1728",
+          "slots": [
+            "lector",
+            "lector",
+            "palabras",
+            "palabras"
+          ],
+          "words": 23,
+          "score": 16.730311355311354
+        },
+        {
+          "id": "BD1729",
+          "slots": [
+            "lector",
+            "lector",
+            "palabras",
+            "palabras",
+            "palabras",
+            "palabras",
+            "lector",
+            "significado"
+          ],
+          "words": 37,
+          "score": 18.288644688644688
+        },
+        {
+          "id": "BD1730",
+          "slots": [
+            "significado"
+          ],
+          "words": 9,
+          "score": 1.5583333333333333
+        },
+        {
+          "id": "BD1731",
+          "slots": [
+            "lector",
+            "significado",
+            "lector",
+            "ocasiones",
+            "lector",
+            "alguien",
+            "alguien",
+            "idea",
+            "alguien",
+            "idea"
+          ],
+          "words": 24,
+          "score": 15.382234432234432
+        },
+        {
+          "id": "BD1732",
+          "slots": [
+            "lector",
+            "ocasiones",
+            "lector",
+            "ideas",
+            "lector"
+          ],
+          "words": 19,
+          "score": 13.446978021978023
+        },
+        {
+          "id": "BD1733",
+          "slots": [
+            "palabras",
+            "escritura",
+            "significado"
+          ],
+          "words": 21,
+          "score": 5.675
+        },
+        {
+          "id": "BD1734",
+          "slots": [
+            "lector",
+            "lector",
+            "eleccion",
+            "palabras",
+            "lector",
+            "palabras"
+          ],
+          "words": 29,
+          "score": 16.896978021978022
+        },
+        {
+          "id": "BD1735",
+          "slots": [
+            "lector",
+            "adecuacion",
+            "carlin",
+            "lector",
+            "dedo",
+            "lector",
+            "pene"
+          ],
+          "words": 33,
+          "score": 14.018406593406594
+        }
+      ]
+    },
+    {
+      "unit": 2,
+      "source_words": 1095,
+      "node_weights": {
+        "lector": 10.301330532212885,
+        "gramatica": 1.8373015873015872,
+        "king": 4.3011904761904765,
+        "curso": 1.0833333333333333,
+        "escritura": 0.08333333333333333,
+        "king-lector": 1.3333333333333333,
+        "tiempo": 0.3333333333333333,
+        "principios": 0.3333333333333333,
+        "chicos": 0.058823529411764705,
+        "profesor": 0.058823529411764705,
+        "examen": 0.058823529411764705,
+        "nadie": 0.11764705882352941,
+        "distracciones": 0.058823529411764705,
+        "materias": 0.25882352941176473,
+        "accesorios": 0.2,
+        "conjunto": 0.1,
+        "contenido-purse": 0.1,
+        "alineacion": 0.1,
+        "etiqueta": 0.1,
+        "cancion": 0.1,
+        "diferencia": 0.1,
+        "gramatica-americana": 0.3333333333333333,
+        "solidez-gramatica-britanica": 0.16666666666666666,
+        "publicista": 0.16666666666666666,
+        "anuncio": 0.16666666666666666,
+        "encanto": 0.16666666666666666,
+        "strunk": 1.3511904761904763,
+        "fundamentos": 0.3611111111111111,
+        "lectores": 0.2857142857142857,
+        "riffs": 0.14285714285714285,
+        "progresiones": 0.14285714285714285,
+        "utilidad": 0.14285714285714285,
+        "vocabulario": 0.4,
+        "categorias": 0.2,
+        "interjecciones": 0.2,
+        "comunicacion": 0.3333333333333333,
+        "reglas": 1.125,
+        "confusion": 0.3333333333333333,
+        "malentendidos": 0.3333333333333333,
+        "frases": 3.052380952380952,
+        "tabla-planchar": 0.6666666666666666,
+        "sustantivos": 0.7222222222222222,
+        "verbos": 0.7222222222222222,
+        "palabras": 0.5,
+        "sujeto": 0.1,
+        "predicado": 0.1,
+        "pensamiento": 1.45,
+        "obra": 0.3333333333333333,
+        "policia-gramatica": 0.3333333333333333,
+        "flexibilidad": 0.5,
+        "escritores": 0.3333333333333333,
+        "escritor": 0.75,
+        "clausula": 0.5,
+        "conocimiento": 0.2,
+        "partes-discurso": 0.2,
+        "sustantivo": 0.3333333333333333,
+        "verbo": 0.16666666666666666,
+        "construccion": 1.6666666666666667,
+        "rocas": 1.1428571428571428,
+        "jane": 1.1428571428571428,
+        "montanas": 1.1428571428571428,
+        "pensamientos": 0.9,
+        "sentido": 0.2,
+        "ciruelas": 0.34285714285714286,
+        "peso": 0.2,
+        "red": 0.3333333333333333,
+        "white": 0.14285714285714285,
+        "camino": 0.14285714285714285,
+        "territorio": 0.14285714285714285,
+        "hemingway": 1.5,
+        "libro": 0.3333333333333333,
+        "conocimientos": 0.3333333333333333
+      },
+      "ranking": [
+        "BD1766",
+        "BD1736",
+        "BD1750",
+        "BD1779",
+        "BD1785",
+        "BD1744",
+        "BD1753",
+        "BD1780",
+        "BD1771",
+        "BD1784",
+        "BD1761",
+        "BD1781",
+        "BD1770",
+        "BD1746",
+        "BD1754",
+        "BD1763",
+        "BD1743",
+        "BD1768",
+        "BD1740",
+        "BD1737",
+        "BD1738",
+        "BD1769",
+        "BD1751",
+        "BD1748",
+        "BD1760",
+        "BD1758",
+        "BD1757",
+        "BD1782",
+        "BD1747",
+        "BD1752",
+        "BD1776",
+        "BD1765",
+        "BD1755",
+        "BD1778",
+        "BD1764",
+        "BD1756",
+        "BD1739",
+        "BD1772",
+        "BD1777",
+        "BD1783",
+        "BD1762",
+        "BD1759",
+        "BD1767",
+        "BD1773",
+        "BD1774",
+        "BD1775",
+        "BD1741",
+        "BD1749",
+        "BD1742",
+        "BD1745"
+      ],
+      "selected": [
+        "BD1736",
+        "BD1750",
+        "BD1766"
+      ],
+      "selected_words": 119,
+      "sentences": [
+        {
+          "id": "BD1736",
+          "slots": [
+            "lector",
+            "gramatica",
+            "lector",
+            "king",
+            "lector",
+            "gramatica",
+            "lector",
+            "gramatica",
+            "lector",
+            "curso",
+            "escritura",
+            "gramatica"
+          ],
+          "words": 50,
+          "score": 17.606489262371614
+        },
+        {
+          "id": "BD1737",
+          "slots": [
+            "lector"
+          ],
+          "words": 1,
+          "score": 10.301330532212885
+        },
+        {
+          "id": "BD1738",
+          "slots": [
+            "lector"
+          ],
+          "words": 1,
+          "score": 10.301330532212885
+        },
+        {
+          "id": "BD1739",
+          "slots": [
+            "king-lector",
+            "tiempo",
+            "king-lector"
+          ],
+          "words": 11,
+          "score": 1.6666666666666667
+        },
+        {
+          "id": "BD1740",
+          "slots": [
+            "lector",
+            "principios",
+            "lector"
+          ],
+          "words": 19,
+          "score": 10.63466386554622
+        },
+        {
+          "id": "BD1741",
+          "slots": [
+            "curso",
+            "curso"
+          ],
+          "words": 16,
+          "score": 1.0833333333333333
+        },
+        {
+          "id": "BD1742",
+          "slots": [],
+          "words": 5,
+          "score": 0.0
+        },
+        {
+          "id": "BD1743",
+          "slots": [
+            "lector",
+            "lector",
+            "chicos",
+            "lector",
+            "lector",
+            "lector",
+            "lector",
+            "lector",
+            "profesor",
+            "examen",
+            "nadie",
+            "lector",
+            "nadie",
+            "distracciones",
+            "lector",
+            "materias",
+            "lector"
+          ],
+          "words": 107,
+          "score": 10.913095238095238
+        },
+        {
+          "id": "BD1744",
+          "slots": [
+            "lector",
+            "lector",
+            "lector",
+            "materias",
+            "king"
+          ],
+          "words": 35,
+          "score": 14.861344537815127
+        },
+        {
+          "id": "BD1745",
+          "slots": [],
+          "words": 7,
+          "score": 0.0
+        },
+        {
+          "id": "BD1746",
+          "slots": [
+            "lector",
+            "accesorios",
+            "accesorios",
+            "conjunto",
+            "contenido-purse",
+            "alineacion",
+            "etiqueta",
+            "cancion",
+            "lector",
+            "diferencia"
+          ],
+          "words": 66,
+          "score": 11.101330532212884
+        },
+        {
+          "id": "BD1747",
+          "slots": [
+            "king"
+          ],
+          "words": 20,
+          "score": 4.3011904761904765
+        },
+        {
+          "id": "BD1748",
+          "slots": [
+            "king",
+            "king",
+            "gramatica",
+            "gramatica",
+            "king",
+            "gramatica"
+          ],
+          "words": 29,
+          "score": 6.1384920634920634
+        },
+        {
+          "id": "BD1749",
+          "slots": [
+            "gramatica-americana",
+            "solidez-gramatica-britanica",
+            "publicista",
+            "anuncio",
+            "gramatica-americana",
+            "encanto"
+          ],
+          "words": 37,
+          "score": 1.0
+        },
+        {
+          "id": "BD1750",
+          "slots": [
+            "king",
+            "strunk",
+            "fundamentos",
+            "lector"
+          ],
+          "words": 38,
+          "score": 16.31482259570495
+        },
+        {
+          "id": "BD1751",
+          "slots": [
+            "lectores",
+            "gramatica",
+            "king",
+            "riffs",
+            "progresiones",
+            "lectores",
+            "utilidad"
+          ],
+          "words": 28,
+          "score": 6.852777777777778
+        },
+        {
+          "id": "BD1752",
+          "slots": [
+            "king"
+          ],
+          "words": 9,
+          "score": 4.3011904761904765
+        },
+        {
+          "id": "BD1753",
+          "slots": [
+            "lector",
+            "king",
+            "lector",
+            "king"
+          ],
+          "words": 14,
+          "score": 14.602521008403361
+        },
+        {
+          "id": "BD1754",
+          "slots": [
+            "vocabulario",
+            "vocabulario",
+            "categorias",
+            "lector",
+            "interjecciones"
+          ],
+          "words": 25,
+          "score": 11.101330532212884
+        },
+        {
+          "id": "BD1755",
+          "slots": [
+            "comunicacion",
+            "reglas",
+            "king-lector"
+          ],
+          "words": 18,
+          "score": 2.7916666666666665
+        },
+        {
+          "id": "BD1756",
+          "slots": [
+            "reglas",
+            "confusion",
+            "malentendidos"
+          ],
+          "words": 9,
+          "score": 1.7916666666666667
+        },
+        {
+          "id": "BD1757",
+          "slots": [
+            "gramatica",
+            "frases"
+          ],
+          "words": 5,
+          "score": 4.88968253968254
+        },
+        {
+          "id": "BD1758",
+          "slots": [
+            "king",
+            "tabla-planchar",
+            "tabla-planchar"
+          ],
+          "words": 27,
+          "score": 4.9678571428571425
+        },
+        {
+          "id": "BD1759",
+          "slots": [
+            "sustantivos",
+            "verbos"
+          ],
+          "words": 10,
+          "score": 1.4444444444444444
+        },
+        {
+          "id": "BD1760",
+          "slots": [
+            "palabras",
+            "frases",
+            "palabras",
+            "sujeto",
+            "predicado",
+            "palabras",
+            "palabras",
+            "palabras",
+            "pensamiento",
+            "pensamiento"
+          ],
+          "words": 62,
+          "score": 5.2023809523809526
+        },
+        {
+          "id": "BD1761",
+          "slots": [
+            "lector",
+            "frases"
+          ],
+          "words": 9,
+          "score": 13.353711484593838
+        },
+        {
+          "id": "BD1762",
+          "slots": [
+            "pensamiento"
+          ],
+          "words": 3,
+          "score": 1.45
+        },
+        {
+          "id": "BD1763",
+          "slots": [
+            "obra",
+            "policia-gramatica",
+            "lector"
+          ],
+          "words": 21,
+          "score": 10.967997198879551
+        },
+        {
+          "id": "BD1764",
+          "slots": [
+            "strunk",
+            "flexibilidad"
+          ],
+          "words": 13,
+          "score": 1.8511904761904763
+        },
+        {
+          "id": "BD1765",
+          "slots": [
+            "strunk",
+            "escritores",
+            "reglas"
+          ],
+          "words": 17,
+          "score": 2.8095238095238093
+        },
+        {
+          "id": "BD1766",
+          "slots": [
+            "strunk",
+            "pensamiento",
+            "king",
+            "lector",
+            "pensamiento",
+            "escritor",
+            "escritor",
+            "reglas"
+          ],
+          "words": 31,
+          "score": 19.27871148459384
+        },
+        {
+          "id": "BD1767",
+          "slots": [
+            "clausula",
+            "escritor"
+          ],
+          "words": 12,
+          "score": 1.25
+        },
+        {
+          "id": "BD1768",
+          "slots": [
+            "lector",
+            "conocimiento",
+            "partes-discurso",
+            "lector",
+            "lector"
+          ],
+          "words": 27,
+          "score": 10.701330532212886
+        },
+        {
+          "id": "BD1769",
+          "slots": [
+            "lector",
+            "lector"
+          ],
+          "words": 11,
+          "score": 10.301330532212885
+        },
+        {
+          "id": "BD1770",
+          "slots": [
+            "lector",
+            "lector",
+            "lector",
+            "fundamentos",
+            "lector",
+            "sustantivos",
+            "sustantivos",
+            "verbos",
+            "verbos"
+          ],
+          "words": 41,
+          "score": 12.10688608776844
+        },
+        {
+          "id": "BD1771",
+          "slots": [
+            "lector",
+            "sustantivo",
+            "sustantivo",
+            "verbo",
+            "lector",
+            "frases"
+          ],
+          "words": 13,
+          "score": 13.853711484593838
+        },
+        {
+          "id": "BD1772",
+          "slots": [
+            "construccion"
+          ],
+          "words": 3,
+          "score": 1.6666666666666667
+        },
+        {
+          "id": "BD1773",
+          "slots": [
+            "rocas"
+          ],
+          "words": 2,
+          "score": 1.1428571428571428
+        },
+        {
+          "id": "BD1774",
+          "slots": [
+            "jane"
+          ],
+          "words": 2,
+          "score": 1.1428571428571428
+        },
+        {
+          "id": "BD1775",
+          "slots": [
+            "montanas"
+          ],
+          "words": 2,
+          "score": 1.1428571428571428
+        },
+        {
+          "id": "BD1776",
+          "slots": [
+            "frases"
+          ],
+          "words": 5,
+          "score": 3.052380952380952
+        },
+        {
+          "id": "BD1777",
+          "slots": [
+            "pensamientos",
+            "sentido",
+            "ciruelas",
+            "pensamientos",
+            "peso"
+          ],
+          "words": 22,
+          "score": 1.6428571428571428
+        },
+        {
+          "id": "BD1778",
+          "slots": [
+            "construccion",
+            "construccion",
+            "red"
+          ],
+          "words": 19,
+          "score": 2.0
+        },
+        {
+          "id": "BD1779",
+          "slots": [
+            "strunk",
+            "white",
+            "frases",
+            "frases",
+            "camino",
+            "lector",
+            "lector"
+          ],
+          "words": 44,
+          "score": 14.990616246498599
+        },
+        {
+          "id": "BD1780",
+          "slots": [
+            "lector",
+            "territorio",
+            "lector",
+            "rocas",
+            "jane",
+            "montanas",
+            "ciruelas"
+          ],
+          "words": 31,
+          "score": 14.2156162464986
+        },
+        {
+          "id": "BD1781",
+          "slots": [
+            "gramatica",
+            "lector",
+            "pensamientos",
+            "pensamientos"
+          ],
+          "words": 24,
+          "score": 13.038632119514473
+        },
+        {
+          "id": "BD1782",
+          "slots": [
+            "frases",
+            "hemingway"
+          ],
+          "words": 10,
+          "score": 4.552380952380952
+        },
+        {
+          "id": "BD1783",
+          "slots": [
+            "hemingway",
+            "hemingway"
+          ],
+          "words": 13,
+          "score": 1.5
+        },
+        {
+          "id": "BD1784",
+          "slots": [
+            "lector",
+            "gramatica",
+            "lector",
+            "libro",
+            "king-lector",
+            "libro",
+            "king-lector",
+            "libro",
+            "king-lector"
+          ],
+          "words": 46,
+          "score": 13.805298786181138
+        },
+        {
+          "id": "BD1785",
+          "slots": [
+            "lector",
+            "king",
+            "lector",
+            "lector",
+            "conocimientos",
+            "conocimientos"
+          ],
+          "words": 25,
+          "score": 14.935854341736695
+        }
+      ]
+    },
+    {
+      "unit": 3,
+      "source_words": 2123,
+      "node_weights": {
+        "strunk": 2.4909090909090907,
+        "espacio": 0.5,
+        "student-body": 0.16666666666666666,
+        "studentry": 0.16666666666666666,
+        "connotaciones": 0.16666666666666666,
+        "personalize": 0.5,
+        "lector": 19.632142857142856,
+        "membrete": 0.2,
+        "papeleria": 0.2,
+        "frases": 2.5555555555555554,
+        "king": 13.291269841269841,
+        "aversiones": 0.6111111111111112,
+        "usuarios": 0.4444444444444444,
+        "king-lector": 1.7095238095238094,
+        "verbos": 1.8666666666666667,
+        "sujeto": 2.5,
+        "accion": 1.25,
+        "pasiva": 2.9916666666666667,
+        "consejo": 0.8333333333333334,
+        "white": 1.9212121212121211,
+        "escritores": 0.7,
+        "amantes": 0.1,
+        "parejas": 0.1,
+        "inglaterra": 0.25,
+        "obra": 0.16666666666666666,
+        "autoridad": 0.16666666666666666,
+        "majestad": 0.16666666666666666,
+        "manuales": 0.25,
+        "agravios": 0.25,
+        "escritor": 4.8464285714285715,
+        "reunion": 1.1666666666666667,
+        "gente": 0.16666666666666666,
+        "pensamiento": 1.0909090909090908,
+        "hombros": 0.16666666666666666,
+        "barbilla": 0.16666666666666666,
+        "lugar": 0.3333333333333333,
+        "hombre": 1.3416666666666666,
+        "cuerpo": 2.5357142857142856,
+        "agente-desconocido": 0.2857142857142857,
+        "was-carried": 0.14285714285714285,
+        "was-placed": 0.14285714285714285,
+        "expresion": 0.625,
+        "freddy": 0.25,
+        "myra": 0.25,
+        "paginas": 0.5,
+        "beso": 0.8333333333333334,
+        "amante": 0.8333333333333334,
+        "romance": 0.8333333333333334,
+        "alguien": 1.5,
+        "with": 0.3333333333333333,
+        "pensamientos": 0.25,
+        "division": 0.25,
+        "pantano": 0.1,
+        "cuerda": 0.625,
+        "adverbios": 5.010714285714286,
+        "adjetivos": 0.16666666666666666,
+        "creador-implicito": 0.5,
+        "temor": 1.9583333333333333,
+        "ninos": 0.125,
+        "betun": 0.125,
+        "ninas": 0.125,
+        "significado": 0.14285714285714285,
+        "imagen": 0.14285714285714285,
+        "el": 2.283333333333333,
+        "puerta": 1.0,
+        "verbo": 0.7,
+        "firmly": 1.7333333333333334,
+        "grado": 0.2,
+        "prosa": 1.069047619047619,
+        "acusacion": 0.5,
+        "camino": 0.2,
+        "tesis": 0.2,
+        "adverbio": 1.3523809523809525,
+        "jardin": 0.14285714285714285,
+        "tema": 0.4,
+        "ella": 1.2,
+        "interlocutor": 3.816666666666667,
+        "objeto": 1.5,
+        "jekyll": 1.8666666666666667,
+        "utterson": 1.2,
+        "shouted": 0.3333333333333333,
+        "pleaded": 0.3333333333333333,
+        "said": 0.3333333333333333,
+        "revisiones": 0.8333333333333334,
+        "lectores": 0.3333333333333333,
+        "motivo": 0.3333333333333333,
+        "atribuciones": 0.25,
+        "tom-swift": 0.25,
+        "novelas": 0.25,
+        "autor-appleton": 0.5,
+        "peor": 0.25,
+        "tom": 0.5,
+        "padre": 0.25,
+        "ecuaciones": 0.25,
+        "juego": 0.2,
+        "habilidad": 0.2,
+        "jugador": 0.2,
+        "swifties": 0.2,
+        "trasero": 0.16666666666666666,
+        "cita": 0.16666666666666666,
+        "modificador": 1.0,
+        "regla": 0.3333333333333333,
+        "resultado": 1.0,
+        "pistola": 0.3333333333333333,
+        "shayna": 1.0,
+        "tease": 1.0,
+        "bill": 1.6,
+        "practicas": 0.5,
+        "forma": 0.2,
+        "monica": 0.2,
+        "practica": 0.2,
+        "novela": 0.2,
+        "comentario": 0.5,
+        "mcmurtry": 0.6666666666666666,
+        "he-said-she-said": 0.4583333333333333,
+        "crisis": 0.3333333333333333,
+        "derecho": 0.16666666666666666,
+        "pregunta": 0.16666666666666666,
+        "deber": 0.16666666666666666,
+        "respuesta": 0.16666666666666666,
+        "ficcion": 0.25,
+        "dumbo": 0.36666666666666664,
+        "pluma": 0.36666666666666664,
+        "impulso": 0.16666666666666666,
+        "magia": 0.2,
+        "historia": 0.125,
+        "cable": 0.125,
+        "escritura": 0.9,
+        "afectacion": 0.5333333333333333,
+        "decisiones": 0.16666666666666666,
+        "herramientas": 0.3333333333333333,
+        "prejuicio": 0.18181818181818182,
+        "fact": 0.18181818181818182,
+        "pitcheo": 0.2,
+        "fracaso": 0.2,
+        "nucleo": 1.0
+      },
+      "ranking": [
+        "BD1918",
+        "BD1899",
+        "BD1875",
+        "BD1841",
+        "BD1857",
+        "BD1798",
+        "BD1833",
+        "BD1893",
+        "BD1804",
+        "BD1887",
+        "BD1896",
+        "BD1892",
+        "BD1916",
+        "BD1830",
+        "BD1837",
+        "BD1834",
+        "BD1903",
+        "BD1852",
+        "BD1839",
+        "BD1831",
+        "BD1850",
+        "BD1853",
+        "BD1840",
+        "BD1858",
+        "BD1797",
+        "BD1789",
+        "BD1906",
+        "BD1907",
+        "BD1897",
+        "BD1808",
+        "BD1905",
+        "BD1851",
+        "BD1813",
+        "BD1827",
+        "BD1809",
+        "BD1806",
+        "BD1904",
+        "BD1800",
+        "BD1863",
+        "BD1884",
+        "BD1828",
+        "BD1873",
+        "BD1807",
+        "BD1811",
+        "BD1819",
+        "BD1829",
+        "BD1891",
+        "BD1915",
+        "BD1849",
+        "BD1803",
+        "BD1816",
+        "BD1791",
+        "BD1814",
+        "BD1792",
+        "BD1826",
+        "BD1900",
+        "BD1815",
+        "BD1847",
+        "BD1872",
+        "BD1820",
+        "BD1848",
+        "BD1888",
+        "BD1812",
+        "BD1854",
+        "BD1855",
+        "BD1898",
+        "BD1868",
+        "BD1860",
+        "BD1865",
+        "BD1870",
+        "BD1861",
+        "BD1866",
+        "BD1838",
+        "BD1901",
+        "BD1902",
+        "BD1859",
+        "BD1864",
+        "BD1909",
+        "BD1910",
+        "BD1805",
+        "BD1844",
+        "BD1912",
+        "BD1889",
+        "BD1836",
+        "BD1886",
+        "BD1878",
+        "BD1790",
+        "BD1835",
+        "BD1911",
+        "BD1845",
+        "BD1802",
+        "BD1880",
+        "BD1795",
+        "BD1796",
+        "BD1908",
+        "BD1843",
+        "BD1867",
+        "BD1801",
+        "BD1821",
+        "BD1786",
+        "BD1787",
+        "BD1788",
+        "BD1914",
+        "BD1817",
+        "BD1818",
+        "BD1794",
+        "BD1822",
+        "BD1913",
+        "BD1793",
+        "BD1879",
+        "BD1846",
+        "BD1876",
+        "BD1825",
+        "BD1883",
+        "BD1823",
+        "BD1824",
+        "BD1890",
+        "BD1869",
+        "BD1862",
+        "BD1871",
+        "BD1874",
+        "BD1877",
+        "BD1881",
+        "BD1882",
+        "BD1917",
+        "BD1799",
+        "BD1810",
+        "BD1832",
+        "BD1842",
+        "BD1856",
+        "BD1885",
+        "BD1894",
+        "BD1895"
+      ],
+      "selected": [
+        "BD1798",
+        "BD1833",
+        "BD1841",
+        "BD1857",
+        "BD1875",
+        "BD1893",
+        "BD1899",
+        "BD1918"
+      ],
+      "selected_words": 224,
+      "sentences": [
+        {
+          "id": "BD1786",
+          "slots": [
+            "strunk",
+            "espacio"
+          ],
+          "words": 22,
+          "score": 2.9909090909090907
+        },
+        {
+          "id": "BD1787",
+          "slots": [
+            "strunk",
+            "student-body",
+            "strunk",
+            "studentry",
+            "strunk",
+            "connotaciones"
+          ],
+          "words": 25,
+          "score": 2.9909090909090907
+        },
+        {
+          "id": "BD1788",
+          "slots": [
+            "strunk",
+            "personalize"
+          ],
+          "words": 6,
+          "score": 2.9909090909090907
+        },
+        {
+          "id": "BD1789",
+          "slots": [
+            "strunk",
+            "lector",
+            "membrete",
+            "lector",
+            "papeleria"
+          ],
+          "words": 11,
+          "score": 22.523051948051947
+        },
+        {
+          "id": "BD1790",
+          "slots": [
+            "strunk",
+            "frases"
+          ],
+          "words": 12,
+          "score": 5.0464646464646465
+        },
+        {
+          "id": "BD1791",
+          "slots": [
+            "king",
+            "aversiones",
+            "king",
+            "usuarios",
+            "frases",
+            "usuarios",
+            "usuarios",
+            "frases",
+            "usuarios"
+          ],
+          "words": 54,
+          "score": 16.902380952380952
+        },
+        {
+          "id": "BD1792",
+          "slots": [
+            "aversiones",
+            "king",
+            "aversiones",
+            "king-lector"
+          ],
+          "words": 29,
+          "score": 15.611904761904762
+        },
+        {
+          "id": "BD1793",
+          "slots": [
+            "verbos"
+          ],
+          "words": 8,
+          "score": 1.8666666666666667
+        },
+        {
+          "id": "BD1794",
+          "slots": [
+            "sujeto"
+          ],
+          "words": 12,
+          "score": 2.5
+        },
+        {
+          "id": "BD1795",
+          "slots": [
+            "accion",
+            "sujeto"
+          ],
+          "words": 14,
+          "score": 3.75
+        },
+        {
+          "id": "BD1796",
+          "slots": [
+            "sujeto",
+            "accion"
+          ],
+          "words": 7,
+          "score": 3.75
+        },
+        {
+          "id": "BD1797",
+          "slots": [
+            "lector",
+            "pasiva"
+          ],
+          "words": 6,
+          "score": 22.623809523809523
+        },
+        {
+          "id": "BD1798",
+          "slots": [
+            "king",
+            "consejo",
+            "lector",
+            "consejo"
+          ],
+          "words": 19,
+          "score": 33.75674603174603
+        },
+        {
+          "id": "BD1799",
+          "slots": [],
+          "words": 1,
+          "score": 0.0
+        },
+        {
+          "id": "BD1800",
+          "slots": [
+            "strunk",
+            "white",
+            "escritores",
+            "verbos",
+            "king",
+            "king",
+            "escritores",
+            "verbos",
+            "amantes",
+            "parejas"
+          ],
+          "words": 35,
+          "score": 20.47005772005772
+        },
+        {
+          "id": "BD1801",
+          "slots": [
+            "pasiva"
+          ],
+          "words": 5,
+          "score": 2.9916666666666667
+        },
+        {
+          "id": "BD1802",
+          "slots": [
+            "accion",
+            "sujeto",
+            "sujeto",
+            "inglaterra"
+          ],
+          "words": 24,
+          "score": 4.0
+        },
+        {
+          "id": "BD1803",
+          "slots": [
+            "king",
+            "escritores",
+            "pasiva",
+            "obra",
+            "autoridad",
+            "majestad"
+          ],
+          "words": 20,
+          "score": 17.482936507936508
+        },
+        {
+          "id": "BD1804",
+          "slots": [
+            "lector",
+            "manuales",
+            "agravios",
+            "king"
+          ],
+          "words": 13,
+          "score": 33.4234126984127
+        },
+        {
+          "id": "BD1805",
+          "slots": [
+            "escritor",
+            "reunion",
+            "reunion",
+            "escritor",
+            "gente",
+            "escritor"
+          ],
+          "words": 29,
+          "score": 6.179761904761905
+        },
+        {
+          "id": "BD1806",
+          "slots": [
+            "lector",
+            "pensamiento"
+          ],
+          "words": 4,
+          "score": 20.72305194805195
+        },
+        {
+          "id": "BD1807",
+          "slots": [
+            "lector"
+          ],
+          "words": 4,
+          "score": 19.632142857142856
+        },
+        {
+          "id": "BD1808",
+          "slots": [
+            "lector",
+            "hombros",
+            "lector",
+            "barbilla",
+            "lector",
+            "reunion"
+          ],
+          "words": 14,
+          "score": 21.132142857142856
+        },
+        {
+          "id": "BD1809",
+          "slots": [
+            "lector",
+            "reunion",
+            "reunion"
+          ],
+          "words": 5,
+          "score": 20.798809523809524
+        },
+        {
+          "id": "BD1810",
+          "slots": [],
+          "words": 3,
+          "score": 0.0
+        },
+        {
+          "id": "BD1811",
+          "slots": [
+            "lector"
+          ],
+          "words": 4,
+          "score": 19.632142857142856
+        },
+        {
+          "id": "BD1812",
+          "slots": [
+            "king",
+            "king",
+            "lugar"
+          ],
+          "words": 10,
+          "score": 13.624603174603175
+        },
+        {
+          "id": "BD1813",
+          "slots": [
+            "lector",
+            "hombre",
+            "hombre"
+          ],
+          "words": 14,
+          "score": 20.973809523809525
+        },
+        {
+          "id": "BD1814",
+          "slots": [
+            "cuerpo",
+            "agente-desconocido",
+            "cuerpo",
+            "agente-desconocido",
+            "was-carried",
+            "was-placed",
+            "king"
+          ],
+          "words": 33,
+          "score": 16.3984126984127
+        },
+        {
+          "id": "BD1815",
+          "slots": [
+            "king",
+            "verbos",
+            "king",
+            "verbos"
+          ],
+          "words": 8,
+          "score": 15.157936507936508
+        },
+        {
+          "id": "BD1816",
+          "slots": [
+            "king",
+            "expresion",
+            "freddy",
+            "myra",
+            "cuerpo",
+            "freddy",
+            "myra",
+            "cuerpo"
+          ],
+          "words": 22,
+          "score": 16.951984126984126
+        },
+        {
+          "id": "BD1817",
+          "slots": [
+            "cuerpo"
+          ],
+          "words": 13,
+          "score": 2.5357142857142856
+        },
+        {
+          "id": "BD1818",
+          "slots": [
+            "cuerpo"
+          ],
+          "words": 5,
+          "score": 2.5357142857142856
+        },
+        {
+          "id": "BD1819",
+          "slots": [
+            "lector"
+          ],
+          "words": 1,
+          "score": 19.632142857142856
+        },
+        {
+          "id": "BD1820",
+          "slots": [
+            "paginas",
+            "king"
+          ],
+          "words": 26,
+          "score": 13.791269841269841
+        },
+        {
+          "id": "BD1821",
+          "slots": [
+            "pasiva",
+            "pasiva",
+            "pasiva"
+          ],
+          "words": 10,
+          "score": 2.9916666666666667
+        },
+        {
+          "id": "BD1822",
+          "slots": [
+            "beso",
+            "amante",
+            "romance"
+          ],
+          "words": 20,
+          "score": 2.5
+        },
+        {
+          "id": "BD1823",
+          "slots": [
+            "alguien"
+          ],
+          "words": 4,
+          "score": 1.5
+        },
+        {
+          "id": "BD1824",
+          "slots": [
+            "expresion",
+            "romance"
+          ],
+          "words": 23,
+          "score": 1.4583333333333333
+        },
+        {
+          "id": "BD1825",
+          "slots": [
+            "amante",
+            "beso"
+          ],
+          "words": 4,
+          "score": 1.6666666666666667
+        },
+        {
+          "id": "BD1826",
+          "slots": [
+            "king",
+            "with",
+            "king-lector"
+          ],
+          "words": 24,
+          "score": 15.334126984126984
+        },
+        {
+          "id": "BD1827",
+          "slots": [
+            "lector",
+            "pensamiento",
+            "pensamiento",
+            "pensamientos"
+          ],
+          "words": 19,
+          "score": 20.97305194805195
+        },
+        {
+          "id": "BD1828",
+          "slots": [
+            "division",
+            "lector",
+            "lector",
+            "lector"
+          ],
+          "words": 28,
+          "score": 19.882142857142856
+        },
+        {
+          "id": "BD1829",
+          "slots": [
+            "lector"
+          ],
+          "words": 14,
+          "score": 19.632142857142856
+        },
+        {
+          "id": "BD1830",
+          "slots": [
+            "strunk",
+            "lector",
+            "white",
+            "hombre",
+            "hombre",
+            "escritor",
+            "pantano",
+            "hombre",
+            "lector",
+            "cuerda"
+          ],
+          "words": 63,
+          "score": 30.957359307359308
+        },
+        {
+          "id": "BD1831",
+          "slots": [
+            "lector",
+            "escritor",
+            "cuerda",
+            "cuerda",
+            "escritor"
+          ],
+          "words": 15,
+          "score": 25.103571428571428
+        },
+        {
+          "id": "BD1832",
+          "slots": [],
+          "words": 3,
+          "score": 0.0
+        },
+        {
+          "id": "BD1833",
+          "slots": [
+            "king",
+            "lector",
+            "consejo"
+          ],
+          "words": 28,
+          "score": 33.75674603174603
+        },
+        {
+          "id": "BD1834",
+          "slots": [
+            "adverbios",
+            "lector",
+            "adverbios",
+            "verbos",
+            "adjetivos",
+            "adverbios"
+          ],
+          "words": 20,
+          "score": 26.676190476190477
+        },
+        {
+          "id": "BD1835",
+          "slots": [
+            "adverbios",
+            "adverbios"
+          ],
+          "words": 8,
+          "score": 5.010714285714286
+        },
+        {
+          "id": "BD1836",
+          "slots": [
+            "adverbios",
+            "creador-implicito"
+          ],
+          "words": 16,
+          "score": 5.510714285714286
+        },
+        {
+          "id": "BD1837",
+          "slots": [
+            "escritor",
+            "temor",
+            "lector",
+            "escritor",
+            "pasiva",
+            "ninos",
+            "betun",
+            "ninas"
+          ],
+          "words": 33,
+          "score": 29.803571428571427
+        },
+        {
+          "id": "BD1838",
+          "slots": [
+            "escritor",
+            "king-lector",
+            "escritor",
+            "escritor",
+            "escritor",
+            "significado",
+            "imagen"
+          ],
+          "words": 30,
+          "score": 6.841666666666667
+        },
+        {
+          "id": "BD1839",
+          "slots": [
+            "lector",
+            "frases",
+            "el",
+            "puerta"
+          ],
+          "words": 8,
+          "score": 25.471031746031745
+        },
+        {
+          "id": "BD1840",
+          "slots": [
+            "frases",
+            "frases",
+            "verbo",
+            "lector",
+            "firmly"
+          ],
+          "words": 27,
+          "score": 24.621031746031747
+        },
+        {
+          "id": "BD1841",
+          "slots": [
+            "lector",
+            "firmly",
+            "grado",
+            "king",
+            "lector"
+          ],
+          "words": 32,
+          "score": 34.856746031746034
+        },
+        {
+          "id": "BD1842",
+          "slots": [],
+          "words": 14,
+          "score": 0.0
+        },
+        {
+          "id": "BD1843",
+          "slots": [
+            "el",
+            "puerta"
+          ],
+          "words": 5,
+          "score": 3.283333333333333
+        },
+        {
+          "id": "BD1844",
+          "slots": [
+            "prosa",
+            "king-lector",
+            "el",
+            "puerta"
+          ],
+          "words": 9,
+          "score": 6.061904761904762
+        },
+        {
+          "id": "BD1845",
+          "slots": [
+            "prosa",
+            "king-lector",
+            "firmly"
+          ],
+          "words": 13,
+          "score": 4.511904761904762
+        },
+        {
+          "id": "BD1846",
+          "slots": [
+            "firmly"
+          ],
+          "words": 3,
+          "score": 1.7333333333333334
+        },
+        {
+          "id": "BD1847",
+          "slots": [
+            "alguien",
+            "king"
+          ],
+          "words": 12,
+          "score": 14.791269841269841
+        },
+        {
+          "id": "BD1848",
+          "slots": [
+            "king",
+            "acusacion"
+          ],
+          "words": 3,
+          "score": 13.791269841269841
+        },
+        {
+          "id": "BD1849",
+          "slots": [
+            "king",
+            "camino",
+            "adverbios",
+            "king",
+            "tesis"
+          ],
+          "words": 18,
+          "score": 18.701984126984126
+        },
+        {
+          "id": "BD1850",
+          "slots": [
+            "lector",
+            "adverbios"
+          ],
+          "words": 8,
+          "score": 24.642857142857142
+        },
+        {
+          "id": "BD1851",
+          "slots": [
+            "lector",
+            "adverbio",
+            "adverbio"
+          ],
+          "words": 12,
+          "score": 20.98452380952381
+        },
+        {
+          "id": "BD1852",
+          "slots": [
+            "lector",
+            "adverbio",
+            "lector",
+            "adverbios",
+            "lector",
+            "jardin",
+            "adverbios"
+          ],
+          "words": 37,
+          "score": 26.13809523809524
+        },
+        {
+          "id": "BD1853",
+          "slots": [
+            "lector",
+            "adverbios",
+            "adverbios"
+          ],
+          "words": 16,
+          "score": 24.642857142857142
+        },
+        {
+          "id": "BD1854",
+          "slots": [
+            "king"
+          ],
+          "words": 9,
+          "score": 13.291269841269841
+        },
+        {
+          "id": "BD1855",
+          "slots": [
+            "king"
+          ],
+          "words": 3,
+          "score": 13.291269841269841
+        },
+        {
+          "id": "BD1856",
+          "slots": [],
+          "words": 5,
+          "score": 0.0
+        },
+        {
+          "id": "BD1857",
+          "slots": [
+            "king",
+            "lector",
+            "adverbio",
+            "lector",
+            "adverbio"
+          ],
+          "words": 29,
+          "score": 34.27579365079365
+        },
+        {
+          "id": "BD1858",
+          "slots": [
+            "king-lector",
+            "king-lector",
+            "tema",
+            "lector",
+            "frases"
+          ],
+          "words": 15,
+          "score": 24.29722222222222
+        },
+        {
+          "id": "BD1859",
+          "slots": [
+            "ella",
+            "interlocutor",
+            "objeto",
+            "ella"
+          ],
+          "words": 5,
+          "score": 6.516666666666667
+        },
+        {
+          "id": "BD1860",
+          "slots": [
+            "el",
+            "interlocutor",
+            "objeto",
+            "objeto"
+          ],
+          "words": 7,
+          "score": 7.6
+        },
+        {
+          "id": "BD1861",
+          "slots": [
+            "interlocutor",
+            "jekyll",
+            "utterson"
+          ],
+          "words": 8,
+          "score": 6.883333333333334
+        },
+        {
+          "id": "BD1862",
+          "slots": [
+            "shouted",
+            "pleaded",
+            "said"
+          ],
+          "words": 12,
+          "score": 1.0
+        },
+        {
+          "id": "BD1863",
+          "slots": [
+            "lector",
+            "revisiones"
+          ],
+          "words": 6,
+          "score": 20.465476190476192
+        },
+        {
+          "id": "BD1864",
+          "slots": [
+            "ella",
+            "interlocutor",
+            "objeto",
+            "ella"
+          ],
+          "words": 6,
+          "score": 6.516666666666667
+        },
+        {
+          "id": "BD1865",
+          "slots": [
+            "el",
+            "interlocutor",
+            "objeto",
+            "objeto"
+          ],
+          "words": 8,
+          "score": 7.6
+        },
+        {
+          "id": "BD1866",
+          "slots": [
+            "interlocutor",
+            "jekyll",
+            "utterson"
+          ],
+          "words": 10,
+          "score": 6.883333333333334
+        },
+        {
+          "id": "BD1867",
+          "slots": [
+            "frases",
+            "lectores",
+            "motivo"
+          ],
+          "words": 19,
+          "score": 3.2222222222222223
+        },
+        {
+          "id": "BD1868",
+          "slots": [
+            "interlocutor",
+            "jekyll",
+            "utterson",
+            "frases",
+            "frases"
+          ],
+          "words": 27,
+          "score": 9.438888888888888
+        },
+        {
+          "id": "BD1869",
+          "slots": [
+            "atribuciones",
+            "tom-swift",
+            "novelas",
+            "autor-appleton"
+          ],
+          "words": 26,
+          "score": 1.25
+        },
+        {
+          "id": "BD1870",
+          "slots": [
+            "autor-appleton",
+            "frases",
+            "interlocutor",
+            "peor"
+          ],
+          "words": 10,
+          "score": 7.122222222222222
+        },
+        {
+          "id": "BD1871",
+          "slots": [
+            "tom",
+            "padre",
+            "ecuaciones",
+            "tom"
+          ],
+          "words": 13,
+          "score": 1.0
+        },
+        {
+          "id": "BD1872",
+          "slots": [
+            "king",
+            "juego",
+            "habilidad",
+            "jugador",
+            "swifties"
+          ],
+          "words": 19,
+          "score": 14.091269841269842
+        },
+        {
+          "id": "BD1873",
+          "slots": [
+            "interlocutor",
+            "trasero",
+            "el",
+            "king",
+            "cita",
+            "el"
+          ],
+          "words": 23,
+          "score": 19.724603174603175
+        },
+        {
+          "id": "BD1874",
+          "slots": [
+            "modificador"
+          ],
+          "words": 9,
+          "score": 1.0
+        },
+        {
+          "id": "BD1875",
+          "slots": [
+            "lector",
+            "adverbio",
+            "king",
+            "lector",
+            "lector",
+            "prosa",
+            "prosa"
+          ],
+          "words": 40,
+          "score": 35.34484126984127
+        },
+        {
+          "id": "BD1876",
+          "slots": [
+            "escritores",
+            "regla",
+            "verbo"
+          ],
+          "words": 16,
+          "score": 1.7333333333333334
+        },
+        {
+          "id": "BD1877",
+          "slots": [
+            "resultado"
+          ],
+          "words": 13,
+          "score": 1.0
+        },
+        {
+          "id": "BD1878",
+          "slots": [
+            "interlocutor",
+            "pistola",
+            "utterson"
+          ],
+          "words": 5,
+          "score": 5.35
+        },
+        {
+          "id": "BD1879",
+          "slots": [
+            "jekyll"
+          ],
+          "words": 2,
+          "score": 1.8666666666666667
+        },
+        {
+          "id": "BD1880",
+          "slots": [
+            "interlocutor",
+            "interlocutor"
+          ],
+          "words": 4,
+          "score": 3.816666666666667
+        },
+        {
+          "id": "BD1881",
+          "slots": [
+            "shayna"
+          ],
+          "words": 2,
+          "score": 1.0
+        },
+        {
+          "id": "BD1882",
+          "slots": [
+            "tease"
+          ],
+          "words": 3,
+          "score": 1.0
+        },
+        {
+          "id": "BD1883",
+          "slots": [
+            "bill"
+          ],
+          "words": 3,
+          "score": 1.6
+        },
+        {
+          "id": "BD1884",
+          "slots": [
+            "lector",
+            "practicas"
+          ],
+          "words": 4,
+          "score": 20.132142857142856
+        },
+        {
+          "id": "BD1885",
+          "slots": [],
+          "words": 3,
+          "score": 0.0
+        },
+        {
+          "id": "BD1886",
+          "slots": [
+            "forma",
+            "el",
+            "ella",
+            "bill",
+            "monica"
+          ],
+          "words": 18,
+          "score": 5.483333333333333
+        },
+        {
+          "id": "BD1887",
+          "slots": [
+            "lector",
+            "practica",
+            "king",
+            "lector",
+            "novela"
+          ],
+          "words": 27,
+          "score": 33.323412698412696
+        },
+        {
+          "id": "BD1888",
+          "slots": [
+            "comentario",
+            "king"
+          ],
+          "words": 13,
+          "score": 13.791269841269841
+        },
+        {
+          "id": "BD1889",
+          "slots": [
+            "mcmurtry",
+            "adverbios",
+            "adverbios"
+          ],
+          "words": 11,
+          "score": 5.677380952380952
+        },
+        {
+          "id": "BD1890",
+          "slots": [
+            "mcmurtry",
+            "he-said-she-said",
+            "crisis"
+          ],
+          "words": 21,
+          "score": 1.4583333333333333
+        },
+        {
+          "id": "BD1891",
+          "slots": [
+            "lector",
+            "lector"
+          ],
+          "words": 5,
+          "score": 19.632142857142856
+        },
+        {
+          "id": "BD1892",
+          "slots": [
+            "lector",
+            "king",
+            "lector",
+            "king"
+          ],
+          "words": 13,
+          "score": 32.9234126984127
+        },
+        {
+          "id": "BD1893",
+          "slots": [
+            "lector",
+            "derecho",
+            "pregunta",
+            "king",
+            "deber",
+            "respuesta"
+          ],
+          "words": 20,
+          "score": 33.59007936507936
+        },
+        {
+          "id": "BD1894",
+          "slots": [],
+          "words": 1,
+          "score": 0.0
+        },
+        {
+          "id": "BD1895",
+          "slots": [],
+          "words": 2,
+          "score": 0.0
+        },
+        {
+          "id": "BD1896",
+          "slots": [
+            "lector",
+            "ficcion",
+            "lector",
+            "king"
+          ],
+          "words": 19,
+          "score": 33.1734126984127
+        },
+        {
+          "id": "BD1897",
+          "slots": [
+            "king",
+            "pasiva",
+            "king",
+            "adverbios",
+            "adverbios"
+          ],
+          "words": 31,
+          "score": 21.293650793650794
+        },
+        {
+          "id": "BD1898",
+          "slots": [
+            "king"
+          ],
+          "words": 14,
+          "score": 13.291269841269841
+        },
+        {
+          "id": "BD1899",
+          "slots": [
+            "king",
+            "escritor",
+            "king",
+            "lector",
+            "king",
+            "king"
+          ],
+          "words": 26,
+          "score": 37.76984126984127
+        },
+        {
+          "id": "BD1900",
+          "slots": [
+            "king",
+            "temor"
+          ],
+          "words": 12,
+          "score": 15.249603174603175
+        },
+        {
+          "id": "BD1901",
+          "slots": [
+            "escritor",
+            "temor"
+          ],
+          "words": 19,
+          "score": 6.804761904761905
+        },
+        {
+          "id": "BD1902",
+          "slots": [
+            "escritor",
+            "temor"
+          ],
+          "words": 20,
+          "score": 6.804761904761905
+        },
+        {
+          "id": "BD1903",
+          "slots": [
+            "dumbo",
+            "pluma",
+            "lector",
+            "impulso",
+            "verbo",
+            "adverbios"
+          ],
+          "words": 30,
+          "score": 26.242857142857144
+        },
+        {
+          "id": "BD1904",
+          "slots": [
+            "lector",
+            "lector",
+            "dumbo",
+            "pluma",
+            "magia"
+          ],
+          "words": 16,
+          "score": 20.56547619047619
+        },
+        {
+          "id": "BD1905",
+          "slots": [
+            "lector",
+            "lector",
+            "tema",
+            "lector",
+            "prosa"
+          ],
+          "words": 17,
+          "score": 21.101190476190474
+        },
+        {
+          "id": "BD1906",
+          "slots": [
+            "lector",
+            "lector",
+            "historia",
+            "lector",
+            "lector",
+            "el",
+            "lector",
+            "el"
+          ],
+          "words": 30,
+          "score": 22.04047619047619
+        },
+        {
+          "id": "BD1907",
+          "slots": [
+            "lector",
+            "lector",
+            "hombre",
+            "cuerda",
+            "hombre",
+            "lector",
+            "hombre",
+            "cable"
+          ],
+          "words": 34,
+          "score": 21.723809523809525
+        },
+        {
+          "id": "BD1908",
+          "slots": [
+            "escritura",
+            "temor",
+            "afectacion"
+          ],
+          "words": 11,
+          "score": 3.3916666666666666
+        },
+        {
+          "id": "BD1909",
+          "slots": [
+            "afectacion",
+            "escritor",
+            "escritura",
+            "escritor",
+            "escritura"
+          ],
+          "words": 22,
+          "score": 6.279761904761905
+        },
+        {
+          "id": "BD1910",
+          "slots": [
+            "escritura",
+            "escritor",
+            "decisiones",
+            "herramientas",
+            "escritor",
+            "herramientas"
+          ],
+          "words": 20,
+          "score": 6.246428571428571
+        },
+        {
+          "id": "BD1911",
+          "slots": [
+            "escritor"
+          ],
+          "words": 9,
+          "score": 4.8464285714285715
+        },
+        {
+          "id": "BD1912",
+          "slots": [
+            "strunk",
+            "white",
+            "white",
+            "prejuicio",
+            "pensamiento",
+            "prejuicio",
+            "white",
+            "white",
+            "fact",
+            "white",
+            "fact"
+          ],
+          "words": 79,
+          "score": 5.866666666666666
+        },
+        {
+          "id": "BD1913",
+          "slots": [
+            "white",
+            "white",
+            "pitcheo",
+            "fracaso",
+            "white"
+          ],
+          "words": 24,
+          "score": 2.3212121212121213
+        },
+        {
+          "id": "BD1914",
+          "slots": [
+            "white",
+            "white",
+            "revisiones"
+          ],
+          "words": 23,
+          "score": 2.7545454545454544
+        },
+        {
+          "id": "BD1915",
+          "slots": [
+            "king",
+            "king",
+            "bill",
+            "interlocutor",
+            "bill"
+          ],
+          "words": 19,
+          "score": 18.70793650793651
+        },
+        {
+          "id": "BD1916",
+          "slots": [
+            "king",
+            "lector",
+            "lector"
+          ],
+          "words": 8,
+          "score": 32.9234126984127
+        },
+        {
+          "id": "BD1917",
+          "slots": [
+            "nucleo"
+          ],
+          "words": 18,
+          "score": 1.0
+        },
+        {
+          "id": "BD1918",
+          "slots": [
+            "king",
+            "lector",
+            "lector",
+            "lector",
+            "lector",
+            "adverbios",
+            "escritor",
+            "he-said-she-said"
+          ],
+          "words": 30,
+          "score": 43.23888888888889
+        }
+      ]
+    },
+    {
+      "unit": 4,
+      "source_words": 1818,
+      "node_weights": {
+        "lector": 7.1004901960784315,
+        "bandeja": 0.5,
+        "elementos": 1.0,
+        "strunk": 0.42777777777777776,
+        "white": 0.42777777777777776,
+        "herramientas": 0.38333333333333336,
+        "reglas": 0.125,
+        "posesivo": 0.06666666666666667,
+        "palabras": 0.592156862745098,
+        "thomas-bike": 0.13333333333333333,
+        "partes-frase": 0.06666666666666667,
+        "opinion": 0.1111111111111111,
+        "king": 1.5127917833800186,
+        "expresion": 0.1111111111111111,
+        "asesino": 0.2222222222222222,
+        "frank": 0.2222222222222222,
+        "king-lector": 1.392156862745098,
+        "parrafo": 11.033333333333333,
+        "novela": 0.16666666666666666,
+        "material": 0.16666666666666666,
+        "ficcion": 0.2833333333333333,
+        "escritura": 2.5,
+        "libro": 0.65,
+        "paginas": 0.39285714285714285,
+        "patron": 0.3333333333333333,
+        "libros": 1.5,
+        "espacio-blanco": 0.25,
+        "ideas": 0.25,
+        "narracion": 0.3611111111111111,
+        "descripcion": 0.25,
+        "frases": 4.100980392156862,
+        "forma": 0.3333333333333333,
+        "narrador-ensayo": 1.7833333333333334,
+        "megan": 4.233333333333333,
+        "juguetes": 0.3333333333333333,
+        "posters": 0.5,
+        "ropa": 2.066666666666667,
+        "altavoces": 0.25,
+        "persianas": 0.25,
+        "lampara": 0.25,
+        "zumo": 0.5,
+        "dentifrico": 0.25,
+        "ducha": 0.25,
+        "travesuras": 0.16666666666666666,
+        "mocos": 0.16666666666666666,
+        "ensayos": 0.8666666666666667,
+        "trabajo": 0.16666666666666666,
+        "habilidad": 0.3333333333333333,
+        "profesores": 0.4,
+        "manera": 0.2,
+        "tiempo": 0.2,
+        "tema": 0.3333333333333333,
+        "king-ensayo": 0.5833333333333334,
+        "vacaciones": 0.3333333333333333,
+        "clase": 0.8088235294117647,
+        "alumnos": 2.0357142857142856,
+        "semestre": 0.14285714285714285,
+        "impulso": 0.14285714285714285,
+        "jesus": 0.26785714285714285,
+        "conocimiento": 0.25,
+        "tarea": 0.25,
+        "fuerza": 0.3333333333333333,
+        "forma-parrafo": 0.7333333333333333,
+        "escritor": 1.8024531024531025,
+        "pensamientos": 0.2,
+        "seguro": 0.2,
+        "digresion": 0.5,
+        "temas": 0.25,
+        "tesis": 0.75,
+        "shania": 0.25,
+        "formacion": 0.5,
+        "limites": 0.3333333333333333,
+        "naturaleza": 0.3333333333333333,
+        "revision": 1.0,
+        "pasaje": 0.5,
+        "habitacion": 0.6666666666666666,
+        "dale": 2.511111111111111,
+        "luz": 0.1111111111111111,
+        "color": 0.2222222222222222,
+        "moteles": 0.1111111111111111,
+        "vista": 0.1111111111111111,
+        "imagen": 1.0625,
+        "zapato": 1.0,
+        "tony": 3.8898809523809526,
+        "preguntas": 0.2,
+        "historia": 3.6176470588235294,
+        "verdad": 1.0,
+        "cigarrillo": 0.5095238095238095,
+        "mano": 0.36666666666666664,
+        "oleary": 1.2083333333333333,
+        "atribucion": 0.058823529411764705,
+        "hablante": 0.2605042016806723,
+        "regla": 0.058823529411764705,
+        "lenguaje": 0.39215686274509803,
+        "uso": 0.058823529411764705,
+        "decision": 0.39215686274509803,
+        "g": 0.058823529411764705,
+        "giros": 0.16666666666666666,
+        "ritmos": 0.16666666666666666,
+        "dialogo-dale": 0.3333333333333333,
+        "dialogo-tony": 0.3333333333333333,
+        "conjuncion": 0.25,
+        "proposito": 1.0,
+        "brevedad": 0.3333333333333333,
+        "estilo": 0.3333333333333333,
+        "ritmo": 0.9318181818181818,
+        "kellerman": 1.292929292929293,
+        "tecnica": 0.5,
+        "barco": 0.5,
+        "mastiles": 0.5,
+        "velas": 0.5,
+        "satori": 1.0,
+        "fragmento": 0.1111111111111111,
+        "fragmentos": 0.40404040404040403,
+        "imagenes": 0.1111111111111111,
+        "tension": 0.1111111111111111,
+        "prosa": 0.6111111111111112,
+        "puristas": 0.5,
+        "corbata": 0.3333333333333333,
+        "zapatos": 0.3333333333333333,
+        "objeto": 0.16666666666666666,
+        "habla": 1.3333333333333333,
+        "parejas": 1.0,
+        "usos": 0.2,
+        "direccion-escenica": 0.2,
+        "caracter": 0.2,
+        "ambiente": 0.2,
+        "transicion": 0.2,
+        "recuerdos-oleary": 0.25,
+        "dialogo": 0.39285714285714285,
+        "organizacion": 0.14285714285714285,
+        "rumbo": 0.25,
+        "horas": 0.18181818181818182,
+        "composiciones": 0.09090909090909091,
+        "coherencia": 0.2,
+        "animacion": 1.0,
+        "significado": 0.25,
+        "practica": 0.25
+      },
+      "ranking": [
+        "BD1983",
+        "BD1927",
+        "BD1986",
+        "BD1962",
+        "BD1965",
+        "BD2017",
+        "BD1989",
+        "BD1935",
+        "BD1987",
+        "BD1990",
+        "BD2014",
+        "BD1929",
+        "BD1924",
+        "BD1985",
+        "BD2004",
+        "BD1925",
+        "BD1988",
+        "BD1936",
+        "BD1933",
+        "BD1934",
+        "BD1961",
+        "BD2016",
+        "BD2003",
+        "BD1980",
+        "BD1922",
+        "BD1960",
+        "BD2018",
+        "BD1948",
+        "BD1921",
+        "BD1956",
+        "BD1926",
+        "BD1941",
+        "BD2009",
+        "BD1928",
+        "BD1919",
+        "BD1963",
+        "BD1967",
+        "BD2010",
+        "BD1972",
+        "BD1946",
+        "BD1947",
+        "BD2011",
+        "BD1973",
+        "BD1937",
+        "BD1979",
+        "BD1981",
+        "BD1943",
+        "BD1951",
+        "BD1999",
+        "BD1978",
+        "BD1939",
+        "BD1945",
+        "BD2000",
+        "BD2013",
+        "BD1938",
+        "BD1953",
+        "BD1991",
+        "BD1944",
+        "BD1993",
+        "BD1994",
+        "BD1954",
+        "BD1942",
+        "BD1974",
+        "BD1976",
+        "BD1968",
+        "BD2012",
+        "BD1969",
+        "BD1923",
+        "BD1957",
+        "BD1952",
+        "BD1958",
+        "BD1975",
+        "BD1959",
+        "BD2005",
+        "BD1964",
+        "BD1931",
+        "BD1982",
+        "BD1940",
+        "BD1955",
+        "BD1995",
+        "BD1996",
+        "BD1949",
+        "BD1930",
+        "BD2006",
+        "BD1950",
+        "BD2001",
+        "BD1970",
+        "BD2002",
+        "BD1920",
+        "BD1966",
+        "BD1971",
+        "BD1977",
+        "BD1992",
+        "BD1997",
+        "BD1998",
+        "BD2007",
+        "BD2008",
+        "BD2015",
+        "BD1932"
+      ],
+      "selected": [
+        "BD1927",
+        "BD1962",
+        "BD1965",
+        "BD1983",
+        "BD1986",
+        "BD1989",
+        "BD2017"
+      ],
+      "selected_words": 189,
+      "sentences": [
+        {
+          "id": "BD1919",
+          "slots": [
+            "lector",
+            "bandeja"
+          ],
+          "words": 14,
+          "score": 7.6004901960784315
+        },
+        {
+          "id": "BD1920",
+          "slots": [
+            "elementos"
+          ],
+          "words": 14,
+          "score": 1.0
+        },
+        {
+          "id": "BD1921",
+          "slots": [
+            "strunk",
+            "white",
+            "herramientas",
+            "reglas",
+            "lector",
+            "strunk",
+            "white",
+            "herramientas"
+          ],
+          "words": 20,
+          "score": 8.46437908496732
+        },
+        {
+          "id": "BD1922",
+          "slots": [
+            "herramientas",
+            "strunk",
+            "white",
+            "herramientas",
+            "lector",
+            "posesivo",
+            "lector",
+            "palabras",
+            "palabras",
+            "lector",
+            "thomas-bike",
+            "lector",
+            "thomas-bike",
+            "lector",
+            "partes-frase"
+          ],
+          "words": 52,
+          "score": 9.198202614379085
+        },
+        {
+          "id": "BD1923",
+          "slots": [
+            "strunk",
+            "white",
+            "opinion",
+            "king",
+            "expresion",
+            "asesino",
+            "frank",
+            "asesino",
+            "frank"
+          ],
+          "words": 30,
+          "score": 3.0350140056022408
+        },
+        {
+          "id": "BD1924",
+          "slots": [
+            "king-lector",
+            "parrafo",
+            "parrafo"
+          ],
+          "words": 28,
+          "score": 12.425490196078432
+        },
+        {
+          "id": "BD1925",
+          "slots": [
+            "lector",
+            "novela",
+            "lector",
+            "novela",
+            "material",
+            "king",
+            "lector",
+            "material",
+            "king",
+            "ficcion",
+            "king",
+            "escritura"
+          ],
+          "words": 40,
+          "score": 11.729948646125116
+        },
+        {
+          "id": "BD1926",
+          "slots": [
+            "lector",
+            "libro",
+            "lector",
+            "paginas"
+          ],
+          "words": 12,
+          "score": 8.143347338935575
+        },
+        {
+          "id": "BD1927",
+          "slots": [
+            "lector",
+            "patron",
+            "parrafo"
+          ],
+          "words": 22,
+          "score": 18.4671568627451
+        },
+        {
+          "id": "BD1928",
+          "slots": [
+            "lector",
+            "lector",
+            "libro",
+            "lector",
+            "libro"
+          ],
+          "words": 19,
+          "score": 7.750490196078432
+        },
+        {
+          "id": "BD1929",
+          "slots": [
+            "libros",
+            "parrafo",
+            "espacio-blanco",
+            "parrafo"
+          ],
+          "words": 22,
+          "score": 12.783333333333333
+        },
+        {
+          "id": "BD1930",
+          "slots": [
+            "libros"
+          ],
+          "words": 9,
+          "score": 1.5
+        },
+        {
+          "id": "BD1931",
+          "slots": [
+            "libros",
+            "ideas",
+            "narracion",
+            "descripcion"
+          ],
+          "words": 13,
+          "score": 2.361111111111111
+        },
+        {
+          "id": "BD1932",
+          "slots": [],
+          "words": 3,
+          "score": 0.0
+        },
+        {
+          "id": "BD1933",
+          "slots": [
+            "parrafo",
+            "parrafo"
+          ],
+          "words": 19,
+          "score": 11.033333333333333
+        },
+        {
+          "id": "BD1934",
+          "slots": [
+            "parrafo"
+          ],
+          "words": 11,
+          "score": 11.033333333333333
+        },
+        {
+          "id": "BD1935",
+          "slots": [
+            "parrafo",
+            "frases",
+            "frases",
+            "frases",
+            "frases"
+          ],
+          "words": 17,
+          "score": 15.134313725490196
+        },
+        {
+          "id": "BD1936",
+          "slots": [
+            "parrafo",
+            "parrafo",
+            "forma"
+          ],
+          "words": 18,
+          "score": 11.366666666666667
+        },
+        {
+          "id": "BD1937",
+          "slots": [
+            "narrador-ensayo",
+            "narrador-ensayo",
+            "megan"
+          ],
+          "words": 9,
+          "score": 6.016666666666667
+        },
+        {
+          "id": "BD1938",
+          "slots": [
+            "megan",
+            "megan",
+            "juguetes"
+          ],
+          "words": 24,
+          "score": 4.566666666666666
+        },
+        {
+          "id": "BD1939",
+          "slots": [
+            "megan",
+            "posters",
+            "megan",
+            "posters"
+          ],
+          "words": 21,
+          "score": 4.733333333333333
+        },
+        {
+          "id": "BD1940",
+          "slots": [
+            "ropa"
+          ],
+          "words": 8,
+          "score": 2.066666666666667
+        },
+        {
+          "id": "BD1941",
+          "slots": [
+            "megan",
+            "ropa",
+            "narrador-ensayo",
+            "megan",
+            "ropa"
+          ],
+          "words": 14,
+          "score": 8.083333333333334
+        },
+        {
+          "id": "BD1942",
+          "slots": [
+            "narrador-ensayo",
+            "ropa",
+            "ropa"
+          ],
+          "words": 24,
+          "score": 3.85
+        },
+        {
+          "id": "BD1943",
+          "slots": [
+            "megan",
+            "altavoces",
+            "persianas",
+            "lampara"
+          ],
+          "words": 24,
+          "score": 4.983333333333333
+        },
+        {
+          "id": "BD1944",
+          "slots": [
+            "megan"
+          ],
+          "words": 6,
+          "score": 4.233333333333333
+        },
+        {
+          "id": "BD1945",
+          "slots": [
+            "megan",
+            "zumo"
+          ],
+          "words": 10,
+          "score": 4.733333333333333
+        },
+        {
+          "id": "BD1946",
+          "slots": [
+            "megan",
+            "dentifrico",
+            "narrador-ensayo",
+            "ducha"
+          ],
+          "words": 17,
+          "score": 6.516666666666667
+        },
+        {
+          "id": "BD1947",
+          "slots": [
+            "megan",
+            "travesuras",
+            "narrador-ensayo",
+            "narrador-ensayo",
+            "megan",
+            "mocos"
+          ],
+          "words": 34,
+          "score": 6.35
+        },
+        {
+          "id": "BD1948",
+          "slots": [
+            "ensayos",
+            "lector",
+            "trabajo",
+            "habilidad",
+            "lector",
+            "habilidad"
+          ],
+          "words": 36,
+          "score": 8.467156862745098
+        },
+        {
+          "id": "BD1949",
+          "slots": [
+            "profesores",
+            "ensayos",
+            "profesores",
+            "manera",
+            "tiempo"
+          ],
+          "words": 15,
+          "score": 1.6666666666666667
+        },
+        {
+          "id": "BD1950",
+          "slots": [
+            "tema",
+            "king-ensayo",
+            "vacaciones"
+          ],
+          "words": 13,
+          "score": 1.25
+        },
+        {
+          "id": "BD1951",
+          "slots": [
+            "king",
+            "escritura",
+            "king",
+            "clase"
+          ],
+          "words": 22,
+          "score": 4.821615312791783
+        },
+        {
+          "id": "BD1952",
+          "slots": [
+            "alumnos",
+            "ensayos",
+            "alumnos",
+            "ensayos"
+          ],
+          "words": 14,
+          "score": 2.9023809523809523
+        },
+        {
+          "id": "BD1953",
+          "slots": [
+            "king",
+            "semestre",
+            "impulso",
+            "alumnos",
+            "alumnos",
+            "paginas",
+            "jesus"
+          ],
+          "words": 27,
+          "score": 4.494934640522875
+        },
+        {
+          "id": "BD1954",
+          "slots": [
+            "conocimiento",
+            "king",
+            "alumnos",
+            "tarea"
+          ],
+          "words": 21,
+          "score": 4.048506069094304
+        },
+        {
+          "id": "BD1955",
+          "slots": [
+            "alumnos"
+          ],
+          "words": 10,
+          "score": 2.0357142857142856
+        },
+        {
+          "id": "BD1956",
+          "slots": [
+            "lector",
+            "fuerza",
+            "forma-parrafo"
+          ],
+          "words": 18,
+          "score": 8.167156862745099
+        },
+        {
+          "id": "BD1957",
+          "slots": [
+            "forma-parrafo",
+            "escritor",
+            "pensamientos",
+            "forma-parrafo",
+            "seguro"
+          ],
+          "words": 20,
+          "score": 2.9357864357864356
+        },
+        {
+          "id": "BD1958",
+          "slots": [
+            "digresion",
+            "digresion",
+            "escritor",
+            "temas"
+          ],
+          "words": 37,
+          "score": 2.5524531024531023
+        },
+        {
+          "id": "BD1959",
+          "slots": [
+            "escritura"
+          ],
+          "words": 4,
+          "score": 2.5
+        },
+        {
+          "id": "BD1960",
+          "slots": [
+            "tesis",
+            "shania",
+            "king-ensayo",
+            "lector"
+          ],
+          "words": 24,
+          "score": 8.683823529411764
+        },
+        {
+          "id": "BD1961",
+          "slots": [
+            "parrafo"
+          ],
+          "words": 14,
+          "score": 11.033333333333333
+        },
+        {
+          "id": "BD1962",
+          "slots": [
+            "lector",
+            "ficcion",
+            "lector",
+            "parrafo",
+            "parrafo"
+          ],
+          "words": 17,
+          "score": 18.4171568627451
+        },
+        {
+          "id": "BD1963",
+          "slots": [
+            "lector",
+            "formacion"
+          ],
+          "words": 5,
+          "score": 7.6004901960784315
+        },
+        {
+          "id": "BD1964",
+          "slots": [
+            "escritor",
+            "limites",
+            "naturaleza"
+          ],
+          "words": 24,
+          "score": 2.4691197691197693
+        },
+        {
+          "id": "BD1965",
+          "slots": [
+            "lector",
+            "parrafo",
+            "lector",
+            "parrafo"
+          ],
+          "words": 10,
+          "score": 18.133823529411764
+        },
+        {
+          "id": "BD1966",
+          "slots": [
+            "revision"
+          ],
+          "words": 6,
+          "score": 1.0
+        },
+        {
+          "id": "BD1967",
+          "slots": [
+            "lector",
+            "pasaje"
+          ],
+          "words": 5,
+          "score": 7.6004901960784315
+        },
+        {
+          "id": "BD1968",
+          "slots": [
+            "habitacion",
+            "dale",
+            "habitacion"
+          ],
+          "words": 8,
+          "score": 3.1777777777777776
+        },
+        {
+          "id": "BD1969",
+          "slots": [
+            "luz",
+            "color",
+            "color",
+            "dale",
+            "dale",
+            "moteles",
+            "dale",
+            "dale",
+            "vista"
+          ],
+          "words": 33,
+          "score": 3.066666666666667
+        },
+        {
+          "id": "BD1970",
+          "slots": [
+            "imagen"
+          ],
+          "words": 11,
+          "score": 1.0625
+        },
+        {
+          "id": "BD1971",
+          "slots": [
+            "zapato"
+          ],
+          "words": 10,
+          "score": 1.0
+        },
+        {
+          "id": "BD1972",
+          "slots": [
+            "tony",
+            "tony",
+            "dale",
+            "dale",
+            "preguntas"
+          ],
+          "words": 12,
+          "score": 6.600992063492064
+        },
+        {
+          "id": "BD1973",
+          "slots": [
+            "dale",
+            "historia",
+            "historia"
+          ],
+          "words": 6,
+          "score": 6.128758169934641
+        },
+        {
+          "id": "BD1974",
+          "slots": [
+            "historia"
+          ],
+          "words": 2,
+          "score": 3.6176470588235294
+        },
+        {
+          "id": "BD1975",
+          "slots": [
+            "dale"
+          ],
+          "words": 2,
+          "score": 2.511111111111111
+        },
+        {
+          "id": "BD1976",
+          "slots": [
+            "historia",
+            "historia"
+          ],
+          "words": 7,
+          "score": 3.6176470588235294
+        },
+        {
+          "id": "BD1977",
+          "slots": [
+            "verdad"
+          ],
+          "words": 13,
+          "score": 1.0
+        },
+        {
+          "id": "BD1978",
+          "slots": [
+            "tony",
+            "tony",
+            "cigarrillo",
+            "tony",
+            "mano"
+          ],
+          "words": 14,
+          "score": 4.766071428571428
+        },
+        {
+          "id": "BD1979",
+          "slots": [
+            "tony",
+            "oleary"
+          ],
+          "words": 9,
+          "score": 5.098214285714286
+        },
+        {
+          "id": "BD1980",
+          "slots": [
+            "tony",
+            "oleary",
+            "oleary",
+            "tony",
+            "oleary",
+            "tony",
+            "historia",
+            "oleary",
+            "historia",
+            "jesus",
+            "oleary",
+            "historia",
+            "historia",
+            "imagen",
+            "jesus",
+            "oleary"
+          ],
+          "words": 55,
+          "score": 10.046218487394958
+        },
+        {
+          "id": "BD1981",
+          "slots": [
+            "tony",
+            "tony",
+            "oleary"
+          ],
+          "words": 6,
+          "score": 5.098214285714286
+        },
+        {
+          "id": "BD1982",
+          "slots": [
+            "king-lector",
+            "clase"
+          ],
+          "words": 12,
+          "score": 2.200980392156863
+        },
+        {
+          "id": "BD1983",
+          "slots": [
+            "clase",
+            "atribucion",
+            "king-lector",
+            "hablante",
+            "regla",
+            "palabras",
+            "lenguaje",
+            "uso",
+            "historia",
+            "historia",
+            "king",
+            "lector",
+            "frases",
+            "frases",
+            "decision",
+            "hablante",
+            "g"
+          ],
+          "words": 86,
+          "score": 20.405158730158732
+        },
+        {
+          "id": "BD1985",
+          "slots": [
+            "king-lector",
+            "parrafo"
+          ],
+          "words": 6,
+          "score": 12.425490196078432
+        },
+        {
+          "id": "BD1986",
+          "slots": [
+            "lector",
+            "parrafo",
+            "giros",
+            "ritmos",
+            "parrafo",
+            "parrafo"
+          ],
+          "words": 20,
+          "score": 18.4671568627451
+        },
+        {
+          "id": "BD1987",
+          "slots": [
+            "parrafo",
+            "parrafo",
+            "frases",
+            "frases",
+            "frases"
+          ],
+          "words": 21,
+          "score": 15.134313725490196
+        },
+        {
+          "id": "BD1988",
+          "slots": [
+            "parrafo",
+            "dialogo-dale",
+            "dialogo-tony"
+          ],
+          "words": 12,
+          "score": 11.7
+        },
+        {
+          "id": "BD1989",
+          "slots": [
+            "parrafo",
+            "tony",
+            "tony",
+            "cigarrillo",
+            "tony",
+            "mano"
+          ],
+          "words": 21,
+          "score": 15.799404761904762
+        },
+        {
+          "id": "BD1990",
+          "slots": [
+            "parrafo",
+            "parrafo",
+            "frases"
+          ],
+          "words": 16,
+          "score": 15.134313725490196
+        },
+        {
+          "id": "BD1991",
+          "slots": [
+            "frases",
+            "frases",
+            "frases",
+            "conjuncion"
+          ],
+          "words": 23,
+          "score": 4.350980392156862
+        },
+        {
+          "id": "BD1992",
+          "slots": [
+            "proposito"
+          ],
+          "words": 9,
+          "score": 1.0
+        },
+        {
+          "id": "BD1993",
+          "slots": [
+            "frases",
+            "frases"
+          ],
+          "words": 21,
+          "score": 4.100980392156862
+        },
+        {
+          "id": "BD1994",
+          "slots": [
+            "brevedad",
+            "estilo",
+            "ritmo",
+            "brevedad",
+            "estilo",
+            "escritura"
+          ],
+          "words": 13,
+          "score": 4.098484848484849
+        },
+        {
+          "id": "BD1995",
+          "slots": [
+            "kellerman",
+            "tecnica"
+          ],
+          "words": 9,
+          "score": 1.792929292929293
+        },
+        {
+          "id": "BD1996",
+          "slots": [
+            "kellerman",
+            "barco"
+          ],
+          "words": 19,
+          "score": 1.792929292929293
+        },
+        {
+          "id": "BD1997",
+          "slots": [
+            "mastiles",
+            "velas"
+          ],
+          "words": 5,
+          "score": 1.0
+        },
+        {
+          "id": "BD1998",
+          "slots": [
+            "satori"
+          ],
+          "words": 11,
+          "score": 1.0
+        },
+        {
+          "id": "BD1999",
+          "slots": [
+            "escritor",
+            "fragmento",
+            "kellerman",
+            "fragmentos",
+            "fragmentos",
+            "narracion",
+            "imagenes",
+            "tension",
+            "prosa"
+          ],
+          "words": 34,
+          "score": 4.804978354978355
+        },
+        {
+          "id": "BD2000",
+          "slots": [
+            "frases",
+            "prosa",
+            "frases",
+            "prosa"
+          ],
+          "words": 14,
+          "score": 4.712091503267974
+        },
+        {
+          "id": "BD2001",
+          "slots": [
+            "puristas",
+            "tesis",
+            "puristas",
+            "tesis",
+            "puristas",
+            "tesis"
+          ],
+          "words": 16,
+          "score": 1.25
+        },
+        {
+          "id": "BD2002",
+          "slots": [
+            "lenguaje",
+            "corbata",
+            "zapatos"
+          ],
+          "words": 12,
+          "score": 1.0588235294117647
+        },
+        {
+          "id": "BD2003",
+          "slots": [
+            "objeto",
+            "lector",
+            "historia",
+            "lector",
+            "lector",
+            "historia"
+          ],
+          "words": 33,
+          "score": 10.884803921568627
+        },
+        {
+          "id": "BD2004",
+          "slots": [
+            "parrafo",
+            "habla",
+            "parrafo"
+          ],
+          "words": 12,
+          "score": 12.366666666666667
+        },
+        {
+          "id": "BD2005",
+          "slots": [
+            "escritura"
+          ],
+          "words": 3,
+          "score": 2.5
+        },
+        {
+          "id": "BD2006",
+          "slots": [
+            "habla"
+          ],
+          "words": 6,
+          "score": 1.3333333333333333
+        },
+        {
+          "id": "BD2007",
+          "slots": [
+            "parejas",
+            "parejas"
+          ],
+          "words": 18,
+          "score": 1.0
+        },
+        {
+          "id": "BD2008",
+          "slots": [
+            "usos",
+            "direccion-escenica",
+            "caracter",
+            "ambiente",
+            "transicion"
+          ],
+          "words": 23,
+          "score": 1.0
+        },
+        {
+          "id": "BD2009",
+          "slots": [
+            "tony",
+            "historia",
+            "tony",
+            "recuerdos-oleary"
+          ],
+          "words": 16,
+          "score": 7.7575280112044815
+        },
+        {
+          "id": "BD2010",
+          "slots": [
+            "hablante",
+            "tony",
+            "tony",
+            "cigarrillo",
+            "dialogo",
+            "escritor",
+            "organizacion"
+          ],
+          "words": 37,
+          "score": 6.998076351752823
+        },
+        {
+          "id": "BD2011",
+          "slots": [
+            "tony",
+            "rumbo",
+            "escritor",
+            "dialogo"
+          ],
+          "words": 15,
+          "score": 6.335191197691198
+        },
+        {
+          "id": "BD2012",
+          "slots": [
+            "decision",
+            "escritor",
+            "decision",
+            "ritmo",
+            "escritor",
+            "ritmo"
+          ],
+          "words": 23,
+          "score": 3.1264281470163824
+        },
+        {
+          "id": "BD2013",
+          "slots": [
+            "ritmo",
+            "kellerman",
+            "fragmentos",
+            "kellerman",
+            "fragmentos",
+            "ritmo",
+            "horas",
+            "escritor",
+            "horas",
+            "escritor",
+            "composiciones"
+          ],
+          "words": 52,
+          "score": 4.703968253968254
+        },
+        {
+          "id": "BD2014",
+          "slots": [
+            "king",
+            "parrafo",
+            "coherencia",
+            "palabras",
+            "palabras"
+          ],
+          "words": 30,
+          "score": 13.33828197945845
+        },
+        {
+          "id": "BD2015",
+          "slots": [
+            "animacion",
+            "animacion"
+          ],
+          "words": 16,
+          "score": 1.0
+        },
+        {
+          "id": "BD2016",
+          "slots": [
+            "parrafo",
+            "parrafo"
+          ],
+          "words": 44,
+          "score": 11.033333333333333
+        },
+        {
+          "id": "BD2017",
+          "slots": [
+            "lector",
+            "parrafo",
+            "lector"
+          ],
+          "words": 13,
+          "score": 18.133823529411764
+        },
+        {
+          "id": "BD2018",
+          "slots": [
+            "significado",
+            "practica",
+            "lector",
+            "ritmo"
+          ],
+          "words": 13,
+          "score": 8.532308377896614
+        }
+      ]
+    },
+    {
+      "unit": 5,
+      "source_words": 618,
+      "node_weights": {
+        "lector": 7.442063492063492,
+        "libro": 1.0,
+        "peso": 0.85,
+        "informacion": 0.25,
+        "palabras": 1.0277777777777777,
+        "escritor": 0.4166666666666667,
+        "compromiso": 1.0,
+        "longitud": 0.1,
+        "excelencia": 0.1,
+        "relatos": 0.1,
+        "criticos": 0.2,
+        "bosques": 0.1,
+        "imprentas": 0.1,
+        "tonterias-king": 0.1,
+        "brevedad": 2.0,
+        "trabajador": 0.75,
+        "frases": 0.3333333333333333,
+        "parrafo": 1.4333333333333333,
+        "monstruo": 2.7666666666666666,
+        "relampago": 1.0,
+        "frankenstein": 0.2,
+        "ojos": 0.2,
+        "tarea": 0.5,
+        "ficcion": 0.3333333333333333,
+        "carpinteros": 0.8333333333333334,
+        "monstruos": 0.16666666666666666,
+        "casas": 0.8095238095238095,
+        "tiendas": 0.16666666666666666,
+        "bancos": 0.16666666666666666,
+        "vocabulario": 0.16666666666666666,
+        "gramatica": 0.16666666666666666,
+        "estilo": 0.2777777777777778,
+        "puertas": 0.14285714285714285,
+        "energia": 0.14285714285714285,
+        "razon": 1.3333333333333333,
+        "king": 0.16666666666666666,
+        "lectores-mitchell": 0.16666666666666666,
+        "lectores-dickens": 0.16666666666666666,
+        "king-lector": 1.1,
+        "historia": 0.2,
+        "cine": 0.2,
+        "television": 0.2,
+        "mundo": 0.6666666666666666,
+        "personajes": 0.3333333333333333,
+        "paginas": 0.3333333333333333,
+        "trilogia-tolkien": 1.0,
+        "paginas-hobbits": 0.2857142857142857,
+        "lectores-tolkien": 0.2857142857142857,
+        "silmarillion": 0.2857142857142857,
+        "escritores": 0.3333333333333333,
+        "hobbits": 0.2222222222222222,
+        "frodo": 0.1111111111111111,
+        "sam": 0.1111111111111111,
+        "tolkien": 0.2222222222222222,
+        "habilidad": 0.2,
+        "habilidades": 0.2,
+        "cosas": 0.2,
+        "herramientas": 0.1111111111111111,
+        "carpinteria": 0.1111111111111111,
+        "magia": 0.1111111111111111
+      },
+      "ranking": [
+        "BD2032",
+        "BD2029",
+        "BD2033",
+        "BD2053",
+        "BD2020",
+        "BD2041",
+        "BD2022",
+        "BD2031",
+        "BD2021",
+        "BD2042",
+        "BD2019",
+        "BD2047",
+        "BD2049",
+        "BD2027",
+        "BD2035",
+        "BD2036",
+        "BD2037",
+        "BD2038",
+        "BD2044",
+        "BD2045",
+        "BD2028",
+        "BD2034",
+        "BD2046",
+        "BD2039",
+        "BD2023",
+        "BD2024",
+        "BD2025",
+        "BD2026",
+        "BD2052",
+        "BD2040",
+        "BD2043",
+        "BD2030",
+        "BD2048",
+        "BD2051",
+        "BD2050"
+      ],
+      "selected": [
+        "BD2029",
+        "BD2032",
+        "BD2033",
+        "BD2053"
+      ],
+      "selected_words": 66,
+      "sentences": [
+        {
+          "id": "BD2019",
+          "slots": [
+            "lector",
+            "libro",
+            "lector",
+            "libro"
+          ],
+          "words": 13,
+          "score": 8.442063492063491
+        },
+        {
+          "id": "BD2020",
+          "slots": [
+            "peso",
+            "lector",
+            "informacion",
+            "palabras"
+          ],
+          "words": 21,
+          "score": 9.56984126984127
+        },
+        {
+          "id": "BD2021",
+          "slots": [
+            "escritor",
+            "compromiso",
+            "lector",
+            "compromiso"
+          ],
+          "words": 26,
+          "score": 8.85873015873016
+        },
+        {
+          "id": "BD2022",
+          "slots": [
+            "longitud",
+            "peso",
+            "excelencia",
+            "relatos",
+            "lector",
+            "criticos",
+            "criticos",
+            "bosques",
+            "imprentas",
+            "tonterias-king"
+          ],
+          "words": 33,
+          "score": 9.092063492063492
+        },
+        {
+          "id": "BD2023",
+          "slots": [
+            "brevedad"
+          ],
+          "words": 6,
+          "score": 2.0
+        },
+        {
+          "id": "BD2024",
+          "slots": [
+            "brevedad"
+          ],
+          "words": 15,
+          "score": 2.0
+        },
+        {
+          "id": "BD2025",
+          "slots": [
+            "compromiso",
+            "libro"
+          ],
+          "words": 19,
+          "score": 2.0
+        },
+        {
+          "id": "BD2026",
+          "slots": [
+            "palabras",
+            "peso"
+          ],
+          "words": 3,
+          "score": 1.8777777777777778
+        },
+        {
+          "id": "BD2027",
+          "slots": [
+            "lector",
+            "trabajador",
+            "trabajador",
+            "trabajador"
+          ],
+          "words": 22,
+          "score": 8.192063492063491
+        },
+        {
+          "id": "BD2028",
+          "slots": [
+            "palabras",
+            "frases",
+            "frases",
+            "parrafo",
+            "parrafo",
+            "parrafo"
+          ],
+          "words": 13,
+          "score": 2.7944444444444443
+        },
+        {
+          "id": "BD2029",
+          "slots": [
+            "lector",
+            "monstruo"
+          ],
+          "words": 9,
+          "score": 10.208730158730159
+        },
+        {
+          "id": "BD2030",
+          "slots": [
+            "relampago"
+          ],
+          "words": 15,
+          "score": 1.0
+        },
+        {
+          "id": "BD2031",
+          "slots": [
+            "parrafo",
+            "lector",
+            "parrafo",
+            "parrafo",
+            "lector"
+          ],
+          "words": 22,
+          "score": 8.875396825396825
+        },
+        {
+          "id": "BD2032",
+          "slots": [
+            "lector",
+            "frankenstein",
+            "monstruo",
+            "monstruo",
+            "ojos"
+          ],
+          "words": 21,
+          "score": 10.60873015873016
+        },
+        {
+          "id": "BD2033",
+          "slots": [
+            "monstruo",
+            "lector"
+          ],
+          "words": 7,
+          "score": 10.208730158730159
+        },
+        {
+          "id": "BD2034",
+          "slots": [
+            "monstruo"
+          ],
+          "words": 4,
+          "score": 2.7666666666666666
+        },
+        {
+          "id": "BD2035",
+          "slots": [
+            "lector",
+            "tarea"
+          ],
+          "words": 8,
+          "score": 7.942063492063492
+        },
+        {
+          "id": "BD2036",
+          "slots": [
+            "lector",
+            "lector",
+            "ficcion"
+          ],
+          "words": 15,
+          "score": 7.775396825396825
+        },
+        {
+          "id": "BD2037",
+          "slots": [
+            "lector"
+          ],
+          "words": 3,
+          "score": 7.442063492063492
+        },
+        {
+          "id": "BD2038",
+          "slots": [
+            "lector"
+          ],
+          "words": 4,
+          "score": 7.442063492063492
+        },
+        {
+          "id": "BD2039",
+          "slots": [
+            "carpinteros",
+            "monstruos",
+            "carpinteros",
+            "casas",
+            "tiendas",
+            "bancos"
+          ],
+          "words": 12,
+          "score": 2.142857142857143
+        },
+        {
+          "id": "BD2040",
+          "slots": [
+            "carpinteros",
+            "casas",
+            "carpinteros",
+            "casas"
+          ],
+          "words": 19,
+          "score": 1.6428571428571428
+        },
+        {
+          "id": "BD2041",
+          "slots": [
+            "lector",
+            "parrafo",
+            "parrafo",
+            "vocabulario",
+            "gramatica",
+            "estilo"
+          ],
+          "words": 21,
+          "score": 9.486507936507936
+        },
+        {
+          "id": "BD2042",
+          "slots": [
+            "lector",
+            "lector",
+            "puertas",
+            "lector",
+            "casas",
+            "lector",
+            "energia"
+          ],
+          "words": 23,
+          "score": 8.537301587301588
+        },
+        {
+          "id": "BD2043",
+          "slots": [
+            "razon"
+          ],
+          "words": 10,
+          "score": 1.3333333333333333
+        },
+        {
+          "id": "BD2044",
+          "slots": [
+            "king",
+            "razon",
+            "lectores-mitchell",
+            "lectores-dickens",
+            "razon",
+            "monstruo"
+          ],
+          "words": 29,
+          "score": 4.6
+        },
+        {
+          "id": "BD2045",
+          "slots": [
+            "monstruo",
+            "king-lector",
+            "historia",
+            "cine",
+            "television"
+          ],
+          "words": 24,
+          "score": 4.466666666666667
+        },
+        {
+          "id": "BD2046",
+          "slots": [
+            "king-lector",
+            "mundo",
+            "escritor",
+            "mundo",
+            "personajes",
+            "personajes"
+          ],
+          "words": 25,
+          "score": 2.5166666666666666
+        },
+        {
+          "id": "BD2047",
+          "slots": [
+            "lector",
+            "mundo",
+            "paginas"
+          ],
+          "words": 12,
+          "score": 8.442063492063491
+        },
+        {
+          "id": "BD2048",
+          "slots": [
+            "trilogia-tolkien"
+          ],
+          "words": 14,
+          "score": 1.0
+        },
+        {
+          "id": "BD2049",
+          "slots": [
+            "paginas-hobbits",
+            "lectores-tolkien",
+            "silmarillion",
+            "paginas-hobbits",
+            "lectores-tolkien",
+            "lector",
+            "silmarillion"
+          ],
+          "words": 35,
+          "score": 8.299206349206349
+        },
+        {
+          "id": "BD2050",
+          "slots": [],
+          "words": 18,
+          "score": 0.0
+        },
+        {
+          "id": "BD2051",
+          "slots": [
+            "escritores",
+            "hobbits",
+            "escritores",
+            "hobbits",
+            "escritores",
+            "frodo",
+            "sam",
+            "tolkien",
+            "tolkien"
+          ],
+          "words": 39,
+          "score": 1.0
+        },
+        {
+          "id": "BD2052",
+          "slots": [
+            "king-lector",
+            "habilidad",
+            "king-lector",
+            "habilidades",
+            "cosas"
+          ],
+          "words": 29,
+          "score": 1.7
+        },
+        {
+          "id": "BD2053",
+          "slots": [
+            "king-lector",
+            "herramientas",
+            "carpinteria",
+            "palabras",
+            "estilo",
+            "king-lector",
+            "lector",
+            "king-lector",
+            "magia"
+          ],
+          "words": 29,
+          "score": 10.18095238095238
+        }
+      ]
+    }
+  ]
+}

@@ -10,14 +10,14 @@ Este cuaderno lleva el registro de una obra larga: destilar entero *On Writing*,
 
 *On Writing* es parte memoria y parte manual: King cuenta su vida de escritor y enseña su oficio. En el molde de la bóveda —la segmentación fiel del libro, con cada frase numerada— el cuerpo son 4.194 frases en siete secciones. Las 59 frases que faltan para las 4.253 del libro están en los preliminares, que además de portada, créditos, dos epígrafes y la firma contienen los tres prólogos (44 frases), la nota del autor (1) y los permisos de derechos (14). Los prólogos van primero, como unidad propia; cada sección se destilará a su turno:
 
-**Publicado: 41 unidades** (los tres prólogos, los 39 tramos del C.V., M1 a M39, y What Writing Is). **Pendiente: 5 secciones** (Toolbox, On Writing, On Living, And Furthermore I y II).
+**Publicado: 46 unidades** (los tres prólogos, los 39 tramos del C.V., M1 a M39, What Writing Is y las cinco unidades de Toolbox, T1 a T5). **Pendiente: 4 secciones** (On Writing, On Living, And Furthermore I y II).
 
 | Sección | Frases | Palabras | Estado |
 |---|---|---|---|
 | Los tres prólogos (BD0023–BD0068) | 44 | 948 | Hecho: «La pregunta de Amy», 22 de octubre de 2026. |
 | C.V. (BD0071–BD1536) | 1.466 | 26.017 | Hecho: 39 de 39 tramos publicados; su registro va abajo. |
 | What Writing Is (BD1538–BD1610) | 73 | 1.370 | Hecho: «El conejo del ocho», 23 de octubre de 2026. |
-| Toolbox (BD1613–BD2053) | 441 | 7.711 | Pendiente. |
+| Toolbox (BD1613–BD2053) | 441 | 7.711 | Hecho: 5 de 5 unidades, T1 a T5, 23 de octubre de 2026. |
 | On Writing (BD2055–BD3703) | 1.649 | 34.481 | Pendiente. |
 | On Living: A Postscript (BD3710–BD4016) | 307 | 5.388 | Pendiente. |
 | And Furthermore, Part I: Door Shut, Door Open (BD4018–BD4167) | 149 | 2.021 | Pendiente. |
@@ -95,5 +95,33 @@ Todos los tramos se ajustaron el 23 de octubre de 2026 al criterio de palabras. 
 ## Tercera etapa: What Writing Is
 
 Una sola unidad, «El conejo del ocho», publicada el 23 de octubre de 2026 en «Mientras Escribo II»: BD1538–BD1610, 73 frases, 1.370 palabras. Ganaron la BD1559, la BD1562, la BD1579, la BD1595, la BD1599 y la BD1608 (6 de 73, 146 palabras, 10,7 %). Criterio añadido: «we» y «us», que aquí son King y el lector juntos, forman un solo nodo. Pesos de los nodos más altos: el lector 13,2, King 9,3, «nosotros» 7,8, el 8 del conejo 3,5. Prosa: puentes 164 palabras (12,0 %), glosa 60 (4,4 %).
+
+## Cuarta etapa: Toolbox
+
+«Toolbox» («Caja de herramientas») está publicada el 23 de octubre de 2026 en «Mientras Escribo II», después de «Qué es escribir», en cinco unidades marcadas T1 a T5. Son los cinco cortes internos del libro, sin títulos propios: los de aquí vienen de los prompts del Pintor de Imágenes, que se leyó y aplicó a cada tramo. Cada dibujo va inmediatamente bajo el título, enlazado al JPG completo, sin recortar ni redimensionar y comprimido al 75 %.
+
+- T1 · La caja heredada (BD1613–BD1735): 2057 palabras fuente; citas 207 (10.1 %); puentes 193 (9.4 %); glosa 30 (1.5 %).
+- T2 · Las montañas flotan (BD1736–BD1785): 1095 palabras fuente; citas 119 (10.9 %); puentes 93 (8.5 %); glosa 29 (2.6 %).
+- T3 · La cuerda tendida (BD1786–BD1918): 2123 palabras fuente; citas 224 (10.6 %); puentes 163 (7.7 %); glosa 56 (2.6 %).
+- T4 · El pulso interior (BD1919–BD2018): 1818 palabras fuente; citas 189 (10.4 %); puentes 133 (7.3 %); glosa 66 (3.6 %).
+- T5 · La casa viva (BD2019–BD2053): 618 palabras fuente; citas 66 (10.7 %); puentes 49 (7.9 %); glosa 22 (3.6 %).
+
+Todas las citas alcanzan el piso del 10 % de palabras, con la última oración entera; los puentes y las glosas quedan debajo de sus respectivos techos del 15 %. Traducciones fuera de esas cuentas. Palabras contadas como elementos separados por espacios en el texto del molde, igual que en el registro anterior.
+
+- T1: ganadoras BD1626, BD1627, BD1648, BD1654, BD1656, BD1661, BD1665. Nodos más altos: lector 12.95, oren 10.78, king 10.00, caja 6.64.
+- T2: ganadoras BD1736, BD1750, BD1766. Nodos más altos: lector 10.30, king 4.30, frases 3.05, gramatica 1.84.
+- T3: ganadoras BD1798, BD1833, BD1841, BD1857, BD1875, BD1893, BD1899, BD1918. Nodos más altos: lector 19.63, king 13.29, adverbios 5.01, escritor 4.85.
+- T4: ganadoras BD1927, BD1962, BD1965, BD1983+BD1984, BD1986, BD1989, BD2017. Nodos más altos: parrafo 11.03, lector 7.10, megan 4.23, frases 4.10.
+- T5: ganadoras BD2029, BD2032, BD2033, BD2053. Nodos más altos: lector 7.44, monstruo 2.77, brevedad 2.00, parrafo 1.43.
+
+La anotación de puestos y alias, los pesos por nodo, el ranking entero y el corte están en [las cuentas de Toolbox](../datos/261023_toolbox-ranking.json). Se mantienen los criterios del C.V.: sujetos y objetos de todas las cláusulas, objetos de infinitivos sin duplicar el sujeto controlado, sujetos de absolutos y destinatarios de imperativos. Cada objeto compuesto cuenta por separado. Se dejan fuera expletivos, referencias vacías, atributos y complementos de lugar, tiempo, manera y comparación. King y sus facultades son un nodo; el lector y los imperativos dirigidos a él, otro; «we» y «us» de King con el lector se unifican como «king-lector». Las personas de ejemplos narrativos conservan su identidad. El punto se reparte entre todos los puestos, y el peso final suma los nodos distintos, como en el C.V. Empates por menor número.
+
+Reparación local de T4: BD1983 y BD1984 son una sola oración en el EPUB, dividida por un salto de línea en el molde. Se puntúan juntas como un punto y se publican completas bajo «Frase 1983». Unión y rótulo autorizados por Osmancito el 23 de octubre de 2026: se usa el número de la primera. El molde original no se modifica: T4 sigue teniendo 100 registros de cuerpo y 1.818 palabras, pero la puntuación usa 99 oraciones. Rehecho el ranking, entran 7 citas que cubren 8 registros del molde.
+
+Citas contiguas sin puente añadido: en T1, 1626 y 1627; en T5, 2032 y 2033. Las parejas realmente consecutivas ya venían pegadas en la fuente; no se inventa un hueco.
+
+Dibujos y elección: T1, «La caja heredada», literal, David Teniers el Joven por la intimidad del trabajo doméstico y su luz cálida; T2, «Las montañas flotan», encarnada, Henri Rousseau por el juego de acciones sencillas en un paisaje imposible; T3, «La cuerda tendida», literal de la comparación visible del pantano, Francisco de Goya por el peligro y el gesto de rescate; T4, «El pulso interior», encarnada, Edgar Degas por el ritmo, los cambios de postura y la luz artificial; T5, «La casa viva», encarnada, Arnold Böcklin por la frontera entre oficio y animación misteriosa. Los cinco JPG suman 1.289.533 bytes; se conservan sus 992 × 1.586 píxeles nativos. La entrada completa tiene siete imágenes.
+
+Revisión: fuente abierta en el molde, el md y el EPUB; citas copiadas de la fuente y traducciones cotejadas palabra por palabra; rótulos dentro de los bloques y clases iguales en todas las unidades. Se revisan el montaje y la página publicada en escritorio y móvil. Lo siguiente es On Writing; siguen pendientes On Living y And Furthermore I y II.
 
 © 2026 Osmancito
