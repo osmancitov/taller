@@ -25,7 +25,7 @@ Este cuaderno lleva el registro de una obra larga: destilar entero *On Writing*,
 
 El procedimiento está fijo y escrito paso a paso en [Alambique - Frases Selectas](https://github.com/osmancitov/taller/blob/main/md/cgbacb_alambique-frases-selectas.md); aquí va solo el resumen de sus reglas para esta obra. Cada frase vale un punto, que se reparte en partes iguales entre sus puestos: el sujeto y el objeto de cada cláusula, principales y subordinadas, y un mismo nodo cobra cada vez que aparece. Los verbos no puntúan. Cada frase pesa lo que suman los pesos de sus nodos, y ganan las más pesadas, alrededor del diez por ciento. Las ganadoras se tejen en el orden del libro con puentes y glosas; la cita va en inglés y debajo su traducción al castellano, verificada palabra por palabra con el libro abierto. Cada unidad lleva su dibujo bajo el título.
 
-Las unidades y las secciones de la entrada se separan con un filete, como manda la decisión 8 del procedimiento: en la página el filete es una línea fina dorada (#a8783a), con 64 píxeles de aire encima y 32 debajo ante cada unidad, y 96 y 40 cuando el título que sigue es de sección; la regla vive en la hoja de estilo común de la casa. Las citas de «Mientras escribo» son la excepción: llevan su filete gris (#9da7b3), propio de esa página. Del C.V. ya están destilados y publicados los tramos 1 a 28, cada uno con su fila en la tabla de abajo; de sus dibujos van repoblados los de las unidades M1 a M23, todas.
+Las unidades y las secciones de la entrada se separan con un filete, como manda la decisión 8 del procedimiento: en la página el filete es una línea fina dorada (#a8783a), con 64 píxeles de aire encima y 32 debajo ante cada unidad, y 96 y 40 cuando el título que sigue es de sección; la regla vive en la hoja de estilo común de la casa. Las citas de «Mientras escribo» son la excepción: llevan su filete gris (#9da7b3), propio de esa página. Del C.V. ya están destilados y publicados los tramos 1 a 29, cada uno con su fila en la tabla de abajo; de sus dibujos van repoblados los de las unidades M1 a M23, todas.
 
 ## Primera etapa: los prólogos
 
@@ -75,8 +75,8 @@ Criterios declarados de esta etapa, además de los del procedimiento: los infini
 | 26 | BD0907–BD0938 | 652 | Hecho: «Un pato muerto en las fauces», publicado el 22 de octubre de 2026. Ganaron la BD0907, la BD0910 y la BD0915, 3 de 32 frases. |
 | 27 | BD0939–BD0976 | 846 | Hecho: «El margen deslizante», publicado el 22 de octubre de 2026. Ganaron la BD0942, la BD0947, la BD0955 y la BD0960, 4 de 38 frases. |
 | 28 | BD0977–BD1009 | 651 | Hecho: «Nunca una sola duda», publicado el 22 de octubre de 2026. Ganaron la BD0984, la BD1001 y la BD1002, 3 de 33 frases. |
-| 29 | BD1010–BD1070 | 982 | Siguiente. |
-| 30 | BD1071–BD1157 | 1.669 | Pendiente. |
+| 29 | BD1010–BD1070 | 982 | Hecho: «Aquí tienes algo», publicado el 22 de octubre de 2026. Ganaron la BD1012, la BD1016, la BD1018, la BD1062, la BD1064, la BD1066 y la BD1069, 7 de 61 frases (empate a 19,18 entre la 1012 y la 1066 en el corte). |
+| 30 | BD1071–BD1157 | 1.669 | Siguiente. |
 | 31 | BD1158–BD1205 | 729 | Pendiente. |
 | 32 | BD1206–BD1271 | 955 | Pendiente. |
 | 33 | BD1272–BD1373 | 1.414 | Pendiente. |
