@@ -58,7 +58,7 @@ Estas son las decisiones de formato de este procedimiento:
 
 8. **Las partes se separan con un filete.** Un filete va solo en su línea (---) antes de cada sección y antes de cada unidad, menos antes de lo que abre la página y antes de la primera unidad de una sección. En la página, el filete sale como una línea fina con espacio encima del título, y con más espacio cuando el título es de sección, para que el corte mayor se note.
 
-9. **Las piezas llevan su clase y la apariencia vive en la hoja de estilos base.** La cita va en un bloque de cita; el puente, la glosa y la traducción llevan su clase: `puente`, `glosa` y `traduccion`. Este cuaderno solo nombra las clases y su función; los colores y las letras se definen en el `base.css` del sitio, nunca en la página ni aquí, y ninguna página lleva estilos propios que lo contradigan.
+9. **Las piezas llevan su clase y la apariencia vive en la hoja de estilos base.** Cada pieza lleva su clase: la cita, `cita`, dentro de su bloque de cita; el puente, `puente`; la glosa, `glosa`; la traducción, `traduccion`. Este cuaderno solo nombra las clases y su función; los colores y las letras se definen en el `base.css` del sitio, nunca en la página ni aquí, y ninguna página lleva estilos propios que lo contradigan.
 
 ## Revisión antes de entregar
 
