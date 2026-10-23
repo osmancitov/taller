@@ -10,13 +10,13 @@ Este cuaderno lleva el registro de una obra larga: destilar entero *On Writing*,
 
 *On Writing* es parte memoria y parte manual: King cuenta su vida de escritor y enseña su oficio. En el molde de la bóveda —la segmentación fiel del libro, con cada frase numerada— el cuerpo son 4.194 frases en siete secciones. Las 59 frases que faltan para las 4.253 del libro están en los preliminares, que además de portada, créditos, dos epígrafes y la firma contienen los tres prólogos (44 frases), la nota del autor (1) y los permisos de derechos (14). Los prólogos van primero, como unidad propia; cada sección se destilará a su turno:
 
-**Publicado: 40 unidades** (los tres prólogos y los 39 tramos del C.V., M1 a M39). **Pendiente: 6 secciones** (What Writing Is, Toolbox, On Writing, On Living, And Furthermore I y II).
+**Publicado: 41 unidades** (los tres prólogos, los 39 tramos del C.V., M1 a M39, y What Writing Is). **Pendiente: 5 secciones** (Toolbox, On Writing, On Living, And Furthermore I y II).
 
 | Sección | Frases | Palabras | Estado |
 |---|---|---|---|
 | Los tres prólogos (BD0023–BD0068) | 44 | 948 | Hecho: «La pregunta de Amy», 22 de octubre de 2026. |
 | C.V. (BD0071–BD1536) | 1.466 | 26.017 | Hecho: 39 de 39 tramos publicados; su registro va abajo. |
-| What Writing Is (BD1538–BD1610) | 73 | 1.370 | Pendiente. |
+| What Writing Is (BD1538–BD1610) | 73 | 1.370 | Hecho: «El conejo del ocho», 23 de octubre de 2026. |
 | Toolbox (BD1613–BD2053) | 441 | 7.711 | Pendiente. |
 | On Writing (BD2055–BD3703) | 1.649 | 34.481 | Pendiente. |
 | On Living: A Postscript (BD3710–BD4016) | 307 | 5.388 | Pendiente. |
@@ -91,5 +91,9 @@ Todos los tramos se ajustaron el 23 de octubre de 2026 al criterio de palabras. 
 - Tramo 14: El puente (16 palabras, 27,6%) supera el techo del 15% (8 palabras) por decisión expresa del usuario el 23 de octubre de 2026: conservar un puente de salida completo.
 - Tramo 33: empate a 47,56 entre la 1366 y la 1371 en el corte, resuelto por orden de aparición.
 - Tramo 34: empate a 26,38 entre la 1393 y la 1408 en el corte, resuelto por orden de aparición.
+
+## Tercera etapa: What Writing Is
+
+Una sola unidad, «El conejo del ocho», publicada el 23 de octubre de 2026: BD1538–BD1610, 73 frases, 1.370 palabras. Ganaron la BD1559, la BD1562, la BD1579, la BD1595, la BD1599 y la BD1608 (6 de 73, 146 palabras, 10,7 %). Criterio añadido: «we» y «us», que aquí son King y el lector juntos, forman un solo nodo. Pesos de los nodos más altos: el lector 13,2, King 9,3, «nosotros» 7,8, el 8 del conejo 3,5. Prosa: puentes 164 palabras (12,0 %), glosa 60 (4,4 %).
 
 © 2026 Osmancito
