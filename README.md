@@ -10,7 +10,6 @@ Aquí se estudia y se prueba. Los cuadernos guardan preguntas, notas, frases y h
 
 - [Alambique - Escritura Cero](md/cgbacc_alambique-escritura-cero.md) · 22 de octubre de 2026.
 - [Destilando On Writing de King](md/cgbacb_destilando-on-writing.md) · 21 de octubre de 2026.
-- [Alambique - Cierre del día](md/cgbacb_cierre-del-dia.md) · 21 de octubre de 2026.
 - [La confianza de la confianza](md/cgbaaf_confianza-confianza.md) · 5 de octubre de 2026.
 - [La chuleta de Debian](md/cgbaab_chuleta-debian.md) · 1 de octubre de 2026.
 - [Aprendiendo Debian](md/cgajcj_aprendiendo-debian.md) · 29 de septiembre de 2026.
