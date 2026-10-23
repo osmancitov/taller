@@ -10,7 +10,7 @@ Este cuaderno lleva el registro de una obra larga: destilar entero *On Writing*,
 
 *On Writing* es parte memoria y parte manual: King cuenta su vida de escritor y enseña su oficio. En el molde de la bóveda —la segmentación fiel del libro, con cada frase numerada— el cuerpo son 4.194 frases en siete secciones. Las 59 frases que faltan para las 4.253 del libro están en los preliminares, que además de portada, créditos, dos epígrafes y la firma contienen los tres prólogos (44 frases), la nota del autor (1) y los permisos de derechos (14). Los prólogos van primero, como unidad propia; cada sección se destilará a su turno:
 
-**Publicado: 46 unidades** (los tres prólogos, los 39 tramos del C.V., M1 a M39, What Writing Is y las cinco unidades de Toolbox, T1 a T5). **Pendiente: 4 secciones** (On Writing, On Living, And Furthermore I y II).
+**Publicado: 63 unidades** (los tres prólogos, los 39 tramos del C.V., M1 a M39, What Writing Is, las cinco unidades de Toolbox, T1 a T5, y las diecisiete de On Writing). **Pendiente: 3 secciones** (On Living, And Furthermore I y II).
 
 | Sección | Frases | Palabras | Estado |
 |---|---|---|---|
@@ -18,7 +18,7 @@ Este cuaderno lleva el registro de una obra larga: destilar entero *On Writing*,
 | C.V. (BD0071–BD1536) | 1.466 | 26.017 | Hecho: 39 de 39 tramos publicados; su registro va abajo. |
 | What Writing Is (BD1538–BD1610) | 73 | 1.370 | Hecho: «El conejo del ocho», 23 de octubre de 2026. |
 | Toolbox (BD1613–BD2053) | 441 | 7.711 | Hecho: 5 de 5 unidades, T1 a T5, 23 de octubre de 2026. |
-| On Writing (BD2055–BD3703) | 1.649 | 34.481 | Pendiente. |
+| On Writing (BD2055–BD3703) | 1.649 | 34.481 | Hecho: 17 de 17 unidades, la introducción y W1 a W16, 23 de octubre de 2026. |
 | On Living: A Postscript (BD3710–BD4016) | 307 | 5.388 | Pendiente. |
 | And Furthermore, Part I: Door Shut, Door Open (BD4018–BD4167) | 149 | 2.021 | Pendiente. |
 | And Furthermore, Part II: A Booklist (BD4169–BD4277) | 109 | 727 | Pendiente. |
@@ -123,5 +123,55 @@ Citas contiguas sin puente añadido: en T1, 1626 y 1627; en T5, 2032 y 2033. Las
 Dibujos y elección: T1, «La caja heredada», literal, David Teniers el Joven por la intimidad del trabajo doméstico y su luz cálida; T2, «Las montañas flotan», encarnada, Henri Rousseau por el juego de acciones sencillas en un paisaje imposible; T3, «La cuerda tendida», literal de la comparación visible del pantano, Francisco de Goya por el peligro y el gesto de rescate; T4, «El pulso interior», encarnada, Edgar Degas por el ritmo, los cambios de postura y la luz artificial; T5, «La casa viva», encarnada, Arnold Böcklin por la frontera entre oficio y animación misteriosa. Los cinco JPG suman 1.289.533 bytes; se conservan sus 992 × 1.586 píxeles nativos. La entrada completa tiene siete imágenes.
 
 Revisión: fuente abierta en el molde, el md y el EPUB; citas copiadas de la fuente y traducciones cotejadas palabra por palabra; rótulos dentro de los bloques y clases iguales en todas las unidades. Se revisan el montaje y la página publicada en escritorio y móvil. Lo siguiente es On Writing; siguen pendientes On Living y And Furthermore I y II.
+
+## Quinta etapa: On Writing
+
+«On Writing» («Mientras escribo») está publicada el 23 de octubre de 2026 en «Mientras Escribo II», después de «Caja de herramientas», en diecisiete unidades: la introducción sin número y los dieciséis bloques numerados del propio libro, W1 a W16. Los títulos vienen de la materia de cada bloque, leída con el Pintor de Imágenes. Cada dibujo va inmediatamente bajo el título, enlazado al JPG completo, comprimido al 75 % y recortado a la proporción 5:8 que fija el encargo del Pintor: 960 × 1.536 píxeles, sin deformar la escena ni cortar el rótulo.
+
+- Introducción · La musa del sótano (BD2055–BD2111): 1242 palabras fuente; citas 149 (12.0 %); puentes 171 (13.8 %); glosa 40 (3.2 %).
+- W1 · Leer mucho, escribir mucho (BD2112–BD2205): 1915 palabras fuente; citas 220 (11.5 %); puentes 283 (14.8 %); glosa 24 (1.3 %).
+- W2 · Dos mil palabras (BD2206–BD2273): 1253 palabras fuente; citas 149 (11.9 %); puentes 184 (14.7 %); glosa 28 (2.2 %).
+- W3 · Una puerta cerrada (BD2274–BD2313): 872 palabras fuente; citas 106 (12.2 %); puentes 123 (14.1 %); glosa 25 (2.9 %).
+- W4 · Escribe lo que sabes (BD2314–BD2390): 1587 palabras fuente; citas 177 (11.2 %); puentes 237 (14.9 %); glosa 20 (1.3 %).
+- W5 · Excavar el fósil (BD2391–BD2584): 3509 palabras fuente; citas 356 (10.1 %); puentes 525 (15.0 %); glosa 20 (0.6 %).
+- W6 · Decir lo que ves (BD2585–BD2692): 2170 palabras fuente; citas 233 (10.7 %); puentes 325 (15.0 %); glosa 24 (1.1 %).
+- W7 · El oído afinado (BD2693–BD2823): 2684 palabras fuente; citas 276 (10.3 %); puentes 401 (14.9 %); glosa 99 (3.7 %).
+- W8 · Nadie es el malo (BD2824–BD2911): 2001 palabras fuente; citas 217 (10.8 %); puentes 294 (14.7 %); glosa 26 (1.3 %).
+- W9 · Todo sobre la mesa (BD2912–BD2992): 1642 palabras fuente; citas 165 (10.0 %); puentes 246 (15.0 %); glosa 39 (2.4 %).
+- W10 · De qué trata (BD2993–BD3098): 2664 palabras fuente; citas 279 (10.5 %); puentes 398 (14.9 %); glosa 57 (2.1 %).
+- W11 · Puerta cerrada, puerta abierta (BD3099–BD3283): 3870 palabras fuente; citas 391 (10.1 %); puentes 552 (14.3 %); glosa 43 (1.1 %).
+- W12 · Menos el diez por ciento (BD3284–BD3390): 2174 palabras fuente; citas 229 (10.5 %); puentes 324 (14.9 %); glosa 29 (1.3 %).
+- W13 · Un toque de verosimilitud (BD3391–BD3435): 1212 palabras fuente; citas 162 (13.4 %); puentes 179 (14.8 %); sin glosa.
+- W14 · Seminarios entre ostras (BD3436–BD3518): 2030 palabras fuente; citas 203 (10.0 %); puentes 301 (14.8 %); glosa 26 (1.3 %).
+- W15 · Las tres caras de Frank (BD3519–BD3678): 3185 palabras fuente; citas 332 (10.4 %); puentes 462 (14.5 %); glosa 24 (0.8 %).
+- W16 · Un camino de vuelta (BD3679–BD3703): 471 palabras fuente; citas 74 (15.7 %); puentes 69 (14.6 %); sin glosa.
+
+Todas las unidades alcanzan el piso del 10 % de palabras en citas, con la última oración entera; los puentes se mantienen en su techo del 15 % y las glosas por debajo. Traducciones fuera de esas cuentas. Palabras contadas como elementos separados por espacios en el texto del molde, igual que en los registros anteriores.
+
+- Introducción: ganadoras BD2092, BD2094, BD2097, BD2099, BD2109. Nodos más altos: lector 5.38, chandler 4.82, king 4.81, criticos 4.79.
+- W1: ganadoras BD2171, BD2174, BD2179, BD2187, BD2192, BD2200, BD2201, BD2204. Nodos más altos: lector 13.49, king 12.00, owen 4.12, escritor 3.03.
+- W2: ganadoras BD2206, BD2208, BD2230, BD2250, BD2267. Nodos más altos: king 14.52, joyce 3.70, escritores 3.30, palabras 2.66.
+- W3: ganadoras BD2278, BD2282, BD2291, BD2313. Nodos más altos: lector 13.71, king 4.08, musa 1.80, puerta 1.61.
+- W4: ganadoras BD2322, BD2327, BD2330, BD2335, BD2355, BD2366, BD2385. Nodos más altos: lector 12.31, king 4.50, grisham 3.98, giro 2.22.
+- W5: ganadoras BD2394, BD2396, BD2399, BD2444, BD2467, BD2470, BD2498, BD2522, BD2523, BD2525, BD2526, BD2576, BD2578, BD2582, BD2583, BD2584. Nodos más altos: king 27.85, lector 14.47, jane 9.21, dick 7.33.
+- W6: ganadoras BD2603, BD2604, BD2609, BD2615, BD2626, BD2628, BD2650, BD2662, BD2680. Nodos más altos: king 12.14, lector 11.62, descripcion 5.70, palm-too 5.54.
+- W7: ganadoras BD2694, BD2695, BD2710, BD2771, BD2785, BD2786, BD2791. Nodos más altos: nino 5.45, king 4.96, lector 4.69, pryce 4.52.
+- W8: ganadoras BD2848, BD2849, BD2882, BD2888, BD2905, BD2906. Nodos más altos: king 13.41, lector 8.53, johnny 7.17, stillson 5.08.
+- W9: ganadoras BD2924, BD2927, BD2949, BD2954, BD2979, BD2988. Nodos más altos: lector 12.91, king 9.78, simbolismo 9.27, experimento 2.67.
+- W10: ganadoras BD3045, BD3075, BD3078, BD3080, BD3086, BD3092. Nodos más altos: king 22.23, lector 5.66, the-stand 3.76, tema 2.92.
+- W11: ganadoras BD3102, BD3108, BD3115, BD3118, BD3134, BD3137, BD3218, BD3237, BD3240, BD3242, BD3251, BD3256. Nodos más altos: lector 30.69, king 22.86, tabitha 6.92, libro 3.58.
+- W12: ganadoras BD3284, BD3287, BD3356, BD3359, BD3367. Nodos más altos: lector 12.37, king 12.11, lector-ideal 3.92, noonan 2.92.
+- W13: ganadoras BD3397, BD3402, BD3412, BD3424, BD3430. Nodos más altos: king 8.56, investigacion 2.21, lector 1.85, historia 1.79.
+- W14: ganadoras BD3436, BD3472, BD3491, BD3505, BD3515, BD3517. Nodos más altos: king 8.57, lector 6.43, criticas 4.00, obra 1.58.
+- W15: ganadoras BD3552, BD3555, BD3556, BD3557, BD3573, BD3619, BD3621, BD3627, BD3629, BD3633, BD3672. Nodos más altos: frank 32.93, lector 11.43, king 5.63, agente 2.93.
+- W16: ganadoras BD3680, BD3687, BD3689. Nodos más altos: king 7.62, lector 1.87, king-lector 1.81, escribir 1.07.
+
+La anotación de puestos y alias, los pesos por nodo, el ranking entero y el corte están en [las cuentas de On Writing](../datos/261023_on-writing-ranking.json). Criterios de esta etapa: sujetos y objetos de todas las cláusulas, también subordinadas y absolutos; los agentes de pasiva cuentan como puestos; los objetos compuestos, por separado; el destinatario de un imperativo es lector; los argumentos verbales cuentan. Fuera: expletivos, referentes vacíos, atributos y complementos de lugar, tiempo, manera, comparación y origen con «from». I/me/my y las facultades de King son king; you/your y los imperativos son lector; we/us de King con el lector son king-lector; el you genérico es uno; the reader como personaje de ficción es lector-ficcion; los personajes de los ejemplos conservan sus nodos; los plurales se unifican con el singular. El punto se reparte entre todos los puestos y el peso final suma los nodos distintos.
+
+Para esta sección se retiró el desempate por orden de aparición usado en el C.V. y en Toolbox: cualquier empate en el corte se consulta antes de publicar. Ninguna de las diecisiete unidades tuvo empate.
+
+Dibujos y elección: introducción, «La musa enjaulada», encarnada, Arnold Böcklin por la atmósfera onírica y el misterio de la musa encerrada; W1, «La caja de herramientas», literal, Hans Holbein el Joven por el detalle minucioso y la luz clara; W2, «La mesa de trabajo», literal, Albert Edelfelt por la luz natural difusa y la intimidad; W3, «La puerta cerrada», literal, Caravaggio por el claroscuro dramático; W4, «La lavandería industrial», literal, George Wesley Bellows por la energía cruda y el realismo americano; W5, «Excavar el fósil», literal, Gustave Doré por la épica del grabado; W6, «El bar de Palm Too», literal, Édouard Manet por los negros profundos y el espejo moderno; W7, «Conversación de bar», literal, Toulouse-Lautrec por la vida nocturna y los ángulos inusuales; W8, «El espejo del villano», encarnada, Edvard Munch por la psicología del reflejo; W9, «La mesa cargada», encarnada, El Bosco por la fantasía densa y el detalle microscópico; W10, «El río de abajo», encarnada, George Inness por la atmósfera brumosa y la quietud; W11, «Las dos puertas», literal, Andrea Mantegna por la perspectiva rigurosa y la luz dura; W12, «La poda necesaria», encarnada, Camille Pissarro por la textura viva y la luz difusa; W13, «La gasolinera del arroyo», literal, Jacob van Ruisdael por el paisaje atmosférico y la melancolía natural; W14, «La perla y la arena», encarnada, Ivan Aivazovsky por el mar dramático y la translucidez; W15, «Tres rostros, un Frank», encarnada, Amedeo Modigliani por los rostros estilizados; W16, «El camino de vuelta», encarnada, Caspar David Friedrich por la figura de espaldas y la luz trascendente. Los diecisiete JPG suman 3.960.126 bytes, todos a 960 × 1.536 píxeles. La entrada completa tiene veinticuatro imágenes.
+
+Revisión: fuente abierta en el molde, el md y el EPUB; citas copiadas de la fuente y traducciones cotejadas palabra por palabra; rótulos dentro de los bloques y clases iguales en todas las unidades. Se revisan el montaje y la página publicada en escritorio y móvil. Lo siguiente es On Living; siguen pendientes And Furthermore I y II.
 
 © 2026 Osmancito
