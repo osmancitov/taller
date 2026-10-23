@@ -69,8 +69,8 @@ Criterios declarados de esta etapa, además de los del procedimiento: los infini
 | 20 | BD0614–BD0680 | 1.384 | Hecho: «The Village Vomit», publicado el 22 de octubre de 2026. Ganaron la BD0657, la BD0658, la BD0665, la BD0670, la BD0672, la BD0673 y la BD0675, 7 de 67 frases. |
 | 21 | BD0681–BD0736 | 822 | Hecho: «Con la puerta cerrada», publicado el 22 de octubre de 2026. Ganaron la BD0700, la BD0705, la BD0709, la BD0723, la BD0732 y la BD0736, 6 de 56 frases. |
 | 22 | BD0737–BD0772 | 750 | Hecho: «Ratas grandes como perros», publicado el 22 de octubre de 2026. Ganaron la BD0738, la BD0739, la BD0744 y la BD0767, 4 de 36 frases. |
-| 23 | BD0773–BD0793 | 350 | Siguiente. |
-| 24 | BD0794–BD0884 | 1.338 | Pendiente. |
+| 23 | BD0773–BD0793 | 350 | Hecho: «La risa sin miedo», publicado el 22 de octubre de 2026. Ganaron la BD0787 y la BD0792, 2 de 21 frases. |
+| 24 | BD0794–BD0884 | 1.338 | Siguiente. |
 | 25 | BD0885–BD0906 | 308 | Pendiente. |
 | 26 | BD0907–BD0938 | 652 | Pendiente. |
 | 27 | BD0939–BD0976 | 846 | Pendiente. |
