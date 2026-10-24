@@ -2,9 +2,9 @@
 
 # Destilando On Writing de King
 
-[![Óleo de un taller de alquimista a la luz de las velas: un alambique de cobre destila un libro abierto y las gotas de luz caen sobre una larga fila de vasos y cuadernos abiertos, mientras un escriba lleva la cuenta en un libro mayor, al estilo de David Teniers el Joven](../img/cgbacb_destilando-on-writing.jpg)](../img/cgbacb_destilando-on-writing.jpg)
+[![Óleo de un taller de alquimista a la luz de las velas: un alambique de cobre destila un libro abierto y las gotas de luz caen sobre una larga fila de vasos y cuadernos abiertos, mientras un escriba lleva la cuenta en un libro mayor, al estilo de David Teniers el Joven](../img/261021_destilando-on-writing.jpg)](../img/261021_destilando-on-writing.jpg)
 
-Este cuaderno lleva el registro de una obra larga: destilar entero *On Writing*, de Stephen King (en castellano, *Mientras Escribo*), sección por sección. El destilado se publica por unidades en [«Mientras Escribo I»](https://osmancitov.github.io/destileria/html/cgbabh_mientras-escribo.html) y [«Mientras Escribo II»](https://osmancitov.github.io/destileria/html/cgbacd_mientras-escribo-ii.html), en la Destilería, y este cuaderno anota qué va hecho y qué sigue, hasta que el libro entero esté destilado.
+Este cuaderno lleva el registro de una obra larga: destilar entero *On Writing*, de Stephen King (en castellano, *Mientras Escribo*), sección por sección. El destilado se publica por unidades en [«Mientras Escribo I»](https://osmancitov.github.io/destileria/html/261017_mientras-escribo.html) y [«Mientras Escribo II»](https://osmancitov.github.io/destileria/html/261023_mientras-escribo-ii.html), en la Destilería, y este cuaderno anota qué va hecho y qué sigue, hasta que el libro entero esté destilado.
 
 ## El libro
 

@@ -2,7 +2,7 @@
 
 # Alambique - Escritura Cero
 
-[![Una mesa de escritor de madera con una fila ordenada de fichas, cada una con una palabra y su definición debajo, y una mano con pluma que toma una ficha ya definida para escribir en un pliego, al estilo de Georges Seurat](../img/cgbacc_alambique-escritura-cero.jpg)](../img/cgbacc_alambique-escritura-cero.jpg)
+[![Una mesa de escritor de madera con una fila ordenada de fichas, cada una con una palabra y su definición debajo, y una mano con pluma que toma una ficha ya definida para escribir en un pliego, al estilo de Georges Seurat](../img/261022_alambique-escritura-cero.jpg)](../img/261022_alambique-escritura-cero.jpg)
 
 Escritura Cero es la manera de escribir un texto de modo que una persona o una máquina lo entienda sin haber leído nada más.
 

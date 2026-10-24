@@ -2,7 +2,7 @@
 
 # La confianza de la confianza
 
-[![Una figura examina un plano mientras una gran máquina de engranajes copia el mismo plano, con una sombra entre los engranajes.](../img/cgbaaf_confianza-confianza.jpg)](../img/cgbaaf_confianza-confianza.jpg)
+[![Una figura examina un plano mientras una gran máquina de engranajes copia el mismo plano, con una sombra entre los engranajes.](../img/261005_confianza-confianza.jpg)](../img/261005_confianza-confianza.jpg)
 
 *Una lectura de lo que Ken Thompson planteó en 1984 sobre la confianza: revisar el código fuente no basta si no se confía en la herramienta que lo convierte en máquina.*
 
@@ -64,6 +64,6 @@ Traducción de una frase del cierre del original. La confianza tiene aquí dos c
 
 - [Reflections on Trusting Trust, ensayo original en inglés](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf). Ken Thompson, *Communications of the ACM*, 27(8), agosto de 1984, pp. 761-763.
 - [Ficha de la publicación en ACM](https://dl.acm.org/doi/10.1145/358198.358210).
-- [Aprendiendo Debian](cgajcj_aprendiendo-debian.md): el cuaderno de estudio al que esta lectura acompaña.
+- [Aprendiendo Debian](260929_aprendiendo-debian.md): el cuaderno de estudio al que esta lectura acompaña.
 
 Las notas al margen y las traducciones breves de este cuaderno son comentarios de lectura; no forman parte de la destilación anterior ni sustituyen el ensayo completo.

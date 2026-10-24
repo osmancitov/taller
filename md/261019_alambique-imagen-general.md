@@ -2,7 +2,7 @@
 
 # Alambique - Imagen General
 
-[![Óleo: un alambique de cobre en un taller a la luz de una vela; de su serpentín caen dos gotas de luz sobre dos pequeños lienzos, un paisaje y una forma abstracta de color](../img/cgbabj_alambique-imagen-general.jpg)](../img/cgbabj_alambique-imagen-general.jpg)
+[![Óleo: un alambique de cobre en un taller a la luz de una vela; de su serpentín caen dos gotas de luz sobre dos pequeños lienzos, un paisaje y una forma abstracta de color](../img/261019_alambique-imagen-general.jpg)](../img/261019_alambique-imagen-general.jpg)
 
 Recibes un fragmento de texto. Lo lees con atención total: su carga, su tensión, lo que exige ver. Produces dos prompts para generar dos imágenes que ese fragmento reclama — una que lo ilustra literalmente, y otra que lo encarna.
 

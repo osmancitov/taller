@@ -2,7 +2,7 @@
 
 # El aprendizaje de Debian
 
-[![Un lector joven con un libro grueso abierto y un cuaderno, junto a una ventana, en estilo flamenco.](../img/cgajcj_aprendiendo-debian.jpg)](../img/cgajcj_aprendiendo-debian.jpg)
+[![Un lector joven con un libro grueso abierto y un cuaderno, junto a una ventana, en estilo flamenco.](../img/260929_aprendiendo-debian.jpg)](../img/260929_aprendiendo-debian.jpg)
 
 Cuaderno de estudio de la [Debian Reference (version 2.100)](https://packages.debian.org/bookworm/debian-reference)
 Manual de usuario de [Debian 12 (Bookworm)](https://packages.debian.org/bookworm/) 
@@ -76,10 +76,10 @@ Convención de los ejemplos: `#` delante del comando significa que se ejecuta en
 
 La **refcard** es la tarjeta de referencia del Debian Documentation Project (DDP): una hoja con seis columnas, tres por cara, hecha para imprimir y plegar. La tarjeta deja a mano los comandos para consultar ayuda, configurar el sistema y manejar paquetes.
 
-[![Diagrama de plegado de la tarjeta de referencia de Debian](../img/cgajcj_refcard.png)](../img/cgajcj_refcard.png)
+[![Diagrama de plegado de la tarjeta de referencia de Debian](../img/260929_refcard.png)](../img/260929_refcard.png)
 
 Se puede ver la versión de Osmancito de la Refcard aquí:
-[Osmancito Refcard v.12](https://github.com/osmancitov/taller/blob/main/md/cgbaab_chuleta-debian.md)
+[Osmancito Refcard v.12](https://github.com/osmancitov/taller/blob/main/md/261001_chuleta-debian.md)
 
 ---
 
