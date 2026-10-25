@@ -9,8 +9,6 @@ Aquí se estudia y se prueba. Los cuadernos guardan preguntas, notas, frases y h
 ## Cuadernos
 
 - [Elementos de Estilo](md/261025_elementos-de-estilo.md) · 25 de octubre de 2026.
-- [Alambique - Escritura Cero](md/261022_alambique-escritura-cero.md) · 22 de octubre de 2026.
-- [Destilando On Writing de King](md/261021_destilando-on-writing.md) · 21 de octubre de 2026.
 - [La confianza de la confianza](md/261005_confianza-confianza.md) · 5 de octubre de 2026.
 - [La chuleta de Debian](md/261001_chuleta-debian.md) · 1 de octubre de 2026.
 - [Aprendiendo Debian](md/260929_aprendiendo-debian.md) · 29 de septiembre de 2026.
