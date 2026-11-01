@@ -1,6 +1,6 @@
 25 de octubre de 2026
 
-# Elementos de Estilo
+# Elementos de estilo
 
 [![Una mano con navaja de podar corta las hojas sobrantes de una rama sobre un banco de escritor, al estilo de Alberto Durero](../img/261025_elementos-de-estilo.jpg)](../img/261025_elementos-de-estilo.jpg)
 
